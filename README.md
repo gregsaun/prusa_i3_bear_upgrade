@@ -14,7 +14,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
   * Open source
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
-  * Support on hardware parts
+  * Powerfull community
   * Easily customizable
 * Limited number of measurements needed during the build phase (and no need for a caliper bigger than 150mm)
 * Fully open source by providing STL files, STEP files and Autodesk Fusion 360 project file
