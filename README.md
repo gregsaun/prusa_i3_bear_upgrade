@@ -35,9 +35,14 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 I am at the begining of this project, version 0.1 is out with a printer that should be functional but I couldn't mount it.
 
-Some parts still need to be designed:
-* spool holder
+Some parts still need to be designed or improved :
 * LCD screen brackets
+* spool holder
+* rework PSU upper mount
+* cable clips
+* feets
+* vslot end cap
+
 
 ## Sources
 
