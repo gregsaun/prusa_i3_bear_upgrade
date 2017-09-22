@@ -1,13 +1,13 @@
-# prusa_bear_edition
+# Prusa i3 Bear Edition
 
 Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK2s is capable of very impressive print quality for a very low price. A huge thanks to him and its team!
 
-However, I don't find the frame very good, it is very difficult to square, it is not rigid enough on the Z axis and finaly the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. But I am convinced that we can go further!
+However, I don't find the frame strong enough, it is very difficult to square, it is not rigid enough on the Z axis and finaly the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. But I am convinced that we can go further (number of parts to update, more aluminum and less printed parts...)!
 
 ## So what makes this project better ?
-* use open source high quality Openbuilds hardware (extrusion, plates, brackets, low profile screws...)
-* use only aluminum parts to build the frame (3D printed parts can crack if tighten to strongly, they are less reliable and less precise)
 * reuse most of the Prusa i3 MK2s parts (you don't need to print a new RAMBo cover nor change any cable or rods from the original Prusa i3 MK2s)
+* use open source high quality Openbuilds hardware (extrusion, plates, brackets, low profile screws...)
+* use only aluminum parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable and less precise)
 * fully open source (stl files, step files and Autodesk Fusion 360 project are available)
 * easy to customize thanks to Openbuilds hardware
 * widely available hardware
