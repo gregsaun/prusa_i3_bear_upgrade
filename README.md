@@ -35,11 +35,11 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 I put this project on hold for now as Prusa has just annonced the MK3 and solved the problem of the frame (plus some new incredible features).
 
-## Next steps
-* spool holder
-* rework PSU upper mount
-* cable clips
-* feets
+## ~~Next steps~~ (project on hold due to Prusa MK3)
+* ~~spool holder~~
+* ~~rework PSU upper mount~~
+* ~~cable clips~~
+* ~~feets~~
 
 ## Sources
 
