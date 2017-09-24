@@ -33,7 +33,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Current status
 
-I pu this project on hold for now as Prusa has just annonced the MK3 and solved the problem of the frame (plus some new incredible features).
+I put this project on hold for now as Prusa has just annonced the MK3 and solved the problem of the frame (plus some new incredible features).
 
 ## Next steps
 * spool holder
