@@ -21,28 +21,25 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Images
 
-![Prusa Bear Edition Home](/img/home.png)
+![Prusa Bear Edition Home](/img/0.2/home.png)
 
-![Prusa Bear Edition Home](/img/back.png)
+![Prusa Bear Edition Home](/img/0.2/back.png)
 
-![Prusa Bear Edition Home](/img/top.png)
+![Prusa Bear Edition Home](/img/0.2/top.png)
 
-![Prusa Bear Edition Home](/img/front.png)
+![Prusa Bear Edition Home](/img/0.2/front.png)
 
-![Prusa Bear Edition Home](/img/bottom.png)
+![Prusa Bear Edition Home](/img/0.2/bottom.png)
 
 ## Current status
 
-I am at the begining of this project, version 0.1 is out with a printer that should be functional but I couldn't mount it.
+I pu this project on hold for now as Prusa has just annonced the MK3 and solved the problem of the frame (plus some new incredible features).
 
-Some parts still need to be designed or improved :
-* LCD screen brackets
+## Next steps
 * spool holder
 * rework PSU upper mount
 * cable clips
 * feets
-* vslot end cap
-
 
 ## Sources
 
