@@ -39,10 +39,10 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 I will start the first build :)
 
-## ~~Next steps~~
-* ~~doc (print configs, build)~~
-* ~~cable clips~~
-* ~~feets~~
+## Next steps
+* doc (print configs, build)
+* cable clips
+* feets
 
 ## Sources
 
