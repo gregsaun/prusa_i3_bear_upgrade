@@ -21,11 +21,11 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Images
 
-![Prusa Bear Edition Home](/img/0.3/home.png)
+![Prusa Bear Edition Home](/img/0.3/home_left.png)
 
-![Prusa Bear Edition Home](/img/0.3/back.png)
+![Prusa Bear Edition Home](/img/0.3/home_right.png)
 
-![Prusa Bear Edition Home](/img/0.3/top.png)
+![Prusa Bear Edition Home](/img/0.3/right.png)
 
 ![Prusa Bear Edition Home](/img/0.3/front.png)
 
