@@ -45,7 +45,7 @@ I will start the first build :)
 * cable clips
 * feets
 
-##Links
+## Links
 * All project data and sources are available on my github : [github.com/gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
 * [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
 * [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
