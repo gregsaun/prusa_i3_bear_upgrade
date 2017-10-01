@@ -40,9 +40,16 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 I will start the first build :)
 
 ## Next steps
+* build
 * doc (print configs, build)
 * cable clips
 * feets
+
+##Links
+* All project data and sources are available on my github : [github.com/gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
+* [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
+* [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
+* [Thingiverse page](https://www.thingiverse.com/thing:2562174)
 
 ## Sources
 
