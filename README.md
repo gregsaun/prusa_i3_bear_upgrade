@@ -1,13 +1,13 @@
 # Prusa i3 Bear Edition
 
-This is an aluminum frame conversion for the Prusa i3 MK2s.
+This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
 
-Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK2s is capable of very impressive print quality for a very low price. A huge thanks to him and its team!
+Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK2/MK2s/MK2.5 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
 
 Unfortunately, the frame is the weakest point of the machine. It is very difficult to square, it is not rigid enough on the Z axis and finaly the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. 
 
 ## So why another conversion build?
-* To reduce the number of parts to update from Prusa i3 MK2s kit (no need to print a new RAMBo cover nor change any cable, rods or firmware from the original Prusa i3 MK2s)
+* To reduce the number of parts to update from Prusa i3 MK2/MK2s/MK2.5 kit (no need to print a new RAMBo cover nor change any cable, rods or firmware from the original Prusa i3 MK2/MK2s/MK2.5)
 * Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more)
 * Use Openbuilds hardware:
   * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
@@ -21,23 +21,26 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Images
 
-![Prusa Bear Edition Home](/img/0.2/home.png)
+![Prusa Bear Edition Home](/img/0.3/home.png)
 
-![Prusa Bear Edition Home](/img/0.2/back.png)
+![Prusa Bear Edition Home](/img/0.3/back.png)
 
-![Prusa Bear Edition Home](/img/0.2/top.png)
+![Prusa Bear Edition Home](/img/0.3/top.png)
 
-![Prusa Bear Edition Home](/img/0.2/front.png)
+![Prusa Bear Edition Home](/img/0.3/front.png)
 
-![Prusa Bear Edition Home](/img/0.2/bottom.png)
+![Prusa Bear Edition Home](/img/0.3/bottom.png)
+
+![Prusa Bear Edition Home](/doc/doc_files/vslots_length.png)
+
+![Prusa Bear Edition Home](/doc/doc_files/frame_drilling_dimensions.png)
 
 ## Current status
 
-I put this project on hold for now as Prusa has just annonced the MK3 and solved the problem of the frame (plus some new incredible features).
+I will start the first build :)
 
-## ~~Next steps~~ (project on hold due to Prusa MK3)
-* ~~spool holder~~
-* ~~rework PSU upper mount~~
+## ~~Next steps~~
+* ~~doc (print configs, build)~~
 * ~~cable clips~~
 * ~~feets~~
 
