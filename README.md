@@ -37,7 +37,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Build of material
 
-I am currently working on but basically all printed parts are in orange, all others are coming from openbuilds.org.
+Here is the list of all needed files : ![bom](/doc/bom.md)
 
 ## Current status
 
