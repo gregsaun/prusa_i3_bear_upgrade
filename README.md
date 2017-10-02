@@ -35,11 +35,16 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ![Prusa Bear Edition Home](/doc/doc_files/frame_drilling_dimensions.png)
 
+## Build of material
+
+I am currently working on but basically all printed parts are in orange, all others are coming from openbuilds.org.
+
 ## Current status
 
-I will start the first build :)
+BOM creation and I will start the first build :)
 
 ## Next steps
+* BOM
 * build
 * doc (print configs, build)
 * cable clips
