@@ -1,4 +1,4 @@
-# Prusa i3 Bear Edition
+# Prusa i3 Bear Upgrade
 
 This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
 
@@ -37,7 +37,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Bill of materials
 
-Here is the list of all needed files : ![bom](/doc/bom.md)
+Here is the list of all needed files : [bom](/doc/bom.md)
 
 ## Current status
 
