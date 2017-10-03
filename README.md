@@ -44,7 +44,6 @@ Here is the list of all needed files : ![bom](/doc/bom.md)
 BOM creation and I will start the first build :)
 
 ## Next steps
-* BOM
 * build
 * doc (print configs, build)
 * cable clips
