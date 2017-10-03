@@ -35,7 +35,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ![Prusa Bear Edition Home](/doc/doc_files/frame_drilling_dimensions.png)
 
-## Build of material
+## Bill of materials
 
 Here is the list of all needed files : ![bom](/doc/bom.md)
 
