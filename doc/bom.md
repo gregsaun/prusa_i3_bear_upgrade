@@ -1,3 +1,5 @@
+# Bill of Materials
+
 | Part     | Number | Detail | Link |
 |----------|:------:|--------|------|
 | Original Prusa i3 MK2 or MK2s or MK2.5 | 1 | | www.prusa3d.com |
@@ -13,3 +15,4 @@
 | Low profile M5 screw 30mm (25pce pack) | 1 | 8x to assemble the frame | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Set screw 4mm | 8 | for end_caps | http://openbuildspartstore.com/set-screw/ |
 | M5 drill tap | 1 | to tap the V-Slots | http://openbuildspartstore.com/m5-drill-tap/ |
+| 5.3mm drill bit | 1 | to drill the frame | |
