@@ -15,4 +15,6 @@
 | Low profile M5 screw 30mm (25pce pack) | 1 | 8x to assemble the frame | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Set screw 4mm | 8 | for end_caps | http://openbuildspartstore.com/set-screw/ |
 | M5 drill tap | 1 | to tap the V-Slots | http://openbuildspartstore.com/m5-drill-tap/ |
+| M4x12mm socket head screw (hex) | 4 | 2x for psu_upper_mount,<br> 2x for psu_lower_mount | |
+| M4 hex nut | 4 | 2x for psu_upper_mount,<br> 2x for psu_lower_mount  | |
 | 5.3mm drill bit | 1 | to drill the frame | |
