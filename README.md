@@ -41,7 +41,7 @@ Here is the list of all needed files : [bom](/doc/bom.md)
 
 ## Current status
 
-BOM creation and I will start the first build :)
+Testing all printed parts
 
 ## Next steps
 * build
