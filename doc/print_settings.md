@@ -18,3 +18,5 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | y_motor_mount | 0.20mm | 30% | 3 | 4 | 4-5 |
 | lcd_support_a | 0.20mm | 20-30% | 3 | 4 | 4-5 |
 | lcd_support_b | 0.20mm | 20-30% | 3 | 4 | 4-5 |
+| end_cap | 0.20mm | 20-30% | 3 | 4 | 4-5 |
+| drilling_helper | 0.20mm | 30% | 2 | 3 | 3 |
