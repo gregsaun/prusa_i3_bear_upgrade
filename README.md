@@ -31,9 +31,9 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ![Prusa Bear Edition Home](/img/bottom.png)
 
-![Prusa Bear Edition Home](/doc/doc_files/vslots_length.png)
+![Prusa Bear Edition Home](/doc/vslots_length.png)
 
-![Prusa Bear Edition Home](/doc/doc_files/frame_drilling_dimensions.png)
+![Prusa Bear Edition Home](/doc/frame_drilling_dimensions.png)
 
 ## Bill of materials
 
