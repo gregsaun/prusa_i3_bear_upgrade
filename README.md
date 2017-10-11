@@ -39,6 +39,16 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 Here is the list of all needed files : [bom](/doc/bom.md)
 
+## Drilling the original frame
+
+With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
+
+There is a 3D print part to help you place the holes accurately : [drilling_helper.stl](/printed_parts/stl/drilling_helper.stl) . You can double check the positions with this PDF : [frame_drilling_dimensions.pdf](/doc/frame_drilling_dimensions.pdf)
+
+As you will see in the bill of material, the recommended drill bit is a 5.3mm.
+
+If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the chinese market as well.
+
 ## Current status
 
 Testing all printed parts
