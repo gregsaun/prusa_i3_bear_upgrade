@@ -51,11 +51,11 @@ If you break the frame, you can send an email to Prusa support to get a new one.
 
 ## Current status
 
-Testing all printed parts
+Design a vslot hand cutting tool
 
 ## Next steps
 * build
-* doc (print configs, build)
+* build doc
 * cable clips
 * feets
 
