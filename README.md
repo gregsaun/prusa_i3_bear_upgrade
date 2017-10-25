@@ -6,7 +6,9 @@ Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK
 
 Unfortunately, the frame is the weakest point of the machine. It is very difficult to square, it is not rigid enough on the Z axis and finaly the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. 
 
+
 ## So why another conversion build?
+
 * To reduce the number of parts to update from Prusa i3 MK2/MK2s/MK2.5 kit (no need to print a new RAMBo cover nor change any cable, rods or firmware from the original Prusa i3 MK2/MK2s/MK2.5)
 * Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more)
 * Use Openbuilds hardware:
@@ -18,6 +20,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
   * Easily customizable
 * Limited number of measurements needed during the build phase (and no need for a caliper bigger than 150mm)
 * Fully open source by providing STL files, STEP files and Autodesk Fusion 360 project file
+
 
 ## Images
 
@@ -33,11 +36,15 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ![Prusa Bear Edition Home](/doc/vslots_length.png)
 
+![Prusa Bear Edition Home](/doc/printed_parts_positions.png)
+
 ![Prusa Bear Edition Home](/doc/frame_drilling_dimensions.png)
+
 
 ## Bill of materials
 
 Here is the list of all needed files : [bom](/doc/bom.md)
+
 
 ## Drilling the original frame
 
@@ -49,9 +56,24 @@ As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
 If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the chinese market as well.
 
+
+## Cutting Openbuilds V-Slots
+
+### Machine cut
+
+The best way to cut V-Slots is to use a miter saw with special aluminum blade and lubricant.
+
+Another way is to use a circular saw but you will need a crosscut sled. As well as for miter saw, a special aluminum blade and lubricant are necessary.
+
+### Hand cut
+
+You can hand cut them accuratly using a jig (it just takes more time and effort). I have build you can 3D print : https://www.thingiverse.com/thing:2596242
+
+
 ## Current status
 
-Design a vslot hand cutting tool
+Build
+
 
 ## Next steps
 * build
@@ -59,11 +81,13 @@ Design a vslot hand cutting tool
 * cable clips
 * feets
 
+
 ## Links
 * All project data and sources are available on my github : [github.com/gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
 * [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
 * [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
 * [Thingiverse page](https://www.thingiverse.com/thing:2562174)
+
 
 ## Sources
 
