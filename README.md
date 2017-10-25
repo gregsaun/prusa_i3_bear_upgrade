@@ -67,7 +67,7 @@ Another way is to use a circular saw but you will need a crosscut sled. As well 
 
 ### Hand cut
 
-You can hand cut them accuratly using a jig (it just takes more time and effort). I have build you can 3D print : https://www.thingiverse.com/thing:2596242
+You can hand cut them accuratly using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
 
 
 ## Current status
