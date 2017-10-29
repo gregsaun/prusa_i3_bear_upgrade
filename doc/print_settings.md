@@ -10,7 +10,7 @@ Those values are tested with the following material :
 To ensure your prints are good, be sure to have a very well calibrated machine and extruder.
 
 | Part | Layer Height | Infill | Perimeters | Top/Bottom Layers |
-|:----:|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|
 | psu_lower_mount | 0.20mm | 30% | 3 | 5 |
 | psu_upper_mount | 0.20mm | 20-30% | 3 | 5 |
 | rod_holder | 0.20mm | 30% | 3 | 5 |
