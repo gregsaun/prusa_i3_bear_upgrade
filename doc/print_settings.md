@@ -9,14 +9,14 @@ Those values are tested with the following material :
 
 To ensure your prints are good, be sure to have a very well calibrated machine and extruder.
 
-| Part | Layer Height | Infill | Perimeters | Top Layer | Bottom Layer |
+| Part | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-| psu_lower_mount | 0.20mm | 30% | 3 | 4 | 4-5 |
-| psu_upper_mount | 0.20mm | 20-30% | 3 | 4 | 4-5 |
-| rod_holder | 0.20mm | 20-30% | 3 | 4 | 4-5 |
-| y_idler | 0.20mm | 30% | 3 | 4 | 4-5 |
-| y_motor_mount | 0.20mm | 30% | 3 | 4 | 4-5 |
-| lcd_support_a | 0.20mm | 20-30% | 3 | 4 | 4-5 |
-| lcd_support_b | 0.20mm | 20-30% | 3 | 4 | 4-5 |
-| end_cap | 0.20mm | 20-30% | 3 | 4 | 4-5 |
-| drilling_helper | 0.20mm | 30% | 2 | 3 | 3 |
+| psu_lower_mount | 0.20mm | 30% | 3 | 5 |
+| psu_upper_mount | 0.20mm | 20-30% | 3 | 5 |
+| rod_holder | 0.20mm | 30% | 3 | 5 |
+| y_idler | 0.20mm | 30% | 3 | 5 |
+| y_motor_mount | 0.20mm | 30% | 3 | 5 |
+| lcd_support_a | 0.20mm | 20-30% | 3 | 5 |
+| lcd_support_b | 0.20mm | 20-30% | 3 | 5 |
+| end_cap | 0.20mm | 20-30% | 3 | 5 |
+| drilling_helper | 0.20mm | 30% | 2 | 3 |
