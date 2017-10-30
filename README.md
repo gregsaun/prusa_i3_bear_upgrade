@@ -58,6 +58,7 @@ As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
 If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the chinese market as well.
 
+If you have access to a CNC machine, you can get the DXF here : [optional_parts/alu_frame/alu_frame.dxf](optional_parts/alu_frame/alu_frame.dxf)
 
 ## Cutting Openbuilds V-Slots
 
@@ -70,6 +71,11 @@ Another way is to use a circular saw but you will need a crosscut sled. As well 
 ### Hand cut
 
 You can hand cut them accuratly using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
+
+
+## Known issue
+
+There is an issue with the psu_lower_mount. The fix depends on the length of PSU cables, it will then be fixed after the first build.
 
 
 ## Current status
