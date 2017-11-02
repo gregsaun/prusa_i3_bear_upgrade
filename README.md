@@ -1,3 +1,7 @@
+# /!\ Warning /!\
+This project has neither been build nor tested yet, use it as your own risks
+If you need STEP or Autodesk Fusion 360 files, check [src folder](src) and [printed parts/STEP](printed_parts/step/)
+
 # Prusa i3 Bear Upgrade
 
 This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
