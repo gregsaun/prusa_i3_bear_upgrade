@@ -91,7 +91,6 @@ Build
 * build
 * build doc
 * cable clips
-* feets
 
 
 ## Links
