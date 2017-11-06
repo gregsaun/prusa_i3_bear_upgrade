@@ -68,9 +68,13 @@ If you have access to a CNC machine, you can get the DXF here : [optional_parts/
 
 ## Getting Openbuilds V-Slots
 
+### Online shops
+
+Check the list here : https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_shop_list.md 
+
 ### Pre-cut
 
-There are some online shop that are selling pre-cut V-Slots. The best I know is in Europe : http://ooznest.co.uk/ , and [here is a worldwide map of openbuilds distributors](https://www.google.com/maps/d/u/0/viewer?mid=1pluH7gcGIW6e3wA9oDI7jkD65Ds&hl=en_US&ll=42.83187019940536%2C-15.35732429999996&z=3). Otherwise, check the list here : [sources for extrusion](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4) and please contribute if you know another one.
+In the list above you will find indication about pre-cut V-Slots for each shops. If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 
 ### Machine cut
 
