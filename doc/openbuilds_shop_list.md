@@ -1,6 +1,6 @@
 # Openbuilds V-Slots Online Shops
 
-Here is a [wolrdwide map of Openbuilds distributors](https://www.google.com/maps/d/u/0/viewer?mid=1pluH7gcGIW6e3wA9oDI7jkD65Ds&hl=en_US&ll=42.83187019940536%2C-15.35732429999996&z=3)
+Here is a [worldwide map of Openbuilds distributors](https://www.google.com/maps/d/u/0/viewer?mid=1pluH7gcGIW6e3wA9oDI7jkD65Ds&hl=en_US&ll=42.83187019940536%2C-15.35732429999996&z=3)
 
 If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 
