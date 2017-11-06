@@ -17,7 +17,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 * Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more)
 * Use Openbuilds hardware:
   * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
-  * With the V shape it gives more possibilities to orientate the printed part (45° angle is more than manageable, with T-Slots you might need to add support)
+  * V shape gives more possibilities to orientate the printed part (45° angle is more than manageable, with T-Slots you might need to add support)
   * Open source
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
