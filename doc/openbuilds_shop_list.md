@@ -12,11 +12,11 @@ You can participate to complete those tables using [this issue](https://github.c
 | Location | Address | Pre-Cut | Review |
 |:--------:|:-------:|:-------:|:------:|
 | Belgium | https://tronixmaker.com | Y | |
-| France | http://www.vslot-europe.com/ | N | |
-| Germany | http://www.watterott.com/de/Mechanik/V-Slot-Profile |  | |
+| France | http://www.vslot-europe.com | N | |
+| Germany | http://www.watterott.com | N | |
 | Italia | http://www.openbuildsitalia.com | Y | |
 | Netherlands | https://iprototype.nl | N | |
-| Portugal | http://www.ratrig.com/ | Y | |
+| Portugal | http://www.ratrig.com | Y | |
 | Switzerland | https://www.3dware.ch/ | N | Okay, nothing special |
 | UK | http://ooznest.co.uk/ | Y | Very good |
 
@@ -25,10 +25,10 @@ You can participate to complete those tables using [this issue](https://github.c
 
 | Location | Address | Pre-Cut | Review |
 |:--------:|:-------:|:-------:|:------:|
-| Canada | https://snbinc.ca/ | N | |
+| Canada | https://snbinc.ca | N | |
 | Mexico | https://openbuilds.com.mx | N | |
-| Mexico | http://www.spkautomatizacion.com/ | N | |
-| New Jersey | http://openbuildspartstore.com/ | N | Good |
+| Mexico | http://www.spkautomatizacion.com | N | |
+| New Jersey | http://openbuildspartstore.com | N | Good |
 | New York | http://www.opensourceluthiersupply.com | N | |
 | ? | http://makerstore.cc | N | |
 
