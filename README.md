@@ -17,6 +17,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 * Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more)
 * Use Openbuilds hardware:
   * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
+  * With the V shape it gives more possibilities to orientate the printed part (45° angle is more than manageable, with T-Slots you might need to add support)
   * Open source
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
@@ -52,7 +53,7 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 Here is the list of all needed files : [bom](/doc/bom.md)
 
 
-## Drilling the original frame
+## Modify the original aluminum frame
 
 With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
 
@@ -64,7 +65,12 @@ If you break the frame, you can send an email to Prusa support to get a new one.
 
 If you have access to a CNC machine, you can get the DXF here : [optional_parts/alu_frame/alu_frame.dxf](optional_parts/alu_frame/alu_frame.dxf)
 
-## Cutting Openbuilds V-Slots
+
+## Getting Openbuilds V-Slots
+
+### Pre-cut
+
+There are some online shop that are selling pre-cut V-Slots. The best I know is in Europe : http://ooznest.co.uk/ . Otherwise, check the list here : [sources for extrusion](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4) and please contribute if you know another one.
 
 ### Machine cut
 
