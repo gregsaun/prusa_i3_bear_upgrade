@@ -70,11 +70,11 @@ If you have access to a CNC machine, you can get the DXF here : [optional_parts/
 
 ### Online shops
 
-Check the list here : https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_shop_list.md 
+Check here : [Openbuilds Stores List](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md)
 
 ### Pre-cut
 
-In the list above you will find indication about pre-cut V-Slots for each shops. If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
+In the list above you will find indication about pre-cut V-Slots for each shops. If a store in your country does not sell pre-cut V-Slots, try to send an email.
 
 ### Machine cut
 
