@@ -11,7 +11,7 @@
 | Tee-nuts M5 (25pce pack) | 3 | 20x for 90° plates,<br> 24x for angle corner,<br> 15x for printed parts | http://openbuildspartstore.com/tee-nuts-25-pack/ |
 | Low profile M5 screw 8mm (25pce pack) | 1 | 24x for angle corner | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Low profile M5 screw 10mm (25pce pack) | 2 | 20x for 90° plates,<br> 13x for printed parts except y_motor_mount | http://openbuildspartstore.com/low-profile-screws-m5/ |
-| Low profile M5 screw 15mm (25pce pack) | 1 | 2x for y_motor_mount | http://openbuildspartstore.com/low-profile-screws-m5/ |
+| Low profile M5 screw 15mm (25pce pack) | 1 | 2x for y_motor_mount, 4x for feet | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Low profile M5 screw 30mm (25pce pack) | 1 | 8x to assemble the frame | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Set screw 4mm | 8 | for end_caps | http://openbuildspartstore.com/set-screw/ |
 | M5 drill tap | 1 | to tap the V-Slots | http://openbuildspartstore.com/m5-drill-tap/ |
