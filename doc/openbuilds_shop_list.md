@@ -4,7 +4,7 @@ Here is a [wolrdwide map of Openbuilds distributors](https://www.google.com/maps
 
 If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 
-You can participate to complete those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
+You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
 
 
 ## Europe
