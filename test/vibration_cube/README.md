@@ -50,4 +50,4 @@ This test will compare vibration between original Prusa i3 MK2s printer and Prus
 
   1. Print part on Original Prusa i3 MK2s
   1. Print part on Prusa i3 MK2s Bear Upgrade
-  1. Compare part
+  1. Compare all faces of the printed part
