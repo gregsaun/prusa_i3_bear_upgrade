@@ -30,7 +30,7 @@ This test will compare vibration between original Prusa i3 MK2s printer and Prus
   * layer height : 0.20mm
   * infill : 0%
   * num perimeters : 2
-  * num top bottom layer : 5
+  * num top bottom layer : 3
   * speed
     * perimeters : 60mm/s
     * small Perimeters : 60mm/s
@@ -38,12 +38,13 @@ This test will compare vibration between original Prusa i3 MK2s printer and Prus
     * solid infill : 40mm/s
     * top solid infill : 30mm/s
   * acceleration
-    * perimeters : 800mm/s^2
+    * perimeters : 1500mm/s^2
+    * default : 1500 mm/s^2
 * Filament settings
   * extruder temp : 225°C
   * bed temp : 80°C
   * fan speed : 30-50% (disabled for first 3 layers)
-  * slow down if layer print time is below : 2s
+  * slow down if layer print time is below : 0s
 
 
 # Test
