@@ -14,8 +14,8 @@
 | Low profile M5 screw 15mm (25pce pack) | 1 | 2x for y_motor_mount, 4x for feet | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Low profile M5 screw 30mm (25pce pack) | 1 | 8x to assemble the frame | http://openbuildspartstore.com/low-profile-screws-m5/ |
 | Set screw 4mm | 8 | for end_caps | http://openbuildspartstore.com/set-screw/ |
-| M5 drill tap | 1 | to tap the V-Slots | http://openbuildspartstore.com/m5-drill-tap/ |
 | M4x12mm socket head screw (hex) | 2 | 2x for psu_upper_mount <br>(check your Prusa spare parts bag) | |
 | M4 hex nut | 2 | 2x for psu_upper_mount  | |
-| 5.3mm drill bit | 1 | to drill the frame | |
 | M3x10mm socket head screw (hex) | 1 | 1x for Y motor <br>(check your Prusa spare parts bag) | |
+| M5 drill tap | 1 | to tap the V-Slots | http://openbuildspartstore.com/m5-drill-tap/ |
+| 5.3mm drill bit | 1 | to drill the frame | |
