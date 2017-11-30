@@ -2,8 +2,8 @@
 
 ## Table of Content
 
-* Build Of Material
-* Print Settings
-* V-Slots Cutting Instruction
-* Frame Drilling Instruction
-* Assembly Instruction
+* [Build Of Material](bom.md)
+* [Print Settings]()
+* [V-Slots Cutting Instruction]()
+* [Frame Drilling Instruction]()
+* [Assembly Instruction]()
