@@ -8,7 +8,7 @@ This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
 
 Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK2/MK2s/MK2.5 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
 
-Unfortunately, the frame is the weakest point of the machine. It is very difficult to square, it is not rigid enough on the Z axis and finaly the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. 
+Unfortunately, the frame is the weakest point of the machine. It is very difficult to square, it is not rigid enough on the Z axis and finally the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. 
 
 
 ## So why another conversion build?
@@ -21,31 +21,45 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
   * Open source
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
-  * Powerfull community
+  * Powerful community
   * Easily customizable
-* Limited number of measurements needed during the build phase (and no need for a caliper bigger than 150mm)
+* Limited number of measurements needed during the build phase (and no need for a calliper bigger than 150mm)
 * Fully open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 
 
 ## Images
 
-![Prusa Bear Edition Home](/img/3d_rendering/home_left.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0571.jpg)
 
-![Prusa Bear Edition Home](/img/3d_rendering/home_right.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0525.jpg)
 
-![Prusa Bear Edition Home](/img/3d_rendering/right.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0545.jpg)
 
-![Prusa Bear Edition Home](/img/3d_rendering/front.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0531.jpg)
 
-![Prusa Bear Edition Home](/img/3d_rendering/top.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0535.jpg)
 
-![Prusa Bear Edition Home](/img/3d_rendering/bottom.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0579.jpg)
 
-![Prusa Bear Edition Home](/doc/vslots_length.png)
+![Prusa Bear Edition Photo](/img/photos/5D3_0595.jpg)
 
-![Prusa Bear Edition Home](/doc/printed_parts_positions.png)
+![Prusa Bear Edition Left](/img/3d_rendering/home_left.png)
 
-![Prusa Bear Edition Home](/doc/frame_drilling_dimensions.png)
+![Prusa Bear Edition Right](/img/3d_rendering/home_right.png)
+
+![Prusa Bear Edition Right](/img/3d_rendering/right.png)
+
+![Prusa Bear Edition Front](/img/3d_rendering/front.png)
+
+![Prusa Bear Edition Top](/img/3d_rendering/top.png)
+
+![Prusa Bear Edition Bottom](/img/3d_rendering/bottom.png)
+
+![Prusa Bear Edition V-Slots Length](/doc/vslots_length.png)
+
+![Prusa Bear Edition Parts Positions](/doc/printed_parts_positions.png)
+
+![Prusa Bear Edition Drilling Dimensions](/doc/frame_drilling_dimensions.png)
 
 
 ## Bill of materials
@@ -61,7 +75,7 @@ There is a 3D print part to help you place the holes accurately : [drilling_help
 
 As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
-If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the chinese market as well.
+If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the Chinese market as well.
 
 If you have access to a CNC machine, you can get the DXF here : [optional_parts/alu_frame/alu_frame.dxf](optional_parts/alu_frame/alu_frame.dxf)
 
@@ -78,13 +92,13 @@ In the list above you will find indication about pre-cut V-Slots for each shops.
 
 ### Machine cut
 
-The best way to cut V-Slots is to use a miter saw with special aluminum blade and lubricant.
+The best way to cut V-Slots is to use a mitre saw with special aluminum blade and lubricant.
 
-Another way is to use a circular saw but you will need a crosscut sled. As well as for miter saw, a special aluminum blade and lubricant are necessary.
+Another way is to use a circular saw but you will need a cross-cut sled. As well as for mitre saw, a special aluminum blade and lubricant are necessary.
 
 ### Hand cut
 
-You can hand cut them accuratly using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
+You can hand cut them accurately using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
 
 
 ## Known issue
