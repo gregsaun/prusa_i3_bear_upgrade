@@ -1,4 +1,6 @@
-# Bill of Materials
+# Prusa i3 Bear Upgrade Manual
+
+## Bill of Materials
 
 | Part     | Number | Detail | Link |
 |----------|:------:|--------|------|
