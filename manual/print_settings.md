@@ -1,4 +1,6 @@
-# Print Settings
+# Prusa i3 Bear Upgrade Manual
+
+## Print Settings
 
 Those values are tested with the following material : 
 * slic3r Prusa Edition 1.37.2
