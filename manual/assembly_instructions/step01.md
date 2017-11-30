@@ -24,4 +24,4 @@
 ![](img/fig1.2.png)\
 *fig 1.2*
 
-[Next Step](step02.png)
+### [Next Step](step02.md)
