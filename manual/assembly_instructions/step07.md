@@ -9,7 +9,7 @@
 * 8x Tee nuts
 * 8x zip ties
 
-Assembly
+### Assembly
 
 1. Assemble 2 rod holders on the right side of the frame (fig 7.1) with 4 M5x10 and 4 tee nuts
 1. Adjust to the match measurements on fig 7.1
