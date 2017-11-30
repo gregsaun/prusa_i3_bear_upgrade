@@ -2,7 +2,7 @@
 
 ## V-Slots Instruction
 
-This instructions are useful if you did not use pre-cut and pre-tap Openbuilds V-Slots
+This instructions are useful if you did not purchase pre-cut and pre-tap Openbuilds V-Slots
 
 ### Cutting
 

@@ -24,4 +24,4 @@ If you have access to a CNC machine, you can use [this DXF](/optional_parts/alu_
 1. (optional, highly recommended) Pre-dill the frame using the center drill bit
 1. Drill the frame using the 5.3mm drill bit
 1. Clean up holes
-1. Check dimension using this PDF : [frame_drilling_dimentio](/doc/frame_drilling_dimensions.pdf)
+1. Check dimension using this PDF : [frame_drilling_dimensions](/doc/frame_drilling_dimensions.pdf)
