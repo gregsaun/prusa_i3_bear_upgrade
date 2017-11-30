@@ -7,7 +7,7 @@ Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK
 Unfortunately, the frame is the weakest point of the machine. It is very difficult to square, it is not rigid enough on the Z axis and finally the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. 
 
 
-## So why another conversion build?
+## Why another conversion build?
 
 * To reduce the number of parts to update from Prusa i3 MK2/MK2s/MK2.5 kit (no need to print a new RAMBo cover nor change any cable, rods or firmware from the original Prusa i3 MK2/MK2s/MK2.5)
 * Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more)
