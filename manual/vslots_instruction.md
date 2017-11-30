@@ -1,6 +1,6 @@
 # Prusa i3 Bear Upgrade Manual
 
-## V-Slots Instruction
+## V-Slots Instructions
 
 This instructions are useful if you did not purchase pre-cut and pre-tap Openbuilds V-Slots
 

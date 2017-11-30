@@ -1,6 +1,6 @@
 # Prusa i3 Bear Upgrade Manual
 
-## Frame Drilling Instruction
+## Frame Drilling Instructions
 
 With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
 
@@ -11,9 +11,6 @@ As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the Chinese market as well.
 
 If you have access to a CNC machine, you can use [this DXF](/optional_parts/alu_frame/alu_frame.dxf).
-
-
-### Instruction
 
 1. Print the drilling helper : [drilling_helper.stl](/printed_parts/stl/drilling_helper.stl) (print a spare if you do not have another running printer)
 1. Disassemble the printer
