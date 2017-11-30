@@ -21,11 +21,11 @@
 1.  Add 2 black angle corners and screw with M5x8 screws and 1 tee nut on each 110mm v-slot (fig 3.2)
 1.  Repeat step 2 to have a flat assembly (fig 3.3)
 
-![](img/assembly_instructions/fig3.1.png)\
+![](img/fig3.1.png)\
 *fig 3.1*
 
-![](img/assembly_instructions/fig3.2.png)\
+![](img/fig3.2.png)\
 *fig 3.2*
 
-![](img/assembly_instructions/fig3.3.png)\
+![](img/fig3.3.png)\
 *fig 3.3*

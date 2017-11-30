@@ -14,8 +14,8 @@ Assembly
 1.  Assemble everything together with 4 M5x25 screws (fig 5.2)
 1.  Adjust back v-slots (that are tight to the frame) to be at the same level as the front assembly
 
-![](img/assembly_instructions/fig5.1.png)\
+![](img/fig5.1.png)\
 *fig 5.1*
 
-![](img/assembly_instructions/fig5.2.png)\
+![](img/fig5.2.png)\
 *fig 5.2*
