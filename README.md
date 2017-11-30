@@ -60,27 +60,29 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
 
 ## Bill of materials
 
-Here is the list of all needed files : [bom](/doc/bom.md)
+Here is the list of all needed files : [bom](/manual/bom.md)
 
 
 ## Modify the original aluminum frame
 
 With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
 
-There is a 3D print part to help you place the holes accurately : [drilling_helper.stl](/printed_parts/stl/drilling_helper.stl) . You can double check the positions with this PDF : [frame_drilling_dimensions.pdf](/doc/frame_drilling_dimensions.pdf)
+I have made a [3D printed part](/printed_parts/stl/drilling_helper.stl) to help you place the holes accurately. You can double check the positions with [this PDF](/doc/frame_drilling_dimensions.pdf).
 
 As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
 If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the Chinese market as well.
 
-If you have access to a CNC machine, you can get the DXF here : [optional_parts/alu_frame/alu_frame.dxf](optional_parts/alu_frame/alu_frame.dxf)
+If you have access to a CNC machine, you can use [this DXF](optional_parts/alu_frame/alu_frame.dxf).
 
 
 ## Getting Openbuilds V-Slots
 
-### Online shops
+The length of V-Slots are detailed [here](doc/vslots_length.pdf).
 
-Check here : [Openbuilds Stores List](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md)
+### On-line shops
+
+Here is a list of [Openbuilds stores](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md).
 
 ### Pre-cut
 
@@ -95,6 +97,10 @@ Another way is to use a circular saw but you will need a cross-cut sled. As well
 ### Hand cut
 
 You can hand cut them accurately using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
+
+### Tapping
+
+You will need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total)
 
 
 ## Known issue
