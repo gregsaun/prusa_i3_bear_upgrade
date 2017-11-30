@@ -4,9 +4,9 @@
 
 ### Parts
 
-2x feet
-2x M5x15mm screws
-2x Tee nuts
+* 2x feet
+* 2x M5x15mm screws
+* 2x Tee nuts
 
 #### Assembly
 

@@ -4,15 +4,15 @@
 
 ### Parts
 
-2x 110mm V-Slots
-1x 230mm V-Slots
-2x 90° plates
-8x M5x10mm screws
-2x Black angle corner
-4x M5x8mm screws
-2x Feet
-2x M5x15mm screws
-16x Tee nuts
+* 2x 110mm V-Slots
+* 1x 230mm V-Slots
+* 2x 90° plates
+* 8x M5x10mm screws
+* 2x Black angle corner
+* 4x M5x8mm screws
+* 2x Feet
+* 2x M5x15mm screws
+* 16x Tee nuts
 
 #### Assembly
 

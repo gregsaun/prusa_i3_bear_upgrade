@@ -4,9 +4,9 @@
 
 ### Parts
 
-1x Original aluminum frame
-2x Tee nuts
-4x M5x25mm screws
+* 1x Original aluminum frame
+* 2x Tee nuts
+* 4x M5x25mm screws
 
 Assembly
 

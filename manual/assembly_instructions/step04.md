@@ -4,9 +4,9 @@
 
 ### Parts
 
-1x Original aluminum frame (with new holes)
-1x Front assembly
-4x M5x25mm screws
+* 1x Original aluminum frame (with new holes)
+* 1x Front assembly
+* 4x M5x25mm screws
 
 Assembly
 
