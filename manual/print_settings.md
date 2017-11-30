@@ -1,7 +1,7 @@
 # Print Settings
 
 Those values are tested with the following material : 
-* slic3r Prusa Edition 1.37.1
+* slic3r Prusa Edition 1.37.2
 * Prusa MK2s printer
 * Extrudr MF-PETG Neon Orange
 * Heat bed : 80°C
@@ -20,4 +20,7 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | lcd_support_b | 0.20mm | 20-30% | 3 | 5 |
 | end_cap | 0.20mm | 20-30% | 4 | 5 |
 | foot | 0.20mm | 30% | 3 | 5 |
+| cable_clip_lcd | 0.15mm | 30% | 3 | 5 |
+| cable_clip_round | 0.15mm | 30% | 3 | 5 |
+| cable_clip_ziptie | 0.15mm | 30% | 3 | 5 |
 | drilling_helper | 0.20mm | 30% | 2 | 3 |
