@@ -20,7 +20,8 @@
 1.  Add 4 tee nuts on the 270mm v-slot as seen on fig 1.1
 1.  Add 2 black angle corners and screw with M5x8 screws and 1 tee nut on each 195mm v-slot (fig 1.2)
 
-![fig 1.1](img/assembly_instructions/fig1.1.png)\
+![fig 1.1](img/assembly_instructions/fig1.1.png)
+
 fig 1.1
 
 ![fig 1.2](img/assembly_instructions/fig1.2.png)
