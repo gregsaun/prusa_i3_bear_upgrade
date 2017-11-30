@@ -15,3 +15,5 @@ Assembly
 
 ![](img/fig4.1.png)\
 *fig 4.1*
+
+[Previous Step](step03.png)   [Next Step](step05.png)
