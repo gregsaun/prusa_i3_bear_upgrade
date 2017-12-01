@@ -98,14 +98,14 @@ Another way is to use a circular saw but you will need a cross-cut sled. As well
 
 You can hand cut them accurately using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
 
+
 ### Tapping
 
 You will need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total)
 
+## Manual and assembly instructions
 
-## Known issue
-
-There is an issue with the psu_lower_mount. The fix depends on the length of PSU cables, it will then be fixed after the first build.
+Check the manual [here](manual).
 
 
 ## Current status
