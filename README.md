@@ -1,16 +1,17 @@
-# Prusa i3 Bear Upgrade
+# Prusa i3 Bear Upgrade v2.0
 
 This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
 
-Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK2/MK2s/MK2.5 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
+Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
 
-Unfortunately, the frame is the weakest point of the machine. It is very difficult to square, it is not rigid enough on the Z axis and finally the frame might move a bit when you do some maintenance. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. 
+Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is still not enough rigid. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
 
 
 ## Why another conversion build?
 
-* To reduce the number of parts to update from Prusa i3 MK2/MK2s/MK2.5 kit (no need to print a new RAMBo cover nor change any cable, rods or firmware from the original Prusa i3 MK2/MK2s/MK2.5)
-* Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more)
+* To reduce the number of parts to update from your original printer (no need to print a new RAMBo/EINSY cover nor change any cable, rods or firmware update)
+* Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more
+* Compatible with MK2, MK2s MK2.5 and MK3 printers
 * Use Openbuilds hardware:
   * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
   * V shape gives more possibilities to orientate the printed part (45° angle is more than manageable, with T-Slots you might need to add support)
@@ -21,59 +22,22 @@ Unfortunately, the frame is the weakest point of the machine. It is very difficu
   * Easily customizable
 * Limited number of measurements needed during the build phase (and no need for a calliper bigger than 150mm)
 * Fully open source by providing STL files, STEP files and Autodesk Fusion 360 project file
+* Better design of 3D printed parts using selective infill, material saving, clean vertical holes...
+
+
+## Compatibility
+
+This upgrade is compatible with Original Prusa i3 MK2, MK2s MK2.5 and MK3 printers.
 
 
 ## Images
 
-![Prusa Bear Edition Photo](/img/photos/5D3_0571.jpg)
-
-![Prusa Bear Edition Photo](/img/photos/5D3_0525.jpg)
-
-![Prusa Bear Edition Photo](/img/photos/5D3_0545.jpg)
-
-![Prusa Bear Edition Photo](/img/photos/5D3_0531.jpg)
-
-![Prusa Bear Edition Photo](/img/photos/5D3_0535.jpg)
-
-![Prusa Bear Edition Photo](/img/photos/5D3_0579.jpg)
-
-![Prusa Bear Edition Photo](/img/photos/5D3_0595.jpg)
-
-![Prusa Bear Edition Left](/img/3d_rendering/home_left.png)
-
-![Prusa Bear Edition Right](/img/3d_rendering/home_right.png)
-
-![Prusa Bear Edition Right](/img/3d_rendering/right.png)
-
-![Prusa Bear Edition Front](/img/3d_rendering/front.png)
-
-![Prusa Bear Edition Top](/img/3d_rendering/top.png)
-
-![Prusa Bear Edition Bottom](/img/3d_rendering/bottom.png)
-
-![Prusa Bear Edition V-Slots Length](/doc/vslots_length.png)
-
-![Prusa Bear Edition Parts Positions](/doc/printed_parts_positions.png)
-
-![Prusa Bear Edition Drilling Dimensions](/doc/frame_drilling_dimensions.png)
+coming soon...
 
 
 ## Bill of materials
 
-Here is the list of all needed files : [bom](/manual/bom.md)
-
-
-## Modify the original aluminum frame
-
-With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
-
-I have made a [3D printed part](/printed_parts/stl/drilling_helper.stl) to help you place the holes accurately. You can double check the positions with [this PDF](/doc/frame_drilling_dimensions.pdf).
-
-As you will see in the bill of material, the recommended drill bit is a 5.3mm.
-
-If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the Chinese market as well.
-
-If you have access to a CNC machine, you can use [this DXF](optional_parts/alu_frame/alu_frame.dxf).
+coming soon...
 
 
 ## Getting Openbuilds V-Slots
@@ -99,18 +63,9 @@ Another way is to use a circular saw but you will need a cross-cut sled. As well
 You can hand cut them accurately using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
 
 
-### Tapping
-
-You will need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total)
-
-## Manual and assembly instructions
-
-Check the manual [here](manual).
-
-
 ## Current status
 
-Build doc
+Dev
 
 
 ## Links
