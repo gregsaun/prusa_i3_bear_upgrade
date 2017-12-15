@@ -619,7 +619,7 @@ solid rambo_base_upper_mount.stl
     outer loop
     vertex -14.775 -1.75 6.5
     vertex -14.775 -1.75 1.7
-    vertex -14.775 -7.25 2.4
+    vertex -14.775 -7.25 2.5
     endloop
   endfacet
   facet normal -0.707107 -0 -0.707107
@@ -638,7 +638,7 @@ solid rambo_base_upper_mount.stl
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -14.775 -7.25 2.4
+    vertex -14.775 -7.25 2.5
     vertex -14.775 -1.75 1.7
     vertex -14.775 -12.65 1.7
     endloop
@@ -743,7 +743,7 @@ solid rambo_base_upper_mount.stl
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -14.775 -7.25 2.4
+    vertex -14.775 -7.25 2.5
     vertex -14.775 -7.25 8
     vertex -14.775 -1.75 6.5
     endloop
@@ -783,11 +783,11 @@ solid rambo_base_upper_mount.stl
     vertex 11.775 12.65 2.5
     endloop
   endfacet
-  facet normal 0 -0 1
+  facet normal 0 0 1
     outer loop
-    vertex -0.0750005 12.65 2.5
     vertex 6.35946 9.275 2.5
     vertex 11.775 12.65 2.5
+    vertex -0.0750005 12.65 2.5
     endloop
   endfacet
   facet normal 0 0 1
@@ -832,25 +832,18 @@ solid rambo_base_upper_mount.stl
     vertex 11.0708 10.95 0
     endloop
   endfacet
-  facet normal -0 0 1
-    outer loop
-    vertex 11.775 12.65 2.5
-    vertex 9.39054 9.275 2.5
-    vertex 10.9061 6.65 2.5
-    endloop
-  endfacet
   facet normal 0 0 1
     outer loop
-    vertex 11.775 12.65 2.5
-    vertex 6.35946 9.275 2.5
     vertex 9.39054 9.275 2.5
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-    vertex 10.9061 6.65 2.5
     vertex 14.775 9.65 2.5
     vertex 11.775 12.65 2.5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+    vertex 9.39054 9.275 2.5
+    vertex 11.775 12.65 2.5
+    vertex 6.35946 9.275 2.5
     endloop
   endfacet
   facet normal 0.707107 0.707107 0
@@ -1695,6 +1688,13 @@ solid rambo_base_upper_mount.stl
   endfacet
   facet normal 0 0 1
     outer loop
+    vertex 10.9061 6.65 2.5
+    vertex 14.775 9.65 2.5
+    vertex 9.39054 9.275 2.5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
     vertex 9.39054 4.025 2.5
     vertex 14.775 -3.058 2.5
     vertex 10.9061 6.65 2.5
@@ -1710,14 +1710,14 @@ solid rambo_base_upper_mount.stl
   facet normal 0 0 1
     outer loop
     vertex 6.35946 4.025 2.5
-    vertex 10.583 -7.25 2.5
+    vertex 14.775 -3.058 2.5
     vertex 9.39054 4.025 2.5
     endloop
   endfacet
-  facet normal 0 -0 1
+  facet normal 0 0 1
     outer loop
-    vertex 9.39054 4.025 2.5
-    vertex 10.583 -7.25 2.5
+    vertex 6.35946 4.025 2.5
+    vertex -0.0750005 -7.25 2.5
     vertex 14.775 -3.058 2.5
     endloop
   endfacet
@@ -1726,13 +1726,6 @@ solid rambo_base_upper_mount.stl
     vertex 4.84391 6.65 2.5
     vertex -0.0750005 -7.25 2.5
     vertex 6.35946 4.025 2.5
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-    vertex 6.35946 4.025 2.5
-    vertex -0.0750005 -7.25 2.5
-    vertex 10.583 -7.25 2.5
     endloop
   endfacet
   facet normal -0.101169 -0.994869 0
@@ -2215,35 +2208,28 @@ solid rambo_base_upper_mount.stl
     outer loop
     vertex -14.775 -12.65 1.7
     vertex 5.183 -12.65 1.7
-    vertex -14.775 -12.65 2.4
-    endloop
-  endfacet
-  facet normal 0.707107 -0.707107 -2.85431e-007
-    outer loop
-    vertex 10.583 -7.25 2.4
-    vertex 5.183 -12.65 1.7
-    vertex 14.775 -3.058 1.7
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex -14.775 -12.65 2.4
-    vertex 5.183 -12.65 1.7
-    vertex 5.183 -12.65 2.4
+    vertex -14.775 -12.65 2.5
     endloop
   endfacet
   facet normal 0.707107 -0.707107 0
     outer loop
-    vertex 5.183 -12.65 2.4
     vertex 5.183 -12.65 1.7
-    vertex 10.583 -7.25 2.4
+    vertex 14.775 -3.058 1.7
+    vertex 5.183 -12.65 2.5
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -14.775 -12.65 2.5
+    vertex 5.183 -12.65 1.7
+    vertex 5.183 -12.65 2.5
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -14.775 -7.25 2.4
+    vertex -14.775 -7.25 2.5
     vertex -14.775 -12.65 1.7
-    vertex -14.775 -12.65 2.4
+    vertex -14.775 -12.65 2.5
     endloop
   endfacet
   facet normal 0.707107 0 -0.707107
@@ -2283,7 +2269,7 @@ solid rambo_base_upper_mount.stl
   endfacet
   facet normal 0.707107 -0.707107 0
     outer loop
-    vertex 10.583 -7.25 2.4
+    vertex 5.183 -12.65 2.5
     vertex 14.775 -3.058 1.7
     vertex 14.775 -3.058 2.5
     endloop
@@ -2311,44 +2297,37 @@ solid rambo_base_upper_mount.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 5.183 -12.65 2.4
-    vertex -14.775 -7.25 2.4
-    vertex -14.775 -12.65 2.4
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 0.224999 -7.25 3
-    vertex -14.775 -7.25 8
-    vertex -14.775 -7.25 2.4
-    endloop
-  endfacet
-  facet normal -0 0 1
-    outer loop
-    vertex 10.583 -7.25 2.4
-    vertex -14.775 -7.25 2.4
-    vertex 5.183 -12.65 2.4
+    vertex -14.775 -7.25 2.5
+    vertex -14.775 -12.65 2.5
+    vertex -0.0750005 -7.25 2.5
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -14.775 -7.25 2.4
-    vertex -0.0750005 -7.25 2.5
-    vertex -0.0750005 -7.25 2.7
+    vertex -14.775 -7.25 2.5
+    vertex 0.224999 -7.25 3
+    vertex -14.775 -7.25 8
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 10.583 -7.25 2.4
     vertex -0.0750005 -7.25 2.5
-    vertex -14.775 -7.25 2.4
+    vertex -0.0750005 -7.25 2.7
+    vertex -14.775 -7.25 2.5
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -14.775 -7.25 2.4
+    vertex -14.775 -7.25 2.5
     vertex -0.0750005 -7.25 2.7
     vertex 0.224999 -7.25 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+    vertex -0.0750005 -7.25 2.5
+    vertex -14.775 -12.65 2.5
+    vertex 5.183 -12.65 2.5
     endloop
   endfacet
   facet normal -1 0 0
@@ -2374,9 +2353,9 @@ solid rambo_base_upper_mount.stl
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 0.224999 -7.25 8
     vertex -14.775 -7.25 8
     vertex 0.224999 -7.25 3
+    vertex 0.224999 -7.25 8
     endloop
   endfacet
   facet normal 0 -0.707107 -0.707107
@@ -2554,18 +2533,11 @@ solid rambo_base_upper_mount.stl
     vertex -7.54397 -8.65 15.351
     endloop
   endfacet
-  facet normal 0.707107 -0.707107 0
+  facet normal 0 -0 1
     outer loop
-    vertex 14.775 -3.058 2.5
-    vertex 10.583 -7.25 2.5
-    vertex 10.583 -7.25 2.4
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 10.583 -7.25 2.5
     vertex -0.0750005 -7.25 2.5
-    vertex 10.583 -7.25 2.4
+    vertex 5.183 -12.65 2.5
+    vertex 14.775 -3.058 2.5
     endloop
   endfacet
   facet normal 1 -0 0
