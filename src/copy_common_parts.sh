@@ -42,6 +42,8 @@ end_cap
 foot
 lcd_support_a
 lcd_support_b
+rambo_base_lower_mount
+rambo_base_upper_mount
 y_idler
 y_motor_mount
 z_motor_mount_front
