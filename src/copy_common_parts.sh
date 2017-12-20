@@ -24,6 +24,7 @@ end_cap
 foot
 lcd_support_a
 lcd_support_b
+psu_lower_mount
 psu_upper_mount
 rambo_base_lower_mount
 rambo_base_upper_mount
@@ -43,6 +44,7 @@ end_cap
 foot
 lcd_support_a
 lcd_support_b
+psu_lower_mount
 psu_upper_mount
 rambo_base_lower_mount
 rambo_base_upper_mount
@@ -57,7 +59,8 @@ SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 src_dir="${SCRIPTDIR}/../printed_parts/for_mk2_mk2s"
 
 # Copy common MK2 files into MK2.5 dir
-echo -e "\nCopy to MK2.5"
+num_files=$(echo $common_mk25_files | wc -w)
+echo -e "\nCopy to MK2.5 (${num_files} files)"
 dest_dir="${SCRIPTDIR}/../printed_parts/for_mk2.5"
 for i in $common_mk25_files; do
     echo "copy file $i"
@@ -66,7 +69,8 @@ for i in $common_mk25_files; do
 done
 
 # Copy common MK2 files into MK3 dir
-echo -e "\nCopy to MK3"
+num_files=$(echo $common_mk3_files | wc -w)
+echo -e "\nCopy to MK3 (${num_files} files)"
 dest_dir="${SCRIPTDIR}/../printed_parts/for_mk3"
 for i in $common_mk3_files; do
     echo "copy file $i"
