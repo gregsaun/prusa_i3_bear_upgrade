@@ -1,4 +1,4 @@
-# Prusa i3 Bear Upgrade v2.0
+# Prusa i3 Bear Full Upgrade
 
 This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
 
@@ -27,12 +27,14 @@ Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is sti
 
 ## Compatibility
 
-This upgrade is compatible with Original Prusa i3 MK2, MK2s MK2.5 and MK3 printers.
+This upgrade is compatible with Original Prusa i3 MK2, MK2s, MK2.5 and MK3 printers.
 
 
 ## Images
 
-coming soon...
+![Prusa Bear Edition Left](/img/3d_rendering/home_left.png)
+
+![Prusa Bear Edition Right](/img/3d_rendering/home_right.png)
 
 
 ## Bill of materials
