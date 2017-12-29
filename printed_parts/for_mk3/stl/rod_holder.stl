@@ -2,7 +2,7 @@ solid rod_holder.stl
   facet normal -0.991446 0.130521 0
     outer loop
     vertex -25.5 3.5 5.5
-    vertex -25.5 3.5 5.75
+    vertex -25.5 3.5 5.8
     vertex -25.483 3.62941 5.503
     endloop
   endfacet
@@ -10,7 +10,7 @@ solid rod_holder.stl
     outer loop
     vertex -25.5 3.5 5.5
     vertex -25.5 -5.4 5.5
-    vertex -25.5 3.5 5.75
+    vertex -25.5 3.5 5.8
     endloop
   endfacet
   facet normal -0.931654 0.130521 -0.339095
@@ -20,14 +20,14 @@ solid rod_holder.stl
     vertex -25.5 3.5 5.5
     endloop
   endfacet
-  facet normal -0.929292 0.150539 -0.337275
+  facet normal -0.929292 0.15054 -0.337275
     outer loop
     vertex -25.5 3.5 5.5
     vertex -24.4831 3.62941 2.75583
     vertex -23.5234 3.59755 0.0975454
     endloop
   endfacet
-  facet normal -0.935168 0.098014 -0.340373
+  facet normal -0.935168 0.0980137 -0.340373
     outer loop
     vertex -25.5 3.5 5.5
     vertex -23.5234 3.59755 0.0975454
@@ -51,53 +51,53 @@ solid rod_holder.stl
   facet normal -0.991446 0.130521 0
     outer loop
     vertex -25.483 3.62941 5.503
-    vertex -25.5 3.5 5.75
-    vertex -25.483 3.62941 5.75
+    vertex -25.5 3.5 5.8
+    vertex -25.483 3.62941 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25.5 3.5 5.75
-    vertex -25.5 4.25 5.75
-    vertex -25.483 3.62941 5.75
+    vertex -25.5 3.5 5.8
+    vertex -25.5 4.25 5.8
+    vertex -25.483 3.62941 5.8
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -25.5 3.5 5.75
+    vertex -25.5 3.5 5.8
     vertex -25.5 -5.4 12.7574
-    vertex -25.5 3.5 14.25
+    vertex -25.5 3.5 14.2
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-    vertex -25.5 3.5 14.25
-    vertex -25.5 5.4 6.9
-    vertex -25.5 3.5 5.75
+    vertex -25.5 3.5 14.2
+    vertex -25.5 5.4 6.95
+    vertex -25.5 3.5 5.8
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -25.5 3.5 5.75
+    vertex -25.5 3.5 5.8
     vertex -25.5 -5.4 5.5
     vertex -25.5 -5.4 12.7574
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -25.5 3.5 5.75
-    vertex -25.5 5.4 6.9
-    vertex -25.5 4.25 5.75
+    vertex -25.5 3.5 5.8
+    vertex -25.5 5.4 6.95
+    vertex -25.5 4.25 5.8
     endloop
   endfacet
   facet normal -0.923881 0.38268 0
     outer loop
     vertex -25.483 3.62941 5.503
-    vertex -25.483 3.62941 5.75
+    vertex -25.483 3.62941 5.8
     vertex -25.433 3.75 5.51181
     endloop
   endfacet
-  facet normal -0.868164 0.38268 -0.315986
+  facet normal -0.868164 0.382679 -0.315986
     outer loop
     vertex -25.433 3.75 5.51181
     vertex -24.4831 3.62941 2.75583
@@ -107,21 +107,21 @@ solid rod_holder.stl
   facet normal -0.923881 0.38268 0
     outer loop
     vertex -25.433 3.75 5.51181
-    vertex -25.483 3.62941 5.75
-    vertex -25.433 3.75 5.75
+    vertex -25.483 3.62941 5.8
+    vertex -25.433 3.75 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25.483 3.62941 5.75
-    vertex -25.5 4.25 5.75
-    vertex -25.433 3.75 5.75
+    vertex -25.483 3.62941 5.8
+    vertex -25.5 4.25 5.8
+    vertex -25.433 3.75 5.8
     endloop
   endfacet
   facet normal -0.793351 0.608765 0
     outer loop
     vertex -25.433 3.75 5.51181
-    vertex -25.433 3.75 5.75
+    vertex -25.433 3.75 5.8
     vertex -25.3536 3.85355 5.52582
     endloop
   endfacet
@@ -132,7 +132,7 @@ solid rod_holder.stl
     vertex -25.433 3.75 5.51181
     endloop
   endfacet
-  facet normal -0.868162 0.382685 -0.315986
+  facet normal -0.868162 0.382684 -0.315986
     outer loop
     vertex -25.433 3.75 5.51181
     vertex -24.4361 3.75 2.77291
@@ -142,21 +142,21 @@ solid rod_holder.stl
   facet normal -0.793351 0.608765 0
     outer loop
     vertex -25.3536 3.85355 5.52582
-    vertex -25.433 3.75 5.75
-    vertex -25.3536 3.85355 5.75
+    vertex -25.433 3.75 5.8
+    vertex -25.3536 3.85355 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25.433 3.75 5.75
-    vertex -25.5 4.25 5.75
-    vertex -25.3536 3.85355 5.75
+    vertex -25.433 3.75 5.8
+    vertex -25.5 4.25 5.8
+    vertex -25.3536 3.85355 5.8
     endloop
   endfacet
   facet normal -0.608759 0.793355 0
     outer loop
     vertex -25.3536 3.85355 5.52582
-    vertex -25.3536 3.85355 5.75
+    vertex -25.3536 3.85355 5.8
     vertex -25.25 3.93301 5.54408
     endloop
   endfacet
@@ -177,25 +177,25 @@ solid rod_holder.stl
   facet normal -0.608759 0.793355 0
     outer loop
     vertex -25.25 3.93301 5.54408
-    vertex -25.3536 3.85355 5.75
-    vertex -25.25 3.93301 5.75
+    vertex -25.3536 3.85355 5.8
+    vertex -25.25 3.93301 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25.3536 3.85355 5.75
-    vertex -25.5 4.25 5.75
-    vertex -25.25 3.93301 5.75
+    vertex -25.3536 3.85355 5.8
+    vertex -25.5 4.25 5.8
+    vertex -25.25 3.93301 5.8
     endloop
   endfacet
-  facet normal -0.38269 0.923877 0
+  facet normal -0.382689 0.923877 0
     outer loop
     vertex -25.25 3.93301 5.54408
-    vertex -25.25 3.93301 5.75
+    vertex -25.25 3.93301 5.8
     vertex -25.1294 3.98296 5.56534
     endloop
   endfacet
-  facet normal -0.359612 0.923876 -0.130888
+  facet normal -0.359611 0.923877 -0.130887
     outer loop
     vertex -25.25 3.93301 5.54408
     vertex -25.1294 3.98296 5.56534
@@ -209,24 +209,24 @@ solid rod_holder.stl
     vertex -25.25 3.93301 5.54408
     endloop
   endfacet
-  facet normal -0.38269 0.923877 0
+  facet normal -0.382689 0.923877 0
     outer loop
     vertex -25.1294 3.98296 5.56534
-    vertex -25.25 3.93301 5.75
-    vertex -25.1294 3.98296 5.75
+    vertex -25.25 3.93301 5.8
+    vertex -25.1294 3.98296 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25.25 3.93301 5.75
-    vertex -25.5 4.25 5.75
-    vertex -25.1294 3.98296 5.75
+    vertex -25.25 3.93301 5.8
+    vertex -25.5 4.25 5.8
+    vertex -25.1294 3.98296 5.8
     endloop
   endfacet
   facet normal -0.130525 0.991445 0
     outer loop
     vertex -25.1294 3.98296 5.56534
-    vertex -25.1294 3.98296 5.75
+    vertex -25.1294 3.98296 5.8
     vertex -25 4 5.58816
     endloop
   endfacet
@@ -244,7 +244,7 @@ solid rod_holder.stl
     vertex -24.1508 3.98296 2.87675
     endloop
   endfacet
-  facet normal -0.359601 0.923881 -0.130885
+  facet normal -0.3596 0.923882 -0.130884
     outer loop
     vertex -25.1294 3.98296 5.56534
     vertex -24.1508 3.98296 2.87675
@@ -254,22 +254,22 @@ solid rod_holder.stl
   facet normal -0.130525 0.991445 0
     outer loop
     vertex -25 4 5.58816
-    vertex -25.1294 3.98296 5.75
-    vertex -25 4 5.75
+    vertex -25.1294 3.98296 5.8
+    vertex -25 4 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25.1294 3.98296 5.75
-    vertex -25.5 4.25 5.75
-    vertex -25 4 5.75
+    vertex -25.1294 3.98296 5.8
+    vertex -25.5 4.25 5.8
+    vertex -25 4 5.8
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex -25 4 5.58816
-    vertex -25 4 5.75
-    vertex -10.5 4 5.75
+    vertex -25 4 5.8
+    vertex -10.5 4 5.8
     endloop
   endfacet
   facet normal -0.046112 0.998795 -0.0167834
@@ -282,39 +282,39 @@ solid rod_holder.stl
   facet normal 0 1 0
     outer loop
     vertex -25 4 5.58816
-    vertex -10.5 4 5.75
+    vertex -10.5 4 5.8
     vertex -23.1481 4 0.5
     endloop
   endfacet
   facet normal 0 -0 -1
     outer loop
-    vertex -25 4 5.75
-    vertex -10.5 4.25 5.75
-    vertex -10.5 4 5.75
+    vertex -25 4 5.8
+    vertex -10.5 4.25 5.8
+    vertex -10.5 4 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -25 4 5.75
-    vertex -25.5 4.25 5.75
-    vertex -10.5 4.25 5.75
+    vertex -25 4 5.8
+    vertex -25.5 4.25 5.8
+    vertex -10.5 4.25 5.8
     endloop
   endfacet
-  facet normal -2.25633e-005 0.707207 -0.707007
+  facet normal -2.41795e-005 0.707224 -0.706989
     outer loop
     vertex -23.1481 4 0.5
     vertex -23.2484 3.99039 0.490392
     vertex -23.1993 3.99759 0.497593
     endloop
   endfacet
-  facet normal 9.47156e-006 0.70709 -0.707124
+  facet normal 1.34927e-005 0.707082 -0.707132
     outer loop
     vertex -23.1481 4 0.5
     vertex -23.3774 3.94096 0.44096
     vertex -23.3378 3.96194 0.461938
     endloop
   endfacet
-  facet normal 1.30054e-006 0.70711 -0.707103
+  facet normal -1.12778e-006 0.707118 -0.707095
     outer loop
     vertex -23.3378 3.96194 0.461938
     vertex -23.2947 3.97847 0.478469
@@ -324,11 +324,11 @@ solid rod_holder.stl
   facet normal 1.4667e-005 0.70708 -0.707134
     outer loop
     vertex -23.1481 4 0.5
-    vertex -23.413 3.91574 0.415735
+    vertex -23.413 3.91573 0.415735
     vertex -23.3774 3.94096 0.44096
     endloop
   endfacet
-  facet normal -1.39791e-005 0.707162 -0.707051
+  facet normal -9.14585e-006 0.707146 -0.707068
     outer loop
     vertex -23.1481 4 0.5
     vertex -23.2947 3.97847 0.478469
@@ -338,53 +338,53 @@ solid rod_holder.stl
   facet normal 0 0.707103 -0.707111
     outer loop
     vertex 23.1481 4 0.5
-    vertex -23.413 3.91574 0.415735
+    vertex -23.413 3.91573 0.415735
     vertex -23.1481 4 0.5
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex -23.1481 4 0.5
-    vertex -10.5 4 5.75
-    vertex 10.5 4 5.75
+    vertex -10.5 4 5.8
+    vertex 10.5 4 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -23.1481 4 0.5
-    vertex 10.5 4 5.75
+    vertex 10.5 4 5.8
     vertex 23.1481 4 0.5
     endloop
   endfacet
-  facet normal -0.138039 0.989208 -0.0491238
+  facet normal -0.138035 0.989209 -0.049122
     outer loop
     vertex -23.1993 3.99759 0.497593
     vertex -23.2484 3.99039 0.490392
     vertex -24.1508 3.98296 2.87675
     endloop
   endfacet
-  facet normal -0.360175 0.92388 -0.129306
+  facet normal -0.360174 0.92388 -0.129305
     outer loop
     vertex -24.2642 3.93301 2.8355
     vertex -24.1508 3.98296 2.87675
     vertex -23.3378 3.96194 0.461938
     endloop
   endfacet
-  facet normal -0.316722 0.941542 -0.11483
+  facet normal -0.316718 0.941543 -0.114829
     outer loop
     vertex -24.1508 3.98296 2.87675
     vertex -23.2947 3.97847 0.478469
     vertex -23.3378 3.96194 0.461938
     endloop
   endfacet
-  facet normal -0.22827 0.970027 -0.083307
+  facet normal -0.228274 0.970026 -0.0833086
     outer loop
     vertex -24.1508 3.98296 2.87675
     vertex -23.2484 3.99039 0.490392
     vertex -23.2947 3.97847 0.478469
     endloop
   endfacet
-  facet normal -0.401954 0.903969 -0.145854
+  facet normal -0.401958 0.903967 -0.145855
     outer loop
     vertex -24.2642 3.93301 2.8355
     vertex -23.3378 3.96194 0.461938
@@ -394,28 +394,28 @@ solid rod_holder.stl
   facet normal -0.483006 0.857742 -0.176023
     outer loop
     vertex -23.3774 3.94096 0.44096
-    vertex -23.413 3.91574 0.415735
+    vertex -23.413 3.91573 0.415735
     vertex -24.2642 3.93301 2.8355
     endloop
   endfacet
   facet normal -0.572479 0.79335 -0.207035
     outer loop
     vertex -24.2642 3.93301 2.8355
-    vertex -23.413 3.91574 0.415735
+    vertex -23.413 3.91573 0.415735
     vertex -24.3615 3.85355 2.80009
     endloop
   endfacet
-  facet normal -0.596134 0.773011 -0.216975
+  facet normal -0.596133 0.773012 -0.216975
     outer loop
-    vertex -23.413 3.91574 0.415735
+    vertex -23.413 3.91573 0.415735
     vertex -23.471 3.85355 0.353553
     vertex -24.3615 3.85355 2.80009
     endloop
   endfacet
-  facet normal -2.43375e-008 0.70711 -0.707104
+  facet normal -2.92525e-008 0.707111 -0.707103
     outer loop
     vertex -23.471 3.85355 0.353553
-    vertex -23.413 3.91574 0.415735
+    vertex -23.413 3.91573 0.415735
     vertex 23.1481 4 0.5
     endloop
   endfacet
@@ -433,7 +433,7 @@ solid rod_holder.stl
     vertex -23.5096 3.77779 0.277784
     endloop
   endfacet
-  facet normal -0.868696 0.382684 -0.314516
+  facet normal -0.868696 0.382683 -0.314516
     outer loop
     vertex -24.4361 3.75 2.77291
     vertex -23.5273 3.69134 0.191342
@@ -454,7 +454,7 @@ solid rod_holder.stl
     vertex -23.5234 3.59755 0.0975454
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707107
+  facet normal 0 0.707106 -0.707108
     outer loop
     vertex 23.5234 3.59755 0.0975454
     vertex -23.4982 3.5 0
@@ -475,7 +475,7 @@ solid rod_holder.stl
     vertex 23.5273 3.69134 0.191342
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707107
+  facet normal 0 0.707106 -0.707108
     outer loop
     vertex 23.4982 3.5 0
     vertex -23.4982 3.5 0
@@ -503,18 +503,18 @@ solid rod_holder.stl
     vertex -23.471 3.85355 0.353553
     endloop
   endfacet
-  facet normal 1.77317e-008 0.707103 -0.707111
+  facet normal 2.13126e-008 0.707103 -0.707111
     outer loop
-    vertex 23.413 3.91574 0.415735
+    vertex 23.413 3.91573 0.415735
     vertex -23.471 3.85355 0.353553
     vertex 23.1481 4 0.5
     endloop
   endfacet
-  facet normal 0 0.70711 -0.707104
+  facet normal 0 0.707111 -0.707103
     outer loop
     vertex 23.471 3.85355 0.353553
     vertex -23.471 3.85355 0.353553
-    vertex 23.413 3.91574 0.415735
+    vertex 23.413 3.91573 0.415735
     endloop
   endfacet
   facet normal 0 0.707102 -0.707112
@@ -540,51 +540,51 @@ solid rod_holder.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 4 5.75
-    vertex -10.5 4 5.75
-    vertex 10.5 4 14.25
+    vertex 10.5 4 5.8
+    vertex -10.5 4 5.8
+    vertex 10.5 4 14.2
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 4 14.25
-    vertex -10.5 4 5.75
-    vertex -10.5 4 14.25
+    vertex 10.5 4 14.2
+    vertex -10.5 4 5.8
+    vertex -10.5 4 14.2
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -10.5 4 14.25
-    vertex -10.5 4 5.75
-    vertex -10.5 4.25 5.75
+    vertex -10.5 4 14.2
+    vertex -10.5 4 5.8
+    vertex -10.5 4.25 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex 23.1481 4 0.5
-    vertex 10.5 4 5.75
+    vertex 10.5 4 5.8
     vertex 25 4 5.58816
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex 25 4 5.58816
-    vertex 10.5 4 5.75
-    vertex 25 4 5.75
+    vertex 10.5 4 5.8
+    vertex 25 4 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 10.5 4 5.75
-    vertex 10.5 4.25 5.75
-    vertex 25 4 5.75
+    vertex 10.5 4 5.8
+    vertex 10.5 4.25 5.8
+    vertex 25 4 5.8
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 10.5 4 14.25
-    vertex 10.5 4.25 5.75
-    vertex 10.5 4 5.75
+    vertex 10.5 4 14.2
+    vertex 10.5 4.25 5.8
+    vertex 10.5 4 5.8
     endloop
   endfacet
   facet normal 0.046112 0.998795 -0.0167834
@@ -594,7 +594,7 @@ solid rod_holder.stl
     vertex 23.1481 4 0.5
     endloop
   endfacet
-  facet normal 2.25633e-005 0.707207 -0.707007
+  facet normal 2.41795e-005 0.707224 -0.706989
     outer loop
     vertex 23.2484 3.99039 0.490392
     vertex 23.1481 4 0.5
@@ -603,26 +603,26 @@ solid rod_holder.stl
   endfacet
   facet normal -1.4667e-005 0.70708 -0.707134
     outer loop
-    vertex 23.413 3.91574 0.415735
+    vertex 23.413 3.91573 0.415735
     vertex 23.1481 4 0.5
     vertex 23.3774 3.94096 0.44096
     endloop
   endfacet
-  facet normal -9.47156e-006 0.70709 -0.707124
+  facet normal -1.34927e-005 0.707082 -0.707132
     outer loop
     vertex 23.3774 3.94096 0.44096
     vertex 23.1481 4 0.5
     vertex 23.3378 3.96194 0.461938
     endloop
   endfacet
-  facet normal -1.30054e-006 0.70711 -0.707103
+  facet normal 1.12778e-006 0.707118 -0.707095
     outer loop
     vertex 23.3378 3.96194 0.461938
     vertex 23.1481 4 0.5
     vertex 23.2947 3.97847 0.478469
     endloop
   endfacet
-  facet normal 1.39791e-005 0.707162 -0.707051
+  facet normal 9.14585e-006 0.707146 -0.707068
     outer loop
     vertex 23.2947 3.97847 0.478469
     vertex 23.1481 4 0.5
@@ -631,8 +631,8 @@ solid rod_holder.stl
   endfacet
   facet normal 0.130525 0.991445 0
     outer loop
-    vertex 25 4 5.75
-    vertex 25.1294 3.98296 5.75
+    vertex 25 4 5.8
+    vertex 25.1294 3.98296 5.8
     vertex 25 4 5.58816
     endloop
   endfacet
@@ -646,7 +646,7 @@ solid rod_holder.stl
   facet normal 0.130525 0.991445 0
     outer loop
     vertex 25 4 5.58816
-    vertex 25.1294 3.98296 5.75
+    vertex 25.1294 3.98296 5.8
     vertex 25.1294 3.98296 5.56534
     endloop
   endfacet
@@ -659,22 +659,22 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25.5 4.25 5.75
-    vertex 25.1294 3.98296 5.75
-    vertex 25 4 5.75
+    vertex 25.5 4.25 5.8
+    vertex 25.1294 3.98296 5.8
+    vertex 25 4 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25 4 5.75
-    vertex 10.5 4.25 5.75
-    vertex 25.5 4.25 5.75
+    vertex 25 4 5.8
+    vertex 10.5 4.25 5.8
+    vertex 25.5 4.25 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 4 14.25
-    vertex -10.5 4 14.25
+    vertex 10.5 4 14.2
+    vertex -10.5 4 14.2
     vertex 21.7929 4 20
     endloop
   endfacet
@@ -682,69 +682,69 @@ solid rod_holder.stl
     outer loop
     vertex 21.7929 4 20
     vertex 25 4 16.7929
-    vertex 10.5 4 14.25
+    vertex 10.5 4 14.2
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 4 14.25
+    vertex 10.5 4 14.2
     vertex 25 4 16.7929
-    vertex 25 4 14.25
+    vertex 25 4 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25 4 14.25
-    vertex 10.5 4.25 14.25
-    vertex 10.5 4 14.25
+    vertex 25 4 14.2
+    vertex 10.5 4.25 14.2
+    vertex 10.5 4 14.2
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 10.5 4.25 14.25
-    vertex 10.5 4.25 5.75
-    vertex 10.5 4 14.25
+    vertex 10.5 4.25 14.2
+    vertex 10.5 4.25 5.8
+    vertex 10.5 4 14.2
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
     vertex 21.7929 4 20
-    vertex -10.5 4 14.25
+    vertex -10.5 4 14.2
     vertex -21.7929 4 20
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -21.7929 4 20
-    vertex -10.5 4 14.25
+    vertex -10.5 4 14.2
     vertex -25 4 16.7929
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -25 4 16.7929
-    vertex -10.5 4 14.25
-    vertex -25 4 14.25
+    vertex -10.5 4 14.2
+    vertex -25 4 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -10.5 4 14.25
-    vertex -10.5 4.25 14.25
-    vertex -25 4 14.25
+    vertex -10.5 4 14.2
+    vertex -10.5 4.25 14.2
+    vertex -25 4 14.2
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -10.5 4.25 5.75
-    vertex -10.5 4.25 14.25
-    vertex -10.5 4 14.25
+    vertex -10.5 4.25 5.8
+    vertex -10.5 4.25 14.2
+    vertex -10.5 4 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -21.7929 4 20
-    vertex -3.44303e-015 0.65 20
+    vertex 1.82367e-015 0.65 20
     vertex 21.7929 4 20
     endloop
   endfacet
@@ -755,7 +755,7 @@ solid rod_holder.stl
     vertex 21.7929 4 20
     endloop
   endfacet
-  facet normal 0.0693232 0.995398 0.066165
+  facet normal 0.0693215 0.995398 0.0661631
     outer loop
     vertex 23.3284 3.98296 18.6475
     vertex 21.7929 4 20
@@ -771,7 +771,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 22.1857 3.91574 20
+    vertex 22.1857 3.91573 20
     vertex 22.0635 3.96194 20
     vertex 21.7929 4 20
     endloop
@@ -801,7 +801,7 @@ solid rod_holder.stl
     outer loop
     vertex 21.7929 4 20
     vertex 22.2929 3.85355 20
-    vertex 22.1857 3.91574 20
+    vertex 22.1857 3.91573 20
     endloop
   endfacet
   facet normal 0 0 1
@@ -828,18 +828,18 @@ solid rod_holder.stl
   facet normal -0 0 1
     outer loop
     vertex 21.7929 4 20
-    vertex 0.526846 0.615587 20
+    vertex 0.526846 0.615586 20
     vertex 10.2653 0.6 20
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex 21.7929 4 20
-    vertex -3.44303e-015 0.65 20
-    vertex 0.526846 0.615587 20
+    vertex 1.82367e-015 0.65 20
+    vertex 0.526846 0.615586 20
     endloop
   endfacet
-  facet normal -0.0693084 0.995185 0.0693084
+  facet normal -0.0693067 0.995185 0.0693067
     outer loop
     vertex -25 4 16.7929
     vertex -21.9308 3.99039 20
@@ -898,7 +898,7 @@ solid rod_holder.stl
   facet normal -0 0 1
     outer loop
     vertex -21.7929 4 20
-    vertex -22.1857 3.91574 20
+    vertex -22.1857 3.91573 20
     vertex -22.2929 3.85355 20
     endloop
   endfacet
@@ -906,34 +906,34 @@ solid rod_holder.stl
     outer loop
     vertex -21.7929 4 20
     vertex -22.0635 3.96194 20
-    vertex -22.1857 3.91574 20
+    vertex -22.1857 3.91573 20
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -10.2653 0.6 20
-    vertex -0.526846 0.615587 20
+    vertex -0.526846 0.615586 20
     vertex -21.7929 4 20
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -21.7929 4 20
-    vertex -0.526846 0.615587 20
-    vertex -3.44303e-015 0.65 20
+    vertex -0.526846 0.615586 20
+    vertex 1.82367e-015 0.65 20
     endloop
   endfacet
   facet normal -0.130525 0.991445 0
     outer loop
-    vertex -25 4 14.25
-    vertex -25.1294 3.98296 14.25
+    vertex -25 4 14.2
+    vertex -25.1294 3.98296 14.2
     vertex -25 4 16.7929
     endloop
   endfacet
   facet normal -0.130525 0.991445 0
     outer loop
     vertex -25 4 16.7929
-    vertex -25.1294 3.98296 14.25
+    vertex -25.1294 3.98296 14.2
     vertex -25.1294 3.98296 16.8465
     endloop
   endfacet
@@ -944,7 +944,7 @@ solid rod_holder.stl
     vertex -25 4 16.7929
     endloop
   endfacet
-  facet normal -0.108 0.98845 0.106315
+  facet normal -0.108001 0.98845 0.106316
     outer loop
     vertex -25 4 16.7929
     vertex -23.4463 3.98296 18.5296
@@ -953,21 +953,21 @@ solid rod_holder.stl
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -25.5 4.25 14.25
-    vertex -25.1294 3.98296 14.25
-    vertex -25 4 14.25
+    vertex -25.5 4.25 14.2
+    vertex -25.1294 3.98296 14.2
+    vertex -25 4 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -25 4 14.25
-    vertex -10.5 4.25 14.25
-    vertex -25.5 4.25 14.25
+    vertex -25 4 14.2
+    vertex -10.5 4.25 14.2
+    vertex -25.5 4.25 14.2
     endloop
   endfacet
   facet normal 0.130525 0.991445 0
     outer loop
-    vertex 25 4 14.25
+    vertex 25 4 14.2
     vertex 25 4 16.7929
     vertex 25.1294 3.98296 14.6875
     endloop
@@ -988,54 +988,54 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25.1294 3.98296 14.25
-    vertex 25.5 4.25 14.25
-    vertex 25 4 14.25
+    vertex 25.1294 3.98296 14.2
+    vertex 25.5 4.25 14.2
+    vertex 25 4 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25 4 14.25
-    vertex 25.5 4.25 14.25
-    vertex 10.5 4.25 14.25
+    vertex 25 4 14.2
+    vertex 25.5 4.25 14.2
+    vertex 10.5 4.25 14.2
     endloop
   endfacet
   facet normal 0.130525 0.991445 -0
     outer loop
     vertex 25.1294 3.98296 14.6875
-    vertex 25.1294 3.98296 14.25
-    vertex 25 4 14.25
+    vertex 25.1294 3.98296 14.2
+    vertex 25 4 14.2
     endloop
   endfacet
-  facet normal -0.38269 0.923877 0
+  facet normal -0.382689 0.923877 0
     outer loop
     vertex -25.1294 3.98296 16.8465
-    vertex -25.1294 3.98296 14.25
-    vertex -25.25 3.93301 14.25
+    vertex -25.1294 3.98296 14.2
+    vertex -25.25 3.93301 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -25.5 4.25 14.25
-    vertex -25.25 3.93301 14.25
-    vertex -25.1294 3.98296 14.25
+    vertex -25.5 4.25 14.2
+    vertex -25.25 3.93301 14.2
+    vertex -25.1294 3.98296 14.2
     endloop
   endfacet
-  facet normal -0.38269 0.923877 0
+  facet normal -0.382689 0.923877 0
     outer loop
     vertex -25.1294 3.98296 16.8465
-    vertex -25.25 3.93301 14.25
+    vertex -25.25 3.93301 14.2
     vertex -25.25 3.93301 16.8964
     endloop
   endfacet
-  facet normal -0.270603 0.923877 0.270602
+  facet normal -0.270602 0.923878 0.270601
     outer loop
     vertex -25.25 3.93301 16.8964
     vertex -23.5316 3.93301 18.6149
     vertex -25.1294 3.98296 16.8465
     endloop
   endfacet
-  facet normal -0.2706 0.923878 0.2706
+  facet normal -0.270599 0.923879 0.270599
     outer loop
     vertex -25.1294 3.98296 16.8465
     vertex -23.5316 3.93301 18.6149
@@ -1045,21 +1045,21 @@ solid rod_holder.stl
   facet normal -0.608759 0.793355 0
     outer loop
     vertex -25.25 3.93301 16.8964
-    vertex -25.25 3.93301 14.25
-    vertex -25.3536 3.85355 14.25
+    vertex -25.25 3.93301 14.2
+    vertex -25.3536 3.85355 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -25.3536 3.85355 14.25
-    vertex -25.25 3.93301 14.25
-    vertex -25.5 4.25 14.25
+    vertex -25.3536 3.85355 14.2
+    vertex -25.25 3.93301 14.2
+    vertex -25.5 4.25 14.2
     endloop
   endfacet
   facet normal -0.608759 0.793355 0
     outer loop
     vertex -25.25 3.93301 16.8964
-    vertex -25.3536 3.85355 14.25
+    vertex -25.3536 3.85355 14.2
     vertex -25.3536 3.85355 16.9393
     endloop
   endfacet
@@ -1080,21 +1080,21 @@ solid rod_holder.stl
   facet normal -0.793351 0.608765 0
     outer loop
     vertex -25.3536 3.85355 16.9393
-    vertex -25.3536 3.85355 14.25
-    vertex -25.433 3.75 14.25
+    vertex -25.3536 3.85355 14.2
+    vertex -25.433 3.75 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -25.5 4.25 14.25
-    vertex -25.433 3.75 14.25
-    vertex -25.3536 3.85355 14.25
+    vertex -25.5 4.25 14.2
+    vertex -25.433 3.75 14.2
+    vertex -25.3536 3.85355 14.2
     endloop
   endfacet
   facet normal -0.793351 0.608765 0
     outer loop
     vertex -25.3536 3.85355 16.9393
-    vertex -25.433 3.75 14.25
+    vertex -25.433 3.75 14.2
     vertex -25.433 3.75 16.9723
     endloop
   endfacet
@@ -1115,32 +1115,32 @@ solid rod_holder.stl
   facet normal -0.923881 0.38268 0
     outer loop
     vertex -25.433 3.75 16.9723
-    vertex -25.433 3.75 14.25
-    vertex -25.483 3.62941 14.25
+    vertex -25.433 3.75 14.2
+    vertex -25.483 3.62941 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -25.5 4.25 14.25
-    vertex -25.483 3.62941 14.25
-    vertex -25.433 3.75 14.25
+    vertex -25.5 4.25 14.2
+    vertex -25.483 3.62941 14.2
+    vertex -25.433 3.75 14.2
     endloop
   endfacet
   facet normal -0.923881 0.38268 0
     outer loop
     vertex -25.433 3.75 16.9723
-    vertex -25.483 3.62941 14.25
+    vertex -25.483 3.62941 14.2
     vertex -25.483 3.62941 16.9929
     endloop
   endfacet
-  facet normal -0.653283 0.382677 0.653283
+  facet normal -0.653284 0.382676 0.653284
     outer loop
     vertex -25.483 3.62941 16.9929
     vertex -23.6963 3.62941 18.7796
     vertex -25.433 3.75 16.9723
     endloop
   endfacet
-  facet normal -0.65328 0.382686 0.653281
+  facet normal -0.653281 0.382685 0.653281
     outer loop
     vertex -25.433 3.75 16.9723
     vertex -23.6963 3.62941 18.7796
@@ -1150,21 +1150,21 @@ solid rod_holder.stl
   facet normal -0.991446 0.130521 0
     outer loop
     vertex -25.483 3.62941 16.9929
-    vertex -25.483 3.62941 14.25
-    vertex -25.5 3.5 14.25
+    vertex -25.483 3.62941 14.2
+    vertex -25.5 3.5 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -25.5 3.5 14.25
-    vertex -25.483 3.62941 14.25
-    vertex -25.5 4.25 14.25
+    vertex -25.5 3.5 14.2
+    vertex -25.483 3.62941 14.2
+    vertex -25.5 4.25 14.2
     endloop
   endfacet
   facet normal -0.991446 0.130521 0
     outer loop
     vertex -25.483 3.62941 16.9929
-    vertex -25.5 3.5 14.25
+    vertex -25.5 3.5 14.2
     vertex -25.5 3.5 17
     endloop
   endfacet
@@ -1175,7 +1175,7 @@ solid rod_holder.stl
     vertex -25.483 3.62941 16.9929
     endloop
   endfacet
-  facet normal -0.695684 0.179015 0.695684
+  facet normal -0.695684 0.179016 0.695684
     outer loop
     vertex -25.483 3.62941 16.9929
     vertex -22.4966 3.54901 20
@@ -1184,33 +1184,33 @@ solid rod_holder.stl
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -25.5 3.5 14.25
+    vertex -25.5 3.5 14.2
     vertex -25.5 -1 17
     vertex -25.5 3.5 17
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -25.5 3.5 14.25
+    vertex -25.5 3.5 14.2
     vertex -25.5 -5.4 12.7574
     vertex -25.5 -1 17
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -25.5 4.25 14.25
-    vertex -25.5 5.4 13.1
-    vertex -25.5 3.5 14.25
+    vertex -25.5 4.25 14.2
+    vertex -25.5 5.4 13.05
+    vertex -25.5 3.5 14.2
     endloop
   endfacet
   facet normal -1 -0 -0
     outer loop
-    vertex -25.5 3.5 14.25
-    vertex -25.5 5.4 13.1
-    vertex -25.5 5.4 6.9
+    vertex -25.5 3.5 14.2
+    vertex -25.5 5.4 13.05
+    vertex -25.5 5.4 6.95
     endloop
   endfacet
-  facet normal -0.706255 0.0490634 0.706255
+  facet normal -0.706255 0.0490632 0.706255
     outer loop
     vertex -22.5 3.5 20
     vertex -22.4966 3.54901 20
@@ -1283,7 +1283,7 @@ solid rod_holder.stl
   facet normal -0.431633 0.793352 0.429285
     outer loop
     vertex -23.6048 3.85355 18.6881
-    vertex -22.1857 3.91574 20
+    vertex -22.1857 3.91573 20
     vertex -23.5316 3.93301 18.6149
     endloop
   endfacet
@@ -1294,28 +1294,28 @@ solid rod_holder.stl
     vertex -22.2929 3.85355 20
     endloop
   endfacet
-  facet normal -0.448592 0.773 0.448594
+  facet normal -0.448591 0.773001 0.448593
     outer loop
     vertex -23.6048 3.85355 18.6881
     vertex -22.2929 3.85355 20
-    vertex -22.1857 3.91574 20
+    vertex -22.1857 3.91573 20
     endloop
   endfacet
-  facet normal -0.272098 0.923876 0.2691
+  facet normal -0.272097 0.923877 0.269099
     outer loop
     vertex -23.5316 3.93301 18.6149
     vertex -22.0635 3.96194 20
     vertex -23.4463 3.98296 18.5296
     endloop
   endfacet
-  facet normal -0.333151 0.88147 0.334695
+  facet normal -0.333152 0.881469 0.334696
     outer loop
     vertex -23.5316 3.93301 18.6149
-    vertex -22.1857 3.91574 20
+    vertex -22.1857 3.91573 20
     vertex -22.0635 3.96194 20
     endloop
   endfacet
-  facet normal -0.205203 0.956652 0.206659
+  facet normal -0.205203 0.956652 0.206658
     outer loop
     vertex -23.4463 3.98296 18.5296
     vertex -22.0635 3.96194 20
@@ -1490,51 +1490,51 @@ solid rod_holder.stl
     vertex -23.014 -5.4 12.4165
     endloop
   endfacet
-  facet normal 0 0.707107 0.707106
+  facet normal 0 0.707106 0.707107
     outer loop
-    vertex -25.5 5.4 13.1
-    vertex -25.5 4.25 14.25
-    vertex -10.5 5.4 13.1
+    vertex -25.5 5.4 13.05
+    vertex -25.5 4.25 14.2
+    vertex -10.5 5.4 13.05
     endloop
   endfacet
-  facet normal -0 0.707107 0.707106
+  facet normal -0 0.707106 0.707107
     outer loop
-    vertex -10.5 5.4 13.1
-    vertex -25.5 4.25 14.25
-    vertex -10.5 4.25 14.25
+    vertex -10.5 5.4 13.05
+    vertex -25.5 4.25 14.2
+    vertex -10.5 4.25 14.2
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     vertex -19.8947 5.4 9.83193
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -18.019 5.4 12.851
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
     vertex -18.019 5.4 12.851
     vertex -18.575 5.4 12.295
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     vertex -18.575 5.4 12.295
     vertex -18.921 5.4 12.0568
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     vertex -18.921 5.4 12.0568
     vertex -19.225 5.4 11.7669
     endloop
@@ -1543,19 +1543,19 @@ solid rod_holder.stl
     outer loop
     vertex -19.225 5.4 11.7669
     vertex -19.4793 5.4 11.4327
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     vertex -19.4793 5.4 11.4327
     vertex -19.6777 5.4 11.0625
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     vertex -19.6777 5.4 11.0625
     vertex -19.8151 5.4 10.6655
     endloop
@@ -1564,47 +1564,47 @@ solid rod_holder.stl
     outer loop
     vertex -19.8151 5.4 10.6655
     vertex -19.888 5.4 10.2519
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 13.1
+    vertex -25.5 5.4 13.05
     vertex -19.888 5.4 10.2519
     vertex -19.8947 5.4 9.83193
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707106
+  facet normal 0 0.707107 -0.707107
     outer loop
-    vertex -25.5 4.25 5.75
-    vertex -25.5 5.4 6.9
-    vertex -10.5 4.25 5.75
+    vertex -25.5 4.25 5.8
+    vertex -25.5 5.4 6.95
+    vertex -10.5 4.25 5.8
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707106
+  facet normal 0 0.707107 -0.707107
     outer loop
-    vertex -10.5 4.25 5.75
-    vertex -25.5 5.4 6.9
-    vertex -10.5 5.4 6.9
+    vertex -10.5 4.25 5.8
+    vertex -25.5 5.4 6.95
+    vertex -10.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -17.46 5.4 7.35833
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -19.8947 5.4 9.83193
     vertex -19.8349 5.4 9.41618
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -19.8349 5.4 9.41618
     vertex -19.7102 5.4 9.01509
     endloop
@@ -1613,19 +1613,19 @@ solid rod_holder.stl
     outer loop
     vertex -19.7102 5.4 9.01509
     vertex -19.5237 5.4 8.63875
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -19.5237 5.4 8.63875
     vertex -19.28 5.4 8.29661
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -19.28 5.4 8.29661
     vertex -18.9854 5.4 7.99726
     endloop
@@ -1634,19 +1634,19 @@ solid rod_holder.stl
     outer loop
     vertex -18.9854 5.4 7.99726
     vertex -18.6471 5.4 7.74823
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -18.6471 5.4 7.74823
     vertex -18.2738 5.4 7.55576
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     vertex -18.2738 5.4 7.55576
     vertex -17.8748 5.4 7.4247
     endloop
@@ -1655,7 +1655,7 @@ solid rod_holder.stl
     outer loop
     vertex -17.8748 5.4 7.4247
     vertex -17.46 5.4 7.35833
-    vertex -25.5 5.4 6.9
+    vertex -25.5 5.4 6.95
     endloop
   endfacet
   facet normal 0.931654 0.130521 -0.339095
@@ -1668,11 +1668,11 @@ solid rod_holder.stl
   facet normal 0.991446 0.130521 0
     outer loop
     vertex 25.483 3.62941 5.503
-    vertex 25.5 3.5 5.75
+    vertex 25.5 3.5 5.8
     vertex 25.5 3.5 5.5
     endloop
   endfacet
-  facet normal 0.868164 0.38268 -0.315986
+  facet normal 0.868164 0.382679 -0.315986
     outer loop
     vertex 25.433 3.75 5.51181
     vertex 25.483 3.62941 5.503
@@ -1682,15 +1682,15 @@ solid rod_holder.stl
   facet normal 0.923881 0.38268 0
     outer loop
     vertex 25.433 3.75 5.51181
-    vertex 25.483 3.62941 5.75
+    vertex 25.483 3.62941 5.8
     vertex 25.483 3.62941 5.503
     endloop
   endfacet
   facet normal 0.991446 0.130521 0
     outer loop
     vertex 25.483 3.62941 5.503
-    vertex 25.483 3.62941 5.75
-    vertex 25.5 3.5 5.75
+    vertex 25.483 3.62941 5.8
+    vertex 25.5 3.5 5.8
     endloop
   endfacet
   facet normal 0.931654 0.130524 -0.339094
@@ -1710,7 +1710,7 @@ solid rod_holder.stl
   facet normal 1 0 0
     outer loop
     vertex 25.5 3.5 5.5
-    vertex 25.5 3.5 5.75
+    vertex 25.5 3.5 5.8
     vertex 25.5 -5.4 5.5
     endloop
   endfacet
@@ -1721,7 +1721,7 @@ solid rod_holder.stl
     vertex 25.5 -5.4 5.5
     endloop
   endfacet
-  facet normal 0.935833 0.0964564 -0.338988
+  facet normal 0.935833 0.0964562 -0.338988
     outer loop
     vertex 24.4831 3.62941 2.75583
     vertex 23.4982 3.5 0
@@ -1735,14 +1735,14 @@ solid rod_holder.stl
     vertex 24.4831 3.62941 2.75583
     endloop
   endfacet
-  facet normal 0.868696 0.382684 -0.314516
+  facet normal 0.868696 0.382683 -0.314516
     outer loop
     vertex 24.4831 3.62941 2.75583
     vertex 23.5273 3.69134 0.191342
     vertex 24.4361 3.75 2.77291
     endloop
   endfacet
-  facet normal 0.868162 0.382685 -0.315986
+  facet normal 0.868162 0.382684 -0.315986
     outer loop
     vertex 24.4831 3.62941 2.75583
     vertex 24.4361 3.75 2.77291
@@ -1794,15 +1794,15 @@ solid rod_holder.stl
   facet normal 0.793351 0.608765 0
     outer loop
     vertex 25.3536 3.85355 5.52582
-    vertex 25.433 3.75 5.75
+    vertex 25.433 3.75 5.8
     vertex 25.433 3.75 5.51181
     endloop
   endfacet
   facet normal 0.923881 0.38268 0
     outer loop
     vertex 25.433 3.75 5.51181
-    vertex 25.433 3.75 5.75
-    vertex 25.483 3.62941 5.75
+    vertex 25.433 3.75 5.8
+    vertex 25.483 3.62941 5.8
     endloop
   endfacet
   facet normal 0.572047 0.793355 -0.208208
@@ -1815,15 +1815,15 @@ solid rod_holder.stl
   facet normal 0.608759 0.793355 0
     outer loop
     vertex 25.25 3.93301 5.54408
-    vertex 25.3536 3.85355 5.75
+    vertex 25.3536 3.85355 5.8
     vertex 25.3536 3.85355 5.52582
     endloop
   endfacet
   facet normal 0.793351 0.608765 0
     outer loop
     vertex 25.3536 3.85355 5.52582
-    vertex 25.3536 3.85355 5.75
-    vertex 25.433 3.75 5.75
+    vertex 25.3536 3.85355 5.8
+    vertex 25.433 3.75 5.8
     endloop
   endfacet
   facet normal 0.572052 0.79335 -0.20821
@@ -1836,7 +1836,7 @@ solid rod_holder.stl
   facet normal 0.572479 0.79335 -0.207035
     outer loop
     vertex 24.3615 3.85355 2.80009
-    vertex 23.413 3.91574 0.415735
+    vertex 23.413 3.91573 0.415735
     vertex 24.2642 3.93301 2.8355
     endloop
   endfacet
@@ -1847,42 +1847,42 @@ solid rod_holder.stl
     vertex 24.3615 3.85355 2.80009
     endloop
   endfacet
-  facet normal 0.596134 0.773011 -0.216975
+  facet normal 0.596133 0.773012 -0.216975
     outer loop
     vertex 24.3615 3.85355 2.80009
     vertex 23.471 3.85355 0.353553
-    vertex 23.413 3.91574 0.415735
+    vertex 23.413 3.91573 0.415735
     endloop
   endfacet
-  facet normal 0.359612 0.923876 -0.130888
+  facet normal 0.359611 0.923877 -0.130887
     outer loop
     vertex 25.25 3.93301 5.54408
     vertex 24.2642 3.93301 2.8355
     vertex 25.1294 3.98296 5.56534
     endloop
   endfacet
-  facet normal 0.38269 0.923877 0
+  facet normal 0.382689 0.923877 0
     outer loop
     vertex 25.1294 3.98296 5.56534
-    vertex 25.25 3.93301 5.75
+    vertex 25.25 3.93301 5.8
     vertex 25.25 3.93301 5.54408
     endloop
   endfacet
   facet normal 0.608759 0.793355 0
     outer loop
     vertex 25.25 3.93301 5.54408
-    vertex 25.25 3.93301 5.75
-    vertex 25.3536 3.85355 5.75
+    vertex 25.25 3.93301 5.8
+    vertex 25.3536 3.85355 5.8
     endloop
   endfacet
-  facet normal 0.359601 0.923881 -0.130885
+  facet normal 0.3596 0.923882 -0.130884
     outer loop
     vertex 25.1294 3.98296 5.56534
     vertex 24.2642 3.93301 2.8355
     vertex 24.1508 3.98296 2.87675
     endloop
   endfacet
-  facet normal 0.360175 0.92388 -0.129306
+  facet normal 0.360174 0.92388 -0.129305
     outer loop
     vertex 24.2642 3.93301 2.8355
     vertex 23.3378 3.96194 0.461938
@@ -1892,39 +1892,39 @@ solid rod_holder.stl
   facet normal 0.483006 0.857742 -0.176023
     outer loop
     vertex 24.2642 3.93301 2.8355
-    vertex 23.413 3.91574 0.415735
+    vertex 23.413 3.91573 0.415735
     vertex 23.3774 3.94096 0.44096
     endloop
   endfacet
-  facet normal 0.401954 0.903969 -0.145854
+  facet normal 0.401958 0.903967 -0.145855
     outer loop
     vertex 24.2642 3.93301 2.8355
     vertex 23.3774 3.94096 0.44096
     vertex 23.3378 3.96194 0.461938
     endloop
   endfacet
-  facet normal 0.38269 0.923877 0
+  facet normal 0.382689 0.923877 0
     outer loop
     vertex 25.1294 3.98296 5.56534
-    vertex 25.1294 3.98296 5.75
-    vertex 25.25 3.93301 5.75
+    vertex 25.1294 3.98296 5.8
+    vertex 25.25 3.93301 5.8
     endloop
   endfacet
-  facet normal 0.138039 0.989208 -0.0491238
+  facet normal 0.138035 0.989209 -0.049122
     outer loop
     vertex 23.2484 3.99039 0.490392
     vertex 23.1993 3.99759 0.497593
     vertex 24.1508 3.98296 2.87675
     endloop
   endfacet
-  facet normal 0.316722 0.941542 -0.11483
+  facet normal 0.316718 0.941543 -0.114829
     outer loop
     vertex 24.1508 3.98296 2.87675
     vertex 23.3378 3.96194 0.461938
     vertex 23.2947 3.97847 0.478469
     endloop
   endfacet
-  facet normal 0.22827 0.970027 -0.083307
+  facet normal 0.228274 0.970026 -0.0833086
     outer loop
     vertex 24.1508 3.98296 2.87675
     vertex 23.2947 3.97847 0.478469
@@ -1933,72 +1933,72 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25.5 4.25 5.75
-    vertex 25.25 3.93301 5.75
-    vertex 25.1294 3.98296 5.75
+    vertex 25.5 4.25 5.8
+    vertex 25.25 3.93301 5.8
+    vertex 25.1294 3.98296 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25.3536 3.85355 5.75
-    vertex 25.25 3.93301 5.75
-    vertex 25.5 4.25 5.75
+    vertex 25.3536 3.85355 5.8
+    vertex 25.25 3.93301 5.8
+    vertex 25.5 4.25 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25.5 4.25 5.75
-    vertex 25.433 3.75 5.75
-    vertex 25.3536 3.85355 5.75
+    vertex 25.5 4.25 5.8
+    vertex 25.433 3.75 5.8
+    vertex 25.3536 3.85355 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25.5 4.25 5.75
-    vertex 25.483 3.62941 5.75
-    vertex 25.433 3.75 5.75
+    vertex 25.5 4.25 5.8
+    vertex 25.483 3.62941 5.8
+    vertex 25.433 3.75 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 25.5 3.5 5.75
-    vertex 25.483 3.62941 5.75
-    vertex 25.5 4.25 5.75
+    vertex 25.5 3.5 5.8
+    vertex 25.483 3.62941 5.8
+    vertex 25.5 4.25 5.8
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
     vertex 25.5 -5.4 5.5
-    vertex 25.5 3.5 5.75
+    vertex 25.5 3.5 5.8
     vertex 25.5 -5.4 12.7574
     endloop
   endfacet
   facet normal 1 0 -0
     outer loop
     vertex 25.5 -5.4 12.7574
-    vertex 25.5 3.5 5.75
-    vertex 25.5 3.5 14.25
+    vertex 25.5 3.5 5.8
+    vertex 25.5 3.5 14.2
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 25.5 3.5 5.75
-    vertex 25.5 5.4 13.1
-    vertex 25.5 3.5 14.25
+    vertex 25.5 3.5 5.8
+    vertex 25.5 5.4 13.05
+    vertex 25.5 3.5 14.2
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 25.5 4.25 5.75
-    vertex 25.5 5.4 6.9
-    vertex 25.5 3.5 5.75
+    vertex 25.5 4.25 5.8
+    vertex 25.5 5.4 6.95
+    vertex 25.5 3.5 5.8
     endloop
   endfacet
   facet normal 1 0 -0
     outer loop
-    vertex 25.5 3.5 5.75
-    vertex 25.5 5.4 6.9
-    vertex 25.5 5.4 13.1
+    vertex 25.5 3.5 5.8
+    vertex 25.5 5.4 6.95
+    vertex 25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 -0.707106 -0.707107
@@ -2158,7 +2158,7 @@ solid rod_holder.stl
   facet normal 1 0 0
     outer loop
     vertex 25.5 -5.4 12.7574
-    vertex 25.5 3.5 14.25
+    vertex 25.5 3.5 14.2
     vertex 25.5 -1 17
     endloop
   endfacet
@@ -2228,7 +2228,7 @@ solid rod_holder.stl
   facet normal 1 0 -0
     outer loop
     vertex 25.5 -1 17
-    vertex 25.5 3.5 14.25
+    vertex 25.5 3.5 14.2
     vertex 25.5 3.5 17
     endloop
   endfacet
@@ -2236,28 +2236,28 @@ solid rod_holder.stl
     outer loop
     vertex 25.483 3.62941 14.6875
     vertex 25.5 3.5 17
-    vertex 25.5 3.5 14.25
+    vertex 25.5 3.5 14.2
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 25.5 3.5 14.25
-    vertex 25.5 5.4 13.1
-    vertex 25.5 4.25 14.25
+    vertex 25.5 3.5 14.2
+    vertex 25.5 5.4 13.05
+    vertex 25.5 4.25 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25.5 3.5 14.25
-    vertex 25.5 4.25 14.25
-    vertex 25.483 3.62941 14.25
+    vertex 25.5 3.5 14.2
+    vertex 25.5 4.25 14.2
+    vertex 25.483 3.62941 14.2
     endloop
   endfacet
   facet normal 0.991446 0.130521 0
     outer loop
     vertex 25.483 3.62941 14.6875
-    vertex 25.5 3.5 14.25
-    vertex 25.483 3.62941 14.25
+    vertex 25.5 3.5 14.2
+    vertex 25.483 3.62941 14.2
     endloop
   endfacet
   facet normal 0.707107 0 0.707107
@@ -2288,7 +2288,7 @@ solid rod_holder.stl
     vertex 25.5 3.5 17
     endloop
   endfacet
-  facet normal 0.699336 0.155911 0.697582
+  facet normal 0.699336 0.155912 0.697582
     outer loop
     vertex 25.5 3.5 17
     vertex 23.5784 3.62941 18.8975
@@ -2302,7 +2302,7 @@ solid rod_holder.stl
     vertex 25.483 3.62941 14.6875
     endloop
   endfacet
-  facet normal 0.706255 0.0490634 0.706255
+  facet normal 0.706255 0.0490632 0.706255
     outer loop
     vertex 25.5 3.5 17
     vertex 22.4966 3.54901 20
@@ -2316,44 +2316,44 @@ solid rod_holder.stl
     vertex 25.5 3.5 17
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707106
+  facet normal 0 0.707107 -0.707107
     outer loop
-    vertex 25.5 5.4 6.9
-    vertex 25.5 4.25 5.75
-    vertex 10.5 5.4 6.9
+    vertex 25.5 5.4 6.95
+    vertex 25.5 4.25 5.8
+    vertex 10.5 5.4 6.95
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707106
+  facet normal 0 0.707107 -0.707107
     outer loop
-    vertex 10.5 5.4 6.9
-    vertex 25.5 4.25 5.75
-    vertex 10.5 4.25 5.75
+    vertex 10.5 5.4 6.95
+    vertex 25.5 4.25 5.8
+    vertex 10.5 4.25 5.8
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 19.8947 5.4 9.83193
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 17.46 5.4 7.35833
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 17.46 5.4 7.35833
     vertex 17.8748 5.4 7.4247
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 17.8748 5.4 7.4247
     vertex 18.2738 5.4 7.55576
     endloop
@@ -2362,19 +2362,19 @@ solid rod_holder.stl
     outer loop
     vertex 18.2738 5.4 7.55576
     vertex 18.6471 5.4 7.74823
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 18.6471 5.4 7.74823
     vertex 18.9854 5.4 7.99726
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 18.9854 5.4 7.99726
     vertex 19.28 5.4 8.29661
     endloop
@@ -2383,19 +2383,19 @@ solid rod_holder.stl
     outer loop
     vertex 19.28 5.4 8.29661
     vertex 19.5237 5.4 8.63875
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 19.5237 5.4 8.63875
     vertex 19.7102 5.4 9.01509
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     vertex 19.7102 5.4 9.01509
     vertex 19.8349 5.4 9.41618
     endloop
@@ -2404,47 +2404,47 @@ solid rod_holder.stl
     outer loop
     vertex 19.8349 5.4 9.41618
     vertex 19.8947 5.4 9.83193
-    vertex 25.5 5.4 6.9
+    vertex 25.5 5.4 6.95
     endloop
   endfacet
-  facet normal 0 0.707107 0.707106
+  facet normal 0 0.707106 0.707107
     outer loop
-    vertex 25.5 4.25 14.25
-    vertex 25.5 5.4 13.1
-    vertex 10.5 4.25 14.25
+    vertex 25.5 4.25 14.2
+    vertex 25.5 5.4 13.05
+    vertex 10.5 4.25 14.2
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 18.019 5.4 12.851
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 18.575 5.4 12.295
     vertex 18.019 5.4 12.851
     endloop
   endfacet
-  facet normal 0 0.707107 0.707106
+  facet normal 0 0.707106 0.707107
     outer loop
-    vertex 10.5 4.25 14.25
-    vertex 25.5 5.4 13.1
-    vertex 10.5 5.4 13.1
+    vertex 10.5 4.25 14.2
+    vertex 25.5 5.4 13.05
+    vertex 10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 19.8947 5.4 9.83193
     vertex 19.888 5.4 10.2519
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 19.888 5.4 10.2519
     vertex 19.8151 5.4 10.6655
     endloop
@@ -2453,19 +2453,19 @@ solid rod_holder.stl
     outer loop
     vertex 19.8151 5.4 10.6655
     vertex 19.6777 5.4 11.0625
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 19.6777 5.4 11.0625
     vertex 19.4793 5.4 11.4327
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 19.4793 5.4 11.4327
     vertex 19.225 5.4 11.7669
     endloop
@@ -2474,66 +2474,66 @@ solid rod_holder.stl
     outer loop
     vertex 19.225 5.4 11.7669
     vertex 18.921 5.4 12.0568
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 25.5 5.4 13.1
+    vertex 25.5 5.4 13.05
     vertex 18.921 5.4 12.0568
     vertex 18.575 5.4 12.295
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25.483 3.62941 14.25
-    vertex 25.5 4.25 14.25
-    vertex 25.433 3.75 14.25
+    vertex 25.483 3.62941 14.2
+    vertex 25.5 4.25 14.2
+    vertex 25.433 3.75 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25.433 3.75 14.25
-    vertex 25.5 4.25 14.25
-    vertex 25.3536 3.85355 14.25
+    vertex 25.433 3.75 14.2
+    vertex 25.5 4.25 14.2
+    vertex 25.3536 3.85355 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25.3536 3.85355 14.25
-    vertex 25.5 4.25 14.25
-    vertex 25.25 3.93301 14.25
+    vertex 25.3536 3.85355 14.2
+    vertex 25.5 4.25 14.2
+    vertex 25.25 3.93301 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 25.25 3.93301 14.25
-    vertex 25.5 4.25 14.25
-    vertex 25.1294 3.98296 14.25
+    vertex 25.25 3.93301 14.2
+    vertex 25.5 4.25 14.2
+    vertex 25.1294 3.98296 14.2
     endloop
   endfacet
-  facet normal 0.2706 0.923878 0.2706
+  facet normal 0.270599 0.923879 0.270599
     outer loop
     vertex 23.3284 3.98296 18.6475
     vertex 23.4137 3.93301 18.7327
     vertex 25.1294 3.98296 16.8465
     endloop
   endfacet
-  facet normal 0.270602 0.923877 0.270602
+  facet normal 0.270601 0.923878 0.270601
     outer loop
     vertex 25.1294 3.98296 16.8465
     vertex 23.4137 3.93301 18.7327
     vertex 25.25 3.93301 16.8964
     endloop
   endfacet
-  facet normal 0.38269 0.923877 0
+  facet normal 0.382689 0.923877 0
     outer loop
     vertex 25.25 3.93301 14.6875
     vertex 25.1294 3.98296 16.8465
     vertex 25.25 3.93301 16.8964
     endloop
   endfacet
-  facet normal 0.38269 0.923877 0
+  facet normal 0.382689 0.923877 0
     outer loop
     vertex 25.1294 3.98296 14.6875
     vertex 25.1294 3.98296 16.8465
@@ -2547,17 +2547,17 @@ solid rod_holder.stl
     vertex 23.3284 3.98296 18.6475
     endloop
   endfacet
-  facet normal 0.272233 0.923876 0.268965
+  facet normal 0.272232 0.923877 0.268964
     outer loop
     vertex 23.3284 3.98296 18.6475
     vertex 22.0635 3.96194 20
     vertex 23.4137 3.93301 18.7327
     endloop
   endfacet
-  facet normal 0.333135 0.881428 0.334822
+  facet normal 0.333136 0.881427 0.334823
     outer loop
     vertex 22.0635 3.96194 20
-    vertex 22.1857 3.91574 20
+    vertex 22.1857 3.91573 20
     vertex 23.4137 3.93301 18.7327
     endloop
   endfacet
@@ -2571,7 +2571,7 @@ solid rod_holder.stl
   facet normal 0.431745 0.793352 0.429173
     outer loop
     vertex 23.4137 3.93301 18.7327
-    vertex 22.1857 3.91574 20
+    vertex 22.1857 3.91573 20
     vertex 23.4869 3.85355 18.806
     endloop
   endfacet
@@ -2610,9 +2610,9 @@ solid rod_holder.stl
     vertex 23.5431 3.75 18.8622
     endloop
   endfacet
-  facet normal 0.448593 0.773 0.448593
+  facet normal 0.448592 0.773001 0.448592
     outer loop
-    vertex 22.1857 3.91574 20
+    vertex 22.1857 3.91573 20
     vertex 22.2929 3.85355 20
     vertex 23.4869 3.85355 18.806
     endloop
@@ -2645,14 +2645,14 @@ solid rod_holder.stl
     vertex 25.433 3.75 14.6875
     endloop
   endfacet
-  facet normal 0.653283 0.382677 0.653283
+  facet normal 0.653284 0.382676 0.653284
     outer loop
     vertex 25.433 3.75 16.9723
     vertex 23.5431 3.75 18.8622
     vertex 23.5784 3.62941 18.8975
     endloop
   endfacet
-  facet normal 0.655195 0.382675 0.651367
+  facet normal 0.655195 0.382675 0.651368
     outer loop
     vertex 23.5431 3.75 18.8622
     vertex 22.4462 3.69134 20
@@ -2666,7 +2666,7 @@ solid rod_holder.stl
     vertex 22.4462 3.69134 20
     endloop
   endfacet
-  facet normal 0.653283 0.382677 0.653283
+  facet normal 0.653284 0.382676 0.653284
     outer loop
     vertex 25.433 3.75 16.9723
     vertex 23.5784 3.62941 18.8975
@@ -2718,57 +2718,57 @@ solid rod_holder.stl
   facet normal 0.923881 0.38268 -0
     outer loop
     vertex 25.483 3.62941 14.6875
-    vertex 25.483 3.62941 14.25
+    vertex 25.483 3.62941 14.2
     vertex 25.433 3.75 14.6875
     endloop
   endfacet
   facet normal 0.923881 0.38268 0
     outer loop
     vertex 25.433 3.75 14.6875
-    vertex 25.483 3.62941 14.25
-    vertex 25.433 3.75 14.25
+    vertex 25.483 3.62941 14.2
+    vertex 25.433 3.75 14.2
     endloop
   endfacet
   facet normal 0.793351 0.608765 -0
     outer loop
     vertex 25.433 3.75 14.6875
-    vertex 25.433 3.75 14.25
+    vertex 25.433 3.75 14.2
     vertex 25.3536 3.85355 14.6875
     endloop
   endfacet
   facet normal 0.793351 0.608765 0
     outer loop
     vertex 25.3536 3.85355 14.6875
-    vertex 25.433 3.75 14.25
-    vertex 25.3536 3.85355 14.25
+    vertex 25.433 3.75 14.2
+    vertex 25.3536 3.85355 14.2
     endloop
   endfacet
   facet normal 0.608759 0.793355 -0
     outer loop
     vertex 25.3536 3.85355 14.6875
-    vertex 25.3536 3.85355 14.25
+    vertex 25.3536 3.85355 14.2
     vertex 25.25 3.93301 14.6875
     endloop
   endfacet
   facet normal 0.608759 0.793355 0
     outer loop
     vertex 25.25 3.93301 14.6875
-    vertex 25.3536 3.85355 14.25
-    vertex 25.25 3.93301 14.25
+    vertex 25.3536 3.85355 14.2
+    vertex 25.25 3.93301 14.2
     endloop
   endfacet
-  facet normal 0.38269 0.923877 -0
+  facet normal 0.382689 0.923877 -0
     outer loop
     vertex 25.25 3.93301 14.6875
-    vertex 25.25 3.93301 14.25
+    vertex 25.25 3.93301 14.2
     vertex 25.1294 3.98296 14.6875
     endloop
   endfacet
-  facet normal 0.38269 0.923877 0
+  facet normal 0.382689 0.923877 0
     outer loop
     vertex 25.1294 3.98296 14.6875
-    vertex 25.25 3.93301 14.25
-    vertex 25.1294 3.98296 14.25
+    vertex 25.25 3.93301 14.2
+    vertex 25.1294 3.98296 14.2
     endloop
   endfacet
   facet normal 0 -1 0
@@ -2901,20 +2901,20 @@ solid rod_holder.stl
     outer loop
     vertex -12.3741 0.6 13.41
     vertex -12.6795 -0.627644 12.9
-    vertex -12.4786 -0.237525 12.9
+    vertex -12.4786 -0.237526 12.9
     endloop
   endfacet
   facet normal 0.776745 -0.395416 0.490218
     outer loop
-    vertex -12.4786 -0.237525 12.9
-    vertex -12.2704 0.171333 12.9
+    vertex -12.4786 -0.237526 12.9
+    vertex -12.2704 0.171332 12.9
     vertex -12.3741 0.6 13.41
     endloop
   endfacet
   facet normal 0.779406 -0.392515 0.488321
     outer loop
     vertex -12.3741 0.6 13.41
-    vertex -12.2704 0.171333 12.9
+    vertex -12.2704 0.171332 12.9
     vertex -12.0546 0.6 12.9
     endloop
   endfacet
@@ -2935,28 +2935,28 @@ solid rod_holder.stl
   facet normal 0 0 1
     outer loop
     vertex -9.46805 -3.57412 12.9
-    vertex -12.4786 -0.237525 12.9
+    vertex -12.4786 -0.237526 12.9
     vertex -12.6795 -0.627644 12.9
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex -10.2653 0.6 12.9
-    vertex -12.2704 0.171333 12.9
-    vertex -12.4786 -0.237525 12.9
+    vertex -12.2704 0.171332 12.9
+    vertex -12.4786 -0.237526 12.9
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex -10.2653 0.6 12.9
-    vertex -12.4786 -0.237525 12.9
+    vertex -12.4786 -0.237526 12.9
     vertex -9.46805 -3.57412 12.9
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -12.0546 0.6 12.9
-    vertex -12.2704 0.171333 12.9
+    vertex -12.2704 0.171332 12.9
     vertex -10.2653 0.6 12.9
     endloop
   endfacet
@@ -3167,27 +3167,27 @@ solid rod_holder.stl
     outer loop
     vertex -16.121 -1 15.1272
     vertex -15.7653 0.6 15.7618
-    vertex -16.1527 0.186831 15.6639
+    vertex -16.1527 0.18683 15.6639
     endloop
   endfacet
   facet normal 0.729538 -0.68394 0
     outer loop
     vertex -15.7653 0.6 20
-    vertex -16.1527 0.186831 15.6639
+    vertex -16.1527 0.18683 15.6639
     vertex -15.7653 0.6 15.7618
     endloop
   endfacet
   facet normal 0.1503 -0.404061 0.9023
     outer loop
     vertex -16.121 -1 15.1272
-    vertex -16.1527 0.186831 15.6639
-    vertex -16.5327 -0.218524 15.5457
+    vertex -16.1527 0.18683 15.6639
+    vertex -16.5327 -0.218525 15.5457
     endloop
   endfacet
   facet normal 0.147282 -0.405558 0.902126
     outer loop
     vertex -16.121 -1 15.1272
-    vertex -16.5327 -0.218524 15.5457
+    vertex -16.5327 -0.218525 15.5457
     vertex -16.6898 -1 15.22
     endloop
   endfacet
@@ -3201,14 +3201,14 @@ solid rod_holder.stl
   facet normal 0.729536 -0.683943 4.41302e-007
     outer loop
     vertex -15.7653 0.6 20
-    vertex -16.5327 -0.218524 15.5457
-    vertex -16.1527 0.186831 15.6639
+    vertex -16.5327 -0.218525 15.5457
+    vertex -16.1527 0.18683 15.6639
     endloop
   endfacet
   facet normal 0.0843149 -0.397698 0.913634
     outer loop
     vertex -16.6898 -1 15.22
-    vertex -16.5327 -0.218524 15.5457
+    vertex -16.5327 -0.218525 15.5457
     vertex -16.904 -0.614609 15.4076
     endloop
   endfacet
@@ -3216,13 +3216,13 @@ solid rod_holder.stl
     outer loop
     vertex -17.2653 -1 20
     vertex -16.904 -0.614609 15.4076
-    vertex -16.5327 -0.218524 15.5457
+    vertex -16.5327 -0.218525 15.5457
     endloop
   endfacet
   facet normal 0.729537 -0.683941 -2.04005e-007
     outer loop
     vertex -17.2653 -1 20
-    vertex -16.5327 -0.218524 15.5457
+    vertex -16.5327 -0.218525 15.5457
     vertex -15.7653 0.6 20
     endloop
   endfacet
@@ -3319,7 +3319,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0 -0.707107 0.707106
     outer loop
-    vertex -12.4593 -4.633 12.667
+    vertex -12.4593 -4.63301 12.667
     vertex -9.2012 -4.4 12.9
     vertex -12.8736 -4.4 12.9
     endloop
@@ -3327,7 +3327,7 @@ solid rod_holder.stl
   facet normal -0.600974 -0.718528 -0.350069
     outer loop
     vertex -12.5685 -4.4 12.3762
-    vertex -12.4593 -4.633 12.667
+    vertex -12.4593 -4.63301 12.667
     vertex -12.8736 -4.4 12.9
     endloop
   endfacet
@@ -3389,7 +3389,7 @@ solid rod_holder.stl
   endfacet
   facet normal 1.56631e-007 -0.707109 0.707105
     outer loop
-    vertex -12.4593 -4.633 12.667
+    vertex -12.4593 -4.63301 12.667
     vertex -9.05962 -4.672 12.628
     vertex -9.2012 -4.4 12.9
     endloop
@@ -3447,27 +3447,27 @@ solid rod_holder.stl
     outer loop
     vertex 16.6898 -1 15.22
     vertex 16.904 -0.614609 15.4076
-    vertex 16.5327 -0.218524 15.5457
+    vertex 16.5327 -0.218525 15.5457
     endloop
   endfacet
   facet normal -0.729538 -0.68394 8.32493e-008
     outer loop
     vertex 17.2653 -1 20
-    vertex 16.5327 -0.218524 15.5457
+    vertex 16.5327 -0.218525 15.5457
     vertex 16.904 -0.614609 15.4076
     endloop
   endfacet
   facet normal -0.153014 -0.406193 0.900885
     outer loop
     vertex 16.6898 -1 15.22
-    vertex 16.5327 -0.218524 15.5457
-    vertex 16.1527 0.186831 15.6639
+    vertex 16.5327 -0.218525 15.5457
+    vertex 16.1527 0.18683 15.6639
     endloop
   endfacet
   facet normal -0.147371 -0.404308 0.902672
     outer loop
     vertex 16.6898 -1 15.22
-    vertex 16.1527 0.186831 15.6639
+    vertex 16.1527 0.18683 15.6639
     vertex 16.121 -1 15.1272
     endloop
   endfacet
@@ -3481,28 +3481,28 @@ solid rod_holder.stl
   facet normal -0.729536 -0.683943 4.41302e-007
     outer loop
     vertex 15.7653 0.6 20
-    vertex 16.1527 0.186831 15.6639
-    vertex 16.5327 -0.218524 15.5457
+    vertex 16.1527 0.18683 15.6639
+    vertex 16.5327 -0.218525 15.5457
     endloop
   endfacet
   facet normal -0.729537 -0.683941 -2.04005e-007
     outer loop
     vertex 15.7653 0.6 20
-    vertex 16.5327 -0.218524 15.5457
+    vertex 16.5327 -0.218525 15.5457
     vertex 17.2653 -1 20
     endloop
   endfacet
   facet normal -0.199872 -0.399326 0.894757
     outer loop
     vertex 16.121 -1 15.1272
-    vertex 16.1527 0.186831 15.6639
+    vertex 16.1527 0.18683 15.6639
     vertex 15.7653 0.6 15.7618
     endloop
   endfacet
   facet normal -0.729538 -0.68394 0
     outer loop
     vertex 15.7653 0.6 15.7618
-    vertex 16.1527 0.186831 15.6639
+    vertex 16.1527 0.18683 15.6639
     vertex 15.7653 0.6 20
     endloop
   endfacet
@@ -3804,27 +3804,27 @@ solid rod_holder.stl
     outer loop
     vertex 12.6795 -0.627644 12.9
     vertex 12.0546 0.6 12.9
-    vertex 12.4786 -0.237525 12.9
+    vertex 12.4786 -0.237526 12.9
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex 9.46805 -3.57412 12.9
     vertex 12.6795 -0.627644 12.9
-    vertex 12.4786 -0.237525 12.9
+    vertex 12.4786 -0.237526 12.9
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 12.4786 -0.237525 12.9
+    vertex 12.4786 -0.237526 12.9
     vertex 12.0546 0.6 12.9
-    vertex 12.2704 0.171333 12.9
+    vertex 12.2704 0.171332 12.9
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex 10.2653 0.6 12.9
-    vertex 12.2704 0.171333 12.9
+    vertex 12.2704 0.171332 12.9
     vertex 12.0546 0.6 12.9
     endloop
   endfacet
@@ -3838,14 +3838,14 @@ solid rod_holder.stl
   facet normal 0 0 1
     outer loop
     vertex 10.2653 0.6 12.9
-    vertex 12.4786 -0.237525 12.9
-    vertex 12.2704 0.171333 12.9
+    vertex 12.4786 -0.237526 12.9
+    vertex 12.2704 0.171332 12.9
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex 9.46805 -3.57412 12.9
-    vertex 12.4786 -0.237525 12.9
+    vertex 12.4786 -0.237526 12.9
     vertex 10.2653 0.6 12.9
     endloop
   endfacet
@@ -3874,12 +3874,12 @@ solid rod_holder.stl
     outer loop
     vertex 12.8736 -4.4 12.9
     vertex 9.2012 -4.4 12.9
-    vertex 12.4593 -4.633 12.667
+    vertex 12.4593 -4.63301 12.667
     endloop
   endfacet
   facet normal 0.600974 -0.718528 -0.350069
     outer loop
-    vertex 12.4593 -4.633 12.667
+    vertex 12.4593 -4.63301 12.667
     vertex 12.5685 -4.4 12.3762
     vertex 12.8736 -4.4 12.9
     endloop
@@ -3963,7 +3963,7 @@ solid rod_holder.stl
   endfacet
   facet normal -1.56631e-007 -0.707109 0.707105
     outer loop
-    vertex 12.4593 -4.633 12.667
+    vertex 12.4593 -4.63301 12.667
     vertex 9.2012 -4.4 12.9
     vertex 9.05962 -4.672 12.628
     endloop
@@ -3985,35 +3985,35 @@ solid rod_holder.stl
   facet normal 0 0 1
     outer loop
     vertex 9.85391 1.04515 14.2
-    vertex 7.40398 0.31422 14.2
+    vertex 7.40398 0.314219 14.2
     vertex 10.2653 0.6 14.2
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex 10.2653 0.6 14.2
-    vertex 7.40398 0.31422 14.2
-    vertex 7.82698 0.0973675 14.2
+    vertex 7.40398 0.314219 14.2
+    vertex 7.82698 0.0973669 14.2
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex 10.2653 0.6 14.2
-    vertex 7.82698 0.0973675 14.2
-    vertex 8.21685 -0.17458 14.2
+    vertex 7.82698 0.0973669 14.2
+    vertex 8.21685 -0.174581 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex 8.21685 -0.17458 14.2
-    vertex 8.56646 -0.496647 14.2
+    vertex 8.21685 -0.174581 14.2
+    vertex 8.56646 -0.496648 14.2
     vertex 10.2653 0.6 14.2
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex 10.2653 0.6 14.2
-    vertex 8.56646 -0.496647 14.2
+    vertex 8.56646 -0.496648 14.2
     vertex 8.86942 -0.862944 14.2
     endloop
   endfacet
@@ -4083,14 +4083,14 @@ solid rod_holder.stl
   facet normal 0 0 -1
     outer loop
     vertex 10.2653 0.6 17.5
-    vertex 7.40398 0.31422 17.5
+    vertex 7.40398 0.314219 17.5
     vertex 9.85391 1.04515 17.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 7.82698 0.0973675 17.5
-    vertex 7.40398 0.31422 17.5
+    vertex 7.82698 0.0973669 17.5
+    vertex 7.40398 0.314219 17.5
     vertex 10.2653 0.6 17.5
     endloop
   endfacet
@@ -4139,22 +4139,22 @@ solid rod_holder.stl
   facet normal 0 0 -1
     outer loop
     vertex 8.86942 -0.862944 17.5
-    vertex 8.56646 -0.496647 17.5
+    vertex 8.56646 -0.496648 17.5
     vertex 10.2653 0.6 17.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 10.2653 0.6 17.5
-    vertex 8.56646 -0.496647 17.5
-    vertex 8.21685 -0.17458 17.5
+    vertex 8.56646 -0.496648 17.5
+    vertex 8.21685 -0.174581 17.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 10.2653 0.6 17.5
-    vertex 8.21685 -0.17458 17.5
-    vertex 7.82698 0.0973675 17.5
+    vertex 8.21685 -0.174581 17.5
+    vertex 7.82698 0.0973669 17.5
     endloop
   endfacet
   facet normal 0 -0 1
@@ -4174,7 +4174,7 @@ solid rod_holder.stl
   facet normal 0 0 1
     outer loop
     vertex 10.2653 0.6 20
-    vertex 0.526846 0.615587 20
+    vertex 0.526846 0.615586 20
     vertex 1.04474 0.51293 20
     endloop
   endfacet
@@ -4188,21 +4188,21 @@ solid rod_holder.stl
   facet normal 0 -0 1
     outer loop
     vertex 1.54488 0.343776 20
-    vertex 2.01876 0.110999 20
+    vertex 2.01876 0.110998 20
     vertex 10.2653 0.6 20
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex 10.2653 0.6 20
-    vertex 2.01876 0.110999 20
-    vertex 2.45834 -0.181446 20
+    vertex 2.01876 0.110998 20
+    vertex 2.45834 -0.181447 20
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
     vertex 10.2653 0.6 20
-    vertex 2.45834 -0.181446 20
+    vertex 2.45834 -0.181447 20
     vertex 2.85613 -0.528589 20
     endloop
   endfacet
@@ -4279,35 +4279,35 @@ solid rod_holder.stl
   facet normal 0 0 -1
     outer loop
     vertex -9.85391 1.04515 17.5
-    vertex -7.40398 0.31422 17.5
+    vertex -7.40398 0.314219 17.5
     vertex -10.2653 0.6 17.5
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
     vertex -10.2653 0.6 17.5
-    vertex -7.40398 0.31422 17.5
-    vertex -7.82698 0.0973675 17.5
+    vertex -7.40398 0.314219 17.5
+    vertex -7.82698 0.0973669 17.5
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
     vertex -10.2653 0.6 17.5
-    vertex -7.82698 0.0973675 17.5
-    vertex -8.21685 -0.17458 17.5
+    vertex -7.82698 0.0973669 17.5
+    vertex -8.21685 -0.174581 17.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -8.21685 -0.17458 17.5
-    vertex -8.56646 -0.496647 17.5
+    vertex -8.21685 -0.174581 17.5
+    vertex -8.56646 -0.496648 17.5
     vertex -10.2653 0.6 17.5
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
     vertex -10.2653 0.6 17.5
-    vertex -8.56646 -0.496647 17.5
+    vertex -8.56646 -0.496648 17.5
     vertex -8.86942 -0.862944 17.5
     endloop
   endfacet
@@ -4356,14 +4356,14 @@ solid rod_holder.stl
   facet normal 0 0 1
     outer loop
     vertex -10.2653 0.6 14.2
-    vertex -7.40398 0.31422 14.2
+    vertex -7.40398 0.314219 14.2
     vertex -9.85391 1.04515 14.2
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -7.82698 0.0973675 14.2
-    vertex -7.40398 0.31422 14.2
+    vertex -7.82698 0.0973669 14.2
+    vertex -7.40398 0.314219 14.2
     vertex -10.2653 0.6 14.2
     endloop
   endfacet
@@ -4412,22 +4412,22 @@ solid rod_holder.stl
   facet normal 0 0 1
     outer loop
     vertex -8.86942 -0.862944 14.2
-    vertex -8.56646 -0.496647 14.2
+    vertex -8.56646 -0.496648 14.2
     vertex -10.2653 0.6 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -10.2653 0.6 14.2
-    vertex -8.56646 -0.496647 14.2
-    vertex -8.21685 -0.17458 14.2
+    vertex -8.56646 -0.496648 14.2
+    vertex -8.21685 -0.174581 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -10.2653 0.6 14.2
-    vertex -8.21685 -0.17458 14.2
-    vertex -7.82698 0.0973675 14.2
+    vertex -8.21685 -0.174581 14.2
+    vertex -7.82698 0.0973669 14.2
     endloop
   endfacet
   facet normal 0 0 1
@@ -4469,19 +4469,19 @@ solid rod_holder.stl
     outer loop
     vertex -10.2653 0.6 20
     vertex -2.85613 -0.528589 20
-    vertex -2.45834 -0.181446 20
+    vertex -2.45834 -0.181447 20
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -10.2653 0.6 20
-    vertex -2.45834 -0.181446 20
-    vertex -2.01876 0.110999 20
+    vertex -2.45834 -0.181447 20
+    vertex -2.01876 0.110998 20
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -2.01876 0.110999 20
+    vertex -2.01876 0.110998 20
     vertex -1.54488 0.343776 20
     vertex -10.2653 0.6 20
     endloop
@@ -4497,7 +4497,7 @@ solid rod_holder.stl
     outer loop
     vertex -10.2653 0.6 20
     vertex -1.04474 0.51293 20
-    vertex -0.526846 0.615587 20
+    vertex -0.526846 0.615586 20
     endloop
   endfacet
   facet normal 0 -1 0
@@ -6287,44 +6287,44 @@ solid rod_holder.stl
   endfacet
   facet normal 0.657505 -0.75345 0
     outer loop
-    vertex -2.45834 -0.181446 10.5
-    vertex -2.45834 -0.181446 20
+    vertex -2.45834 -0.181447 10.5
+    vertex -2.45834 -0.181447 20
     vertex -2.85613 -0.528589 20
     endloop
   endfacet
   facet normal 0.657505 -0.75345 0
     outer loop
-    vertex -2.45834 -0.181446 10.5
+    vertex -2.45834 -0.181447 10.5
     vertex -2.85613 -0.528589 20
     vertex -2.85613 -0.528589 10.5
     endloop
   endfacet
   facet normal 0.553906 -0.832579 0
     outer loop
-    vertex -2.01876 0.110999 10.5
-    vertex -2.01876 0.110999 20
-    vertex -2.45834 -0.181446 20
+    vertex -2.01876 0.110998 10.5
+    vertex -2.01876 0.110998 20
+    vertex -2.45834 -0.181447 20
     endloop
   endfacet
   facet normal 0.553906 -0.832579 0
     outer loop
-    vertex -2.01876 0.110999 10.5
-    vertex -2.45834 -0.181446 20
-    vertex -2.45834 -0.181446 10.5
+    vertex -2.01876 0.110998 10.5
+    vertex -2.45834 -0.181447 20
+    vertex -2.45834 -0.181447 10.5
     endloop
   endfacet
   facet normal 0.440893 -0.89756 0
     outer loop
     vertex -1.54488 0.343776 10.5
     vertex -1.54488 0.343776 20
-    vertex -2.01876 0.110999 20
+    vertex -2.01876 0.110998 20
     endloop
   endfacet
   facet normal 0.440893 -0.89756 0
     outer loop
     vertex -1.54488 0.343776 10.5
-    vertex -2.01876 0.110999 20
-    vertex -2.01876 0.110999 10.5
+    vertex -2.01876 0.110998 20
+    vertex -2.01876 0.110998 10.5
     endloop
   endfacet
   facet normal 0.320387 -0.947287 0
@@ -6338,7 +6338,7 @@ solid rod_holder.stl
     outer loop
     vertex -1.04474 0.51293 20
     vertex -0.634429 0.6 17.5
-    vertex -0.526846 0.615587 20
+    vertex -0.526846 0.615586 20
     endloop
   endfacet
   facet normal 0.207583 -0.978217 0
@@ -6364,42 +6364,42 @@ solid rod_holder.stl
   endfacet
   facet normal 0.0651809 -0.997868 -0.00331234
     outer loop
-    vertex -0.526846 0.615587 20
+    vertex -0.526846 0.615586 20
     vertex -0.212254 0.644434 17.5
-    vertex -3.44303e-015 0.65 20
+    vertex 1.82367e-015 0.65 20
     endloop
   endfacet
   facet normal 0.104672 -0.994505 0.0016959
     outer loop
-    vertex -0.526846 0.615587 20
+    vertex -0.526846 0.615586 20
     vertex -0.634429 0.6 17.5
     vertex -0.212254 0.644434 17.5
     endloop
   endfacet
   facet normal -0.0651809 -0.997868 -0.00331234
     outer loop
-    vertex -3.44303e-015 0.65 20
+    vertex 1.82367e-015 0.65 20
     vertex 0.212254 0.644434 17.5
-    vertex 0.526846 0.615587 20
+    vertex 0.526846 0.615586 20
     endloop
   endfacet
   facet normal 0 -0.999997 0.00222635
     outer loop
-    vertex -3.44303e-015 0.65 20
+    vertex 1.82367e-015 0.65 20
     vertex -0.212254 0.644434 17.5
     vertex 0.212254 0.644434 17.5
     endloop
   endfacet
   facet normal -0.194436 -0.980913 -0.00225166
     outer loop
-    vertex 0.526846 0.615587 20
+    vertex 0.526846 0.615586 20
     vertex 0.634429 0.6 17.5
     vertex 1.04474 0.51293 20
     endloop
   endfacet
   facet normal -0.104672 -0.994505 0.0016959
     outer loop
-    vertex 0.526846 0.615587 20
+    vertex 0.526846 0.615586 20
     vertex 0.212254 0.644434 17.5
     vertex 0.634429 0.6 17.5
     endloop
@@ -6427,8 +6427,8 @@ solid rod_holder.stl
   endfacet
   facet normal -0.440893 -0.89756 -0
     outer loop
-    vertex 2.01876 0.110999 10.5
-    vertex 2.01876 0.110999 20
+    vertex 2.01876 0.110998 10.5
+    vertex 2.01876 0.110998 20
     vertex 1.54488 0.343776 20
     endloop
   endfacet
@@ -6441,37 +6441,37 @@ solid rod_holder.stl
   endfacet
   facet normal -0.440893 -0.89756 -0
     outer loop
-    vertex 2.01876 0.110999 10.5
+    vertex 2.01876 0.110998 10.5
     vertex 1.54488 0.343776 20
     vertex 1.54488 0.343776 10.5
     endloop
   endfacet
   facet normal -0.553906 -0.832579 -0
     outer loop
-    vertex 2.45834 -0.181446 10.5
-    vertex 2.45834 -0.181446 20
-    vertex 2.01876 0.110999 20
+    vertex 2.45834 -0.181447 10.5
+    vertex 2.45834 -0.181447 20
+    vertex 2.01876 0.110998 20
     endloop
   endfacet
   facet normal -0.553906 -0.832579 -0
     outer loop
-    vertex 2.45834 -0.181446 10.5
-    vertex 2.01876 0.110999 20
-    vertex 2.01876 0.110999 10.5
+    vertex 2.45834 -0.181447 10.5
+    vertex 2.01876 0.110998 20
+    vertex 2.01876 0.110998 10.5
     endloop
   endfacet
   facet normal -0.657505 -0.75345 -0
     outer loop
     vertex 2.85613 -0.528589 10.5
     vertex 2.85613 -0.528589 20
-    vertex 2.45834 -0.181446 20
+    vertex 2.45834 -0.181447 20
     endloop
   endfacet
   facet normal -0.657505 -0.75345 -0
     outer loop
     vertex 2.85613 -0.528589 10.5
-    vertex 2.45834 -0.181446 20
-    vertex 2.45834 -0.181446 10.5
+    vertex 2.45834 -0.181447 20
+    vertex 2.45834 -0.181447 10.5
     endloop
   endfacet
   facet normal -0.749931 -0.661516 -0
@@ -7230,7 +7230,7 @@ solid rod_holder.stl
     vertex 12.0397 -4.4 10.6447
     endloop
   endfacet
-  facet normal 0.998987 -0.000399705 0.0449883
+  facet normal 0.998987 -0.000399706 0.0449883
     outer loop
     vertex 12.0002 -4.4 10.0398
     vertex 12.0274 -1 9.46387
@@ -7311,12 +7311,12 @@ solid rod_holder.stl
     outer loop
     vertex 12.058 -4.87878 12.4212
     vertex 12.5685 -4.4 12.3762
-    vertex 12.4593 -4.633 12.667
+    vertex 12.4593 -4.63301 12.667
     endloop
   endfacet
   facet normal -2.34216e-007 -0.707105 0.707108
     outer loop
-    vertex 12.4593 -4.633 12.667
+    vertex 12.4593 -4.63301 12.667
     vertex 9.05962 -4.672 12.628
     vertex 12.058 -4.87878 12.4212
     endloop
@@ -8245,7 +8245,7 @@ solid rod_holder.stl
     vertex -12.0397 -4.4 10.6447
     endloop
   endfacet
-  facet normal -0.998987 -0.000399705 0.0449883
+  facet normal -0.998987 -0.000399706 0.0449883
     outer loop
     vertex -12.0274 -1 9.46387
     vertex -12.0002 -4.4 10.0398
@@ -8326,14 +8326,14 @@ solid rod_holder.stl
     outer loop
     vertex -12.5685 -4.4 12.3762
     vertex -12.058 -4.87878 12.4212
-    vertex -12.4593 -4.633 12.667
+    vertex -12.4593 -4.63301 12.667
     endloop
   endfacet
   facet normal 2.34216e-007 -0.707105 0.707108
     outer loop
     vertex -12.058 -4.87878 12.4212
     vertex -9.05962 -4.672 12.628
-    vertex -12.4593 -4.633 12.667
+    vertex -12.4593 -4.63301 12.667
     endloop
   endfacet
   facet normal 1.72507e-007 -0.707105 0.707109
@@ -8823,7 +8823,7 @@ solid rod_holder.stl
     outer loop
     vertex 18.019 5.4 12.851
     vertex 16.481 5.4 12.851
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 0 -1
@@ -8849,7 +8849,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 16.481 5.4 12.851
     vertex 15.925 5.4 12.295
     endloop
@@ -8870,7 +8870,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 15.925 5.4 12.295
     vertex 15.579 5.4 12.0568
     endloop
@@ -8879,19 +8879,19 @@ solid rod_holder.stl
     outer loop
     vertex 15.579 5.4 12.0568
     vertex 15.275 5.4 11.7669
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 15.275 5.4 11.7669
     vertex 15.0207 5.4 11.4327
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 15.0207 5.4 11.4327
     vertex 14.8223 5.4 11.0625
     endloop
@@ -8900,42 +8900,42 @@ solid rod_holder.stl
     outer loop
     vertex 14.8223 5.4 11.0625
     vertex 14.6849 5.4 10.6655
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 14.6849 5.4 10.6655
     vertex 14.612 5.4 10.2519
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 14.612 5.4 10.2519
     vertex 14.6053 5.4 9.83193
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 13.05
     vertex 14.6053 5.4 9.83193
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 10.5 5.4 6.9
-    vertex 10.5 4.25 5.75
-    vertex 10.5 5.4 13.1
+    vertex 10.5 5.4 6.95
+    vertex 10.5 4.25 5.8
+    vertex 10.5 5.4 13.05
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 10.5 5.4 13.1
-    vertex 10.5 4.25 5.75
-    vertex 10.5 4.25 14.25
+    vertex 10.5 5.4 13.05
+    vertex 10.5 4.25 5.8
+    vertex 10.5 4.25 14.2
     endloop
   endfacet
   facet normal 0.567062 0 -0.823675
@@ -9038,7 +9038,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 14.6053 5.4 9.83193
     vertex 14.6651 5.4 9.41618
     endloop
@@ -9059,7 +9059,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 14.6651 5.4 9.41618
     vertex 14.7898 5.4 9.01509
     endloop
@@ -9068,19 +9068,19 @@ solid rod_holder.stl
     outer loop
     vertex 14.7898 5.4 9.01509
     vertex 14.9763 5.4 8.63875
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 14.9763 5.4 8.63875
     vertex 15.22 5.4 8.29661
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 15.22 5.4 8.29661
     vertex 15.5146 5.4 7.99726
     endloop
@@ -9089,19 +9089,19 @@ solid rod_holder.stl
     outer loop
     vertex 15.5146 5.4 7.99726
     vertex 15.8529 5.4 7.74823
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 15.8529 5.4 7.74823
     vertex 16.2262 5.4 7.55576
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 16.2262 5.4 7.55576
     vertex 16.6252 5.4 7.4247
     endloop
@@ -9110,12 +9110,12 @@ solid rod_holder.stl
     outer loop
     vertex 16.6252 5.4 7.4247
     vertex 17.04 5.4 7.35833
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 10.5 5.4 6.9
+    vertex 10.5 5.4 6.95
     vertex 17.04 5.4 7.35833
     vertex 17.46 5.4 7.35833
     endloop
@@ -9479,35 +9479,35 @@ solid rod_holder.stl
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -10.5 5.4 6.9
-    vertex -10.5 5.4 13.1
-    vertex -10.5 4.25 5.75
+    vertex -10.5 5.4 6.95
+    vertex -10.5 5.4 13.05
+    vertex -10.5 4.25 5.8
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -10.5 4.25 5.75
-    vertex -10.5 5.4 13.1
-    vertex -10.5 4.25 14.25
+    vertex -10.5 4.25 5.8
+    vertex -10.5 5.4 13.05
+    vertex -10.5 4.25 14.2
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -14.6053 5.4 9.83193
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -17.46 5.4 7.35833
     vertex -17.04 5.4 7.35833
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -17.04 5.4 7.35833
     vertex -16.6252 5.4 7.4247
     endloop
@@ -9516,19 +9516,19 @@ solid rod_holder.stl
     outer loop
     vertex -16.6252 5.4 7.4247
     vertex -16.2262 5.4 7.55576
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -16.2262 5.4 7.55576
     vertex -15.8529 5.4 7.74823
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -15.8529 5.4 7.74823
     vertex -15.5146 5.4 7.99726
     endloop
@@ -9537,19 +9537,19 @@ solid rod_holder.stl
     outer loop
     vertex -15.5146 5.4 7.99726
     vertex -15.22 5.4 8.29661
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -15.22 5.4 8.29661
     vertex -14.9763 5.4 8.63875
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -14.9763 5.4 8.63875
     vertex -14.7898 5.4 9.01509
     endloop
@@ -9558,12 +9558,12 @@ solid rod_holder.stl
     outer loop
     vertex -14.7898 5.4 9.01509
     vertex -14.6651 5.4 9.41618
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -10.5 5.4 6.9
+    vertex -10.5 5.4 6.95
     vertex -14.6651 5.4 9.41618
     vertex -14.6053 5.4 9.83193
     endloop
@@ -9572,19 +9572,19 @@ solid rod_holder.stl
     outer loop
     vertex -16.481 5.4 12.851
     vertex -18.019 5.4 12.851
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -14.6053 5.4 9.83193
     vertex -14.612 5.4 10.2519
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -14.612 5.4 10.2519
     vertex -14.6849 5.4 10.6655
     endloop
@@ -9593,19 +9593,19 @@ solid rod_holder.stl
     outer loop
     vertex -14.6849 5.4 10.6655
     vertex -14.8223 5.4 11.0625
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -14.8223 5.4 11.0625
     vertex -15.0207 5.4 11.4327
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -15.0207 5.4 11.4327
     vertex -15.275 5.4 11.7669
     endloop
@@ -9614,19 +9614,19 @@ solid rod_holder.stl
     outer loop
     vertex -15.275 5.4 11.7669
     vertex -15.579 5.4 12.0568
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -15.579 5.4 12.0568
     vertex -15.925 5.4 12.295
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -10.5 5.4 13.1
+    vertex -10.5 5.4 13.05
     vertex -15.925 5.4 12.295
     vertex -16.481 5.4 12.851
     endloop
@@ -10214,7 +10214,7 @@ solid rod_holder.stl
   endfacet
   facet normal -0.104672 -0.994506 -0.00114588
     outer loop
-    vertex 0.526846 0.615587 10.5
+    vertex 0.526846 0.615586 10.5
     vertex 0.634429 0.6 14.2
     vertex 0.212254 0.644434 14.2
     endloop
@@ -10223,7 +10223,7 @@ solid rod_holder.stl
     outer loop
     vertex 1.04474 0.51293 10.5
     vertex 0.634429 0.6 14.2
-    vertex 0.526846 0.615587 10.5
+    vertex 0.526846 0.615586 10.5
     endloop
   endfacet
   facet normal 0 0 1
@@ -10261,7 +10261,7 @@ solid rod_holder.stl
     vertex 6.01574 0.6 14.2
     endloop
   endfacet
-  facet normal -0.655472 -0.755219 -0
+  facet normal -0.655472 -0.75522 -0
     outer loop
     vertex 9.85391 1.04515 14.2
     vertex 9.85391 1.04515 17.5
@@ -10278,18 +10278,18 @@ solid rod_holder.stl
   facet normal 0 0 -1
     outer loop
     vertex 9.85391 1.04515 17.5
-    vertex 6.95558 0.472012 17.5
+    vertex 6.95558 0.472011 17.5
     vertex 6.49 0.567856 17.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 9.85391 1.04515 17.5
-    vertex 7.40398 0.31422 17.5
-    vertex 6.95558 0.472012 17.5
+    vertex 7.40398 0.314219 17.5
+    vertex 6.95558 0.472011 17.5
     endloop
   endfacet
-  facet normal -0.655472 -0.755219 -0
+  facet normal -0.655472 -0.75522 -0
     outer loop
     vertex 9.85391 1.04515 14.2
     vertex 9.39613 1.44247 17.5
@@ -10305,15 +10305,15 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 6.95558 0.472012 14.2
+    vertex 6.95558 0.472011 14.2
     vertex 9.85391 1.04515 14.2
     vertex 6.49 0.567856 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex 6.95558 0.472012 14.2
-    vertex 7.40398 0.31422 14.2
+    vertex 6.95558 0.472011 14.2
+    vertex 7.40398 0.314219 14.2
     vertex 9.85391 1.04515 14.2
     endloop
   endfacet
@@ -10695,7 +10695,7 @@ solid rod_holder.stl
     vertex -6.49 0.567856 14.2
     endloop
   endfacet
-  facet normal 0.655472 -0.755219 0
+  facet normal 0.655472 -0.75522 0
     outer loop
     vertex -9.39613 1.44247 14.2
     vertex -9.39613 1.44247 17.5
@@ -10709,7 +10709,7 @@ solid rod_holder.stl
     vertex -9.85391 1.04515 17.5
     endloop
   endfacet
-  facet normal 0.655472 -0.755219 0
+  facet normal 0.655472 -0.75522 0
     outer loop
     vertex -9.39613 1.44247 14.2
     vertex -9.85391 1.04515 17.5
@@ -10727,28 +10727,28 @@ solid rod_holder.stl
     outer loop
     vertex -9.85391 1.04515 17.5
     vertex -6.49 0.567856 17.5
-    vertex -6.95558 0.472012 17.5
+    vertex -6.95558 0.472011 17.5
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
     vertex -9.85391 1.04515 17.5
-    vertex -6.95558 0.472012 17.5
-    vertex -7.40398 0.31422 17.5
+    vertex -6.95558 0.472011 17.5
+    vertex -7.40398 0.314219 17.5
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -9.85391 1.04515 14.2
-    vertex -6.95558 0.472012 14.2
+    vertex -6.95558 0.472011 14.2
     vertex -6.49 0.567856 14.2
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -9.85391 1.04515 14.2
-    vertex -7.40398 0.31422 14.2
-    vertex -6.95558 0.472012 14.2
+    vertex -7.40398 0.314219 14.2
+    vertex -6.95558 0.472011 14.2
     endloop
   endfacet
   facet normal 0 1 0
@@ -10781,7 +10781,7 @@ solid rod_holder.stl
   endfacet
   facet normal 0.104672 -0.994506 -0.00114588
     outer loop
-    vertex -0.526846 0.615587 10.5
+    vertex -0.526846 0.615586 10.5
     vertex -0.212254 0.644434 14.2
     vertex -0.634429 0.6 14.2
     endloop
@@ -10790,91 +10790,91 @@ solid rod_holder.stl
     outer loop
     vertex -0.634429 0.6 14.2
     vertex -1.04474 0.51293 10.5
-    vertex -0.526846 0.615587 10.5
+    vertex -0.526846 0.615586 10.5
     endloop
   endfacet
   facet normal -0.20163 0.979462 0
     outer loop
-    vertex -6.95558 0.472012 14.2
-    vertex -6.95558 0.472012 17.5
+    vertex -6.95558 0.472011 14.2
+    vertex -6.95558 0.472011 17.5
     vertex -6.49 0.567856 17.5
     endloop
   endfacet
   facet normal -0.20163 0.979462 0
     outer loop
-    vertex -6.95558 0.472012 14.2
+    vertex -6.95558 0.472011 14.2
     vertex -6.49 0.567856 17.5
     vertex -6.49 0.567856 14.2
     endloop
   endfacet
   facet normal -0.33195 0.943297 0
     outer loop
-    vertex -7.40398 0.31422 14.2
-    vertex -7.40398 0.31422 17.5
-    vertex -6.95558 0.472012 17.5
+    vertex -7.40398 0.314219 14.2
+    vertex -7.40398 0.314219 17.5
+    vertex -6.95558 0.472011 17.5
     endloop
   endfacet
   facet normal -0.33195 0.943297 0
     outer loop
-    vertex -7.40398 0.31422 14.2
-    vertex -6.95558 0.472012 17.5
-    vertex -6.95558 0.472012 14.2
+    vertex -7.40398 0.314219 14.2
+    vertex -6.95558 0.472011 17.5
+    vertex -6.95558 0.472011 14.2
     endloop
   endfacet
   facet normal -0.456198 0.889878 0
     outer loop
-    vertex -7.82698 0.0973675 14.2
-    vertex -7.82698 0.0973675 17.5
-    vertex -7.40398 0.31422 17.5
+    vertex -7.82698 0.0973669 14.2
+    vertex -7.82698 0.0973669 17.5
+    vertex -7.40398 0.314219 17.5
     endloop
   endfacet
   facet normal -0.456198 0.889878 0
     outer loop
-    vertex -7.82698 0.0973675 14.2
-    vertex -7.40398 0.31422 17.5
-    vertex -7.40398 0.31422 14.2
+    vertex -7.82698 0.0973669 14.2
+    vertex -7.40398 0.314219 17.5
+    vertex -7.40398 0.314219 14.2
     endloop
   endfacet
   facet normal -0.572102 0.820182 0
     outer loop
-    vertex -8.21685 -0.17458 14.2
-    vertex -8.21685 -0.17458 17.5
-    vertex -7.82698 0.0973675 17.5
+    vertex -8.21685 -0.174581 14.2
+    vertex -8.21685 -0.174581 17.5
+    vertex -7.82698 0.0973669 17.5
     endloop
   endfacet
   facet normal -0.572102 0.820182 0
     outer loop
-    vertex -8.21685 -0.17458 14.2
-    vertex -7.82698 0.0973675 17.5
-    vertex -7.82698 0.0973675 14.2
+    vertex -8.21685 -0.174581 14.2
+    vertex -7.82698 0.0973669 17.5
+    vertex -7.82698 0.0973669 14.2
     endloop
   endfacet
   facet normal -0.677541 0.735485 0
     outer loop
-    vertex -8.56646 -0.496647 14.2
-    vertex -8.56646 -0.496647 17.5
-    vertex -8.21685 -0.17458 17.5
+    vertex -8.56646 -0.496648 14.2
+    vertex -8.56646 -0.496648 17.5
+    vertex -8.21685 -0.174581 17.5
     endloop
   endfacet
   facet normal -0.677541 0.735485 0
     outer loop
-    vertex -8.56646 -0.496647 14.2
-    vertex -8.21685 -0.17458 17.5
-    vertex -8.21685 -0.17458 14.2
+    vertex -8.56646 -0.496648 14.2
+    vertex -8.21685 -0.174581 17.5
+    vertex -8.21685 -0.174581 14.2
     endloop
   endfacet
   facet normal -0.770587 0.637335 0
     outer loop
     vertex -8.86942 -0.862944 14.2
     vertex -8.86942 -0.862944 17.5
-    vertex -8.56646 -0.496647 17.5
+    vertex -8.56646 -0.496648 17.5
     endloop
   endfacet
   facet normal -0.770587 0.637335 0
     outer loop
     vertex -8.86942 -0.862944 14.2
-    vertex -8.56646 -0.496647 17.5
-    vertex -8.56646 -0.496647 14.2
+    vertex -8.56646 -0.496648 17.5
+    vertex -8.56646 -0.496648 14.2
     endloop
   endfacet
   facet normal -0.849539 0.527526 0
@@ -10905,14 +10905,14 @@ solid rod_holder.stl
     vertex -9.12017 -1.26677 14.2
     endloop
   endfacet
-  facet normal -0.959665 0.281146 0
+  facet normal -0.959665 0.281147 0
     outer loop
     vertex -9.44779 -2.15691 14.2
     vertex -9.44779 -2.15691 17.5
     vertex -9.31415 -1.70074 17.5
     endloop
   endfacet
-  facet normal -0.959665 0.281146 0
+  facet normal -0.959665 0.281147 0
     outer loop
     vertex -9.44779 -2.15691 14.2
     vertex -9.31415 -1.70074 17.5
@@ -10963,36 +10963,36 @@ solid rod_holder.stl
   endfacet
   facet normal 0.20163 0.979462 -0
     outer loop
-    vertex 6.95558 0.472012 17.5
+    vertex 6.95558 0.472011 17.5
     vertex 6.49 0.567856 14.2
     vertex 6.49 0.567856 17.5
     endloop
   endfacet
   facet normal 0.33195 0.943297 -0
     outer loop
-    vertex 7.40398 0.31422 17.5
-    vertex 6.95558 0.472012 14.2
-    vertex 6.95558 0.472012 17.5
+    vertex 7.40398 0.314219 17.5
+    vertex 6.95558 0.472011 14.2
+    vertex 6.95558 0.472011 17.5
     endloop
   endfacet
   facet normal 0.456198 0.889878 -0
     outer loop
-    vertex 7.82698 0.0973675 17.5
-    vertex 7.40398 0.31422 14.2
-    vertex 7.40398 0.31422 17.5
+    vertex 7.82698 0.0973669 17.5
+    vertex 7.40398 0.314219 14.2
+    vertex 7.40398 0.314219 17.5
     endloop
   endfacet
   facet normal 0.33195 0.943297 -0
     outer loop
-    vertex 7.40398 0.31422 17.5
-    vertex 7.40398 0.31422 14.2
-    vertex 6.95558 0.472012 14.2
+    vertex 7.40398 0.314219 17.5
+    vertex 7.40398 0.314219 14.2
+    vertex 6.95558 0.472011 14.2
     endloop
   endfacet
   facet normal 0.20163 0.979462 -0
     outer loop
-    vertex 6.95558 0.472012 17.5
-    vertex 6.95558 0.472012 14.2
+    vertex 6.95558 0.472011 17.5
+    vertex 6.95558 0.472011 14.2
     vertex 6.49 0.567856 14.2
     endloop
   endfacet
@@ -11038,14 +11038,14 @@ solid rod_holder.stl
     vertex 9.44779 -2.15691 14.2
     endloop
   endfacet
-  facet normal 0.959665 0.281146 -0
+  facet normal 0.959665 0.281147 -0
     outer loop
     vertex 9.44779 -2.15691 17.5
     vertex 9.31415 -1.70074 14.2
     vertex 9.31415 -1.70074 17.5
     endloop
   endfacet
-  facet normal 0.959665 0.281146 -0
+  facet normal 0.959665 0.281147 -0
     outer loop
     vertex 9.44779 -2.15691 17.5
     vertex 9.44779 -2.15691 14.2
@@ -11083,78 +11083,78 @@ solid rod_holder.stl
   facet normal 0.770587 0.637335 -0
     outer loop
     vertex 8.86942 -0.862944 17.5
-    vertex 8.56646 -0.496647 14.2
-    vertex 8.56646 -0.496647 17.5
+    vertex 8.56646 -0.496648 14.2
+    vertex 8.56646 -0.496648 17.5
     endloop
   endfacet
   facet normal 0.770587 0.637335 -0
     outer loop
     vertex 8.86942 -0.862944 17.5
     vertex 8.86942 -0.862944 14.2
-    vertex 8.56646 -0.496647 14.2
+    vertex 8.56646 -0.496648 14.2
     endloop
   endfacet
   facet normal 0.677541 0.735485 -0
     outer loop
-    vertex 8.56646 -0.496647 17.5
-    vertex 8.21685 -0.17458 14.2
-    vertex 8.21685 -0.17458 17.5
+    vertex 8.56646 -0.496648 17.5
+    vertex 8.21685 -0.174581 14.2
+    vertex 8.21685 -0.174581 17.5
     endloop
   endfacet
   facet normal 0.677541 0.735485 -0
     outer loop
-    vertex 8.56646 -0.496647 17.5
-    vertex 8.56646 -0.496647 14.2
-    vertex 8.21685 -0.17458 14.2
+    vertex 8.56646 -0.496648 17.5
+    vertex 8.56646 -0.496648 14.2
+    vertex 8.21685 -0.174581 14.2
     endloop
   endfacet
   facet normal 0.572102 0.820182 -0
     outer loop
-    vertex 8.21685 -0.17458 17.5
-    vertex 7.82698 0.0973675 14.2
-    vertex 7.82698 0.0973675 17.5
+    vertex 8.21685 -0.174581 17.5
+    vertex 7.82698 0.0973669 14.2
+    vertex 7.82698 0.0973669 17.5
     endloop
   endfacet
   facet normal 0.572102 0.820182 -0
     outer loop
-    vertex 8.21685 -0.17458 17.5
-    vertex 8.21685 -0.17458 14.2
-    vertex 7.82698 0.0973675 14.2
+    vertex 8.21685 -0.174581 17.5
+    vertex 8.21685 -0.174581 14.2
+    vertex 7.82698 0.0973669 14.2
     endloop
   endfacet
   facet normal 0.456198 0.889878 -0
     outer loop
-    vertex 7.82698 0.0973675 17.5
-    vertex 7.82698 0.0973675 14.2
-    vertex 7.40398 0.31422 14.2
+    vertex 7.82698 0.0973669 17.5
+    vertex 7.82698 0.0973669 14.2
+    vertex 7.40398 0.314219 14.2
     endloop
   endfacet
   facet normal -0 -0.999999 -0.00150429
     outer loop
-    vertex -2.87176e-015 0.65 10.5
+    vertex 2.81563e-015 0.65 10.5
     vertex 0.212254 0.644434 14.2
     vertex -0.212254 0.644434 14.2
     endloop
   endfacet
   facet normal 0.065181 -0.997871 0.00223808
     outer loop
-    vertex -2.87176e-015 0.65 10.5
+    vertex 2.81563e-015 0.65 10.5
     vertex -0.212254 0.644434 14.2
-    vertex -0.526846 0.615587 10.5
+    vertex -0.526846 0.615586 10.5
     endloop
   endfacet
   facet normal -0.065181 -0.997871 0.00223808
     outer loop
-    vertex 0.526846 0.615587 10.5
+    vertex 0.526846 0.615586 10.5
     vertex 0.212254 0.644434 14.2
-    vertex -2.87176e-015 0.65 10.5
+    vertex 2.81563e-015 0.65 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -1.04474 0.51293 10.5
     vertex 1.04474 0.51293 10.5
-    vertex -0.526846 0.615587 10.5
+    vertex -0.526846 0.615586 10.5
     endloop
   endfacet
   facet normal 0 0 1
@@ -11173,16 +11173,16 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -0.526846 0.615587 10.5
+    vertex -0.526846 0.615586 10.5
     vertex 1.04474 0.51293 10.5
-    vertex 0.526846 0.615587 10.5
+    vertex 0.526846 0.615586 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -0.526846 0.615587 10.5
-    vertex 0.526846 0.615587 10.5
-    vertex -2.87176e-015 0.65 10.5
+    vertex -0.526846 0.615586 10.5
+    vertex 0.526846 0.615586 10.5
+    vertex 2.81563e-015 0.65 10.5
     endloop
   endfacet
   facet normal 0 -0 1
@@ -11313,43 +11313,43 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -2.45834 -0.181446 10.5
+    vertex -2.45834 -0.181447 10.5
     vertex 2.85613 -0.528589 10.5
-    vertex 2.45834 -0.181446 10.5
+    vertex 2.45834 -0.181447 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -2.85613 -0.528589 10.5
     vertex 2.85613 -0.528589 10.5
-    vertex -2.45834 -0.181446 10.5
+    vertex -2.45834 -0.181447 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -2.01876 0.110999 10.5
-    vertex 2.45834 -0.181446 10.5
-    vertex 2.01876 0.110999 10.5
+    vertex -2.01876 0.110998 10.5
+    vertex 2.45834 -0.181447 10.5
+    vertex 2.01876 0.110998 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -2.45834 -0.181446 10.5
-    vertex 2.45834 -0.181446 10.5
-    vertex -2.01876 0.110999 10.5
+    vertex -2.45834 -0.181447 10.5
+    vertex 2.45834 -0.181447 10.5
+    vertex -2.01876 0.110998 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -1.54488 0.343776 10.5
-    vertex 2.01876 0.110999 10.5
+    vertex 2.01876 0.110998 10.5
     vertex 1.54488 0.343776 10.5
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -2.01876 0.110999 10.5
-    vertex 2.01876 0.110999 10.5
+    vertex -2.01876 0.110998 10.5
+    vertex 2.01876 0.110998 10.5
     vertex -1.54488 0.343776 10.5
     endloop
   endfacet
@@ -11553,14 +11553,14 @@ solid rod_holder.stl
     outer loop
     vertex 6.98825 -3.20434 14.098
     vertex 6.98825 -3.20434 14.299
-    vertex 7.02953 -2.95815 14.299
+    vertex 7.02953 -2.95816 14.299
     endloop
   endfacet
   facet normal 0 -0 -1
     outer loop
     vertex 6.98825 -3.20434 14.299
     vertex 7.00946 -2.70934 14.299
-    vertex 7.02953 -2.95815 14.299
+    vertex 7.02953 -2.95816 14.299
     endloop
   endfacet
   facet normal 0 0 -1
@@ -11573,13 +11573,13 @@ solid rod_holder.stl
   facet normal -0.986232 0.165368 0
     outer loop
     vertex 6.98825 -3.20434 14.098
-    vertex 7.02953 -2.95815 14.299
-    vertex 7.02953 -2.95815 14.098
+    vertex 7.02953 -2.95816 14.299
+    vertex 7.02953 -2.95816 14.098
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 7.02953 -2.95815 14.098
+    vertex 7.02953 -2.95816 14.098
     vertex 7.00946 -2.70934 14.098
     vertex 6.98825 -3.20434 14.098
     endloop
@@ -11593,14 +11593,14 @@ solid rod_holder.stl
   endfacet
   facet normal -0.996762 -0.0804069 -0
     outer loop
-    vertex 7.02953 -2.95815 14.098
-    vertex 7.02953 -2.95815 14.299
+    vertex 7.02953 -2.95816 14.098
+    vertex 7.02953 -2.95816 14.299
     vertex 7.00946 -2.70934 14.299
     endloop
   endfacet
   facet normal -0.996762 -0.0804069 -0
     outer loop
-    vertex 7.02953 -2.95815 14.098
+    vertex 7.02953 -2.95816 14.098
     vertex 7.00946 -2.70934 14.299
     vertex 7.00946 -2.70934 14.098
     endloop
@@ -11619,7 +11619,7 @@ solid rod_holder.stl
     vertex 6.92925 -2.47295 14.098
     endloop
   endfacet
-  facet normal -0.839871 -0.542785 -0
+  facet normal -0.839872 -0.542785 -0
     outer loop
     vertex 6.92925 -2.47295 14.098
     vertex 6.92925 -2.47295 14.299
@@ -11633,7 +11633,7 @@ solid rod_holder.stl
     vertex 6.79376 -2.2633 14.299
     endloop
   endfacet
-  facet normal -0.839871 -0.542785 -0
+  facet normal -0.839872 -0.542785 -0
     outer loop
     vertex 6.92925 -2.47295 14.098
     vertex 6.79376 -2.2633 14.299
@@ -11647,7 +11647,7 @@ solid rod_holder.stl
     vertex 6.92925 -2.47295 14.098
     endloop
   endfacet
-  facet normal -0.681946 -0.731403 -0
+  facet normal -0.681945 -0.731403 -0
     outer loop
     vertex 6.79376 -2.2633 14.098
     vertex 6.79376 -2.2633 14.299
@@ -11668,7 +11668,7 @@ solid rod_holder.stl
     vertex 6.49734 -2.57108 14.299
     endloop
   endfacet
-  facet normal -0.681946 -0.731403 -0
+  facet normal -0.681945 -0.731403 -0
     outer loop
     vertex 6.79376 -2.2633 14.098
     vertex 6.61118 -2.09307 14.299
@@ -11693,40 +11693,40 @@ solid rod_holder.stl
     outer loop
     vertex 6.61118 -2.09307 14.098
     vertex 6.61118 -2.09307 14.299
-    vertex 6.39257 -1.97256 14.299
+    vertex 6.39257 -1.97257 14.299
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 6.61118 -2.09307 14.299
     vertex 6.49734 -2.57108 14.299
-    vertex 6.39257 -1.97256 14.299
+    vertex 6.39257 -1.97257 14.299
     endloop
   endfacet
   facet normal -0.482748 -0.875759 -0
     outer loop
     vertex 6.61118 -2.09307 14.098
-    vertex 6.39257 -1.97256 14.299
-    vertex 6.39257 -1.97256 14.098
+    vertex 6.39257 -1.97257 14.299
+    vertex 6.39257 -1.97257 14.098
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex 6.39257 -1.97256 14.098
+    vertex 6.39257 -1.97257 14.098
     vertex 6.49734 -2.57108 14.098
     vertex 6.61118 -2.09307 14.098
     endloop
   endfacet
   facet normal 0.985022 0.172427 0
     outer loop
-    vertex 6.39257 -1.97256 14.299
+    vertex 6.39257 -1.97257 14.299
     vertex 6.49734 -2.57108 14.299
-    vertex 6.39257 -1.97256 14.098
+    vertex 6.39257 -1.97257 14.098
     endloop
   endfacet
   facet normal 0.985022 0.172427 0
     outer loop
-    vertex 6.39257 -1.97256 14.098
+    vertex 6.39257 -1.97257 14.098
     vertex 6.49734 -2.57108 14.299
     vertex 6.49734 -2.57108 14.098
     endloop
@@ -11861,14 +11861,14 @@ solid rod_holder.stl
     outer loop
     vertex 6.98825 -3.20434 16.299
     vertex 6.98825 -3.20434 16.5
-    vertex 7.02953 -2.95815 16.5
+    vertex 7.02953 -2.95816 16.5
     endloop
   endfacet
   facet normal 0 -0 -1
     outer loop
     vertex 6.98825 -3.20434 16.5
     vertex 7.00946 -2.70934 16.5
-    vertex 7.02953 -2.95815 16.5
+    vertex 7.02953 -2.95816 16.5
     endloop
   endfacet
   facet normal 0 0 -1
@@ -11881,13 +11881,13 @@ solid rod_holder.stl
   facet normal -0.986232 0.165368 0
     outer loop
     vertex 6.98825 -3.20434 16.299
-    vertex 7.02953 -2.95815 16.5
-    vertex 7.02953 -2.95815 16.299
+    vertex 7.02953 -2.95816 16.5
+    vertex 7.02953 -2.95816 16.299
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 7.02953 -2.95815 16.299
+    vertex 7.02953 -2.95816 16.299
     vertex 7.00946 -2.70934 16.299
     vertex 6.98825 -3.20434 16.299
     endloop
@@ -11901,14 +11901,14 @@ solid rod_holder.stl
   endfacet
   facet normal -0.996762 -0.0804069 -0
     outer loop
-    vertex 7.02953 -2.95815 16.299
-    vertex 7.02953 -2.95815 16.5
+    vertex 7.02953 -2.95816 16.299
+    vertex 7.02953 -2.95816 16.5
     vertex 7.00946 -2.70934 16.5
     endloop
   endfacet
   facet normal -0.996762 -0.0804069 -0
     outer loop
-    vertex 7.02953 -2.95815 16.299
+    vertex 7.02953 -2.95816 16.299
     vertex 7.00946 -2.70934 16.5
     vertex 7.00946 -2.70934 16.299
     endloop
@@ -11927,7 +11927,7 @@ solid rod_holder.stl
     vertex 6.92925 -2.47295 16.299
     endloop
   endfacet
-  facet normal -0.839871 -0.542785 -0
+  facet normal -0.839872 -0.542785 -0
     outer loop
     vertex 6.92925 -2.47295 16.299
     vertex 6.92925 -2.47295 16.5
@@ -11941,7 +11941,7 @@ solid rod_holder.stl
     vertex 6.79376 -2.2633 16.5
     endloop
   endfacet
-  facet normal -0.839871 -0.542785 -0
+  facet normal -0.839872 -0.542785 -0
     outer loop
     vertex 6.92925 -2.47295 16.299
     vertex 6.79376 -2.2633 16.5
@@ -11955,7 +11955,7 @@ solid rod_holder.stl
     vertex 6.92925 -2.47295 16.299
     endloop
   endfacet
-  facet normal -0.681946 -0.731403 -0
+  facet normal -0.681945 -0.731403 -0
     outer loop
     vertex 6.79376 -2.2633 16.299
     vertex 6.79376 -2.2633 16.5
@@ -11976,7 +11976,7 @@ solid rod_holder.stl
     vertex 6.49734 -2.57108 16.5
     endloop
   endfacet
-  facet normal -0.681946 -0.731403 -0
+  facet normal -0.681945 -0.731403 -0
     outer loop
     vertex 6.79376 -2.2633 16.299
     vertex 6.61118 -2.09307 16.5
@@ -12001,40 +12001,40 @@ solid rod_holder.stl
     outer loop
     vertex 6.61118 -2.09307 16.299
     vertex 6.61118 -2.09307 16.5
-    vertex 6.39257 -1.97256 16.5
+    vertex 6.39257 -1.97257 16.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 6.61118 -2.09307 16.5
     vertex 6.49734 -2.57108 16.5
-    vertex 6.39257 -1.97256 16.5
+    vertex 6.39257 -1.97257 16.5
     endloop
   endfacet
   facet normal -0.482748 -0.875759 -0
     outer loop
     vertex 6.61118 -2.09307 16.299
-    vertex 6.39257 -1.97256 16.5
-    vertex 6.39257 -1.97256 16.299
+    vertex 6.39257 -1.97257 16.5
+    vertex 6.39257 -1.97257 16.299
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex 6.39257 -1.97256 16.299
+    vertex 6.39257 -1.97257 16.299
     vertex 6.49734 -2.57108 16.299
     vertex 6.61118 -2.09307 16.299
     endloop
   endfacet
   facet normal 0.985022 0.172427 0
     outer loop
-    vertex 6.39257 -1.97256 16.5
+    vertex 6.39257 -1.97257 16.5
     vertex 6.49734 -2.57108 16.5
-    vertex 6.39257 -1.97256 16.299
+    vertex 6.39257 -1.97257 16.299
     endloop
   endfacet
   facet normal 0.985022 0.172427 0
     outer loop
-    vertex 6.39257 -1.97256 16.299
+    vertex 6.39257 -1.97257 16.299
     vertex 6.49734 -2.57108 16.5
     vertex 6.49734 -2.57108 16.299
     endloop
@@ -12559,170 +12559,170 @@ solid rod_holder.stl
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -23 1.5 13.9495
-    vertex -22.899 1.5 13.9495
-    vertex -23 1.601 13.9495
+    vertex -23 1.5 13.8995
+    vertex -22.899 1.5 13.8995
+    vertex -23 1.601 13.8995
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -23 1.5 13.9495
-    vertex -22.899 1.5 14.5505
-    vertex -22.899 1.5 13.9495
+    vertex -23 1.5 13.8995
+    vertex -22.899 1.5 14.5005
+    vertex -22.899 1.5 13.8995
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -23 1.601 14.5505
-    vertex -23 1.5 13.9495
-    vertex -23 1.601 13.9495
+    vertex -23 1.601 14.5005
+    vertex -23 1.5 13.8995
+    vertex -23 1.601 13.8995
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -23 1.5 14.5505
-    vertex -22.899 1.5 14.5505
-    vertex -23 1.5 13.9495
+    vertex -23 1.5 14.5005
+    vertex -22.899 1.5 14.5005
+    vertex -23 1.5 13.8995
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -23 1.5 14.5505
-    vertex -23 1.5 13.9495
-    vertex -23 1.601 14.5505
+    vertex -23 1.5 14.5005
+    vertex -23 1.5 13.8995
+    vertex -23 1.601 14.5005
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -23 1.601 13.9495
-    vertex -22.899 1.5 13.9495
-    vertex -22.899 1.601 13.9495
+    vertex -23 1.601 13.8995
+    vertex -22.899 1.5 13.8995
+    vertex -22.899 1.601 13.8995
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -22.899 1.5 13.9495
-    vertex -22.899 1.5 14.5505
-    vertex -22.899 1.601 13.9495
+    vertex -22.899 1.5 13.8995
+    vertex -22.899 1.5 14.5005
+    vertex -22.899 1.601 13.8995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -23 1.601 13.9495
-    vertex -22.899 1.601 13.9495
-    vertex -23 1.601 14.5505
+    vertex -23 1.601 13.8995
+    vertex -22.899 1.601 13.8995
+    vertex -23 1.601 14.5005
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -22.899 1.601 13.9495
-    vertex -22.899 1.5 14.5505
-    vertex -22.899 1.601 14.5505
+    vertex -22.899 1.601 13.8995
+    vertex -22.899 1.5 14.5005
+    vertex -22.899 1.601 14.5005
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -23 1.601 14.5505
-    vertex -22.899 1.601 13.9495
-    vertex -22.899 1.601 14.5505
+    vertex -23 1.601 14.5005
+    vertex -22.899 1.601 13.8995
+    vertex -22.899 1.601 14.5005
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -22.899 1.5 14.5505
-    vertex -23 1.5 14.5505
-    vertex -22.899 1.601 14.5505
+    vertex -22.899 1.5 14.5005
+    vertex -23 1.5 14.5005
+    vertex -22.899 1.601 14.5005
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -22.899 1.601 14.5505
-    vertex -23 1.5 14.5505
-    vertex -23 1.601 14.5505
+    vertex -22.899 1.601 14.5005
+    vertex -23 1.5 14.5005
+    vertex -23 1.601 14.5005
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 22.899 1.5 14.5505
-    vertex 22.899 1.5 13.9495
-    vertex 22.899 1.601 14.5505
+    vertex 22.899 1.5 14.5005
+    vertex 22.899 1.5 13.8995
+    vertex 22.899 1.601 14.5005
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 22.899 1.5 14.5505
-    vertex 23 1.5 14.5505
-    vertex 22.899 1.5 13.9495
+    vertex 22.899 1.5 14.5005
+    vertex 23 1.5 14.5005
+    vertex 22.899 1.5 13.8995
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 23 1.601 14.5505
-    vertex 22.899 1.5 14.5505
-    vertex 22.899 1.601 14.5505
+    vertex 23 1.601 14.5005
+    vertex 22.899 1.5 14.5005
+    vertex 22.899 1.601 14.5005
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 23 1.5 14.5505
-    vertex 22.899 1.5 14.5505
-    vertex 23 1.601 14.5505
+    vertex 23 1.5 14.5005
+    vertex 22.899 1.5 14.5005
+    vertex 23 1.601 14.5005
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 22.899 1.601 14.5505
-    vertex 22.899 1.5 13.9495
-    vertex 22.899 1.601 13.9495
+    vertex 22.899 1.601 14.5005
+    vertex 22.899 1.5 13.8995
+    vertex 22.899 1.601 13.8995
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 22.899 1.5 13.9495
-    vertex 23 1.5 13.9495
-    vertex 22.899 1.601 13.9495
+    vertex 22.899 1.5 13.8995
+    vertex 23 1.5 13.8995
+    vertex 22.899 1.601 13.8995
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 22.899 1.5 13.9495
-    vertex 23 1.5 14.5505
-    vertex 23 1.5 13.9495
+    vertex 22.899 1.5 13.8995
+    vertex 23 1.5 14.5005
+    vertex 23 1.5 13.8995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 23 1.601 13.9495
-    vertex 22.899 1.601 14.5505
-    vertex 22.899 1.601 13.9495
+    vertex 23 1.601 13.8995
+    vertex 22.899 1.601 14.5005
+    vertex 22.899 1.601 13.8995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 23 1.601 14.5505
-    vertex 22.899 1.601 14.5505
-    vertex 23 1.601 13.9495
+    vertex 23 1.601 14.5005
+    vertex 22.899 1.601 14.5005
+    vertex 23 1.601 13.8995
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex 22.899 1.601 13.9495
-    vertex 23 1.5 13.9495
-    vertex 23 1.601 13.9495
+    vertex 22.899 1.601 13.8995
+    vertex 23 1.5 13.8995
+    vertex 23 1.601 13.8995
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 23 1.5 13.9495
-    vertex 23 1.5 14.5505
-    vertex 23 1.601 13.9495
+    vertex 23 1.5 13.8995
+    vertex 23 1.5 14.5005
+    vertex 23 1.601 13.8995
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 23 1.601 13.9495
-    vertex 23 1.5 14.5505
-    vertex 23 1.601 14.5505
+    vertex 23 1.601 13.8995
+    vertex 23 1.5 14.5005
+    vertex 23 1.601 14.5005
     endloop
   endfacet
   facet normal 1 0 0
@@ -12811,282 +12811,282 @@ solid rod_holder.stl
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -22.899 1.5 5.75
-    vertex -22.899 1.5 5.9505
-    vertex -22.899 1.601 5.75
+    vertex -22.899 1.5 5.8
+    vertex -22.899 1.5 6.0005
+    vertex -22.899 1.601 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -22.899 1.5 5.75
-    vertex -23 1.5 5.75
-    vertex -22.899 1.5 5.9505
+    vertex -22.899 1.5 5.8
+    vertex -23 1.5 5.8
+    vertex -22.899 1.5 6.0005
     endloop
   endfacet
-  facet normal -0.939691 0 -0.342026
+  facet normal -0.939691 0 -0.342024
     outer loop
-    vertex -22.826 1.601 5.5495
-    vertex -22.899 1.5 5.75
-    vertex -22.899 1.601 5.75
+    vertex -22.826 1.601 5.5995
+    vertex -22.899 1.5 5.8
+    vertex -22.899 1.601 5.8
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex -22.899 1.5 5.75
-    vertex -22.927 1.5 5.5495
-    vertex -23 1.5 5.75
+    vertex -22.899 1.5 5.8
+    vertex -22.927 1.5 5.5995
+    vertex -23 1.5 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -22.826 1.5 5.5495
-    vertex -22.927 1.5 5.5495
-    vertex -22.899 1.5 5.75
+    vertex -22.826 1.5 5.5995
+    vertex -22.927 1.5 5.5995
+    vertex -22.899 1.5 5.8
     endloop
   endfacet
-  facet normal -0.939691 0 -0.342026
+  facet normal -0.939691 0 -0.342024
     outer loop
-    vertex -22.826 1.5 5.5495
-    vertex -22.899 1.5 5.75
-    vertex -22.826 1.601 5.5495
+    vertex -22.826 1.5 5.5995
+    vertex -22.899 1.5 5.8
+    vertex -22.826 1.601 5.5995
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex -22.899 1.601 5.75
-    vertex -22.899 1.5 5.9505
-    vertex -22.899 1.601 5.9505
+    vertex -22.899 1.601 5.8
+    vertex -22.899 1.5 6.0005
+    vertex -22.899 1.601 6.0005
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -22.899 1.5 5.9505
-    vertex -23 1.5 5.9505
-    vertex -22.899 1.601 5.9505
+    vertex -22.899 1.5 6.0005
+    vertex -23 1.5 6.0005
+    vertex -22.899 1.601 6.0005
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -22.899 1.5 5.9505
-    vertex -23 1.5 5.75
-    vertex -23 1.5 5.9505
+    vertex -22.899 1.5 6.0005
+    vertex -23 1.5 5.8
+    vertex -23 1.5 6.0005
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -23 1.601 5.9505
-    vertex -22.899 1.601 5.75
-    vertex -22.899 1.601 5.9505
+    vertex -23 1.601 6.0005
+    vertex -22.899 1.601 5.8
+    vertex -22.899 1.601 6.0005
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -23 1.601 5.75
-    vertex -22.899 1.601 5.75
-    vertex -23 1.601 5.9505
+    vertex -23 1.601 5.8
+    vertex -22.899 1.601 5.8
+    vertex -23 1.601 6.0005
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -22.927 1.601 5.5495
-    vertex -22.899 1.601 5.75
-    vertex -23 1.601 5.75
+    vertex -22.927 1.601 5.5995
+    vertex -22.899 1.601 5.8
+    vertex -23 1.601 5.8
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex -22.826 1.601 5.5495
-    vertex -22.899 1.601 5.75
-    vertex -22.927 1.601 5.5495
+    vertex -22.826 1.601 5.5995
+    vertex -22.899 1.601 5.8
+    vertex -22.927 1.601 5.5995
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -22.899 1.601 5.9505
-    vertex -23 1.5 5.9505
-    vertex -23 1.601 5.9505
+    vertex -22.899 1.601 6.0005
+    vertex -23 1.5 6.0005
+    vertex -23 1.601 6.0005
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -23 1.5 5.9505
-    vertex -23 1.5 5.75
-    vertex -23 1.601 5.9505
+    vertex -23 1.5 6.0005
+    vertex -23 1.5 5.8
+    vertex -23 1.601 6.0005
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex -23 1.601 5.9505
-    vertex -23 1.5 5.75
-    vertex -23 1.601 5.75
+    vertex -23 1.601 6.0005
+    vertex -23 1.5 5.8
+    vertex -23 1.601 5.8
     endloop
   endfacet
-  facet normal 0.939693 0 0.342018
+  facet normal 0.939694 0 0.342016
     outer loop
-    vertex -23 1.5 5.75
-    vertex -22.927 1.5 5.5495
-    vertex -23 1.601 5.75
+    vertex -23 1.5 5.8
+    vertex -22.927 1.5 5.5995
+    vertex -23 1.601 5.8
     endloop
   endfacet
-  facet normal 0.939693 -0 0.342018
+  facet normal 0.939694 -0 0.342016
     outer loop
-    vertex -23 1.601 5.75
-    vertex -22.927 1.5 5.5495
-    vertex -22.927 1.601 5.5495
+    vertex -23 1.601 5.8
+    vertex -22.927 1.5 5.5995
+    vertex -22.927 1.601 5.5995
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -22.927 1.5 5.5495
-    vertex -22.826 1.5 5.5495
-    vertex -22.927 1.601 5.5495
+    vertex -22.927 1.5 5.5995
+    vertex -22.826 1.5 5.5995
+    vertex -22.927 1.601 5.5995
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -22.927 1.601 5.5495
-    vertex -22.826 1.5 5.5495
-    vertex -22.826 1.601 5.5495
+    vertex -22.927 1.601 5.5995
+    vertex -22.826 1.5 5.5995
+    vertex -22.826 1.601 5.5995
     endloop
   endfacet
-  facet normal 0.939691 0 -0.342026
+  facet normal 0.939691 0 -0.342024
     outer loop
-    vertex 22.899 1.5 5.75
-    vertex 22.826 1.5 5.5495
-    vertex 22.899 1.601 5.75
+    vertex 22.899 1.5 5.8
+    vertex 22.826 1.5 5.5995
+    vertex 22.899 1.601 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 22.927 1.5 5.5495
-    vertex 22.826 1.5 5.5495
-    vertex 22.899 1.5 5.75
+    vertex 22.927 1.5 5.5995
+    vertex 22.826 1.5 5.5995
+    vertex 22.899 1.5 5.8
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 22.899 1.601 5.9505
-    vertex 22.899 1.5 5.75
-    vertex 22.899 1.601 5.75
+    vertex 22.899 1.601 6.0005
+    vertex 22.899 1.5 5.8
+    vertex 22.899 1.601 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 22.899 1.5 5.75
-    vertex 23 1.5 5.75
-    vertex 22.927 1.5 5.5495
+    vertex 22.899 1.5 5.8
+    vertex 23 1.5 5.8
+    vertex 22.927 1.5 5.5995
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 22.899 1.5 5.75
-    vertex 23 1.5 5.9505
-    vertex 23 1.5 5.75
+    vertex 22.899 1.5 5.8
+    vertex 23 1.5 6.0005
+    vertex 23 1.5 5.8
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 22.899 1.5 5.9505
-    vertex 23 1.5 5.9505
-    vertex 22.899 1.5 5.75
+    vertex 22.899 1.5 6.0005
+    vertex 23 1.5 6.0005
+    vertex 22.899 1.5 5.8
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-    vertex 22.899 1.5 5.9505
-    vertex 22.899 1.5 5.75
-    vertex 22.899 1.601 5.9505
+    vertex 22.899 1.5 6.0005
+    vertex 22.899 1.5 5.8
+    vertex 22.899 1.601 6.0005
     endloop
   endfacet
-  facet normal 0.939691 0 -0.342026
+  facet normal 0.939691 0 -0.342024
     outer loop
-    vertex 22.899 1.601 5.75
-    vertex 22.826 1.5 5.5495
-    vertex 22.826 1.601 5.5495
+    vertex 22.899 1.601 5.8
+    vertex 22.826 1.5 5.5995
+    vertex 22.826 1.601 5.5995
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 22.826 1.5 5.5495
-    vertex 22.927 1.5 5.5495
-    vertex 22.826 1.601 5.5495
+    vertex 22.826 1.5 5.5995
+    vertex 22.927 1.5 5.5995
+    vertex 22.826 1.601 5.5995
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 22.927 1.601 5.5495
-    vertex 22.899 1.601 5.75
-    vertex 22.826 1.601 5.5495
+    vertex 22.927 1.601 5.5995
+    vertex 22.899 1.601 5.8
+    vertex 22.826 1.601 5.5995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 23 1.601 5.75
-    vertex 22.899 1.601 5.75
-    vertex 22.927 1.601 5.5495
+    vertex 23 1.601 5.8
+    vertex 22.899 1.601 5.8
+    vertex 22.927 1.601 5.5995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 23 1.601 5.75
-    vertex 22.899 1.601 5.9505
-    vertex 22.899 1.601 5.75
+    vertex 23 1.601 5.8
+    vertex 22.899 1.601 6.0005
+    vertex 22.899 1.601 5.8
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex 22.826 1.601 5.5495
-    vertex 22.927 1.5 5.5495
-    vertex 22.927 1.601 5.5495
+    vertex 22.826 1.601 5.5995
+    vertex 22.927 1.5 5.5995
+    vertex 22.927 1.601 5.5995
     endloop
   endfacet
-  facet normal -0.939693 0 0.342018
+  facet normal -0.939694 0 0.342016
     outer loop
-    vertex 22.927 1.5 5.5495
-    vertex 23 1.5 5.75
-    vertex 22.927 1.601 5.5495
+    vertex 22.927 1.5 5.5995
+    vertex 23 1.5 5.8
+    vertex 22.927 1.601 5.5995
     endloop
   endfacet
-  facet normal -0.939693 0 0.342018
+  facet normal -0.939694 0 0.342016
     outer loop
-    vertex 22.927 1.601 5.5495
-    vertex 23 1.5 5.75
-    vertex 23 1.601 5.75
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-    vertex 23 1.5 5.75
-    vertex 23 1.5 5.9505
-    vertex 23 1.601 5.75
+    vertex 22.927 1.601 5.5995
+    vertex 23 1.5 5.8
+    vertex 23 1.601 5.8
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 23 1.601 5.75
-    vertex 23 1.5 5.9505
-    vertex 23 1.601 5.9505
+    vertex 23 1.5 5.8
+    vertex 23 1.5 6.0005
+    vertex 23 1.601 5.8
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+    vertex 23 1.601 5.8
+    vertex 23 1.5 6.0005
+    vertex 23 1.601 6.0005
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 23 1.601 5.9505
-    vertex 22.899 1.601 5.9505
-    vertex 23 1.601 5.75
+    vertex 23 1.601 6.0005
+    vertex 22.899 1.601 6.0005
+    vertex 23 1.601 5.8
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 23 1.5 5.9505
-    vertex 22.899 1.5 5.9505
-    vertex 23 1.601 5.9505
+    vertex 23 1.5 6.0005
+    vertex 22.899 1.5 6.0005
+    vertex 23 1.601 6.0005
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 23 1.601 5.9505
-    vertex 22.899 1.5 5.9505
-    vertex 22.899 1.601 5.9505
+    vertex 23 1.601 6.0005
+    vertex 22.899 1.5 6.0005
+    vertex 22.899 1.601 6.0005
     endloop
   endfacet
   facet normal 0 0 -1
@@ -13175,35 +13175,35 @@ solid rod_holder.stl
   endfacet
   facet normal 0.482748 -0.875759 0
     outer loop
-    vertex -6.39257 -1.97256 16.299
-    vertex -6.39257 -1.97256 16.5
+    vertex -6.39257 -1.97257 16.299
+    vertex -6.39257 -1.97257 16.5
     vertex -6.61118 -2.09307 16.299
     endloop
   endfacet
   facet normal -0.985022 0.172427 0
     outer loop
     vertex -6.49734 -2.57108 16.299
-    vertex -6.39257 -1.97256 16.5
-    vertex -6.39257 -1.97256 16.299
+    vertex -6.39257 -1.97257 16.5
+    vertex -6.39257 -1.97257 16.299
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -6.61118 -2.09307 16.299
     vertex -6.49734 -2.57108 16.299
-    vertex -6.39257 -1.97256 16.299
+    vertex -6.39257 -1.97257 16.299
     endloop
   endfacet
   facet normal 0.482748 -0.875759 0
     outer loop
     vertex -6.61118 -2.09307 16.299
-    vertex -6.39257 -1.97256 16.5
+    vertex -6.39257 -1.97257 16.5
     vertex -6.61118 -2.09307 16.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -6.39257 -1.97256 16.5
+    vertex -6.39257 -1.97257 16.5
     vertex -6.49734 -2.57108 16.5
     vertex -6.61118 -2.09307 16.5
     endloop
@@ -13212,17 +13212,17 @@ solid rod_holder.stl
     outer loop
     vertex -6.49734 -2.57108 16.299
     vertex -6.49734 -2.57108 16.5
-    vertex -6.39257 -1.97256 16.5
+    vertex -6.39257 -1.97257 16.5
     endloop
   endfacet
-  facet normal 0.681946 -0.731403 0
+  facet normal 0.681945 -0.731403 0
     outer loop
     vertex -6.61118 -2.09307 16.299
     vertex -6.61118 -2.09307 16.5
     vertex -6.79376 -2.2633 16.5
     endloop
   endfacet
-  facet normal 0.681946 -0.731403 0
+  facet normal 0.681945 -0.731403 0
     outer loop
     vertex -6.61118 -2.09307 16.299
     vertex -6.79376 -2.2633 16.5
@@ -13243,7 +13243,7 @@ solid rod_holder.stl
     vertex -6.79376 -2.2633 16.5
     endloop
   endfacet
-  facet normal 0.839871 -0.542785 0
+  facet normal 0.839872 -0.542785 0
     outer loop
     vertex -6.79376 -2.2633 16.299
     vertex -6.79376 -2.2633 16.5
@@ -13264,7 +13264,7 @@ solid rod_holder.stl
     vertex -6.54619 -3.17672 16.5
     endloop
   endfacet
-  facet normal 0.839871 -0.542785 0
+  facet normal 0.839872 -0.542785 0
     outer loop
     vertex -6.79376 -2.2633 16.299
     vertex -6.92925 -2.47295 16.5
@@ -13345,12 +13345,12 @@ solid rod_holder.stl
     outer loop
     vertex -7.00946 -2.70934 16.299
     vertex -7.00946 -2.70934 16.5
-    vertex -7.02953 -2.95815 16.5
+    vertex -7.02953 -2.95816 16.5
     endloop
   endfacet
   facet normal 0 -0 -1
     outer loop
-    vertex -7.02953 -2.95815 16.5
+    vertex -7.02953 -2.95816 16.5
     vertex -7.00946 -2.70934 16.5
     vertex -6.98825 -3.20434 16.5
     endloop
@@ -13358,27 +13358,27 @@ solid rod_holder.stl
   facet normal 0.996762 -0.0804069 0
     outer loop
     vertex -7.00946 -2.70934 16.299
-    vertex -7.02953 -2.95815 16.5
-    vertex -7.02953 -2.95815 16.299
+    vertex -7.02953 -2.95816 16.5
+    vertex -7.02953 -2.95816 16.299
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -6.98825 -3.20434 16.299
     vertex -7.00946 -2.70934 16.299
-    vertex -7.02953 -2.95815 16.299
+    vertex -7.02953 -2.95816 16.299
     endloop
   endfacet
   facet normal 0.986232 0.165368 0
     outer loop
-    vertex -7.02953 -2.95815 16.299
-    vertex -7.02953 -2.95815 16.5
+    vertex -7.02953 -2.95816 16.299
+    vertex -7.02953 -2.95816 16.5
     vertex -6.98825 -3.20434 16.5
     endloop
   endfacet
   facet normal 0.986232 0.165368 0
     outer loop
-    vertex -7.02953 -2.95815 16.299
+    vertex -7.02953 -2.95816 16.299
     vertex -6.98825 -3.20434 16.5
     vertex -6.98825 -3.20434 16.299
     endloop
@@ -13483,35 +13483,35 @@ solid rod_holder.stl
   endfacet
   facet normal 0.482748 -0.875759 0
     outer loop
-    vertex -6.39257 -1.97256 14.098
-    vertex -6.39257 -1.97256 14.299
+    vertex -6.39257 -1.97257 14.098
+    vertex -6.39257 -1.97257 14.299
     vertex -6.61118 -2.09307 14.098
     endloop
   endfacet
   facet normal -0.985022 0.172427 0
     outer loop
     vertex -6.49734 -2.57108 14.098
-    vertex -6.39257 -1.97256 14.299
-    vertex -6.39257 -1.97256 14.098
+    vertex -6.39257 -1.97257 14.299
+    vertex -6.39257 -1.97257 14.098
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
     vertex -6.61118 -2.09307 14.098
     vertex -6.49734 -2.57108 14.098
-    vertex -6.39257 -1.97256 14.098
+    vertex -6.39257 -1.97257 14.098
     endloop
   endfacet
   facet normal 0.482748 -0.875759 0
     outer loop
     vertex -6.61118 -2.09307 14.098
-    vertex -6.39257 -1.97256 14.299
+    vertex -6.39257 -1.97257 14.299
     vertex -6.61118 -2.09307 14.299
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -6.39257 -1.97256 14.299
+    vertex -6.39257 -1.97257 14.299
     vertex -6.49734 -2.57108 14.299
     vertex -6.61118 -2.09307 14.299
     endloop
@@ -13520,17 +13520,17 @@ solid rod_holder.stl
     outer loop
     vertex -6.49734 -2.57108 14.098
     vertex -6.49734 -2.57108 14.299
-    vertex -6.39257 -1.97256 14.299
+    vertex -6.39257 -1.97257 14.299
     endloop
   endfacet
-  facet normal 0.681946 -0.731403 0
+  facet normal 0.681945 -0.731403 0
     outer loop
     vertex -6.61118 -2.09307 14.098
     vertex -6.61118 -2.09307 14.299
     vertex -6.79376 -2.2633 14.299
     endloop
   endfacet
-  facet normal 0.681946 -0.731403 0
+  facet normal 0.681945 -0.731403 0
     outer loop
     vertex -6.61118 -2.09307 14.098
     vertex -6.79376 -2.2633 14.299
@@ -13551,7 +13551,7 @@ solid rod_holder.stl
     vertex -6.79376 -2.2633 14.299
     endloop
   endfacet
-  facet normal 0.839871 -0.542785 0
+  facet normal 0.839872 -0.542785 0
     outer loop
     vertex -6.79376 -2.2633 14.098
     vertex -6.79376 -2.2633 14.299
@@ -13572,7 +13572,7 @@ solid rod_holder.stl
     vertex -6.54619 -3.17672 14.299
     endloop
   endfacet
-  facet normal 0.839871 -0.542785 0
+  facet normal 0.839872 -0.542785 0
     outer loop
     vertex -6.79376 -2.2633 14.098
     vertex -6.92925 -2.47295 14.299
@@ -13653,12 +13653,12 @@ solid rod_holder.stl
     outer loop
     vertex -7.00946 -2.70934 14.098
     vertex -7.00946 -2.70934 14.299
-    vertex -7.02953 -2.95815 14.299
+    vertex -7.02953 -2.95816 14.299
     endloop
   endfacet
   facet normal 0 -0 -1
     outer loop
-    vertex -7.02953 -2.95815 14.299
+    vertex -7.02953 -2.95816 14.299
     vertex -7.00946 -2.70934 14.299
     vertex -6.98825 -3.20434 14.299
     endloop
@@ -13666,27 +13666,27 @@ solid rod_holder.stl
   facet normal 0.996762 -0.0804069 0
     outer loop
     vertex -7.00946 -2.70934 14.098
-    vertex -7.02953 -2.95815 14.299
-    vertex -7.02953 -2.95815 14.098
+    vertex -7.02953 -2.95816 14.299
+    vertex -7.02953 -2.95816 14.098
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
     vertex -6.98825 -3.20434 14.098
     vertex -7.00946 -2.70934 14.098
-    vertex -7.02953 -2.95815 14.098
+    vertex -7.02953 -2.95816 14.098
     endloop
   endfacet
   facet normal 0.986232 0.165368 0
     outer loop
-    vertex -7.02953 -2.95815 14.098
-    vertex -7.02953 -2.95815 14.299
+    vertex -7.02953 -2.95816 14.098
+    vertex -7.02953 -2.95816 14.299
     vertex -6.98825 -3.20434 14.299
     endloop
   endfacet
   facet normal 0.986232 0.165368 0
     outer loop
-    vertex -7.02953 -2.95815 14.098
+    vertex -7.02953 -2.95816 14.098
     vertex -6.98825 -3.20434 14.299
     vertex -6.98825 -3.20434 14.098
     endloop
