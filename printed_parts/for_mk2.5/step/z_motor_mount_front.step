@@ -10,9 +10,9 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'D:/3d_printing/prusa_i3_bear_upgrade/printed_parts/step/z_motor_mount
-_front.step',
-/* time_stamp */ '2017-12-13T13:17:16+01:00',
+'D:/3d_printing/prusa_i3_bear_upgrade/printed_parts/for_mk2_mk2s/step/
+z_motor_mount_front.step',
+/* time_stamp */ '2017-12-29T20:56:33+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v16.13',
@@ -1218,16 +1218,17 @@ SI_UNIT($,.RADIAN.)
 #1137=PRODUCT_DEFINITION_SHAPE('',$,#1140);
 #1138=SHAPE_REPRESENTATION('',(#680),#1130);
 #1139=PRODUCT_DEFINITION_CONTEXT('part definition',#1144,'design');
-#1140=PRODUCT_DEFINITION('z_motor_front','z_motor_front',#1141,#1139);
+#1140=PRODUCT_DEFINITION('z_motor_mount_front','z_motor_mount_front',#1141,
+#1139);
 #1141=PRODUCT_DEFINITION_FORMATION('',$,#1146);
-#1142=PRODUCT_RELATED_PRODUCT_CATEGORY('z_motor_front','z_motor_front',
-(#1146));
+#1142=PRODUCT_RELATED_PRODUCT_CATEGORY('z_motor_mount_front',
+'z_motor_mount_front',(#1146));
 #1143=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1144);
 #1144=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1145=PRODUCT_CONTEXT('part definition',#1144,'mechanical');
-#1146=PRODUCT('z_motor_front','z_motor_front',$,(#1145));
+#1146=PRODUCT('z_motor_mount_front','z_motor_mount_front',$,(#1145));
 #1147=PRESENTATION_STYLE_ASSIGNMENT((#1149));
 #1148=PRESENTATION_STYLE_ASSIGNMENT((#1150));
 #1149=SURFACE_STYLE_USAGE(.BOTH.,#1151);
