@@ -48,7 +48,6 @@ psu_lower_mount
 psu_upper_mount
 rambo_base_lower_mount
 rambo_base_upper_mount
-rod_holder
 z_motor_mount_front
 z_motor_mounts
 z_tops
