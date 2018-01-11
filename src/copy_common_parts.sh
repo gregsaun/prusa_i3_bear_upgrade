@@ -48,9 +48,6 @@ psu_lower_mount
 psu_upper_mount
 rambo_base_lower_mount
 rambo_base_upper_mount
-z_motor_mount_front
-z_motor_mounts
-z_tops
 "
 
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
