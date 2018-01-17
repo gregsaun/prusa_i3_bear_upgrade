@@ -45,7 +45,6 @@ end_cap
 foot
 lcd_support_a
 lcd_support_b
-psu_lower_mount
 psu_upper_mount
 rambo_base_lower_mount
 rambo_base_upper_mount
