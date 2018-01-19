@@ -1,6 +1,8 @@
 # Prusa i3 Bear Half Upgrade
 
-## Table of Content
+## Manual
+
+### Table of Content
 
 * [Build Of Material](/manual/bom.md)
 * [Print Settings](/manual/print_settings.md)
