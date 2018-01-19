@@ -1,12 +1,14 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 11
+## Assembly Instructions
 
-### Parts
+### Step 11
+
+#### Parts
 
 * 2x M4x14 screws
 
-### Assembly
+#### Assembly
 
 1. Assemble PSU to the frame with M4x14 screws
 
@@ -15,4 +17,4 @@
 *fig 11.1*
 
 
-### [Previous Step](step10.md) &nbsp;&nbsp;&nbsp; [Next Step](step12.md)
+#### [Previous Step](step10.md) &nbsp;&nbsp;&nbsp; [Next Step](step12.md)

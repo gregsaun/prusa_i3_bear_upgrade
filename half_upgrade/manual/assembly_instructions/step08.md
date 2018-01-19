@@ -1,8 +1,10 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 8
+## Assembly Instructions
 
-### Parts
+### Step 8
+
+#### Parts
 
 * 1x y_motor_mount
 * 1x y_idler
@@ -11,7 +13,7 @@
 * 1x Y motor with its original M3x10 screws
 * 1x M3x10 screws (get it from Prusa spare parts bag)
 
-### Assembly
+#### Assembly
 
 1. Assemble the Y motor on the y_motor_mount with 3 M3x10 screws. Motor cables should be oriented to the back of the printed part (fig 8.1)
 1. Mount the motor on the back of the frame using 2 M5x15 and adjust to the measurements on figure 8.2
@@ -30,4 +32,4 @@
 ![](img/fig8.3.png)\
 *fig 8.3*
 
-### [Previous Step](step07.md) &nbsp;&nbsp;&nbsp; [Next Step](step09.md)
+#### [Previous Step](step07.md) &nbsp;&nbsp;&nbsp; [Next Step](step09.md)

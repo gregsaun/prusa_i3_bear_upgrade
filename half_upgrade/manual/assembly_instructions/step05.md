@@ -1,14 +1,16 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 5
+## Assembly Instructions
 
-### Parts
+### Step 5
+
+#### Parts
 
 * 1x Original aluminum frame
 * 2x Tee nuts
 * 4x M5x25mm screws
 
-### Assembly
+#### Assembly
 
 1.  Add 2 tee nuts as seen on figure 5.1
 1.  Assemble everything together with 4 M5x25 screws (fig 5.2)
@@ -20,4 +22,4 @@
 ![](img/fig5.2.png)\
 *fig 5.2*
 
-### [Previous Step](step04.md) &nbsp;&nbsp;&nbsp; [Next Step](step06.md)
+#### [Previous Step](step04.md) &nbsp;&nbsp;&nbsp; [Next Step](step06.md)

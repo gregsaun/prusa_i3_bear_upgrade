@@ -1,15 +1,17 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 7
+## Assembly Instructions
 
-### Parts
+### Step 7
+
+#### Parts
 
 * 4x rod holders
 * 8x M5x10mm screws
 * 8x Tee nuts
 * 8x zip ties
 
-### Assembly
+#### Assembly
 
 1. Assemble 2 rod holders on the right side of the frame (fig 7.1) with 4 M5x10 and 4 tee nuts
 1. Adjust to the match measurements on fig 7.1
@@ -31,4 +33,4 @@
 ![](img/fig7.3.png)\
 *fig 7.3*
 
-### [Previous Step](step06.md) &nbsp;&nbsp;&nbsp; [Next Step](step08.md)
+#### [Previous Step](step06.md) &nbsp;&nbsp;&nbsp; [Next Step](step08.md)

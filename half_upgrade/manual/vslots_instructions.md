@@ -1,4 +1,4 @@
-# Prusa i3 Bear Upgrade Manual
+# Prusa i3 Bear Half Upgrade
 
 ## V-Slots Instructions
 

@@ -1,6 +1,8 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 13
+## Assembly Instructions
+
+### Step 13
 
 ### Parts
 
@@ -12,7 +14,7 @@
 * 2x Tee nuts
 
 
-### Assembly
+#### Assembly
 
 1. Mount the new lcd supports to the screen cover
 2. Assemble them to frame with 2 M5x10 and 2 tee nuts
@@ -24,4 +26,4 @@
 *fig 13.1*
 
 
-### [Previous Step](step12.md) &nbsp;&nbsp;&nbsp; [Next Step](step14.md)
+#### [Previous Step](step12.md) &nbsp;&nbsp;&nbsp; [Next Step](step14.md)

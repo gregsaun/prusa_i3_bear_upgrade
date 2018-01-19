@@ -1,8 +1,10 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 3
+## Assembly Instructions
 
-### Parts
+### Step 3
+
+#### Parts
 
 * 2x 110mm V-Slots
 * 1x 230mm V-Slots
@@ -14,7 +16,7 @@
 * 2x M5x15mm screws
 * 16x Tee nuts
 
-### Assembly
+#### Assembly
 
 1.  Assemble 90° plates to the v-slots with 8x M5x10 screws and 8 tee nuts and make sure everything is square
 1.  Add 4 tee nuts on the 230mm v-slot as seen on figure 3.1
@@ -30,4 +32,4 @@
 ![](img/fig3.3.png)\
 *fig 3.3*
 
-### [Previous Step](step02.md) &nbsp;&nbsp;&nbsp; [Next Step](step04.md)
+#### [Previous Step](step02.md) &nbsp;&nbsp;&nbsp; [Next Step](step04.md)

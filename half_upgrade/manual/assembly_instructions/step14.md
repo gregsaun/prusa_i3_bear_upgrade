@@ -1,8 +1,10 @@
-# Assembly Instructions
+# Prusa i3 Half Upgrade
 
-## Step 14
+## Assembly Instructions
 
-### Assembly
+### Step 14
+
+#### Assembly
 
 1.  Finish the build with all other Prusa original parts
 2.  Check that everything seems correctly mounted
@@ -12,4 +14,4 @@
 Happy Printing :)
 
 
-### [Previous Step](step13.md)
+#### [Previous Step](step13.md)
