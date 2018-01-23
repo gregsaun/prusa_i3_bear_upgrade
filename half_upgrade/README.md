@@ -16,17 +16,17 @@
 
 ![Prusa Bear Edition Photo](img/photos/5D3_0595.jpg)
 
-![Prusa Bear Edition Left](img/3d_rendering/home_left.png)
+![Prusa Bear Edition Left](img/3d_rendering/home_left.jpg)
 
-![Prusa Bear Edition Right](img/3d_rendering/home_right.png)
+![Prusa Bear Edition Right](img/3d_rendering/home_right.jpg)
 
-![Prusa Bear Edition Right](img/3d_rendering/right.png)
+![Prusa Bear Edition Right](img/3d_rendering/right.jpg)
 
-![Prusa Bear Edition Front](img/3d_rendering/front.png)
+![Prusa Bear Edition Front](img/3d_rendering/front.jpg)
 
-![Prusa Bear Edition Top](img/3d_rendering/top.png)
+![Prusa Bear Edition Top](img/3d_rendering/top.jpg)
 
-![Prusa Bear Edition Bottom](img/3d_rendering/bottom.png)
+![Prusa Bear Edition Bottom](img/3d_rendering/bottom.jpg)
 
 ![Prusa Bear Edition V-Slots Length](doc/vslots_length.png)
 
