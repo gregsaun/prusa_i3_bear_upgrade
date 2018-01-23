@@ -17,7 +17,7 @@ Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is sti
   * Half upgrade: similar to MK3 and cheaper
 * Use Openbuilds hardware:
   * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
-  * V shape gives more possibilities to orientate the printed part (45° angle is more than manageable, with T-Slots you might need to add support)
+  * V-Slot offer more possibilities to printed parts and customisation than T-Slot
   * Open source
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
