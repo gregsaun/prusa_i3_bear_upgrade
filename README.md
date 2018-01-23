@@ -16,6 +16,7 @@ Here are the features that explain why I decided to create another printer upgra
 * Let user choose between two upgrades:
   * Full upgrade: stronger but more expensive
   * Half upgrade: similar to MK3 and cheaper
+* Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware:
   * Single platform of multitude compatible hardware parts (extrusion, plates, low profile screws...)
