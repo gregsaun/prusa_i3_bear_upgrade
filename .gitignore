@@ -3,3 +3,4 @@
 *.cos
 full_upgrade/img/photos/raw
 half_upgrade/img/photos/raw
+img/*.psd
