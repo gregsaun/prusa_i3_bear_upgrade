@@ -31,7 +31,7 @@ Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is sti
 
 TO DO
 
-![Prusa i3 Bear Full and Half Upgrade Left](img/3d_rendering/half_and_full.png.png)
+![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full.png.png)
 
 ![Prusa Bear Full Upgrade Left](full_upgrade/img/3d_rendering/home_left.png)
 
