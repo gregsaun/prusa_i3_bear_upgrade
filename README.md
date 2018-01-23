@@ -22,9 +22,8 @@ Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is sti
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
   * Powerful community
-* Limited number of measurements needed during the build phase (and no need for a calliper bigger than 150mm)
-* Fully open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 * High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
+* Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 
 
 ## Full And Half upgrades
