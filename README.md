@@ -11,14 +11,14 @@ One of the down point of the Prusa i3 MK2 and MK3 is the rigidity of the frame. 
 
 Here are the features that explain why I decided to create another printer upgrade.
 
-* Reduce the number of parts to update your original Prusa printer (no need to print a new RAMBo/EINSY cover nor change any cable, rods or firmware update)
-* Compatible with MK2, MK2s MK2.5 and MK3 printers
+* Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
+* Compatible with MK2, MK2s MK2.5 and MK3
 * Let user choose between two upgrades:
   * Full upgrade: stronger but more expensive
   * Half upgrade: similar to MK3 and cheaper
-* Use more aluminum and less printed parts (3D printed parts can crack, they are less reliable and might cost more)
+* Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware:
-  * Single platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
+  * Single platform of multitude compatible hardware parts (extrusion, plates, low profile screws...)
   * V-Slot offer more possibilities to printed parts and customisation than T-Slot
   * Open source with powerful community
   * Easy to square and build
