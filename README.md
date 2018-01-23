@@ -1,27 +1,28 @@
 # Prusa i3 Bear Upgrade
 
-This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
+This is an aluminum frame conversion for the Prusa i3 MK2, MK2s, MK2.5 and MK3.
 
-Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
+Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
 
-Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is still not enough rigid. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
+One of the down point of the Prusa i3 MK2 and MK3 is the rigidity of the frame. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
 
 
 ## Why another conversion build?
 
-* To reduce the number of parts to update from your original printer (no need to print a new RAMBo/EINSY cover nor change any cable, rods or firmware update)
-* Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more
+Here are the features that explain why I decided to create another printer upgrade.
+
+* Reduce the number of parts to update your original Prusa printer (no need to print a new RAMBo/EINSY cover nor change any cable, rods or firmware update)
 * Compatible with MK2, MK2s MK2.5 and MK3 printers
 * Let user choose between two upgrades:
   * Full upgrade: stronger but more expensive
   * Half upgrade: similar to MK3 and cheaper
+* Use more aluminum and less printed parts (3D printed parts can crack, they are less reliable and might cost more)
 * Use Openbuilds hardware:
-  * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
+  * Single platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
   * V-Slot offer more possibilities to printed parts and customisation than T-Slot
-  * Open source
+  * Open source with powerful community
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
-  * Powerful community
 * High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
 * Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 
