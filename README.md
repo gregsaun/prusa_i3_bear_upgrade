@@ -36,6 +36,8 @@ TO DO
 
 ![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full.jpg)
 
+![Prusa i3 Bear Full Upgrade All Versions](img/all_versions.jpg)
+
 ## Current status
 
 Dev
