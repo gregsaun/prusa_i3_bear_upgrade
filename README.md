@@ -32,7 +32,7 @@ Here are the features that explain why I decided to create another printer upgra
 
 TO DO
 
-![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full.png)
+![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full.jpg)
 
 ![Prusa Bear Full Upgrade Left](full_upgrade/img/3d_rendering/home_left.png)
 
