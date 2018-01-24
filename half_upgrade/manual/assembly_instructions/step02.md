@@ -6,7 +6,7 @@
 
 #### Parts
 
-* 2x feet
+* 2x Feet
 * 2x M5x12mm screws
 * 2x Tee nuts
 
