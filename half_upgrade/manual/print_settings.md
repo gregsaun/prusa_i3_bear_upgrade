@@ -8,6 +8,8 @@ There are several hidden features on most printed parts (like selective infill).
 
 To ensure your prints are good, be sure to have a very well calibrated machine and extruder.
 
+I recommend to print in PETG. The filament [Extrudr MF-PETG Neon Orange](https://extrudr.eu/collections/petg/products/extrudr-mf-petg-neon-orange) is very very close to Prusa orange.
+
 ### Parameters
 
 | Part | Layer Height | Infill | Perimeters | Top/Bottom Layers |
@@ -32,6 +34,6 @@ All prints have been tested with these material
 
 * slic3r Prusa Edition 1.37.2
 * Prusa MK2s printer
-* Extrudr MF-PETG Neon Orange
-* Heat bed : 80°C
-* Nozzle : 215°C for first 3 layers then 210°C
+* Extrudr MF-PETG Neon Orange and Black
+* Heat bed : 75°C
+* Nozzle : 210°C
