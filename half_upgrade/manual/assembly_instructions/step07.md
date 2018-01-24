@@ -32,8 +32,10 @@
 ![](img/fig7.2.png)\
 *fig 7.2*
 
-
 ![](img/fig7.3.png)\
 *fig 7.3*
+
+![](img/fig7.4.png)\
+*fig 7.4*
 
 #### [Previous Step](step06.md) &nbsp;&nbsp;&nbsp; [Next Step](step08.md)
