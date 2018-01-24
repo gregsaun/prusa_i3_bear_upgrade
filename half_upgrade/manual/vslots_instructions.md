@@ -25,3 +25,8 @@ You need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes). Threa
 1. Make sure your tap is straight
 1. Turn clockwise with a bit of pressure until it starts to be a bit harder, then reverse the rotation until you can feel a small detachment
 1. Continue until you have a 20mm thread at least
+
+
+### Dimensions
+
+![Prusa Bear Edition V-Slots Length](doc/vslots_length.png)
