@@ -2,37 +2,37 @@
 
 ## Images
 
-![Prusa Bear Edition Photo](img/photos/5D3_0571.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)
 
-![Prusa Bear Edition Photo](img/photos/5D3_0525.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0525.jpg)
 
-![Prusa Bear Edition Photo](img/photos/5D3_0545.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0545.jpg)
 
-![Prusa Bear Edition Photo](img/photos/5D3_0531.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0531.jpg)
 
-![Prusa Bear Edition Photo](img/photos/5D3_0535.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0535.jpg)
 
-![Prusa Bear Edition Photo](img/photos/5D3_0579.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0579.jpg)
 
-![Prusa Bear Edition Photo](img/photos/5D3_0595.jpg)
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0595.jpg)
 
-![Prusa Bear Edition Left](img/3d_rendering/home_left.jpg)
+![Prusa i3 Bear Half Upgrade Left](img/3d_rendering/home_left.jpg)
 
-![Prusa Bear Edition Right](img/3d_rendering/home_right.jpg)
+![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/home_right.jpg)
 
-![Prusa Bear Edition Right](img/3d_rendering/right.jpg)
+![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/right.jpg)
 
-![Prusa Bear Edition Front](img/3d_rendering/front.jpg)
+![Prusa i3 Bear Half Upgrade Front](img/3d_rendering/front.jpg)
 
-![Prusa Bear Edition Top](img/3d_rendering/top.jpg)
+![Prusa i3 Bear Half Upgrade Top](img/3d_rendering/top.jpg)
 
-![Prusa Bear Edition Bottom](img/3d_rendering/bottom.jpg)
+![Prusa i3 Bear Half Upgrade Bottom](img/3d_rendering/bottom.jpg)
 
-![Prusa Bear Edition V-Slots Length](doc/vslots_length.png)
+![Prusa i3 Bear Half Upgrade V-Slots Length](doc/vslots_length.png)
 
-![Prusa Bear Edition Parts Positions](doc/printed_parts_positions.png)
+![Prusa i3 Bear Half Upgrade Parts Positions](doc/printed_parts_positions.png)
 
-![Prusa Bear Edition Drilling Dimensions](doc/frame_drilling_dimensions.png)
+![Prusa i3 Bear Half Upgrade Drilling Dimensions](doc/frame_drilling_dimensions.png)
 
 
 ## Manual
