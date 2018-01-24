@@ -16,3 +16,4 @@
 * [Step 12](assembly_instructions/step12.md)
 * [Step 13](assembly_instructions/step13.md)
 * [Step 14](assembly_instructions/step14.md)
+* [Step 15](assembly_instructions/step15.md)
