@@ -55,7 +55,6 @@ z_tops
 
 common_half_files="
 cable_clip_lcd
-cable_clip_round
 cable_clip_ziptie
 end_cap
 foot
