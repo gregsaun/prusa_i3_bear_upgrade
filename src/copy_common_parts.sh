@@ -66,7 +66,7 @@ y_motor_mount
 "
 
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-src_dir="${SCRIPTDIR}/../full_upgrade/printed_parts/for_mk2_mk2s"
+src_dir="${SCRIPTDIR}/../full_upgrade/for_mk2_mk2s/printed_parts"
 
 # Count MK2(s) STL files
 num_tot_full_mk2_stl=$(ls ${src_dir}/stl | wc -w)
@@ -75,7 +75,7 @@ num_tot_full_mk2_step=$(ls ${src_dir}/step | wc -w)
 # Copy common MK2 files into MK2.5 dir
 num_files=$(echo $common_full_mk25_files | wc -w)
 echo -e "\nCopy ${num_files} files to MK2.5"
-dest_dir="${SCRIPTDIR}/../full_upgrade/printed_parts/for_mk2.5"
+dest_dir="${SCRIPTDIR}/../full_upgrade/for_mk2.5/printed_parts"
 for i in $common_full_mk25_files; do
     echo "copy file $i"
     cp -f "${src_dir}/stl/${i}.stl" "${dest_dir}/stl/"
@@ -90,7 +90,7 @@ num_tot_full_mk25_step=$(ls ${dest_dir}/step | wc -w)
 # Copy common MK2 files into MK3 dir
 num_files=$(echo $common_full_mk3_files | wc -w)
 echo -e "\nCopy ${num_files} files to MK3"
-dest_dir="${SCRIPTDIR}/../full_upgrade/printed_parts/for_mk3"
+dest_dir="${SCRIPTDIR}/../full_upgrade/for_mk3/printed_parts"
 for i in $common_full_mk3_files; do
     echo "copy file $i"
     cp -f "${src_dir}/stl/${i}.stl" "${dest_dir}/stl/"
