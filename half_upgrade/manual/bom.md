@@ -30,13 +30,15 @@ All files are available [here](/half_upgrade/printed_parts/stl/)
 
 | Part     | Number | Note |
 |----------|:------:|------|
-| drilling helper  | 1 | consider printing two in case you break one during the build |
-| rod_holder       | 4 | |
-| y_idler          | 1 | |
-| 1x y_motor_mount | 1 | |
-| psu_lower_mount  | 1 | |
-| psu_upper_mount  | 2 | |
-| lcd_support_a    | 1 | |
-| lcd_support_b    | 1 | |
-| end_cap          | 4 | |
-| foot             | 4 | |
+| drilling helper   | 1 | consider printing two in case you break one during the build |
+| rod_holder        | 4 | |
+| y_idler           | 1 | |
+| 1x y_motor_mount  | 1 | |
+| psu_lower_mount   | 1 | |
+| psu_upper_mount   | 2 | |
+| lcd_support_a     | 1 | |
+| lcd_support_b     | 1 | |
+| end_cap           | 4 | |
+| foot              | 4 | |
+| cable_clip_lcd    | 7 | |
+| cable_clip_ziptie | 4 | |
