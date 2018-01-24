@@ -29,4 +29,4 @@ You need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes). Threa
 
 ### Dimensions
 
-![Prusa Bear Edition V-Slots Length](doc/vslots_length.png)
+![Prusa i3 Bear Half Upgrade V-Slots Length](/half_upgrade/doc/vslots_length.png)
