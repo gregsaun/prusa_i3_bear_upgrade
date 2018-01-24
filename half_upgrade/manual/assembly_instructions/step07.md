@@ -6,10 +6,12 @@
 
 #### Parts
 
-* 4x rod holders
+* 4x Rod holders
 * 8x M5x10mm screws
 * 8x Tee nuts
-* 8x zip ties
+* 8x Zip ties
+* 2x 330mm smooth rods
+* 1x Print bed
 
 #### Assembly
 
@@ -18,8 +20,9 @@
 1. Add the rod on this two holders
 1. Check they are perpendicular to the frame with a square (fig 7.2)
 1. Assemble 2 other rod holders on the left side of the frame (fig 7.3) with 4 M5x10 and 4 tee nuts
-1. Add the last 2 rods
-1. Adjust to match the measurements on bottom picture (fig 7.3). Take your time to have perfect measurements other the calibration might fail.
+1. Remove the first rod and assemble the two rods on the print bed
+1. Fix print bed and rods to the rod holders (fig 7.4)
+1. Adjust to match the measurements on bottom picture (fig 7.4). Take your time to have perfect measurements or the calibration might fail
 1. Add zip ties to all rod holders
 
 

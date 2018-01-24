@@ -15,7 +15,7 @@
 
 #### Assembly
 
-1. Assemble the Y motor on the y_motor_mount with 3 M3x10 screws. Motor cables should be oriented to the back of the printed part (fig 8.1)
+1. Assemble the Y motor on the y_motor_mount with 3 M3x10 screws. Ensure the correct orientation of motor cables as in fig 8.1
 1. Mount the motor on the back of the frame using 2 M5x15 and adjust to the measurements on figure 8.2
 1. The motor cables should face the 230mm v-slots
 1. Mount y_idler using 2 M5x10 and adjust to the measurements on figure 8.3

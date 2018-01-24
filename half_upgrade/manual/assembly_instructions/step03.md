@@ -13,7 +13,7 @@
 * 2x Black angle corner
 * 4x M5x8mm screws
 * 2x Feet
-* 2x M5x15mm screws
+* 2x M5x12mm screws
 * 16x Tee nuts
 
 #### Assembly
