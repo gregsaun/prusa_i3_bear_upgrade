@@ -1,5 +1,10 @@
 # Prusa i3 Bear Upgrade
 
+![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing.jpg)
+
+
+## Introduction
+
 This is an aluminum frame conversion for the Prusa i3 MK2, MK2s, MK2.5 and MK3.
 
 Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
@@ -32,9 +37,9 @@ Here are the features that explain why I decided to create another printer upgra
 
 TO DO
 
-![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing.jpg)
-
 ![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full.jpg)
+
+TO DO
 
 ![Prusa i3 Bear Full Upgrade All Versions](img/all_versions.jpg)
 
