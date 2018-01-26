@@ -39,11 +39,11 @@ This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to 
 
 ## What's new in v2.0 ?
 
-* Now use M5x12mm on Y motor mount (instead of M5x15mm) to easily remove all motor screws when tightened to the frame
+* Use smaller screws on Y motor mount to easily remove all motor screws when tightened to the frame
 * Improved manual
 * Stronger rod holders (and use less plastics)
-* PSU lower mount not use pockets for nuts to ease assembly
-* Feet use M5x12 as well
+* PSU lower mount uses pockets for nuts to ease assembly
+* Feet are thinner
 * Nicer LCD supports
 * Minor improvements for better printing quality and durability
 
