@@ -67,13 +67,9 @@ If you break the frame, you can send an email to Prusa support to get a new one.
 If you have access to a CNC machine, you can use [this DXF here](optional_parts/alu_frame/).
 
 
-## Getting Openbuilds V-Slots
+## Purchasing Openbuilds V-Slots
 
-The length of V-Slots are detailed [here](doc/vslots_length.pdf).
-
-### On-line shops
-
-Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md).
+Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
 ## Current status
