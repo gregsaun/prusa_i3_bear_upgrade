@@ -2,6 +2,23 @@
 
 This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/) or spot the differences en the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/dev/).
 
+
+## Features
+
+* Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
+* Compatible with MK2, MK2s MK2.5
+* Highly detailed manual
+* Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
+* Use Openbuilds hardware:
+  * Single platform of multitude compatible hardware parts (extrusion, plates, low profile screws...)
+  * V-Slot offer more possibilities to printed parts and customisation than T-Slot
+  * Open source with powerful community
+  * Easy to square and build
+  * Worldwide shipping plus several other shops selling these parts
+* High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
+* Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
+
+
 ## Images
 
 ![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)
