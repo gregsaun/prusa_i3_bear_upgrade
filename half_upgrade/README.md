@@ -1,5 +1,7 @@
 # Prusa i3 Bear Half Upgrade
 
+This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/).
+
 ## Images
 
 ![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)
@@ -37,7 +39,7 @@
 
 ## What's new in v2.0 ?
 
-* Now use M5x12mm on Y motor mount (instead of M5x15mm) to be able to easily remove all motor screws when tightened to the frame
+* Now use M5x12mm on Y motor mount (instead of M5x15mm) to easily remove all motor screws when tightened to the frame
 * Improved manual
 * Stronger rod holders (and use less plastics)
 * PSU lower mount not use pockets for nuts to ease assembly
