@@ -1,6 +1,6 @@
 # Prusa i3 Bear Half Upgrade
 
-This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/) or spot the differences en the [home page](/).
+This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/) or spot the differences en the [home page](/prusa_i3_bear_upgrade/tree/dev/).
 
 ## Images
 
