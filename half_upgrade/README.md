@@ -1,12 +1,14 @@
 # Prusa i3 Bear Half Upgrade
 
-This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/) or spot the differences en the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/dev/).
+This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/) or spot the differences on the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/dev/).
 
 
 ## Features
 
+* Stronger and quieter
+* Easier to maintain and customise
 * Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
-* Compatible with MK2, MK2s MK2.5
+* Compatible with MK2, MK2s and MK2.5
 * Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware:
@@ -92,21 +94,3 @@ Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that
 ## Current status
 
 dev
-
-
-## Links
-* All project data and sources are available on my github : [github.com/gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
-* [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
-* [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
-* [Thingiverse page](https://www.thingiverse.com/thing:2562174)
-
-
-## Sources
-
-Here are a list of sources I used to build this project :
-
-* Prusa : http://www.prusa3d.com
-* Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
-* Openbuilds : https://www.openbuilds.org
-
-Huge thanks to these projects, without them this project can not exist!
