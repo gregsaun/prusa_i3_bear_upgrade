@@ -1,88 +1,40 @@
 # Prusa i3 Bear Full Upgrade
 
-This is an aluminum frame conversion for the Prusa i3 MK2, MK2s and MK2.5.
-
-Josef PRŮŠA has created numerous of incredible 3D printers and its Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
-
-Prusa i3 MK3 has a much better frame than its predecessors but the Z axis is still not enough rigid. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
+This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for your MK2, MK2s, MK2.5 or MK3. If you are searching for a cheaper and simpler upgrade check out [half upgrade version](/half_upgrade/) or spot the differences on the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/dev/).
 
 
-## Why another conversion build?
+## Features
 
-* To reduce the number of parts to update from your original printer (no need to print a new RAMBo/EINSY cover nor change any cable, rods or firmware update)
-* Use more aluminum and less printed parts to build the frame (3D printed parts can crack if tighten too strongly, they are less reliable, less precise and might cost more
-* Compatible with MK2, MK2s MK2.5 and MK3 printers
+* Stronger and quieter
+* Easier to maintain and customise
+* Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
+* Compatible with MK2, MK2s, MK2.5 and MK3
+* Highly detailed manual
+* Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware:
-  * To have a single high quality platform of multitude compatible hardware parts (extrusion, plates, brackets, low profile screws...)
-  * V shape gives more possibilities to orientate the printed part (45° angle is more than manageable, with T-Slots you might need to add support)
-  * Open source
+  * Single platform of multitude compatible hardware parts (extrusion, plates, low profile screws...)
+  * V-Slot offer more possibilities to printed parts and customisation than T-Slot
+  * Open source with powerful community
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
-  * Powerful community
-  * Easily customizable
-* Limited number of measurements needed during the build phase (and no need for a calliper bigger than 150mm)
-* Fully open source by providing STL files, STEP files and Autodesk Fusion 360 project file
-* Better design of 3D printed parts using selective infill, material saving, clean vertical holes...
+* High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
+* Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
+* Fix some dimensional errors of Z axis from Original Prusa i3
 
 
-## Compatibility
+## Description
 
-This upgrade is compatible with Original Prusa i3 MK2, MK2s, MK2.5 and MK3 printers.
+The full upgrade is split in 3 different versions depending the printer version you would like to upgrade :
+* [For MK2 and MK2s](for_mk2_mk2s)
+* [For MK2.5 (RAMBo cover is different than MK2(s))](for_mk2.5)
+* [For MK3 (RAMBo cover and Y axis are different)](for_mk3)
 
+Be sure to get the correct version according to your printer
 
-## Images
+[![Prusa i3 Bear Full Upgrade MK2s](/img/full_upgrade_mk2s_lq.jpg)](for_mk2_mk2s)
 
-![Prusa Bear Edition Left](/img/3d_rendering/home_left.png)
+[![Prusa i3 Bear Full Upgrade MK2.5](/img/full_upgrade_mk25_lq.jpg)](for_mk2.5)
 
-![Prusa Bear Edition Right](/img/3d_rendering/home_right.png)
+[![Prusa i3 Bear Full Upgrade MK3](/img/full_upgrade_mk3_lq.jpg)](for_mk3)
 
-
-## Bill of materials
-
-coming soon...
-
-
-## Getting Openbuilds V-Slots
-
-The length of V-Slots are detailed [here](doc/vslots_length.pdf).
-
-### On-line shops
-
-Here is a list of [Openbuilds stores](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md).
-
-### Pre-cut
-
-In the list above you will find indication about pre-cut V-Slots for each shops. If a store in your country does not sell pre-cut V-Slots, try to send an email.
-
-### Machine cut
-
-The best way to cut V-Slots is to use a mitre saw with special aluminum blade and lubricant.
-
-Another way is to use a circular saw but you will need a cross-cut sled. As well as for mitre saw, a special aluminum blade and lubricant are necessary.
-
-### Hand cut
-
-You can hand cut them accurately using a jig (it just takes more time and effort). I have build one, all details are here : https://www.thingiverse.com/thing:2596242
-
-
-## Current status
-
-Dev
-
-
-## Links
-* All project data and sources are available on my github : [github.com/gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
-* [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
-* [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
-* [Thingiverse page](https://www.thingiverse.com/thing:2562174)
-
-
-## Sources
-
-Here are a list of sources I used to build this project :
-
-* Prusa : http://www.prusa3d.com
-* Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
-* Openbuilds : https://www.openbuilds.org
-
-Huge thanks to these projects, without them this project can not exist!
+Go to [full upgrade MK2(s) page](for_mk2_mk2s/) or [full upgrade MK2.5 page](for_mk2.5) or [full upgrade MK3 page](for_mk3).
