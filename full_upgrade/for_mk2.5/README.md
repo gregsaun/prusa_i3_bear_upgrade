@@ -24,21 +24,21 @@ This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for
 
 ## Images
 
-![Prusa i3 Bear Full Upgrade MK2.5 Left](img/3d_rendering/home_left.jpg)
+![Prusa i3 Bear Full Upgrade MK2.5 Left](img/3d_rendering/home_left.png)
 
-![Prusa i3 Bear Full Upgrade MK2.5 Right](img/3d_rendering/home_right.jpg)
+![Prusa i3 Bear Full Upgrade MK2.5 Right](img/3d_rendering/home_right.png)
 
-![Prusa i3 Bear Full Upgrade MK2.5 Right](img/3d_rendering/right.jpg)
+![Prusa i3 Bear Full Upgrade MK2.5 Right](img/3d_rendering/right.png)
 
-![Prusa i3 Bear Full Upgrade MK2.5 Front](img/3d_rendering/front.jpg)
+![Prusa i3 Bear Full Upgrade MK2.5 Front](img/3d_rendering/front.png)
 
-![Prusa i3 Bear Full Upgrade MK2.5 Top](img/3d_rendering/top.jpg)
+![Prusa i3 Bear Full Upgrade MK2.5 Top](img/3d_rendering/top.png)
 
-![Prusa i3 Bear Full Upgrade MK2.5 Bottom](img/3d_rendering/bottom.jpg)
+![Prusa i3 Bear Full Upgrade MK2.5 Bottom](img/3d_rendering/bottom.png)
 
 ![Prusa i3 Bear Full Upgrade MK2.5 V-Slots Length](doc/vslots_length.png)
 
-![Prusa i3 Bear Full Upgrade MK2.5 Parts Positions](doc/printed_parts_positions.png)
+![Prusa i3 Bear Full Upgrade MK2.5 Parts Positions](doc/parts_positions.png)
 
 
 ## Manual
