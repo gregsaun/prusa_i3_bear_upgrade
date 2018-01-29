@@ -11,7 +11,7 @@ This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to 
 * Compatible with MK2, MK2s and MK2.5
 * Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
-* Use Openbuilds hardware:
+* Use Openbuilds hardware :
   * Single platform of multitude compatible hardware parts (extrusion, plates, low profile screws...)
   * V-Slot offer more possibilities to printed parts and customisation than T-Slot
   * Open source with powerful community
@@ -65,6 +65,7 @@ This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to 
 * Feet are thinner
 * Nicer LCD supports
 * Minor improvements for better printing quality and durability
+
 
 ## Manual
 
