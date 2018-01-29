@@ -56,6 +56,8 @@ Here is a comparison table to help you choose :
 | Can I place the printer inside an<br>enclosure and PSU outside? | No, PSU rigidify the Z frame | Yes |
 | Capability to increase Z axis height?<br>(need customisation) | No | Yes |
 
+Half upgrade use the same vslots and printed for MK2(s) and MK2.5. However, the full upgrade has 3 different versions, one for MK2(s), one for MK2.5 and another one for MK3. You can discover the difference in the [full upgrade page](full_upgrade/).
+
 ![Prusa i3 Bear Full Upgrade All Versions](img/all_versions.jpg)
 
 Several printed parts are shared between all these versions. This makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
