@@ -18,9 +18,9 @@ Here are the features that explain why I decided to create another printer upgra
 
 * Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
 * Compatible with MK2, MK2s MK2.5 and MK3
-* Let user choose between two upgrades:
-  * Full upgrade: stronger but more expensive
-  * Half upgrade: similar to MK3 and cheaper
+* Let user choose between two versions:
+  * [Half upgrade](half_upgrade/) : similar to MK3 and cheaper
+  * [Full upgrade](full_upgrade/) : stronger but more expensive
 * Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware:
@@ -29,19 +29,39 @@ Here are the features that explain why I decided to create another printer upgra
   * Open source with powerful community
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
-* High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
+* High level design of 3D printed parts using techniques like selective infill, clean vertical holes, sharp angle...
 * Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 
 
 ## Full And Half upgrades
 
-TO DO
+The Prusa i3 Bear upgrade is proposed in two versions: full or half upgrade.
+* [Half upgrade](half_upgrade/) : upgrade your MK2/MK2s/MK2.5 frame to MK3 type
+* [Full upgrade](full_upgrade/) : has a redesigned and stronger Z axis for all MK2 and MK3 printers but is more expensive
 
-![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full.jpg)
+[<img src="img/half_title.jpg" width="403"/>](half_upgrade/) &nbsp;&nbsp;&nbsp; [<img src="img/full_title.jpg" width="462"/>](full_upgrade/)
 
-TO DO
+Here is a comparison table to help you choose :
+
+| | Full Upgrade | Half Upgrade |
+|-|:------------:|:------------:|
+| Compatibility | MK2, MK2s, MK2.5 and MK3 | MK2, MK2s and MK2.5 |
+| Y axis rigidity | &hearts; &hearts; &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; &hearts; &hearts; |
+| Z axis rigidity | &hearts; &hearts; &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; |
+| Noise level | &hearts; &hearts; &hearts; &hearts; <br>(same than original) | &hearts; &hearts; &hearts; &hearts; <br>(better than original) |
+| Customisation | &hearts; &hearts; &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; |
+| Material cost | $$ | $ |
+| Number of V-Slots to cut | 7<br>(4 different lengths) | 6<br>(4 different lengths) |
+| Number of V-Slots to tap | 0 | 4 |
+| Can I place the printer inside an<br>enclosure and PSU outside? | Yes | No, PSU rigidify the Z frame |
+| Increase Z axis height? | Yes<br>(need customisation) | No |
 
 ![Prusa i3 Bear Full Upgrade All Versions](img/all_versions.jpg)
+
+Several printed parts are shared between all these versions. This is makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
+
+Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
+
 
 ## Current status
 
