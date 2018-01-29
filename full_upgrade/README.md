@@ -29,6 +29,8 @@ The full upgrade is split in 3 different versions depending the printer version 
 * [For MK2.5 (RAMBo cover is different than MK2(s))](for_mk2.5)
 * [For MK3 (RAMBo cover and Y axis are different)](for_mk3)
 
+Those versions are split in 3 folders and they have their own printed parts, manual, documentation, etc. Just go to [full upgrade MK2(s) folder](for_mk2_mk2s/) or [full upgrade MK2.5 folder](for_mk2.5) or [full upgrade MK3 folder](for_mk3) and use the STL files and manual from their.
+
 Be sure to get the correct version according to your printer
 
 [![Prusa i3 Bear Full Upgrade MK2s](/img/full_upgrade_mk2s_lq.jpg)](for_mk2_mk2s)
@@ -36,5 +38,3 @@ Be sure to get the correct version according to your printer
 [![Prusa i3 Bear Full Upgrade MK2.5](/img/full_upgrade_mk25_lq.jpg)](for_mk2.5)
 
 [![Prusa i3 Bear Full Upgrade MK3](/img/full_upgrade_mk3_lq.jpg)](for_mk3)
-
-Go to [full upgrade MK2(s) page](for_mk2_mk2s/) or [full upgrade MK2.5 page](for_mk2.5) or [full upgrade MK3 page](for_mk3).
