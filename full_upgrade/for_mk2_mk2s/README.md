@@ -37,6 +37,8 @@ This is the FULL version of the Prusa i3 Bear upgrade MK2 and MK2s, a much stron
 
 ![Prusa i3 Bear Full Upgrade MK2s Bottom](img/3d_rendering/bottom.jpg)
 
+![Prusa i3 Bear Full Upgrade MK3 Bottom](img/3d_rendering/z_motor_mount.jpg)
+
 ![Prusa i3 Bear Full Upgrade MK2s V-Slots Length](doc/vslots_length.png)
 
 ![Prusa i3 Bear Full Upgrade MK2s Parts Positions](doc/parts_positions.png)
