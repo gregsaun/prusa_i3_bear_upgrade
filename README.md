@@ -58,7 +58,7 @@ Here is a comparison table to help you choose :
 
 ![Prusa i3 Bear Full Upgrade All Versions](img/all_versions.jpg)
 
-Several printed parts are shared between all these versions. This is makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
+Several printed parts are shared between all these versions. This makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
 
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
