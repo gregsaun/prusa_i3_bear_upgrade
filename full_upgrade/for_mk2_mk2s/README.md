@@ -19,6 +19,7 @@ This is the FULL version of the Prusa i3 Bear upgrade MK2 and MK2s, a much stron
   * Worldwide shipping plus several other shops selling these parts
 * High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
 * Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
+* Z motors can be easily removed for maintenance 
 * Fix some dimensional errors of Z axis from Original Prusa i3
 
 
