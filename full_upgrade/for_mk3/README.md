@@ -1,5 +1,7 @@
 # Prusa i3 Bear Full Upgrade MK3
 
+![Prusa i3 Bear Full Upgrade MK3 Right](img/3d_rendering/home_right.jpg)
+
 This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame for your Prusa printer. If you are searching for a cheaper and simpler upgrade check out [half upgrade version](/half_upgrade/) or spot the differences on the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/dev/).
 
 
@@ -8,7 +10,6 @@ This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame
 * Stronger and quieter
 * Easier to maintain and customise
 * Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
-* Compatible with MK2, MK2s, MK2.5 and MK3
 * Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware :
@@ -21,6 +22,18 @@ This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame
 * Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 * Z motors can be easily removed for maintenance 
 * Fix some dimensional errors of Z axis from Original Prusa i3
+
+
+## Manual
+
+The manual contains build of material, preparing frame and v-slots, print settings and assembly instructions.
+
+[Read it here](manual/)
+
+
+## Purchase Openbuilds V-Slots
+
+Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
 ## Images
@@ -42,18 +55,6 @@ This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame
 ![Prusa i3 Bear Full Upgrade MK3 V-Slots Length](doc/vslots_length.png)
 
 ![Prusa i3 Bear Full Upgrade MK3 Parts Positions](doc/parts_positions.png)
-
-
-## Manual
-
-The manual contains build of material, preparing frame and v-slots, print settings and assembly instructions.
-
-[Read it here](manual/)
-
-
-## Purchase Openbuilds V-Slots
-
-Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
 ## Current status
