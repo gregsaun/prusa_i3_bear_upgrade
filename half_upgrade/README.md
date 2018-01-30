@@ -1,5 +1,7 @@
 # Prusa i3 Bear Half Upgrade
 
+![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/right.jpg)
+
 This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to get a much stronger frame for your MK2, MK2s or MK2.5. If you would like to have an even stronger frame check out the [full upgrade version](/full_upgrade/) or spot the differences on the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/dev/).
 
 
@@ -19,41 +21,6 @@ This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to 
   * Worldwide shipping plus several other shops selling these parts
 * High level design of 3D printed parts using selective infill, material saving, clean vertical holes...
 * Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
-
-
-## Images
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0525.jpg)
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0545.jpg)
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0531.jpg)
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0535.jpg)
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0579.jpg)
-
-![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0595.jpg)
-
-![Prusa i3 Bear Half Upgrade Left](img/3d_rendering/home_left.jpg)
-
-![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/home_right.jpg)
-
-![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/right.jpg)
-
-![Prusa i3 Bear Half Upgrade Front](img/3d_rendering/front.jpg)
-
-![Prusa i3 Bear Half Upgrade Top](img/3d_rendering/top.jpg)
-
-![Prusa i3 Bear Half Upgrade Bottom](img/3d_rendering/bottom.jpg)
-
-![Prusa i3 Bear Half Upgrade V-Slots Length](doc/vslots_length.png)
-
-![Prusa i3 Bear Half Upgrade Parts Positions](doc/printed_parts_positions.png)
-
-![Prusa i3 Bear Half Upgrade Drilling Dimensions](doc/frame_drilling_dimensions.png)
 
 
 ## What's new in v2.0 ?
@@ -90,6 +57,41 @@ If you have access to a CNC machine, you can use [this DXF here](optional_parts/
 ## Purchase Openbuilds V-Slots
 
 Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
+
+
+## Images
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0525.jpg)
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0545.jpg)
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0531.jpg)
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0535.jpg)
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0579.jpg)
+
+![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0595.jpg)
+
+![Prusa i3 Bear Half Upgrade Left](img/3d_rendering/home_left.jpg)
+
+![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/home_right.jpg)
+
+![Prusa i3 Bear Half Upgrade Right](img/3d_rendering/right.jpg)
+
+![Prusa i3 Bear Half Upgrade Front](img/3d_rendering/front.jpg)
+
+![Prusa i3 Bear Half Upgrade Top](img/3d_rendering/top.jpg)
+
+![Prusa i3 Bear Half Upgrade Bottom](img/3d_rendering/bottom.jpg)
+
+![Prusa i3 Bear Half Upgrade V-Slots Length](doc/vslots_length.png)
+
+![Prusa i3 Bear Half Upgrade Parts Positions](doc/printed_parts_positions.png)
+
+![Prusa i3 Bear Half Upgrade Drilling Dimensions](doc/frame_drilling_dimensions.png)
 
 
 ## Current status
