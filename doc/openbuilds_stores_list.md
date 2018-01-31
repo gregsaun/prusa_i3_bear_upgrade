@@ -29,7 +29,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Canada | https://snbinc.ca | N | | |
 | Mexico | https://openbuilds.com.mx | N | | |
 | Mexico | http://www.spkautomatizacion.com | N | | |
-| New Jersey | http://openbuildspartstore.com | N | | Good |
+| New Jersey | http://openbuildspartstore.com | N/Y | If you ask they will do it for you | Very good |
 | New York | http://www.opensourceluthiersupply.com | N | | |
 | ? | http://makerstore.cc | N | | |
 
