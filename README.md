@@ -29,8 +29,9 @@ Here are the features that explain why I decided to create another printer upgra
   * Open source with powerful community
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
-* High level design of 3D printed parts using techniques like selective infill, clean vertical holes, sharp angle...
-* Open source by providing STL files, STEP files and Autodesk Fusion 360 project files
+* Other type of aluminum extrusions can be supported thanks to parametric design (check Fusion 360 files)
+* 3D printed parts designed using advanced techniques like selective infill, clean vertical holes, sharp angle...
+* Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 
 
 ## Full And Half upgrades
