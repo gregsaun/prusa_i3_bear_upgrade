@@ -20,7 +20,7 @@ This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to 
   * Easy to square and build
   * Worldwide shipping plus several other shops selling these parts
 * Other type of aluminum extrusions can be supported thanks to parametric design (check Fusion 360 files)
-* 3D printed parts designed using advanced techniques like parametric design, selective infill, clean vertical holes, sharp angle...
+* 3D printed parts designed using advanced techniques like selective infill, clean vertical holes, sharp angle...
 * Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
 
 
