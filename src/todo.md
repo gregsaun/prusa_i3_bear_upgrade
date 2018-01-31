@@ -9,3 +9,4 @@
 1. ~~Fix Z motor mount issue : https://github.com/prusa3d/Original-Prusa-i3/issues/49~~
 1. Fix Y motor mount issue : https://github.com/prusa3d/Original-Prusa-i3/issues/50
 1. ~~Make motor mount 0.45mm deeper to perfectly cover the motor~~
+1. Prusa logo on Full upgrade (as an option)
