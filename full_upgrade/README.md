@@ -19,7 +19,7 @@ This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for
   * Worldwide shipping plus several other shops selling these parts
 * Other type of aluminum extrusions can be supported thanks to parametric design (check Fusion 360 files)
 * 3D printed parts designed using advanced techniques like selective infill, clean vertical holes, sharp angle...
-* Open source by providing STL files, STEP files and Autodesk Fusion 360 project file
+* Open source by providing STL, STEP and Autodesk Fusion 360 files
 * Z motors can be easily removed for maintenance 
 * Fix some dimensional errors of Z axis from Original Prusa i3
 
