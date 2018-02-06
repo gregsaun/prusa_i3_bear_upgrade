@@ -87,6 +87,9 @@ _"It's a professional well made update. And the manual it's really easy to follo
 _"very detailed work, are you sure you dont want to take on the role of the new Josef Prusa ?? I mean the designs are just amazing"_   (I love this one :P)
 
 
+Huge huge THANKS to all of you!
+
+
 ## Current status
 
 Dev
