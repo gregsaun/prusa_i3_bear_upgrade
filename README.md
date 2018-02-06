@@ -66,6 +66,25 @@ Several printed parts are shared between all these versions. This makes easier t
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 
+## Feedbacks from users
+
+Some feedbacks from users that build the half upgrade :
+
+_"I'm really happy. It's really great.It works really fine. It's a professional update. I was searching for a mk3 prusa frame update and I find this"_
+
+_"Excellent with instructions, this was like buying a Prusa kit all over again, only better"_
+
+_"Your frame idea made the machine a lot sturdier"_
+
+_"It seems printing noise has reduced significantly after upgrade"_
+
+_"Amazing work on the detail and on the machine"_
+
+_"That frames makes it into totally different beast!"_
+
+_"It's a professional well made update. And the manual it's really easy to follow"_
+
+
 ## Current status
 
 Dev
