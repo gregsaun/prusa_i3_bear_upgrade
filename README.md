@@ -68,7 +68,7 @@ Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 ## Feedbacks from users
 
-Some feedbacks from users that build the half upgrade :
+Some feedbacks from users that built the half upgrade :
 
 > _"I'm really happy. It's really great.It works really fine. It's a professional update. I was searching for a mk3 prusa frame update and I find this"_
 
