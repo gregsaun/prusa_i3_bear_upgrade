@@ -31,7 +31,7 @@ The full upgrade is split in 3 different versions depending the printer version 
 * [For MK2.5](for_mk2.5) (RAMBo cover is different than MK2(s))
 * [For MK3](for_mk3) (V-Slots length, RAMBo cover, Y axis and PSU lower mount are different)
 
-Those versions are split in 3 folders and they have their own printed parts, manual, documentation, etc. Just go to full upgrade [MK2(s) folder](for_mk2_mk2s/) or full upgrade [MK2.5 folder](for_mk2.5) or full upgrade [MK3 folder](for_mk3) and use the STL files and manual from their.
+Those versions are split in 3 folders and they have their own printed parts, manual, documentation, etc. Just go to full upgrade folder that match your printer and use the STL files and manual from their.
 
 Be sure to get the correct version according to your printer
 
