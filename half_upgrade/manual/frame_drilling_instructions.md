@@ -4,7 +4,7 @@
 
 With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
 
-I have made a [3D printed part](/half_upgrade/printed_parts/stl/drilling_helper.stl) to help you place the holes accurately. You can double check the positions with [this PDF](/half_upgrade/doc/frame_drilling_dimensions.pdf).
+I have made a [3D printed part](/half_upgrade/printed_parts/stl/drilling_helpers.stl) to help you place the holes accurately. You can double check the positions with [this PDF](/half_upgrade/doc/frame_drilling_dimensions.pdf).
 
 As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
@@ -12,14 +12,13 @@ If you break the frame, you can send an email to Prusa support to get a new one.
 
 If you have access to a CNC machine, you can use [the DXF here](/half_upgrade/optional_parts/alu_frame/).
 
-1. Print the drilling helper : [drilling_helper.stl](/half_upgrade/printed_parts/stl/drilling_helper.stl) (print a spare if you do not have another running printer)
+1. Print the drilling helpers : [drilling_helpers.stl](/half_upgrade/printed_parts/stl/drilling_helpers.stl)
 1. Disassemble the printer
-1. On one side of the frame, screw the drilling helper using M3 screw from the Z motor mount. Make sure it is accurately placed and it is not moving
-1. (optional, highly recommended) Pre-dill the frame using the center drill bit
+1. Screw the two drilling helpers using M3 screws from the Z motor mounts on each side. Double check the orientation with [this PDF](/half_upgrade/doc/frame_drilling_dimensions.pdf)
+1. Make sure it is correctly tighten and not moving
+1. (optional, highly recommended) Pre-dill the frame using a center drill bit
 1. Drill the frame using the 5.3mm drill bit
-1. Return the frame and attach the drilling helper on the other side
-1. (optional, highly recommended) Pre-dill the frame using the center drill bit
-1. Drill the frame using the 5.3mm drill bit
+1. Place the other drilling 
 1. Clean up holes
 1. Check dimension using this PDF : [frame_drilling_dimensions](/half_upgrade/doc/frame_drilling_dimensions.pdf)
 

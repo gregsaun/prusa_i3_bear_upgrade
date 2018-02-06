@@ -30,7 +30,7 @@ All files are available [here](/half_upgrade/printed_parts/stl/)
 
 | Part     | Number | Note |
 |----------|:------:|------|
-| drilling helper   | 1 | consider printing two in case you break one during the build |
+| drilling_helpers  | 1 | |
 | rod_holder        | 4 | |
 | y_idler           | 1 | |
 | 1x y_motor_mount  | 1 | |
