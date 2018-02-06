@@ -7,7 +7,7 @@
 1. Printed parts correspond to [bom](bom.md)
 1. Verify visually all the printed parts to find defects and imperfections. Clean up if necessary.
 1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration
-1. Maybe something is interesting for you in the [optional parts](/full_upgrade/optional_parts/)
+1. Maybe something is interesting for you in the [optional parts](/full_upgrade/for_mk2_mk2s/optional_parts/)
  
 
 ## Disassembly recommendations
