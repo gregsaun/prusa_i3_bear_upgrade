@@ -23,4 +23,4 @@ You can hand cut them accurately using a jig (it just takes more time and effort
 
 ### Dimensions
 
-![Prusa i3 Bear Half Upgrade V-Slots Length](/full_upgrade/mk2_mk2s/doc/vslots_length.png)
+![Prusa i3 Bear Full Upgrade MK2(s) V-Slots Length](/full_upgrade/for_mk2_mk2s/doc/vslots_length.png)
