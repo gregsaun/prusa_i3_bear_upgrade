@@ -84,6 +84,8 @@ _"That frames makes it into totally different beast!"_
 
 _"It's a professional well made update. And the manual it's really easy to follow"_
 
+_"very detailed work, are you sure you dont want to take on the role of the new Josef Prusa ?? I mean the designs are just amazing"_   (I love this one :P)
+
 
 ## Current status
 
