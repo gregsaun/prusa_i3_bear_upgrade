@@ -1,4 +1,4 @@
-# Prusa i3 Bear Upgrade Manual
+# Prusa i3 Bear Full Upgrade MK2(s)
 
 ## Table of Content
 
