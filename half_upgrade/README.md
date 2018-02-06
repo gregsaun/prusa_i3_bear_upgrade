@@ -46,7 +46,7 @@ The manual contains build of material, preparing frame and v-slots, print settin
 
 With this upgrade you will need to drill the original frame of your Prusa i3 MK2, MK2s or MK2.5.
 
-I have made a [3D printed part](printed_parts/stl/drilling_helper.stl) to help you place the holes accurately. You can double check the positions with [this PDF](doc/frame_drilling_dimensions.pdf).
+I have made a [3D printed part](printed_parts/stl/drilling_helpers.stl) to help you place the holes accurately. You can double check the positions with [this PDF](doc/frame_drilling_dimensions.pdf).
 
 As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
