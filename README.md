@@ -47,15 +47,15 @@ Here is a comparison table to help you choose :
 | | Half Upgrade | Full Upgrade |
 |-|:------------:|:------------:|
 | Compatibility | MK2, MK2s and MK2.5 | MK2, MK2s, MK2.5 and MK3 |
-| Y axis rigidity | &hearts; &hearts; &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; &hearts; &hearts; |
-| Z axis rigidity | &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; &hearts; &hearts; |
-| Noise level | &hearts; &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; &hearts; |
-| Customisation | &hearts; &hearts; &hearts; | &hearts; &hearts; &hearts; &hearts; &hearts; |
-| Material cost | $ | $$ |
+| Y axis rigidity | :hearts: :hearts: :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: :hearts: |
+| Z axis rigidity | :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: :hearts: |
+| Noise level | :hearts: :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: |
+| Customisation | :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: :hearts: |
+| Material cost | :moneybag: | :moneybag: :moneybag: |
 | Number of V-Slots to cut | 6<br>(4 different lengths) | 7<br>(4 different lengths) |
 | Number of V-Slots to tap | 4 | 0 |
-| Can I place the printer inside an<br>enclosure and PSU outside? | No, PSU rigidify the Z frame | Yes |
-| Capability to increase Z axis height?<br>(need customisation) | No | Yes |
+| Can I place the printer inside an<br>enclosure and PSU outside? | :x:<br>PSU rigidify the Z frame | :heavy_check_mark: |
+| Capability to increase Z axis height?<br>(need customisation) | :x: | :heavy_check_mark: |
 
 Half upgrade use the same v-slots and printed part for MK2(s) and MK2.5. However, the full upgrade has 3 different versions, one for MK2(s), one for MK2.5 and another one for MK3. You can discover the difference in the [full upgrade page](full_upgrade/).
 
@@ -70,24 +70,24 @@ Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 Some feedbacks from users that build the half upgrade :
 
-_"I'm really happy. It's really great.It works really fine. It's a professional update. I was searching for a mk3 prusa frame update and I find this"_
+> _"I'm really happy. It's really great.It works really fine. It's a professional update. I was searching for a mk3 prusa frame update and I find this"_
 
-_"Excellent with instructions, this was like buying a Prusa kit all over again, only better"_
+> _"Excellent with instructions, this was like buying a Prusa kit all over again, only better"_
 
-_"Your frame idea made the machine a lot sturdier"_
+> _"Your frame idea made the machine a lot sturdier"_
 
-_"It seems printing noise has reduced significantly after upgrade"_
+> _"It seems printing noise has reduced significantly after upgrade"_
 
-_"Amazing work on the detail and on the machine"_
+> _"Amazing work on the detail and on the machine"_
 
-_"That frames makes it into totally different beast!"_
+> _"That frames makes it into totally different beast!"_
 
-_"It's a professional well made update. And the manual it's really easy to follow"_
+> _"It's a professional well made update. And the manual it's really easy to follow"_
 
-_"very detailed work, are you sure you dont want to take on the role of the new Josef Prusa ?? I mean the designs are just amazing"_   (I love this one :P)
+> _"Very detailed work, are you sure you dont want to take on the role of the new Josef Prusa ?? I mean the designs are just amazing"_
 
 
-Huge huge THANKS to all of you!
+Huge THANKS to all of you! :sparkling_heart:
 
 
 ## Current status
@@ -96,10 +96,11 @@ Dev
 
 
 ## Links
-* All project data and sources are available on my github : [github.com/gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
+
+* Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun)
 * [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
 * [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
-* [Thingiverse page](https://www.thingiverse.com/thing:2562174)
+* [My Thingiverse](https://www.thingiverse.com/pekcitron)
 
 
 ## Sources
@@ -110,4 +111,4 @@ Here are a list of sources I used to build this project :
 * Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
 * Openbuilds : https://www.openbuilds.org
 
-Huge thanks to these projects, without the Bear upgrade can not exist!
+Huge thanks to these projects, without them this project can not exist!
