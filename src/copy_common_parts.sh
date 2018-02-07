@@ -18,6 +18,7 @@
 ################################################################################
 
 common_full_mk25_files="
+build_helper_96mm
 cable_clip_lcd
 cable_clip_round
 cable_clip_ziptie

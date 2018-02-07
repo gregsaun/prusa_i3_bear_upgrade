@@ -15,6 +15,7 @@ I recommend to print in PETG. The filament [Extrudr MF-PETG Neon Orange](https:/
 
 | Part | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----:|:----:|:----:|:----:|:----:|
+| build_helper_106mm     | 0.20mm | 20% | 2 | 5 |
 | end_cap                | 0.20mm | 20-30% | 4 | 5 |
 | foot                   | 0.20mm | 30% | 3 | 5 |
 | lcd_support_a          | 0.20mm | 20-30% | 3 | 5 | 

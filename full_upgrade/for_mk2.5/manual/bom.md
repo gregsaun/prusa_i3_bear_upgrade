@@ -25,6 +25,7 @@ All files are available [here](printed_parts/stl/)
 
 | Part     | Number |
 |----------|:------:|
+| build_helper_96mm      | 1 |
 | end_cap                | 4 |
 | foot                   | 4 |
 | lcd_support_a          | 1 |
