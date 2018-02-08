@@ -60,6 +60,11 @@ If you have access to a CNC machine, you can use [this DXF here](optional_parts/
 Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
+## Current status
+
+Dev and tests finished, currently waiting feedback from first users
+
+
 ## Images
 
 ![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)
@@ -93,8 +98,3 @@ Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that
 ![Prusa i3 Bear Half Upgrade Parts Positions](doc/printed_parts_positions.png)
 
 ![Prusa i3 Bear Half Upgrade Drilling Dimensions](doc/frame_drilling_dimensions.png)
-
-
-## Current status
-
-dev

@@ -99,7 +99,13 @@ Huge THANKS to all of you! :sparkling_heart:
 
 ## Current status
 
-Building the first Full Upgrade MK2s
+**Half Upgrade :heavy_check_mark: :** Dev and tests finished, currently waiting feedback from first users
+
+**Full Upgrade MK2(s) :grey_exclamation: :** Currently building the first Full Upgrade MK2s. Assembly instructions will be ready soon after the build.
+
+**Full Upgrade MK2.5 :grey_exclamation: :** Currently building the first Full Upgrade MK2s and I am waiting for my MK2.5 upgrade. Assembly instructions will be ready soon after the build.
+
+**Full Upgrade MK3 :question: :** No build as been tried yet but parts have been tested individually. Everything is ready except assembly instructions. I do not have the privilege to own a MK3, if someone would like to try the adventure that would be awesome!
 
 
 ## Links
