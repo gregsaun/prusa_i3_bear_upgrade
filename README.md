@@ -66,6 +66,13 @@ Several printed parts are shared between all these versions. This makes easier t
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 
+## Community And Support
+
+The best way to talk about this upgrade is to join the [OpenBuilds thread](https://openbuilds.com/). Be careful when you join OpenBuilds, you will be soon tempted by building a CNC or a Laser machine!
+
+You can also open an issue on GitHub if you prefer or add a comment on my [My Thingiverse](https://www.thingiverse.com/pekcitron).
+
+
 ## Feedbacks from users
 
 Some feedbacks from users that built the half upgrade :
@@ -92,14 +99,15 @@ Huge THANKS to all of you! :sparkling_heart:
 
 ## Current status
 
-Dev
+Building the first Full Upgrade MK2s
 
 
 ## Links
 
-* Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun)
-* [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
+* Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun). (I have tons of new idea)
+* [GitHub Project Page](https://github.com/gregsaun/prusa_i3_bear_upgrade/)
 * [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
+* [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
 * [My Thingiverse](https://www.thingiverse.com/pekcitron)
 
 
