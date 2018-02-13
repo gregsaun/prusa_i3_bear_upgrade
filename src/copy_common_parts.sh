@@ -61,7 +61,6 @@ end_cap
 foot
 lcd_support_a
 lcd_support_b
-rod_holder
 y_idler
 y_motor_mount
 "
