@@ -61,8 +61,6 @@ end_cap
 foot
 lcd_support_a
 lcd_support_b
-y_idler
-y_motor_mount
 "
 
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
