@@ -12,7 +12,7 @@
 | 90 degree joining plate | 10 | | [openbuilds store](http://openbuildspartstore.com/90-degree-joining-plate/) |
 | Tee-nuts M5 (25pce pack) | 4 | 50x for 90° plates,<br> 8x for angle corner,<br> 31x for printed parts | [openbuilds store](http://openbuildspartstore.com/tee-nuts-25-pack/) |
 | Low profile M5 screw 8mm (25pce pack) | 1 | 8x for angle corner | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5/) |
-| Low profile M5 screw 10mm (25pce pack) | 3 | 46x for 90° plates,<br> 29x for printed parts<br>/!\ No extra screw | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5/) |
+| Low profile M5 screw 10mm (25pce pack) | 3 | 46x for 90° plates,<br> 25x for printed parts<br> | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5/) |
 | Low profile M5 screw 12mm (25pce pack) | 1 | 2x for y_motor_mount,<br> 4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5/) |
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
 | M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts<br>Check your Prusa spare parts bag! | |
@@ -21,7 +21,7 @@
 
 ### Printed Parts
 
-All files are available [here](printed_parts/stl/)
+All files are available [here](prusa_i3_bear_upgrade/full_upgrade/for_mk2.5/printed_parts/stl/)
 
 | Part     | Number |
 |----------|:------:|
