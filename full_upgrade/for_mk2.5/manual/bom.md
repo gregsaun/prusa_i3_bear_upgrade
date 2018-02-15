@@ -21,7 +21,7 @@
 
 ### Printed Parts
 
-All files are available [here](prusa_i3_bear_upgrade/full_upgrade/for_mk2.5/printed_parts/stl/)
+All files are available [here](/prusa_i3_bear_upgrade/full_upgrade/for_mk2.5/printed_parts/stl/)
 
 | Part     | Number |
 |----------|:------:|
