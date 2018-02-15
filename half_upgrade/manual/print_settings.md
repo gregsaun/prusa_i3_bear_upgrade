@@ -12,21 +12,21 @@ I recommend to print in PETG. The filament [Extrudr MF-PETG Neon Orange](https:/
 
 ### Parameters
 
-| Part | Layer Height | Infill | Perimeters | Top/Bottom Layers |
-|:----:|:----:|:----:|:----:|:----:|
-| psu_lower_mount | 0.20mm | 30% | 3 | 5 |
-| psu_upper_mount | 0.20mm | 20-30% | 3 | 5 |
-| rod_holder | 0.20mm | 30% | 3 | 5 |
-| y_idler | 0.20mm | 30% | 3 | 5 |
-| y_motor_mount | 0.20mm | 30% | 3 | 5 |
-| lcd_support_a | 0.20mm | 20-30% | 3 | 5 |
-| lcd_support_b | 0.20mm | 20-30% | 3 | 5 |
-| end_cap | 0.20mm | 20-30% | 4 | 5 |
-| foot | 0.20mm | 30% | 3 | 5 |
-| cable_clip_lcd | 0.15mm | 30% | 3 | 5 |
-| cable_clip_round | 0.15mm | 30% | 3 | 5 |
-| cable_clip_ziptie | 0.15mm | 30% | 3 | 5 |
-| drilling_helper | 0.20mm | 30% | 2 | 3 |
+| Part | Layer Height | Infill | Perimeters | Top/Bottom Layers | Brim |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+| psu_lower_mount | 0.20mm | 30% | 3 | 5 | No |
+| psu_upper_mount | 0.20mm | 20% | 3 | 5 | No |
+| rod_holder | 0.20mm | 30% | 3 | 5 | No |
+| y_idler | 0.20mm | 30% | 3 | 5 | No |
+| y_motor_mount | 0.20mm | 30% | 3 | 5 | Recommended |
+| lcd_support_a | 0.20mm | 20% | 3 | 5 | No |
+| lcd_support_b | 0.20mm | 20% | 3 | 5 | No |
+| end_caps | 0.20mm | 20% | 4 | 5 | No |
+| foot | 0.20mm | 30% | 3 | 5 | No |
+| cable_clip_lcd | 0.15mm | 30% | 3 | 5 | No |
+| cable_clip_round | 0.15mm | 30% | 3 | 5 | No |
+| cable_clip_ziptie | 0.15mm | 30% | 3 | 5 | No |
+| drilling_helper | 0.20mm | 30% | 2 | 3 | No |
 
 ### Material used
 

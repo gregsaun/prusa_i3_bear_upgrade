@@ -19,7 +19,7 @@
 | Set screw 4mm | 8 | for end_caps | http://openbuildspartstore.com/set-screw/ |
 | M4x14mm socket head screw (hex) | 2 | 2x for psu_upper_mount | |
 | M4 hex nut | 2 | 2x for psu_upper_mount  | |
-| M3x10mm socket head screw (hex) | 1 | 1x for Y motor <br>(check your Prusa spare parts bag) | |
+| M3x10mm socket head screw (hex) | 1 | 1x for Y motor <br>Check your Prusa spare parts bag | |
 | M5 drill tap | 1 | to tap the V-Slots | http://openbuildspartstore.com/m5-drill-tap/ |
 | 5.3mm drill bit | 1 | to drill the frame | |
 
@@ -38,7 +38,7 @@ All files are available [here](/half_upgrade/printed_parts/stl/)
 | psu_upper_mount   | 2 | |
 | lcd_support_a     | 1 | |
 | lcd_support_b     | 1 | |
-| end_cap           | 4 | |
+| end_caps          | 2 | |
 | foot              | 4 | |
 | cable_clip_lcd    | 7 | |
 | cable_clip_ziptie | 4 | |
