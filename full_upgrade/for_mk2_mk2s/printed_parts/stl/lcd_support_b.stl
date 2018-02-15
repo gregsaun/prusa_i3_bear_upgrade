@@ -1543,12 +1543,12 @@ solid lcd_support_b.stl
     outer loop
     vertex 9.30224 21.1787 10
     vertex 9.05475 23.7596 10
-    vertex 8.02945 22.4515 10
+    vertex 8.0648 22.4162 10
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 8.02945 22.4515 10
+    vertex 8.0648 22.4162 10
     vertex 9.05475 23.7596 10
     vertex 7.64054 23.7596 10
     endloop
@@ -1564,13 +1564,13 @@ solid lcd_support_b.stl
     outer loop
     vertex 9.05475 23.7596 0
     vertex 9.30224 21.1787 0
-    vertex 8.02945 22.4515 0
+    vertex 8.0648 22.4162 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 9.05475 23.7596 0
-    vertex 8.02945 22.4515 0
+    vertex 8.0648 22.4162 0
     vertex 7.64054 23.7596 0
     endloop
   endfacet
@@ -1744,58 +1744,58 @@ solid lcd_support_b.stl
   endfacet
   facet normal -0.499999 -0.499999 -0.707108
     outer loop
-    vertex 7.78196 22.204 0.35
-    vertex 8.02945 22.4515 0
+    vertex 7.81731 22.1687 0.35
+    vertex 8.0648 22.4162 0
     vertex 9.05475 20.9312 0.35
     endloop
   endfacet
   facet normal 0.707107 -0.707107 8.19877e-007
     outer loop
-    vertex 7.78196 22.204 0.35
-    vertex 6.36775 20.7898 0
-    vertex 8.02945 22.4515 0
+    vertex 7.81731 22.1687 0.35
+    vertex 6.4031 20.7544 0
+    vertex 8.0648 22.4162 0
     endloop
   endfacet
   facet normal -0.707107 -0.707107 0
     outer loop
-    vertex 7.78196 22.204 0.35
+    vertex 7.81731 22.1687 0.35
     vertex 9.05475 20.9312 0.35
-    vertex 7.78196 22.204 9.65
+    vertex 7.81731 22.1687 9.65
     endloop
   endfacet
   facet normal 0.707107 -0.707107 0
     outer loop
-    vertex 7.78196 22.204 9.65
-    vertex 6.36775 20.7898 10
-    vertex 7.78196 22.204 0.35
+    vertex 7.81731 22.1687 9.65
+    vertex 6.4031 20.7544 10
+    vertex 7.81731 22.1687 0.35
     endloop
   endfacet
   facet normal 0.707107 -0.707107 0
     outer loop
-    vertex 7.78196 22.204 0.35
-    vertex 6.36775 20.7898 10
-    vertex 6.36775 20.7898 0
+    vertex 7.81731 22.1687 0.35
+    vertex 6.4031 20.7544 10
+    vertex 6.4031 20.7544 0
     endloop
   endfacet
   facet normal -0.499999 -0.499999 -0.707108
     outer loop
     vertex 9.05475 20.9312 0.35
-    vertex 8.02945 22.4515 0
+    vertex 8.0648 22.4162 0
     vertex 9.30224 21.1787 0
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
     vertex 7.64054 23.7596 0
-    vertex 8.02945 22.4515 0
+    vertex 8.0648 22.4162 0
     vertex 5.51922 21.6383 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex 5.51922 21.6383 0
-    vertex 8.02945 22.4515 0
-    vertex 6.36775 20.7898 0
+    vertex 8.0648 22.4162 0
+    vertex 6.4031 20.7544 0
     endloop
   endfacet
   facet normal -0.707107 0.707106 1.28567e-005
@@ -1807,7 +1807,7 @@ solid lcd_support_b.stl
   endfacet
   facet normal -0.707107 -0.707107 0
     outer loop
-    vertex 7.78196 22.204 9.65
+    vertex 7.81731 22.1687 9.65
     vertex 9.05475 20.9312 0.35
     vertex 9.05475 20.9312 9.65
     endloop
@@ -1829,21 +1829,21 @@ solid lcd_support_b.stl
   facet normal -0.499999 -0.499999 0.707108
     outer loop
     vertex 9.05475 20.9312 9.65
-    vertex 8.02945 22.4515 10
-    vertex 7.78196 22.204 9.65
+    vertex 8.0648 22.4162 10
+    vertex 7.81731 22.1687 9.65
     endloop
   endfacet
   facet normal 0.707107 -0.707107 -8.19877e-007
     outer loop
-    vertex 8.02945 22.4515 10
-    vertex 6.36775 20.7898 10
-    vertex 7.78196 22.204 9.65
+    vertex 8.0648 22.4162 10
+    vertex 6.4031 20.7544 10
+    vertex 7.81731 22.1687 9.65
     endloop
   endfacet
   facet normal -0.499999 -0.499999 0.707108
     outer loop
     vertex 9.30224 21.1787 10
-    vertex 8.02945 22.4515 10
+    vertex 8.0648 22.4162 10
     vertex 9.05475 20.9312 9.65
     endloop
   endfacet
@@ -1861,11 +1861,11 @@ solid lcd_support_b.stl
     vertex 9.05475 20.9312 9.65
     endloop
   endfacet
-  facet normal 0.500002 0.500002 -0.707103
+  facet normal 0.500003 0.500002 -0.707103
     outer loop
     vertex -30.8968 -19.0203 0.35
     vertex -31.1443 -19.2678 0
-    vertex -32.1696 -17.7475 0.35
+    vertex -32.1342 -17.7829 0.35
     endloop
   endfacet
   facet normal -0.707107 0.707106 -3.09715e-006
@@ -1875,10 +1875,10 @@ solid lcd_support_b.stl
     vertex -27.3612 -15.4848 0
     endloop
   endfacet
-  facet normal 0.707107 0.707107 0
+  facet normal 0.707108 0.707106 0
     outer loop
     vertex -30.8968 -19.0203 0.35
-    vertex -32.1696 -17.7475 0.35
+    vertex -32.1342 -17.7829 0.35
     vertex -30.8968 -19.0203 9.65
     endloop
   endfacet
@@ -1889,18 +1889,18 @@ solid lcd_support_b.stl
     vertex -30.8968 -19.0203 9.65
     endloop
   endfacet
-  facet normal 0.499997 0.5 -0.707109
+  facet normal 0.5 0.5 -0.707106
     outer loop
-    vertex -32.1696 -17.7475 0.35
+    vertex -32.1342 -17.7829 0.35
     vertex -31.1443 -19.2678 0
-    vertex -32.4171 -17.995 0
+    vertex -32.3817 -18.0304 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex -31.1443 -19.2678 0
     vertex -33.3213 -18.7171 0
-    vertex -32.4171 -17.995 0
+    vertex -32.3817 -18.0304 0
     endloop
   endfacet
   facet normal 0 -0 -1
@@ -1924,51 +1924,51 @@ solid lcd_support_b.stl
     vertex -33.3213 -18.7171 0
     endloop
   endfacet
-  facet normal 0.707106 -0.707108 -2.13167e-006
+  facet normal 0.707108 -0.707106 2.7056e-006
     outer loop
-    vertex -30.7554 -16.3333 0
-    vertex -32.1696 -17.7475 0.35
-    vertex -32.4171 -17.995 0
+    vertex -30.72 -16.3687 0
+    vertex -32.1342 -17.7829 0.35
+    vertex -32.3817 -18.0304 0
     endloop
   endfacet
-  facet normal 0.707107 0.707107 -0
+  facet normal 0.707108 0.707106 -0
     outer loop
     vertex -30.8968 -19.0203 9.65
-    vertex -32.1696 -17.7475 0.35
-    vertex -32.1696 -17.7475 9.65
+    vertex -32.1342 -17.7829 0.35
+    vertex -32.1342 -17.7829 9.65
     endloop
   endfacet
-  facet normal 0.707106 -0.707108 0
+  facet normal 0.707107 -0.707106 0
     outer loop
-    vertex -30.7554 -16.3333 10
-    vertex -32.1696 -17.7475 9.65
-    vertex -32.1696 -17.7475 0.35
+    vertex -30.72 -16.3687 10
+    vertex -32.1342 -17.7829 9.65
+    vertex -32.1342 -17.7829 0.35
     endloop
   endfacet
-  facet normal 0.707106 -0.707108 0
+  facet normal 0.707107 -0.707106 0
     outer loop
-    vertex -30.7554 -16.3333 10
-    vertex -32.1696 -17.7475 0.35
-    vertex -30.7554 -16.3333 0
+    vertex -30.72 -16.3687 10
+    vertex -32.1342 -17.7829 0.35
+    vertex -30.72 -16.3687 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -32.4171 -17.995 0
+    vertex -32.3817 -18.0304 0
     vertex -33.3213 -18.7171 0
     vertex -33.3213 -17.2021 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -32.4171 -17.995 0
+    vertex -32.3817 -18.0304 0
     vertex -33.3213 -17.2021 0
-    vertex -30.7554 -16.3333 0
+    vertex -30.72 -16.3687 0
     endloop
   endfacet
-  facet normal 0.500003 0.500003 0.707103
+  facet normal 0.500003 0.500002 0.707103
     outer loop
-    vertex -32.1696 -17.7475 9.65
+    vertex -32.1342 -17.7829 9.65
     vertex -31.1443 -19.2678 10
     vertex -30.8968 -19.0203 9.65
     endloop
@@ -1987,37 +1987,37 @@ solid lcd_support_b.stl
     vertex -30.8968 -19.0203 9.65
     endloop
   endfacet
-  facet normal 0.499997 0.5 0.707109
+  facet normal 0.500001 0.500001 0.707106
     outer loop
-    vertex -32.4171 -17.995 10
+    vertex -32.3817 -18.0304 10
     vertex -31.1443 -19.2678 10
-    vertex -32.1696 -17.7475 9.65
+    vertex -32.1342 -17.7829 9.65
     endloop
   endfacet
-  facet normal 0.707106 -0.707108 2.13167e-006
+  facet normal 0.707108 -0.707106 -2.70559e-006
     outer loop
-    vertex -32.4171 -17.995 10
-    vertex -32.1696 -17.7475 9.65
-    vertex -30.7554 -16.3333 10
+    vertex -32.3817 -18.0304 10
+    vertex -32.1342 -17.7829 9.65
+    vertex -30.72 -16.3687 10
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-    vertex -32.4171 -17.995 10
+    vertex -32.3817 -18.0304 10
     vertex -33.3213 -18.7171 10
     vertex -31.1443 -19.2678 10
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-    vertex -30.7554 -16.3333 10
+    vertex -30.72 -16.3687 10
     vertex -33.3213 -17.2021 10
-    vertex -32.4171 -17.995 10
+    vertex -32.3817 -18.0304 10
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex -32.4171 -17.995 10
+    vertex -32.3817 -18.0304 10
     vertex -33.3213 -17.2021 10
     vertex -33.3213 -18.7171 10
     endloop
@@ -2053,13 +2053,13 @@ solid lcd_support_b.stl
   facet normal 0 -0 1
     outer loop
     vertex 5.51922 21.6383 10
-    vertex 6.36775 20.7898 10
-    vertex 8.02945 22.4515 10
+    vertex 6.4031 20.7544 10
+    vertex 8.0648 22.4162 10
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-    vertex 8.02945 22.4515 10
+    vertex 8.0648 22.4162 10
     vertex 7.64054 23.7596 10
     vertex 5.51922 21.6383 10
     endloop
@@ -2472,7 +2472,7 @@ solid lcd_support_b.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -30.7554 -16.3333 0
+    vertex -30.72 -16.3687 0
     vertex -33.3213 -17.2021 0
     vertex -31.6039 -15.4848 0
     endloop
@@ -2491,17 +2491,17 @@ solid lcd_support_b.stl
     vertex -33.3213 -17.2021 0
     endloop
   endfacet
-  facet normal 0.707106 0.707108 0
+  facet normal 0.707107 0.707107 0
     outer loop
     vertex -31.6039 -15.4848 0
-    vertex -30.7554 -16.3333 10
-    vertex -30.7554 -16.3333 0
+    vertex -30.72 -16.3687 10
+    vertex -30.72 -16.3687 0
     endloop
   endfacet
-  facet normal 0.707106 0.707108 0
+  facet normal 0.707107 0.707107 0
     outer loop
     vertex -31.6039 -15.4848 10
-    vertex -30.7554 -16.3333 10
+    vertex -30.72 -16.3687 10
     vertex -31.6039 -15.4848 0
     endloop
   endfacet
@@ -2514,7 +2514,7 @@ solid lcd_support_b.stl
   endfacet
   facet normal -0.707108 -0.707106 -0
     outer loop
-    vertex 6.36775 20.7898 0
+    vertex 6.4031 20.7544 0
     vertex 5.51922 21.6383 10
     vertex 5.51922 21.6383 0
     endloop
@@ -2528,9 +2528,9 @@ solid lcd_support_b.stl
   endfacet
   facet normal -0.707108 -0.707106 0
     outer loop
-    vertex 6.36775 20.7898 10
+    vertex 6.4031 20.7544 10
     vertex 5.51922 21.6383 10
-    vertex 6.36775 20.7898 0
+    vertex 6.4031 20.7544 0
     endloop
   endfacet
   facet normal 0.499999 0.499999 0.707108
@@ -4350,7 +4350,7 @@ solid lcd_support_b.stl
     outer loop
     vertex -31.6039 -15.4848 10
     vertex -33.3213 -17.2021 10
-    vertex -30.7554 -16.3333 10
+    vertex -30.72 -16.3687 10
     endloop
   endfacet
   facet normal 0 -1 0
