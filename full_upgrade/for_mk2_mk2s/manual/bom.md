@@ -21,8 +21,6 @@
 
 ### Printed Parts
 
-All files are available [here](/prusa_i3_bear_upgrade/full_upgrade/for_mk2_mk2s/printed_parts/stl/)
-
 | Part     | Number |
 |----------|:------:|
 | build_helper_96mm      | 1 |

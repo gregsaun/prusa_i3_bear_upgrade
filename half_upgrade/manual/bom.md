@@ -26,8 +26,6 @@
 
 ### Printed Parts
 
-All files are available [here](/half_upgrade/printed_parts/stl/)
-
 | Part     | Number | Note |
 |----------|:------:|------|
 | drilling_helpers  | 1 | |
