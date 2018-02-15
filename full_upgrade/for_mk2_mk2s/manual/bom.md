@@ -40,6 +40,6 @@
 | z_motor_mount_front    | 2 |
 | z_motor_mounts         | 1 |
 | z_tops                 | 1 |
-| cable_clip_lcd         | ? |
-| cable_clip_round       | ? |
-| cable_clip_ziptie      | ? |
+| cable_clip_lcd         | 6 |
+| cable_clip_round       | 5 |
+| cable_clip_ziptie      | 3 |
