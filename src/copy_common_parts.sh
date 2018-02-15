@@ -22,7 +22,7 @@ build_helper_96mm
 cable_clip_lcd
 cable_clip_round
 cable_clip_ziptie
-end_cap
+end_caps
 foot
 lcd_support_a
 lcd_support_b
@@ -42,7 +42,7 @@ common_full_mk3_files="
 cable_clip_lcd
 cable_clip_round
 cable_clip_ziptie
-end_cap
+end_caps
 foot
 lcd_support_a
 lcd_support_b
@@ -57,7 +57,7 @@ z_tops
 common_half_files="
 cable_clip_lcd
 cable_clip_ziptie
-end_cap
+end_caps
 foot
 lcd_support_a
 lcd_support_b
