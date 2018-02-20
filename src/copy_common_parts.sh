@@ -51,7 +51,6 @@ rambo_base_lower_mount
 rambo_base_upper_mount
 z_motor_mount_front
 z_motor_mounts
-z_tops
 "
 
 common_half_files="
