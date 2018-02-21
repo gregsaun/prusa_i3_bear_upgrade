@@ -4,7 +4,7 @@
 
 ### Step 1
 
-#### Parts
+#### Parts  
 
 * 1x 370mm V-Slots
 * 1x 290mm V-Slots (used for distance reference)
@@ -24,7 +24,7 @@
 1. :warning: Take the time to double check these points :
     * Everything is perfectly aligned and squared
     * All lengths corresponds to figure 2.2
-    * You have exactly 290mm between the two 311mm v-slots in front, back and middle
+    * The distance between the two 311mm v-slots corresponds to the 290mm v-slot in front, back and middle
     * All screws have been strongly tightened
 
 ![](img/fig2.1.jpg)\
