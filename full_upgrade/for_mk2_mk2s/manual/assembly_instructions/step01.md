@@ -23,7 +23,7 @@
 1. Carefully remove the 290mm v-slot
 1. Repeat step 4 and 5 to assemble the last 370mm v-slot as seen on figure 1.4. :warning: this step is very important, double check everything is perfectly square
 1. Carefully remove the 290mm v-slot
-1. :warning: Double check everything is perfectly square and aligned. Double check v-slots lengths. Double check that all screws have been strongly tightened 
+1. :warning: Double check everything is perfectly square and aligned. Double check v-slots lengths. Double check that all screws have been strongly tightened
 
 ![](img/fig1.1.jpg)\
 *fig 1.1*
