@@ -19,11 +19,17 @@
 1. Add 1x 370mm v-slot vertically as seen on figure 1.2 (with 4x M5x10 screws and 4x tee nuts). Do not tighten M5 screws yet
 1. Ensure the 290mm v-slot does not have sharp angle where it as been cut. We will use it as reference and it could mark your v-slots (specially black ones). If this is the case use a file to smooth a bit the sharp angles
 1. Place the 290mm on the back between the 2x331mm v-slots as seen on figure 1.3. Ensure there is no space between rods.
-1. Square and tight strongly the back (8x M5 screws). :warning: this step is very important, double check everything is perfectly square
+1. Square and tight strongly the back (8x M5 screws).<br>
+   :warning: this step is very important, double check everything is perfectly square
 1. Carefully remove the 290mm v-slot
-1. Repeat step 4 and 5 to assemble the last 370mm v-slot as seen on figure 1.4. :warning: this step is very important, double check everything is perfectly square
+1. Repeat step 4 and 5 to assemble the last 370mm v-slot as seen on figure 1.4.<br>
+   :warning: this step is very important, double check everything is perfectly square
 1. Carefully remove the 290mm v-slot
-1. :warning: Double check everything is perfectly square and aligned. Double check v-slots lengths. Double check that all screws have been strongly tightened
+1. :warning: Take the time to double check these points :
+    * Everything is perfectly aligned and squared
+    * All lengths corresponds to figure 1.4
+    * You have exactly 290mm between the two 311mm v-slots in front, back and middle
+    * All screws have been strongly tightened
 
 ![](img/fig1.1.jpg)\
 *fig 1.1*
