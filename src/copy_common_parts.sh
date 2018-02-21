@@ -47,7 +47,6 @@ foot
 lcd_support_a
 lcd_support_b
 psu_upper_mount
-rambo_base_lower_mount
 rambo_base_upper_mount
 z_motor_mount_front
 z_motor_mounts
