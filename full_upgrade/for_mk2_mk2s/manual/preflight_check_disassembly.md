@@ -5,8 +5,10 @@
 
 1. Hardware parts correspond to [bom](bom.md)
 1. Printed parts correspond to [bom](bom.md)
-1. Verify visually all the printed parts to find defects and imperfections. Clean up if necessary.
+1. Verify visually all the printed parts to find defects and imperfections. Clean up if necessary
 1. Check length of build_helper_96mm.stl, should be 96mm long
+1. Check length of the 290mm V-Slot, this is the most important dimension
+1. Check that all identical length V-Slots (like 2x370mm) have the exact same dimension. Adjust them with a file if you see a difference
 1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration
 1. Maybe something is interesting for you in the [optional parts](/full_upgrade/for_mk2_mk2s/optional_parts/)
  
