@@ -6,7 +6,7 @@
 
 #### Parts  
 
-* 4x Black angle corner
+* 4x Black angle corners
 * 8x M5x8mm screws
 * 8x Tee nuts
 
