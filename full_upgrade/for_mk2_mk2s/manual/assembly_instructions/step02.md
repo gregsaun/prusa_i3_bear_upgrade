@@ -14,7 +14,7 @@
 #### Assembly
 
 1. Ensure the 290mm v-slot does not have sharp angle where it as been cut. We will use it as reference and it could mark your v-slots (specially black ones). If this is the case use a file to smooth a bit the sharp angles
-1. Place the 290mm on the back between the 2x331mm v-slots as seen on figure 2.1. Ensure there is no space between rods.
+1. Place the 290mm on the back between the 2x 331mm v-slots as seen on figure 2.1. Ensure there is no space between rods.
 1. Square and tight strongly the back (8x M5 screws).<br>
    :warning: this step is very important, double check everything is perfectly square
 1. Carefully remove the 290mm v-slot
