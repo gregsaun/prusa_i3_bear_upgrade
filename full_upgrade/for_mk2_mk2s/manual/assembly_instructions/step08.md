@@ -18,7 +18,8 @@
 
 1. Assemble the Y motor on the y_motor_mount with 3x M3x10 screws (figure 8.1). Ensure the correct orientation of motor cables
 1. Screw the motor on the back of the frame using 2x M5x12 and adjust to the dimensions in figure 8.2
-1. Screw the y_idler using 2x M5x10 and adjust to the dimensions in figure 8.3
+1. Screw the y_idler using 2x M5x10 and adjust to the dimensions in figure 8.3.
+1. Ensure the correction orientation of y_idler, the nut should be on the same side as the single Y axis bearing
 1. Screw the psu_lower_mount using 1x M5x10 and adjust to the dimensions in figure 8.4
 
 
