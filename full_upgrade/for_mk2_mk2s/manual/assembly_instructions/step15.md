@@ -21,6 +21,7 @@
 1. Screw carefully 2x M3x12 on the two holes in left as highlighted in figure 15.3
    :warning: do not reuse M3x10 screws previously removed
 1. Pass the X motor cable in the appropriate hole (figure 15.4) and fix the RAMBo cover to the frame using 2x M5x8 screws et 2x tee nuts
+1. Ensure that the bottom of the rambo_base_lower_mount is touching the top of 90° joining plate
 
 
 ![](img/fig15.1.jpg)\
