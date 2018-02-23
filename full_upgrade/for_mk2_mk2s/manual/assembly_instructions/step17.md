@@ -9,6 +9,7 @@
 * 6x cable_clip_lcd
 * 5x cable_clip_round
 * 3x cable_clip_ziptie
+* Zip ties
 
 #### Assembly
 
