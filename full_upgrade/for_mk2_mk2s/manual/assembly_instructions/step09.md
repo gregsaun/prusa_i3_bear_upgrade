@@ -28,4 +28,7 @@
 ![](img/fig9.1.jpg)\
 *fig 9.1*
 
+![](img/fig9.2.jpg)\
+*fig 9.2*
+
 #### [Previous Step](step08.md) &nbsp;&nbsp;&nbsp; [Next Step](step10.md)
