@@ -12,7 +12,7 @@
 
 #### Assembly
 
-1. Assemble 3x M5x10 screws with 3x tee nuts on each of z_motor_mount
+1. Assemble 3x M5x10 screws with 3x tee nuts on each z_motor_mount
 1. Slide from top the z_motor_mounts on the Z axis (figure 10.1). Ensure the smooth rods holes are facing outside
 1. Ensure z_motor_mounts are touching the bottom horizontal v-slot and they are at 90° compared to vertical v-slot (figure 10.2)
 1. Tighten strongly all M5x10 screws
