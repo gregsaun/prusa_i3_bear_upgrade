@@ -22,7 +22,8 @@
 1. Rotate the motor and mount the Y belt
 1. Find the correct tension for the belt. You can use the Prusa MK3 method from the original manual here : [Step 37 Testing the Y-axis belt](http://manual.prusa3d.com/Guide/2.+Y-axis+assembly/507?lang=en#s8300)
 1. Screw the motor back
-1. Take your time to perfectly align position of y_idler and y_motor_mount to have a perfect belt alignment
+1. Take your time to perfectly align position of y_idler and y_motor_mount to get a good belt alignment
+1. Mount the Y end stop on the y_motor_mount
 
 
 ![](img/fig9.1.jpg)\
