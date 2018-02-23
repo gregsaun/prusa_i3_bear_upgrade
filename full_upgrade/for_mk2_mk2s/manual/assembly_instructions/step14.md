@@ -23,10 +23,10 @@
 1. Screw the PSU to the psu_lower_mount with the M3 washer and the M3 screw
 
 
-![](img/fig14.1.png)\
+![](img/fig14.1.jpg)\
 *fig 14.1*
 
-![](img/fig14.2.png)\
+![](img/fig14.2.jpg)\
 *fig 14.2*
 
 ![](img/fig14.3.jpg)\
