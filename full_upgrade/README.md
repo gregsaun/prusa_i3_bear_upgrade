@@ -35,8 +35,8 @@ Those versions are split in 3 folders and they have their own printed parts, man
 
 Be sure to get the correct version according to your printer
 
-[![Prusa i3 Bear Full Upgrade MK2s](/img/full_upgrade_mk2s_lq.jpg)](for_mk2_mk2s)
+[![Prusa i3 Bear Full Upgrade MK2s](/img/full_upgrade_mk2s_title_1024px.jpg)](for_mk2_mk2s)
 
-[![Prusa i3 Bear Full Upgrade MK2.5](/img/full_upgrade_mk25_lq.jpg)](for_mk2.5)
+[![Prusa i3 Bear Full Upgrade MK2.5](/img/full_upgrade_mk25_title_1024px.jpg)](for_mk2.5)
 
-[![Prusa i3 Bear Full Upgrade MK3](/img/full_upgrade_mk3_lq.jpg)](for_mk3)
+[![Prusa i3 Bear Full Upgrade MK3](/img/full_upgrade_mk3_title_1024px.jpg)](for_mk3)
