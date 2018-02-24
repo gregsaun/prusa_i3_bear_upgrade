@@ -1,6 +1,6 @@
 # Prusa i3 Bear Upgrade
 
-![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing.jpg)
+![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing_1024px.jpg)
 
 
 ## Introduction
@@ -40,7 +40,7 @@ The Prusa i3 Bear upgrade is proposed in two versions: full or half upgrade.
 * [Half upgrade](half_upgrade/) : upgrade your MK2/MK2s/MK2.5 frame to MK3 type
 * [Full upgrade](full_upgrade/) : has a redesigned and stronger Z axis for all MK2 and MK3 printers but is more expensive
 
-[<img src="img/half_title.jpg" width="403"/>](half_upgrade/) &nbsp;&nbsp;&nbsp; [<img src="img/full_title.jpg" width="462"/>](full_upgrade/)
+[<img src="img/half_title_800px.jpg" width="403"/>](half_upgrade/) &nbsp;&nbsp;&nbsp; [<img src="img/full_main_800px.jpg" width="462"/>](full_upgrade/)
 
 Here is a comparison table to help you choose :
 
@@ -59,7 +59,7 @@ Here is a comparison table to help you choose :
 
 Half upgrade use the same v-slots and printed part for MK2(s) and MK2.5. However, the full upgrade has 3 different versions, one for MK2(s), one for MK2.5 and another one for MK3. You can discover the difference in the [full upgrade page](full_upgrade/).
 
-![Prusa i3 Bear Full Upgrade All Versions](img/all_versions.jpg)
+![Prusa i3 Bear Full Upgrade All Versions](img/all_versions_800px.jpg)
 
 Several printed parts are shared between all these versions. This makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
 
