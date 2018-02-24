@@ -15,7 +15,7 @@
 
 #### Assembly
 
-:pushpin: X axis will not be shown in figures for this step and all others coming after
+:heavy_exclamation_mark: X axis is not visible in these figures and will not be visible in the following ones
 
 1. Assemble X axis on both Z motors (move it approximately in the middle of Z axis)
 1. Use 8x M3 washers, 8x M3x12 screws and 2x z_motor_fronts to mount Z motors on the z_motor_mounts (with the X axis mounted)

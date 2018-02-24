@@ -11,7 +11,7 @@
 
 #### Assembly
 
-:pushpin: Y belt will not be shown in figures for this step and all others coming after
+:heavy_exclamation_mark: Y belt is not visible in these figures and will not be visible in the following ones
 
 1. Unclip the front of y smooth rods
 1. Slide carefully the Y carriage. Ensure correct orientation as highlighted in figure 9.1

@@ -16,6 +16,8 @@
 
 #### Assembly
 
+:heavy_exclamation_mark: X axis cables are not visible in these figures and will not be visible in the following ones
+
 1. Remove the 2x M3x10 screw from the left of the RAMBo mini PCB as highlighted in figure 15.1. Remove M3 nuts as well
 1. Insert rambo_base_upper_mount on top and rambo_base_lower_mount on bottom of the cover as seen in figure 15.2
 1. Screw carefully 2x M3x12 on the two holes in left as highlighted in figure 15.3<br>
