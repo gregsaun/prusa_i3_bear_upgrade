@@ -21,4 +21,4 @@
 ![](img/fig18.2.jpg)\
 *fig 18.2*
 
-#### [Previous Step](step18.md) &nbsp;&nbsp;&nbsp; [Next Step](step19.md)
+#### [Previous Step](step17.md) &nbsp;&nbsp;&nbsp; [Next Step](step19.md)
