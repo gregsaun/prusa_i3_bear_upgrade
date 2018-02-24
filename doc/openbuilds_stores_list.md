@@ -1,7 +1,5 @@
 # Openbuilds Stores List
 
-Here is a [worldwide map of Openbuilds distributors](https://www.google.com/maps/d/u/0/viewer?mid=1pluH7gcGIW6e3wA9oDI7jkD65Ds&hl=en_US&ll=42.83187019940536%2C-15.35732429999996&z=3)
-
 If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 
 You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
@@ -27,6 +25,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Location | Address | Pre-Cut | Comment | Review |
 |:--------:|:-------:|:-------:|:-------:|:------:|
 | Canada | https://snbinc.ca | N | | |
+| Canada | https://makerparts.ca/ | Y | | |
 | Mexico | https://openbuilds.com.mx | N | | |
 | Mexico | http://www.spkautomatizacion.com | N | | |
 | New Jersey | http://openbuildspartstore.com | N/Y | If you ask they will do it for you | Very good |
