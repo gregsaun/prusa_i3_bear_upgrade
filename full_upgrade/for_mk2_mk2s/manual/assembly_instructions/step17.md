@@ -32,4 +32,4 @@
 ![](img/fig17.5.jpg)\
 *fig 17.5*
 
-#### [Previous Step](step17.md) &nbsp;&nbsp;&nbsp; [Next Step](step18.md)
+#### [Previous Step](step16.md) &nbsp;&nbsp;&nbsp; [Next Step](step18.md)
