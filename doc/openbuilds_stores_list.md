@@ -5,6 +5,13 @@ If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
 
 
+## Australia
+
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Victoria | http://www.makerstore.com.au | N | | |
+
+
 ## Europe
 
 | Location | Address | Pre-Cut | Comment | Review |
@@ -19,6 +26,13 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | UK | http://ooznest.co.uk/ | Y | | Very good |
 
 
+## New Zealand
+
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Auckland | http://www.cnckits.co.nz | N | | |
+
+
 ## North America
 
 | Location | Address | Pre-Cut | Comment | Review |
@@ -29,17 +43,3 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | New Jersey | http://openbuildspartstore.com | N/Y | If you ask they will do it for you | Very good |
 | New York | http://www.opensourceluthiersupply.com | N | | |
 | ? | http://makerstore.cc | N | | |
-
-
-## Australia
-
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Victoria | http://www.makerstore.com.au | N | | |
-
-
-## New Zealand
-
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Auckland | http://www.cnckits.co.nz | N | | |
