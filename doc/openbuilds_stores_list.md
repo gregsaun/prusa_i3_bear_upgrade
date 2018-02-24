@@ -13,7 +13,6 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | France | http://www.vslot-europe.com | N | | |
 | Germany | http://www.watterott.com | N | | |
 | Italia | http://www.openbuildsitalia.com | Y | | |
-| Netherlands | https://iprototype.nl | N | | |
 | Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | They sell a set dedicated to this upgrade | |
 | Portugal | http://www.ratrig.com | Y | | |
 | Switzerland | https://www.3dware.ch/ | N | | Okay, nothing special |
@@ -24,7 +23,6 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 | Location | Address | Pre-Cut | Comment | Review |
 |:--------:|:-------:|:-------:|:-------:|:------:|
-| Canada | https://snbinc.ca | N | | |
 | Canada | https://makerparts.ca/ | Y | | |
 | Mexico | https://openbuilds.com.mx | N | | |
 | Mexico | http://www.spkautomatizacion.com | N | | |
