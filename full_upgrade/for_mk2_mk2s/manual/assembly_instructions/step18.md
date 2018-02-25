@@ -6,7 +6,10 @@
 
 #### Assembly
 
-1. Power on the printer and check that you can move all axis
+1. Power on the printer
+1. In the next step you will run the self test from printer's menu. During this step, the self test will do a auto home position<br>
+   :warning: Ensure the PINDA probe is going right on the first bed circle. Immediately shutdown the printer if it is not the case!
+1. Run self test
 1. Center the Y axis using printer's menu Settings -> Move axis -> Move Y
 1. Put a ruler on the bed and push it to the Z axis as seen on figure 18.1
 1. Adjust the Y axis position using printer's menu to have the center line as close as the ruler as seen on figure 18.2

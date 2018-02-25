@@ -13,7 +13,7 @@
 #### Assembly
 
 1. Screw 4x feet with 4x M5x12 and 4x tee nuts as seen on figure 3.1
-1. Add 3x tee nuts for y_motor_mount as seen on figure 3.2
+1. Add 3x tee nuts for y_motor_mount and psu_lower_mount as seen on figure 3.2
 1. Add 2x tee nuts for y_idler as seen on figure 3.3
 
 ![](img/fig3.1.jpg)\

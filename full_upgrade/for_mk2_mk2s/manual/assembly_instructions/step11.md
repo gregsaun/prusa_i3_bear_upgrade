@@ -18,8 +18,7 @@
 :heavy_exclamation_mark: X axis is not visible in these figures and will not be visible in the following ones
 
 1. Assemble X axis on both Z motors (move it approximately in the middle of Z axis)
-1. Use 8x M3 washers, 8x M3x12 screws and 2x z_motor_fronts to mount Z motors on the z_motor_mounts (with the X axis mounted)
-1. Ensure the motor cables are facing the Y smooth rods (figure 11.1)
+1. Use 8x M3 washers, 8x M3x12 screws and 2x z_motor_fronts to mount Z motors on the z_motor_mounts (with the X axis mounted) (figure 11.1). 1. Ensure the motor cables are facing the Y smooth rods
 1. Push Z smooth rods carefully in the holes until your hear them touching the motors (figure 11.2)
 
 
