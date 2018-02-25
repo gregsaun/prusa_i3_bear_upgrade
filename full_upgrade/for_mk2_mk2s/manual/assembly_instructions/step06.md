@@ -10,7 +10,6 @@
 * 1x Frame bottom
 * 1x Frame Z axis
 * 12x M5x10mm screws
-* 12x Tee nuts
 
 #### Assembly
 
