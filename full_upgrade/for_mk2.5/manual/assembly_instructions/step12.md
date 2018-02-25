@@ -1,28 +1,28 @@
-# Assembly Instructions
+# Prusa i3 Full Upgrade MK2.5
 
-## Step 12
+## Assembly Instructions
 
-### Parts
+### Step 12
 
-* 1x psu_lower_mount
-* 2x M3x25 screws (from the original psu mount)
-* 2x M3 washers (from the original psu mount)
-* 2x M3 nuts (from the original psu mount)
-* 2x M5x10
+#### Parts  
 
-### Assembly
+* 2x z_tops
+* 4x M5x10 screws
+* 4x Tee nuts
 
-1. Assemble psu_lower_mount on the PSU with 2 M3x25, 2 nuts and 2 washers. Do not tight them too much, the psu_lower_mount should move freely (will be tight after) (fig 12.1)
-2. Bolt 2 M5x10 to the tee nuts, tight strongly to the frame (fig 12.2)
-3. Finish to tight the M3 screws (fig 12.2)
+#### Assembly
+
+1. Assemble 2x M5x10 screws with 2x tee nuts on each z_top
+1. Slide from top the z_tops and insert the Z smooth rods in the appropriate hole (figure 12.1)
+1. Push strongly the z_tops in order to have the Z smooth rods touching the top of the rod hole (figure 12.2)
+1. Ensure that top of z_tops are perpendicular to vertical v-slots
+1. Tighten strongly all M5x10 screws
 
 
-
-![](img/fig12.1.png)\
+![](img/fig12.1.jpg)\
 *fig 12.1*
 
-![](img/fig12.2.png)\
+![](img/fig12.2.jpg)\
 *fig 12.2*
 
-
-### [Previous Step](step11.md) &nbsp;&nbsp;&nbsp; [Next Step](step13.md)
+#### [Previous Step](step11.md) &nbsp;&nbsp;&nbsp; [Next Step](step13.md)

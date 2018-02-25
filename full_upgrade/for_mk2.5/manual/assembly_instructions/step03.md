@@ -1,33 +1,28 @@
-# Assembly Instructions
+# Prusa i3 Full Upgrade MK2.5
 
-## Step 3
+## Assembly Instructions
 
-### Parts
+### Step 3
 
-* 2x 110mm V-Slots
-* 1x 230mm V-Slots
-* 2x 90° plates
-* 8x M5x10mm screws
-* 2x Black angle corner
-* 4x M5x8mm screws
-* 2x Feet
-* 2x M5x15mm screws
-* 16x Tee nuts
+#### Parts  
 
-### Assembly
+* 4x Feet
+* 4x M5x12mm screws
+* 9x Tee nuts
 
-1.  Assemble 90° plates to the v-slots with 8x M5x10 screws and 8 tee nuts and make sure everything is square
-1.  Add 4 tee nuts on the 230mm v-slot as seen on figure 3.1
-1.  Add 2 black angle corners and screw with M5x8 screws and 1 tee nut on each 110mm v-slot (fig 3.2)
-1.  Repeat step 2 to have a flat assembly (fig 3.3)
+#### Assembly
 
-![](img/fig3.1.png)\
+1. Screw 4x feet with 4x M5x12 and 4x tee nuts as seen on figure 3.1
+1. Add 3x tee nuts for y_motor_mount and psu_lower_mount as seen on figure 3.2
+1. Add 2x tee nuts for y_idler as seen on figure 3.3
+
+![](img/fig3.1.jpg)\
 *fig 3.1*
 
-![](img/fig3.2.png)\
+![](img/fig3.2.jpg)\
 *fig 3.2*
 
-![](img/fig3.3.png)\
+![](img/fig3.3.jpg)\
 *fig 3.3*
 
-### [Previous Step](step02.md) &nbsp;&nbsp;&nbsp; [Next Step](step04.md)
+#### [Previous Step](step02.md) &nbsp;&nbsp;&nbsp; [Next Step](step04.md)

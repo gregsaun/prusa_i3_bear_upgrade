@@ -1,27 +1,35 @@
-# Assembly Instructions
+# Prusa i3 Full Upgrade MK2.5
 
-## Step 1
+## Assembly Instructions
 
-### Parts
+### Step 1
 
-* 2x 195mm V-Slots
-* 1x 270mm V-Slots
-* 2x 90° plates
-* 8x M5x10mm screws
-* 2x Black angle corner
-* 4x M5x8mm screws
-* 14x Tee nuts
+#### Parts
 
-### Assembly
+* 2x 331mm V-Slots
+* 1x 370mm V-Slots
+* 4x 90° joining plates
+* 12x M5x10mm screws
+* 24x Tee nuts
 
-1.  Assemble 90° plates to the v-slots with 8x M5x10 screws and 8 tee nuts and make sure everything is square (fig 1.1)
-1.  Add 4 tee nuts on the 270mm v-slot as seen on fig 1.1
-1.  Add 2 black angle corners and screw with M5x8 screws and 1 tee nut on each 195mm v-slot (fig 1.2)
+#### Assembly
 
-![](img/fig1.1.png)\
+1. File sharp edges on the diagonal of 90° joining plates (figure 1.1). A small chamfer is enough, this just to avoid scratching cables and it will be useful for the next step as well
+1. Assemble 90° joining plates to the two 331mm v-slots as seen on figure 1.2 (with 8x M5x10 screws and 8x tee nuts). Do not tighten M5 screws yet
+1. Add 1x 370mm v-slot vertically as seen on figure 1.3 (with 4x M5x10 screws and 4x tee nuts). Do not tighten M5 screws yet
+1. Add 3 tee nuts on each side of the 331mm v-slots (12x tee nuts in total) as seen on figure 1.4
+
+
+![](img/file_90deg_plate.jpg)\
 *fig 1.1*
 
-![](img/fig1.2.png)\
+![](img/fig1.2.jpg)\
 *fig 1.2*
 
-### [Next Step](step02.md)
+![](img/fig1.3.jpg)\
+*fig 1.3*
+
+![](img/fig1.4.jpg)\
+*fig 1.4*
+
+#### [Next Step](step02.md)
