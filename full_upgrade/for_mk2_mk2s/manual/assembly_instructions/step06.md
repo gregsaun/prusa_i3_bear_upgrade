@@ -6,7 +6,7 @@
 
 #### Parts  
 
-* 2x build_helper_96mm
+* 1x build_helper_96mm
 * 1x Frame bottom
 * 1x Frame Z axis
 * 12x M5x10mm screws

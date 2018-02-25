@@ -8,7 +8,7 @@
 
 * 1x rambo_base_lower_mount
 * 1x rambo_base_upper_mount
-* 1x M3x12 screws
+* 2x M3x12 screws
 * 1x RAMBo cover with RAMBo mini PCB mounted inside
 * 2x M5x8 screws
 * 2x Tee nuts
