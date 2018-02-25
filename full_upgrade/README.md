@@ -29,7 +29,7 @@ This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for
 The full upgrade is split in 3 different versions depending the printer version you would like to upgrade :
 * [For MK2 and MK2s](for_mk2_mk2s)
 * [For MK2.5](for_mk2.5) (RAMBo cover is different than MK2(s))
-* [For MK3](for_mk3) (V-Slots length, RAMBo cover, Y axis and PSU lower mount are different)
+* [For MK3](for_mk3) (V-Slots length, RAMBo cover, Y axis, Z tops and PSU lower mount are different)
 
 Those versions are split in 3 folders and they have their own printed parts, manual, documentation, etc. Just go to full upgrade folder that match your printer and use the STL files and manual from their.
 
