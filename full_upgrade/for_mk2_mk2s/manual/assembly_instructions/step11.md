@@ -8,7 +8,7 @@
 
 * 2x z_motor_fronts
 * 8x M3x12mm screws
-* 8x M3 washers
+* 8x M3 washers (from original printer)
 * 1x X axis
 * 2x Z motors
 * 2x Z smooth rods (320mm)
