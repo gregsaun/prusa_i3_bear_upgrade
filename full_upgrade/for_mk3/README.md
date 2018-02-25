@@ -23,6 +23,7 @@ This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame
 * Open source by providing STL, STEP and Autodesk Fusion 360 files
 * Z motors can be easily removed for maintenance 
 * Fix some dimensional errors of Z axis from Original Prusa i3
+* Y motor is fixed using 3 screws instead 2 in original printer
 
 
 ## Manual
