@@ -1,19 +1,29 @@
-# Assembly Instructions
+# Prusa i3 Full Upgrade MK2(s)
 
-## Step 4
+## Assembly Instructions
 
-### Parts
+### Step 4
 
-* 1x Original aluminum frame (with new holes)
-* 1x Front assembly
-* 4x M5x25mm screws
+#### Parts  
 
-### Assembly
+* 4x Black angle corners
+* 8x M5x8mm screws
+* 8x Tee nuts
 
-1.  Assemble front and aluminum frame together with 4 M5x25 screws
-1.  Mesurements A and B (between bottom frame and bottom v-slots) should be equal and as big as possible (fig 4.1)
+#### Assembly
 
-![](img/fig4.1.png)\
+1. Screw 4x black angle corners on each corner as seen on figure 4.1
+1. Check the frame is not twisted by pressing down each corner (on the v-slots)
+1. If it is twisted, place an object (in red on figure 4.2) under one corner and apply pressure simultaneously to both perpendicular corners (A and B). Repeat this for left and right side until you get a perfectly flat frame<br>
+   :warning: this step is very important, double check everything the frame is very flat and everything is still square
+1. Strongly tight frame screws and check others screws as well
+
+
+
+![](img/fig4.1.jpg)\
 *fig 4.1*
 
-### [Previous Step](step03.md) &nbsp;&nbsp;&nbsp; [Next Step](step05.md)
+![](img/fig4.2.jpg)\
+*fig 4.2*
+
+#### [Previous Step](step03.md) &nbsp;&nbsp;&nbsp; [Next Step](step05.md)

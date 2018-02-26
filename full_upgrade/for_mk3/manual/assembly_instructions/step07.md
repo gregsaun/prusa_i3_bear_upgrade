@@ -1,34 +1,36 @@
-# Assembly Instructions
+# Prusa i3 Full Upgrade MK2(s)
 
-## Step 7
+## Assembly Instructions
 
-### Parts
+### Step 7
 
-* 4x rod holders
+#### Parts  
+
+* 4x rod_holder
+* 2x Y smooth rods (330mm)
 * 8x M5x10mm screws
 * 8x Tee nuts
-* 8x zip ties
 
-### Assembly
+#### Assembly
 
-1. Assemble 2 rod holders on the right side of the frame (fig 7.1) with 4 M5x10 and 4 tee nuts
-1. Adjust to the match measurements on fig 7.1
-1. Add the rod on this two holders
-1. Check they are perpendicular to the frame with a square (fig 7.2)
-1. Assemble 2 other rod holders on the left side of the frame (fig 7.3) with 4 M5x10 and 4 tee nuts
-1. Add the last 2 rods
-1. Adjust to match the measurements on bottom picture (fig 7.3). Take your time to have perfect measurements other the calibration might fail.
-1. Add zip ties to all rod holders
+1. Assemble 2x rod holders on the right side of the frame with 4x M5x10 and 4x tee nuts (figure 7.1) 
+1. Adjust to match dimensions as seen on figure 7.1
+1. Add a smooth rod on these two holders
+1. Check the rod is perpendicular to the front and back of the frame with a square (figure 7.2). To check the rod is perpendicular to top v-slot, put the frame on the ground, the square in the middle and look from top<br>
+   :warning: this step is very important, double check everything
+1. Assemble 2 other rod holders on the left side of the frame with 4x M5x10 and 4x tee nuts (figure 7.3)
+1. Assemble the second smooth rod and verify all dimensions as explained on figure 7.3<br>
+   :warning: this step is very important, double check everything
 
 
-![](img/fig7.1.png)\
+
+![](img/fig7.1.jpg)\
 *fig 7.1*
 
-![](img/fig7.2.png)\
+![](img/fig7.2.jpg)\
 *fig 7.2*
 
-
-![](img/fig7.3.png)\
+![](img/fig7.3.jpg)\
 *fig 7.3*
 
-### [Previous Step](step06.md) &nbsp;&nbsp;&nbsp; [Next Step](step08.md)
+#### [Previous Step](step06.md) &nbsp;&nbsp;&nbsp; [Next Step](step08.md)

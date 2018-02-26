@@ -1,21 +1,27 @@
-# Assembly Instructions
+# Prusa i3 Full Upgrade MK2(s)
 
-## Step 10
+## Assembly Instructions
 
-### Parts
+### Step 10
 
-* 2x psu_upper_mounts
-* 2x M4x12 screws (the one used to assemble the PSU to the frame
-* 2x M4 nuts
-* 1x psu
+#### Parts  
 
-### Assembly
+* 2x z_motor_mounts
+* 6x M5x10mm screws
+* 6x Tee nuts
 
-1. Add nuts in the hex hole of each psu_upper mount
-1. Bolt the psu_upper_mounts to the PSU using M4x12 screws. The hole with the nut should face up and against the PSU
+#### Assembly
 
-![](img/fig10.1.png)\
+1. Assemble 3x M5x10 screws with 3x tee nuts on each z_motor_mount
+1. Slide from top the z_motor_mounts on the Z axis (figure 10.1). Ensure the smooth rods holes are facing outside
+1. Ensure z_motor_mounts are touching the bottom horizontal v-slot and they are at 90° compared to vertical v-slot (figure 10.2)
+1. Tighten strongly all M5x10 screws
+
+
+![](img/fig10.1.jpg)\
 *fig 10.1*
 
+![](img/fig10.2.jpg)\
+*fig 10.2*
 
-### [Previous Step](step09.md) &nbsp;&nbsp;&nbsp; [Next Step](step11.md)
+#### [Previous Step](step09.md) &nbsp;&nbsp;&nbsp; [Next Step](step11.md)
