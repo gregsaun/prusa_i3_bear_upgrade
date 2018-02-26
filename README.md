@@ -112,8 +112,8 @@ Huge THANKS to all of you! :sparkling_heart:
 
 * Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun). (I have tons of new idea)
 * [GitHub Project Page](https://github.com/gregsaun/prusa_i3_bear_upgrade/)
-* [Openbuilds forum page](http://www.openbuilds.org/threads/prusa-i3-bear-edition.10274/)
-* [Openbuilds build page](http://www.openbuilds.org/builds/prusa-i3-bear-upgrade.5661/)
+* [Openbuilds forum page](https://openbuilds.com/threads/prusa-i3-bear-upgrade-v2.11626/)
+* [Openbuilds build page](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
 * [My Thingiverse](https://www.thingiverse.com/pekcitron)
 
 
