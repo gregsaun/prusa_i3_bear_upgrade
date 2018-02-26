@@ -9,7 +9,7 @@
 * 1x rambo_base_lower_mount
 * 1x rambo_base_upper_mount
 * 2x M3x12 screws
-* 1x RAMBo cover with RAMBo mini PCB mounted inside
+* 1x RAMBo cover with Einsy RAMBo PCB mounted inside
 * 2x M5x8 screws
 * 2x Tee nuts
 
@@ -18,7 +18,7 @@
 
 :heavy_exclamation_mark: X axis cables are not visible in these figures and will not be visible in the following ones
 
-1. Remove the 2x M3x10 screws from the left of the RAMBo mini PCB as highlighted in figure 15.1. Remove corresponding M3 nuts on back as well
+1. Remove the 2x M3x10 screws from the left of the Einsy RAMBo PCB as highlighted in figure 15.1. Remove corresponding M3 nuts on back as well
 1. Insert rambo_base_upper_mount on top and rambo_base_lower_mount on bottom of the cover as seen in figure 15.2
 1. Screw carefully 2x M3x12 in holes as highlighted in figure 15.3<br>
    :warning: do not reuse M3x10 screws previously removed
