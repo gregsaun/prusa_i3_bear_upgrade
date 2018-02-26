@@ -1,4 +1,4 @@
-# Prusa i3 Full Upgrade MK2(s)
+# Prusa i3 Full Upgrade MK3
 
 ## Assembly Instructions
 
