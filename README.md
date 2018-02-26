@@ -68,7 +68,7 @@ Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 ## Community And Support
 
-The best way to talk about this upgrade is to join the [OpenBuilds thread](https://openbuilds.com/). Be careful when you join OpenBuilds, you will be soon tempted by building a CNC or a Laser machine!
+The best way to talk about this upgrade is to join the [OpenBuilds thread](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/). Be careful when you join OpenBuilds, you will be soon tempted by building a CNC or a Laser machine!
 
 You can also open an issue on GitHub if you prefer or add a comment on my [My Thingiverse](https://www.thingiverse.com/pekcitron).
 
