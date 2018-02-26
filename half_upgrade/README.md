@@ -62,7 +62,7 @@ Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that
 
 ## Current status
 
-Dev and tests finished, currently waiting feedback from first users
+:heavy_check_mark: Finished
 
 
 ## Images

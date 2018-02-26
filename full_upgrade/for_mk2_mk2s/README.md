@@ -39,7 +39,7 @@ Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that
 
 ## Current status
 
-Currently building the first Full Upgrade MK2s. Assembly instructions will be ready soon after the build.
+:heavy_check_mark: Finished
 
 
 ## Images

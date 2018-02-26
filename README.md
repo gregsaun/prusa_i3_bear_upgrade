@@ -99,13 +99,13 @@ Huge THANKS to all of you! :sparkling_heart:
 
 ## Current status
 
-**Half Upgrade :heavy_check_mark: :** Dev and tests finished, currently waiting feedback from first users
+**Half Upgrade :heavy_check_mark: :** Finished
 
-**Full Upgrade MK2(s) :grey_exclamation: :** Currently building the first Full Upgrade MK2s. Assembly instructions will be ready soon after the build.
+**Full Upgrade MK2(s) :heavy_check_mark: :** Finished
 
-**Full Upgrade MK2.5 :grey_exclamation: :** Currently building the first Full Upgrade MK2s and I am waiting for my MK2.5 upgrade. Assembly instructions will be ready soon after the build.
+**Full Upgrade MK2.5 :grey_exclamation: :** MK2.5 upgrade kits have not been shipped from Prusa factory for now. The only differences for this upgrade will be the RAMBo cover mounts. All parts, documentation and tests are finished.
 
-**Full Upgrade MK3 :question: :** No build as been tried yet but parts have been tested individually. Everything is ready except assembly instructions. I do not have the privilege to own a MK3, if someone would like to try the adventure that would be awesome!
+**Full Upgrade MK3 :question: :** No build as been tried as I do not own a MK3. All parts, documentation and tests are finished.  Waiting feedback from first builders (big thank you for the help!).
 
 
 ## Links
@@ -124,5 +124,6 @@ Here are a list of sources I used to build this project :
 * Prusa : http://www.prusa3d.com
 * Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
 * Openbuilds : https://www.openbuilds.org
+* Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3/
 
 Huge thanks to these projects, without them this project can not exist!
