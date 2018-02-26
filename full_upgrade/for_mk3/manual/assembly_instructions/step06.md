@@ -6,22 +6,22 @@
 
 #### Parts  
 
-* 1x build_helper_96mm
+* 1x build_helper_106mm
 * 1x Frame bottom
 * 1x Frame Z axis
 * 12x M5x10mm screws
 
 #### Assembly
 
-1. Double check the length of your build helper correspond to 96mm exactly
+1. Double check the length of your build helper correspond to 106mm exactly
 1. Assemble both parts of the frame together as seen on figure 6.1. Do not tighten M5 screws yet, it will be done in the two next steps
-1. Adjust the 96mm distance on the left side using the build_helper_96mm as seen on picture 6.2. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
+1. Adjust the 106mm distance on the left side using the build_helper_106mm as seen on picture 6.2. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
    :warning: this step is very important, double check everything is perfectly square
-1. Adjust the 96mm distance on the right side using the build_helper_96mm (swap it) as seen on picture 6.3. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
+1. Adjust the 96mm distance on the right side using the build_helper_106mm (swap it) as seen on picture 6.3. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
    :warning: this step is very important, double check everything is perfectly square
 1. :warning: Take the time to double check these points (figure 6.4) :
     * Everything is perfectly aligned and squared
-    * 96mm is perfect on both sides
+    * 106mm is perfect on both sides
     * 290mm v-slot is square and has same height on each side of the Z axis
     * All screws have been strongly tightened
 
