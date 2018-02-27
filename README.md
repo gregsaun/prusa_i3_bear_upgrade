@@ -1,4 +1,4 @@
-# Prusa i3 Bear Upgrade
+# Prusa i3 Bear Upgrade V2.0
 
 ![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing_1024px.jpg)
 
@@ -75,7 +75,7 @@ You can also open an issue on GitHub if you prefer or add a comment on my [My Th
 
 ## Feedbacks from users
 
-Some feedbacks from users that built the half upgrade :
+Some feedbacks from users that built the half upgrade v1 :
 
 > _"I'm really happy. It's really great.It works really fine. It's a professional update. I was searching for a mk3 prusa frame update and I find this"_
 
