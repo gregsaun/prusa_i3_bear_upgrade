@@ -1,4 +1,4 @@
-# Prusa i3 Bear Full Upgrade
+# Prusa i3 Bear Full Upgrade MK3
 
 ## Table of Content
 
