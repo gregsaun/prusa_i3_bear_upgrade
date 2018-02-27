@@ -40,7 +40,7 @@ Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that
 
 ## Current status
 
-:question: No build as been tried as I do not own a MK3. All parts, documentation and tests are finished.  Waiting feedback from first builders (big thank you for the help!).
+:question: No build as been tried as I do not own a MK3. However, all parts, documentation and tests are finished. Waiting feedback from first builders (big thank you for the help!).
 
 
 ## Images

@@ -39,7 +39,7 @@ Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that
 
 ## Current status
 
-:grey_exclamation: MK2.5 upgrade kits have not been shipped from Prusa factory for now. The only differences for this upgrade will be the RAMBo cover mounts. All parts, documentation and tests are finished.
+:grey_exclamation: MK2.5 upgrade kits have not been shipped from Prusa factory yet. The only differences for this upgrade will be the RAMBo cover mounts. All parts, documentation and tests are finished.
 
 
 ## Images

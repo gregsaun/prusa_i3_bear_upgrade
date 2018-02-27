@@ -103,9 +103,9 @@ Huge THANKS to all of you! :sparkling_heart:
 
 **Full Upgrade MK2(s) :heavy_check_mark: :** Finished
 
-**Full Upgrade MK2.5 :grey_exclamation: :** MK2.5 upgrade kits have not been shipped from Prusa factory for now. The only differences for this upgrade will be the RAMBo cover mounts. All parts, documentation and tests are finished.
+**Full Upgrade MK2.5 :grey_exclamation: :** MK2.5 upgrade kits have not been shipped from Prusa factory yet. The only differences for this upgrade will be the RAMBo cover mounts. All parts, documentation and tests are finished.
 
-**Full Upgrade MK3 :question: :** No build as been tried as I do not own a MK3. All parts, documentation and tests are finished.  Waiting feedback from first builders (big thank you for the help!).
+**Full Upgrade MK3 :question: :** No build as been tried as I do not own a MK3. However, all parts, documentation and tests are finished. Waiting feedback from first builders (big thank you for the help!).
 
 
 ## Links
