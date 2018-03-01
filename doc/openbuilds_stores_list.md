@@ -33,6 +33,13 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Auckland | http://www.cnckits.co.nz | N | | |
 
 
+## North Africa
+
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Algeria | http://www.dzduino.store | N | | |
+
+
 ## North America
 
 | Location | Address | Pre-Cut | Comment | Review |
