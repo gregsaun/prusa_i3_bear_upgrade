@@ -19,6 +19,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Belgium | https://tronixmaker.com | Y | | |
 | France | http://www.vslot-europe.com | N | | |
 | Germany | http://www.watterott.com | N | | |
+| Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | | |
 | Italia | http://www.openbuildsitalia.com | Y | | |
 | Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | They sell a set dedicated to this upgrade | |
 | Portugal | http://www.ratrig.com | Y | | |
@@ -55,4 +56,4 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Location | Address | Pre-Cut | Comment | Review |
 |:--------:|:-------:|:-------:|:-------:|:------:|
 | Brazil | https://www.tdtec.com.br/ | N | You'll need to contact them to be sure of which other related components they sell, though | |
-| Brazil | https://eshops.mercadolivre.com.br/tdtec | N | You'll need to contact them to be sure of which other related components they sell, though | |
+| Brazil | [https://www.mercadolivre.com.br](https://eshops.mercadolivre.com.br/tdtec) | N | You'll need to contact them to be sure of which other related components they sell, though | |
