@@ -50,3 +50,9 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | New Jersey | http://openbuildspartstore.com | N/Y | If you ask they will do it for you | Very good |
 | New York | http://www.opensourceluthiersupply.com | N | | |
 | ? | http://makerstore.cc | N | | |
+
+## South America
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Brazil | https://www.tdtec.com.br/ | N | You'll need to contact them to be sure of which other related components they sell, though | |
+| Brazil | https://eshops.mercadolivre.com.br/tdtec | N | You'll need to contact them to be sure of which other related components they sell, though | |
