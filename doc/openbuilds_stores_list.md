@@ -5,6 +5,13 @@ If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
 
 
+## Asia
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| India    | [https://www.3dprintronics.com](https://www.3dprintronics.com/Aluminium-Extrusions-c7124102) | Y | They have V Slot extrusions and accessories but are not official V Slot distributors | |
+| Russia | https://soberizavod.ru/ | N | | |
+
+
 ## Australia
 
 | Location | Address | Pre-Cut | Comment | Review |
@@ -23,6 +30,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Italia | http://www.openbuildsitalia.com | Y | | |
 | Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | They sell a set dedicated to this upgrade | |
 | Portugal | http://www.ratrig.com | Y | | |
+| Russia | https://soberizavod.ru/ | N | | |
 | Switzerland | https://www.3dware.ch/ | N | | Okay, nothing special |
 | UK | http://ooznest.co.uk/ | Y | | Very good |
 
