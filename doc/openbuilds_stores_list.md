@@ -6,62 +6,64 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 
 ## Asia
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| India    | [https://www.3dprintronics.com](https://www.3dprintronics.com/Aluminium-Extrusions-c7124102) | Y | They have V Slot extrusions and accessories but are not official V Slot distributors | |
-| Russia | https://soberizavod.ru/ | N | | |
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| India    | [https://www.3dprintronics.com](https://www.3dprintronics.com/Aluminium-Extrusions-c7124102) | Y | N | | |
+| Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
 
 
 ## Australia
 
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Victoria | http://www.makerstore.com.au | N | | |
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| Victoria | http://www.makerstore.com.au | N | Y | | |
 
 
 ## Europe
 
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Belgium | https://tronixmaker.com | Y | | |
-| France | http://www.vslot-europe.com | N | | |
-| Germany | http://www.watterott.com | N | | |
-| Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | | |
-| Italia | http://www.openbuildsitalia.com | Y | | |
-| Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | They sell a set dedicated to this upgrade | |
-| Portugal | http://www.ratrig.com | Y | | |
-| Russia | https://soberizavod.ru/ | N | | |
-| Switzerland | https://www.3dware.ch/ | N | | Okay, nothing special |
-| UK | http://ooznest.co.uk/ | Y | | Very good |
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| Belgium | https://tronixmaker.com | Y | Y | | |
+| France | http://www.vslot-europe.com | N | Y | | |
+| Germany | http://www.watterott.com | N | ? | | |
+| Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | ? | | |
+| Italia | http://www.openbuildsitalia.com | Y | Y | | |
+| Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | N | They sell a set dedicated to this upgrade | |
+| Portugal | http://www.ratrig.com | Y | ? | | |
+| Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
+| Switzerland | https://www.3dware.ch/ | N | Y | | Okay, nothing special |
+| UK | http://ooznest.co.uk/ | Y | Y | | Very good |
 
 
 ## New Zealand
 
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Auckland | http://www.cnckits.co.nz | N | | |
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| Auckland | http://www.cnckits.co.nz | N | ? | | |
 
 
 ## North Africa
 
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Algeria | http://www.dzduino.store | N | | |
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| Algeria | http://www.dzduino.store | N | N | | |
 
 
 ## North America
 
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Canada | https://makerparts.ca/ | Y | | |
-| Mexico | https://openbuilds.com.mx | N | | |
-| Mexico | http://www.spkautomatizacion.com | N | | |
-| New Jersey | http://openbuildspartstore.com | N/Y | If you ask they will do it for you | Very good |
-| New York | http://www.opensourceluthiersupply.com | N | | |
-| ? | http://makerstore.cc | N | | |
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| Canada | https://makerparts.ca/ | Y | Y | | |
+| Mexico | https://openbuilds.com.mx | N | Y | | |
+| Mexico | http://www.spkautomatizacion.com | N | ? | | |
+| New Jersey | http://openbuildspartstore.com | N/Y | Y | If you ask they will do it for you | Very good |
+| New York | http://www.opensourceluthiersupply.com | N | Y | | |
+| ? | http://makerstore.cc | N | Y | | |
+
 
 ## South America
-| Location | Address | Pre-Cut | Comment | Review |
-|:--------:|:-------:|:-------:|:-------:|:------:|
-| Brazil | https://www.tdtec.com.br/ | N | You'll need to contact them to be sure of which other related components they sell, though | |
-| Brazil | [https://www.mercadolivre.com.br](https://eshops.mercadolivre.com.br/tdtec) | N | You'll need to contact them to be sure of which other related components they sell, though | |
+
+| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
+|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
+| Brazil | https://www.tdtec.com.br/ | N | N | You'll need to contact them to be sure of which other related components they sell, though | |
+| Brazil | [https://www.mercadolivre.com.br](https://eshops.mercadolivre.com.br/tdtec) | N | N | You'll need to contact them to be sure of which other related components they sell, though | |
