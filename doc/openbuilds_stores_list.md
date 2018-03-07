@@ -25,15 +25,15 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
 | Belgium | https://tronixmaker.com | Y | Y | | |
 | France | http://www.vslot-europe.com | N | Y | | |
-| Germany | http://www.watterott.com | N | ? | | |
+| Germany | http://www.watterott.com | N | Y | | |
 | Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | ? | | |
 | Italia | http://www.openbuildsitalia.com | Y | Y | | |
-| Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | ? | | |
+| Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | Y | | |
 | Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | N | They sell a set dedicated to this upgrade | |
-| Portugal | http://www.ratrig.com | Y | ? | | |
+| Portugal | http://www.ratrig.com | Y | Y | | |
 | Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
-| Spain | http://store.thingibox.com/en/ | Y | ? | | |
-| Sweden | [https://www.kjell.com/se/](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/aluminiumprofiler/ratrig-aluminiumprofil-20x40-mm-50-cm-p88153) | ? | ? | | |
+| Spain | http://store.thingibox.com/en/ | Y | Y | | |
+| Sweden | [https://www.kjell.com/se/](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/aluminiumprofiler/ratrig-aluminiumprofil-20x40-mm-50-cm-p88153) | ? | Y | | |
 | Switzerland | https://www.3dware.ch/ | N | Y | | Okay, nothing special |
 | UK | http://ooznest.co.uk/ | Y | Y | | Very good |
 
@@ -57,7 +57,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
 | Canada | https://makerparts.ca/ | Y | Y | | |
-| Canada | [https://www.robotshop.com](https://www.robotshop.com/en/ratrig-black-aluminum-extrusion-20x40mm-1000mm.html) | N | ? | | |
+| Canada | [https://www.robotshop.com](https://www.robotshop.com/en/ratrig-black-aluminum-extrusion-20x40mm-1000mm.html) | N | Y | | |
 | Mexico | https://openbuilds.com.mx | N | Y | | |
 | Mexico | http://www.spkautomatizacion.com | N | ? | | |
 | New Jersey | http://openbuildspartstore.com | N/Y | Y | If you ask they will do it for you | Very good |
