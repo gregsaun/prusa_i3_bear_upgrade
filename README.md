@@ -2,7 +2,7 @@
 
 #### _Openbuilds Powerpack Giveaway - Please Vote_
 _This project is a finalist of the Openbuilds Powerpack Giveaway._
-* _[Vote for the best project here :)](https://openbuilds.com/threads/poll-cast-your-vote-powerpack-contest.11919/#post-66007)_
+* _[Vote for the best project here :)](https://openbuilds.com/threads/poll-cast-your-vote-powerpack-contest.11919)_
 * _[View finalists here](https://openbuilds.com/?tag=powerpack_finalist)_
 
 
