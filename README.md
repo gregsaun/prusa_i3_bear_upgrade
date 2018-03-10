@@ -122,6 +122,15 @@ Huge THANKS to all of you! :sparkling_heart:
 * [Thingiverse page](https://www.thingiverse.com/thing:2808408)
 
 
+## Thank you
+
+Thank you for all people helping me on this project.
+
+Thank you Openbuilds for your hardware and community.
+
+Special thanks to DoItWithSmile for actively helping me testing the MK3 Full Upgrade and for all its supports and feedbacks.
+
+
 ## Sources
 
 Here are a list of sources I used to build this project :
