@@ -1,6 +1,6 @@
 # Prusa i3 Bear Upgrade V2.0
 
-##### _Openbuilds Powerpack Giveaway_
+#### _Openbuilds Powerpack Giveaway_
 _This project is a finalist of the Openbuilds Powerpack Giveaway._
 * _[Vote the best project here](https://openbuilds.com/threads/poll-cast-your-vote-powerpack-contest.11919/#post-66007)_
 * _[View finalists here](https://openbuilds.com/?tag=powerpack_finalist)_
