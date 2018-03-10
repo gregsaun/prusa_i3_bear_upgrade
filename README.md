@@ -1,7 +1,12 @@
 # Prusa i3 Bear Upgrade V2.0
 
-![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing_1024px.jpg)
+##### _Openbuilds Powerpack Giveaway_
+_This project is a finalist of the Openbuilds Powerpack Giveaway._
+* _[Vote the best project here](https://openbuilds.com/threads/poll-cast-your-vote-powerpack-contest.11919/#post-66007)_
+* _[View finalists here](https://openbuilds.com/?tag=powerpack_finalist)_
 
+
+![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing_1024px.jpg)
 
 ## Introduction
 
