@@ -19,7 +19,7 @@
    :warning: this step is very important, double check everything is perfectly square
 1. Carefully remove the 290mm v-slot
 1. Add 4x tee nuts as explained on figure 2.1
-1. Repeat step 3 and 4 to assemble the second 370mm v-slot as seen on figure 2.2<br>
+1. Repeat steps 2 and 3 to assemble the second 370mm v-slot as seen on figure 2.2<br>
    :warning: this step is very important, double check everything is perfectly square
 1. Carefully remove the 290mm v-slot
 1. :warning: Take the time to double check these points :
