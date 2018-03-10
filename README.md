@@ -128,7 +128,7 @@ Thank you for all people helping me on this project.
 
 Thank you Openbuilds for your hardware and community.
 
-Special thanks to DoItWithSmile for actively helping me testing the MK3 Full Upgrade and for all its supports and feedbacks.
+Special thanks to DoItWithSmile (jay3D), kabar03 and xequtor for actively helping me and for their feedbacks.
 
 
 ## Sources
