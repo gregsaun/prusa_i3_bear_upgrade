@@ -18,7 +18,7 @@
 1. Assemble 2 rod holders on the right side of the frame (fig 7.1) with 4 M5x10 and 4 tee nuts
 1. Adjust to the match measurements on fig 7.1
 1. Add the rod on this two holders
-1. Check they are perpendicular to the frame with a square (fig 7.2)
+1. Check they are perpendicular to the frame with a square (fig 7.2). Tip: put the frame on the ground, the square in the middle and look from top
 1. Assemble 2 other rod holders on the left side of the frame (fig 7.3) with 4 M5x10 and 4 tee nuts
 1. Remove the first rod and assemble the two rods on the print bed
 1. Fix print bed and rods to the rod holders (fig 7.4)
