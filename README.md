@@ -128,7 +128,7 @@ Thank you for all people helping me on this project.
 
 Thank you Openbuilds for your hardware and community.
 
-Special thanks to DoItWithSmile (jay3D), kabar03 and xequtor for actively helping me and for their feedbacks.
+Special thanks to DoItWithSmile (jay3D), kabar03, xequtor and fishmsk for actively helping me and for their feedbacks.
 
 
 ## Sources
