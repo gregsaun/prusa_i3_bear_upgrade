@@ -1,4 +1,4 @@
-# Prusa i3 Half Upgrade
+# Prusa i3 Bear Half Upgrade
 
 
 ## Preflight Check
@@ -6,7 +6,7 @@
 1. Hardware parts correspond to [bom](bom.md)
 1. Printed parts correspond to [bom](bom.md)
 1. Verify visually all the printed parts to find defects and imperfections. Clean up if necessary.
-1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration
+1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration. If it is too tight, use a file to increase hole
 1. Verify positions of V-Slots holes on the frame with [this image](/half_upgrade/doc/vslots_length.png)
 1. Verify your V-Slots' threads length with a screw (M5x20mm or longer), they should be 20mm long at least
 1. Maybe something is interesting for you in the [optional parts](/half_upgrade/optional_parts/)

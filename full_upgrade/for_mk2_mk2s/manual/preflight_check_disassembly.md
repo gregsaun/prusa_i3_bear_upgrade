@@ -1,4 +1,4 @@
-# Prusa i3 Full Upgrade MK2(s)
+# Prusa i3 Bear Full Upgrade MK2(s)
 
 
 ## Preflight Check
@@ -9,7 +9,8 @@
 1. Check length of build_helper_96mm.stl, should be 96mm long
 1. Check length of the 290mm V-Slot, this is the most important dimension
 1. Check that all identical length V-Slots (like 2x370mm) have the exact same dimension. Adjust them with a file if you see a difference
-1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration
+1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration. If it is too tight, use a file to increase hole
+1. Do the same as previous point but with z_motor_mount. In this case I recommend to remove the smooth rod. If it is too tight, use a file to increase hole
 1. Maybe something is interesting for you in the [optional parts](/full_upgrade/for_mk2_mk2s/optional_parts/)
  
 
