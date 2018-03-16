@@ -19,7 +19,7 @@ You can hand cut them accurately using a jig (it just takes more time and effort
 
 ### Tapping
 
-You need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes). Thread needs to be 20mm depth at least.
+You need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total). Thread needs to be 20mm depth at least.
 
 1. Apply lubricant on the tap and pour it into the hole
 1. Make sure your tap is straight
