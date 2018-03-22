@@ -73,9 +73,9 @@ Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 ## Community And Support
 
-The best way to talk about this upgrade is to join the [OpenBuilds thread](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/). Be careful when you join OpenBuilds, you will be soon tempted by building a CNC or a Laser machine!
-
-You can also open an issue on GitHub if you prefer or add a comment on my [My Thingiverse](https://www.thingiverse.com/thing:2808408).
+* Dedicated Facebook group [here](https://www.facebook.com/groups/952391771587800/)
+* Openbuilds community [here](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/). Be careful when you join OpenBuilds, you will be soon tempted by building a CNC or a Laser machine!
+* You can also open an issue on [GitHub](https://github.com/gregsaun/prusa_i3_bear_upgrade/) if you prefer or add a comment on my [My Thingiverse](https://www.thingiverse.com/thing:2808408)
 
 
 ## Feedbacks from users
@@ -116,6 +116,7 @@ Huge THANKS to all of you! :sparkling_heart:
 ## Links
 
 * Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun). (I have tons of new idea)
+* [Facebook group](https://www.facebook.com/groups/952391771587800/)
 * [GitHub Project Page](https://github.com/gregsaun/prusa_i3_bear_upgrade/)
 * [Openbuilds forum page](https://openbuilds.com/threads/prusa-i3-bear-upgrade-v2.11626/)
 * [Openbuilds build page](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
