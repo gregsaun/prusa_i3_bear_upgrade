@@ -6,21 +6,23 @@
 
 #### Parts  
 
-* 1x y_idler
-* 1x psu_lower_mount
-* 1x y_motor_mount
-* 1x Y motor with its original M3x10 screws
-* 1x M3x10 screws (get it from Prusa spare parts bag)
-* 3x M5x10mm screws
-* 2x M5x12mm screws
+* 4x rod_holder
+* 2x Y smooth rods (330mm)
+* 8x M5x12mm screws
+* 9x Tee nuts
 
 #### Assembly
 
-1. Screw the y_motor_mount on the back of the frame using 2x M5x12 and adjust to the dimensions in figure 8.1
-1. Assemble the Y motor on the y_motor_mount with 3x M3x10 screws (figure 8.2). Ensure the correct orientation of motor cables
-1. Screw the y_idler using 2x M5x10 and adjust to the dimensions in figure 8.3.
-1. Ensure the correction orientation of y_idler, the nut should be on the same side as the single Y axis bearing
-1. Screw the psu_lower_mount using 1x M5x10 and adjust to the dimensions in figure 8.4
+1. Assemble 2x rod holders on the right side of the frame with 4x M5x12 and 4x tee nuts (figure 8.1) 
+1. Adjust to match dimensions as seen on figure 8.1
+1. Add a smooth rod on these two holders
+1. Check the rod is perpendicular to the front and back of the frame with a square (figure 8.2). To check the rod is perpendicular to top v-slot, put the frame on the ground, the square in the middle and look from top<br>
+   :warning: this step is very important, double check everything
+1. Add a tee nut on the back (for y_motor_mount) as seen on figure 8.2
+1. Assemble 2 other rod holders on the left side of the frame with 4x M5x12 and 4x tee nuts (figure 8.3)
+1. Assemble the second smooth rod and verify all dimensions as explained on figure 8.3<br>
+   :warning: this step is very important, double check everything
+
 
 
 ![](img/fig8.1.jpg)\
@@ -31,8 +33,5 @@
 
 ![](img/fig8.3.jpg)\
 *fig 8.3*
-
-![](img/fig8.4.jpg)\
-*fig 8.4*
 
 #### [Previous Step](step07.md) &nbsp;&nbsp;&nbsp; [Next Step](step09.md)

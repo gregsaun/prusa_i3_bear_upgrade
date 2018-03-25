@@ -6,32 +6,21 @@
 
 #### Parts  
 
-* 1x 290mm v-slot
+* 4x Self tapping screws
 * 2x 359mm v-slots
-* 6x 90° joining plates
-* 18x M5x10mm screws
-* 18x Tee nuts
 
 #### Assembly
 
-1. File sharp edges on the diagonal of 2x 90° joining plates (figure 5.1). A small chamfer is enough, this just to avoid scratching cables
-1. Assemble 2x 359mm v-slots with one 290mm v-slot as seen on figure 5.2 with 2x 90° joining plates, 10x M5x10 screws and 10x tee nuts
-1. Check all dimensions as seen on figure 5.3<br>
-   :warning: this step is very important, double check everything is perfectly square
-1. File **all** sharp edges of 4x latest 90° joining plates (not only diagonals) (figure 5.1). A small chamfer is enough, this just to avoid scratching cables and it will be useful for the next step as well
-1. Assemble the 4x latest 90° joining plates as seen on figure 5.4
+1. We will pre-tap v-slot with self tapping screw to add Z axis end caps later in the assembly
+1. :warning: When using these self-tapping screws, you will want to back the screw out and drill it in a little deeper each time. This helps to clear the hole of the cuttings and allows the tapping process to work more easily. Use a drill/driver if it is too hard.
+1. (Optional) Add a bit of generic oil on the self tapping screws
+1. On one side of each v-slots, insert carefully the self tapping screws until the head is touching the v-slot (figure 5.1)
+1. Unscrew self tapping screws and reserve them for later
+1. Clean up v-slots from oil and aluminum residues
 
 
-![](img/file_90deg_plate.jpg)\
+
+![](img/fig5.1.jpg)\
 *fig 5.1*
-
-![](img/fig5.2.jpg)\
-*fig 5.2*
-
-![](img/fig5.3.jpg)\
-*fig 5.3*
-
-![](img/fig5.4.jpg)\
-*fig 5.4*
 
 #### [Previous Step](step04.md) &nbsp;&nbsp;&nbsp; [Next Step](step06.md)

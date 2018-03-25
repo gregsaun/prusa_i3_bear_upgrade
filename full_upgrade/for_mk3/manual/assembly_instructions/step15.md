@@ -6,24 +6,22 @@
 
 #### Parts  
 
-* 1x rambo_base_lower_mount
-* 1x rambo_base_upper_mount
-* 2x M3x12 screws
-* 1x RAMBo cover with Einsy RAMBo PCB mounted inside
-* 2x M5x8 screws
+* 2x psu_upper_mount
+* 2x M4x12 screws (original ones used to assemble the PSU to the frame)
+* 2x M5x10 screws
 * 2x Tee nuts
+* 1x M3 washer (from the original PSU lower mount)
+* 1x M3 screw (from the original PSU lower mount)
+* 1x M3 bolt (from the original PSU lower mount)
 
 
 #### Assembly
 
-:heavy_exclamation_mark: X axis cables are not visible in these figures and will not be visible in the following ones
-
-1. Remove the 2x M3x10 screws from the left of the Einsy RAMBo PCB as highlighted in figure 15.1. Remove corresponding M3 nuts on back as well
-1. Insert rambo_base_upper_mount on top and rambo_base_lower_mount on bottom of the cover as seen in figure 15.2
-1. Screw carefully 2x M3x12 in holes as highlighted in figure 15.3<br>
-   :warning: do not reuse M3x10 screws previously removed
-1. Pass the X motor cable in the appropriate hole (figure 15.4) and fix the RAMBo cover to the frame using 2x M5x8 screws et 2x tee nuts
-1. Ensure that the bottom of the rambo_base_lower_mount is touching the top of 90° joining plate
+1. Insert 1x M4x12mm screw in each psu_upper_mount as seen in figure 15.1. If you have trouble getting the M4 screw in the hole, insert your finger in the big polygonal vertical hole
+1. Screw each psu_upper_mount to the PSU
+1. Screw PSU to the back of the frame as seen in picture 15.2 with 2x M5x10mm and 2x tee nuts
+1. Add M3 bolt into the psu_lower_mount (figure 15.3)
+1. Screw the PSU to the psu_lower_mount with the M3 washer and the M3 screw
 
 
 ![](img/fig15.1.jpg)\
@@ -34,8 +32,5 @@
 
 ![](img/fig15.3.jpg)\
 *fig 15.3*
-
-![](img/fig15.4.jpg)\
-*fig 15.4*
 
 #### [Previous Step](step14.md) &nbsp;&nbsp;&nbsp; [Next Step](step16.md)

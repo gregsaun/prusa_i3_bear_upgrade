@@ -6,25 +6,21 @@
 
 #### Parts  
 
-* 1x heated bed assembly
-* 4x zip ties
+* 1x y_idler
+* 1x psu_lower_mount
+* 1x y_motor_mount
+* 1x Y motor with its original M3x10 screws
+* 1x M3x10 screws (get it from Prusa spare parts bag)
+* 3x M5x10mm screws
+* 2x M5x12mm screws
 
 #### Assembly
 
-:heavy_exclamation_mark: Y belt is not visible in these figures and will not be visible in the following ones
-
-1. Unclip the front of y smooth rods
-1. Slide carefully the Y carriage. Ensure correct orientation as highlighted in figure 9.1
-1. Clip again Y smooth rods and add zip ties
-1. Ensure zip ties are not touching the bed and y carriage
-1. If the bed does not slide smoothly, improve rod spacing/angle<br>
-   :warning: this step is very important, take your time and check dimensions from [step 8](step08.md)
-1. Unscrew 2x M3x10 bottom screws of the y_motor_mount as highlighted in figure 9.2
-1. Rotate the motor and mount the Y belt
-1. Find the correct tension for the belt. You can use the Prusa MK3 method from the original manual here : [Step 37 Testing the Y-axis belt](http://manual.prusa3d.com/Guide/2.+Y-axis+assembly/507?lang=en#s8300)
-1. Screw the motor back
-1. Take your time to perfectly align position of y_idler and y_motor_mount to get a good belt alignment
-1. Mount the Y end stop on the y_motor_mount
+1. Assemble the Y motor on the y_motor_mount with 3x M3x10 screws (figure 9.1). Ensure the correct orientation of motor cables
+1. Screw the motor on the back of the frame using 2x M5x12 and adjust to the dimensions in figure 9.2
+1. Screw the y_idler using 2x M5x10 and adjust to the dimensions in figure 9.3.
+1. Ensure the correction orientation of y_idler, the nut should be on the same side as the single Y axis bearing
+1. Screw the psu_lower_mount using 1x M5x10 and adjust to the dimensions in figure 9.4
 
 
 ![](img/fig9.1.jpg)\
@@ -32,5 +28,11 @@
 
 ![](img/fig9.2.jpg)\
 *fig 9.2*
+
+![](img/fig9.3.jpg)\
+*fig 9.3*
+
+![](img/fig9.4.jpg)\
+*fig 9.4*
 
 #### [Previous Step](step08.md) &nbsp;&nbsp;&nbsp; [Next Step](step10.md)

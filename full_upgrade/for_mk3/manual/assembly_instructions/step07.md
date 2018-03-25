@@ -6,22 +6,24 @@
 
 #### Parts  
 
-* 4x rod_holder
-* 2x Y smooth rods (330mm)
-* 8x M5x12mm screws
-* 9x Tee nuts
+* 1x build_helper_106mm
+* 1x Frame bottom
+* 1x Frame Z axis
+* 12x M5x10mm screws
 
 #### Assembly
 
-1. Assemble 2x rod holders on the right side of the frame with 4x M5x12 and 4x tee nuts (figure 7.1) 
-1. Adjust to match dimensions as seen on figure 7.1
-1. Add a smooth rod on these two holders
-1. Check the rod is perpendicular to the front and back of the frame with a square (figure 7.2). To check the rod is perpendicular to top v-slot, put the frame on the ground, the square in the middle and look from top<br>
-   :warning: this step is very important, double check everything
-1. Add a tee nut on the back (for y_motor_mount) as seen on figure 7.2
-1. Assemble 2 other rod holders on the left side of the frame with 4x M5x12 and 4x tee nuts (figure 7.3)
-1. Assemble the second smooth rod and verify all dimensions as explained on figure 7.3<br>
-   :warning: this step is very important, double check everything
+1. Double check the length of your build helper correspond to 106mm exactly
+1. Assemble both parts of the frame together as seen on figure 7.1. Do not tighten M5 screws yet, it will be done in the two next steps
+1. Adjust the 106mm distance on the left side using the build_helper_106mm as seen on picture 7.2. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
+   :warning: this step is very important, double check everything is perfectly square
+1. Adjust the 96mm distance on the right side using the build_helper_106mm (swap it) as seen on picture 7.3. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
+   :warning: this step is very important, double check everything is perfectly square
+1. :warning: Take the time to double check these points (figure 7.4) :
+    * Everything is perfectly aligned and squared
+    * 106mm is perfect on both sides
+    * 290mm v-slot is square and has same height on each side of the Z axis
+    * All screws have been strongly tightened
 
 
 
@@ -33,5 +35,8 @@
 
 ![](img/fig7.3.jpg)\
 *fig 7.3*
+
+![](img/fig7.4.jpg)\
+*fig 7.4*
 
 #### [Previous Step](step06.md) &nbsp;&nbsp;&nbsp; [Next Step](step08.md)
