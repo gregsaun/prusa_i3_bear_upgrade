@@ -35,6 +35,7 @@
 |----------|:------:|
 | build_helper_96mm      | 1 |
 | end_caps               | 2 |
+| end_cap_z_axis         | 2 |
 | foot                   | 4 |
 | lcd_support_a          | 1 |
 | lcd_support_b          | 1 |
