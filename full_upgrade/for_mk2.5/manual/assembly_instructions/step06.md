@@ -23,13 +23,13 @@
 
 
 ![](img/file_90deg_plate.jpg)\
-*fig 5.1*
+*fig 6.1*
 
 ![](img/fig6.2.jpg)\
-*fig 5.2*
+*fig 6.2*
 
 ![](img/fig6.3.jpg)\
-*fig 5.3*
+*fig 6.3*
 
 ![](img/fig6.4.jpg)\
 *fig 6.4*
