@@ -20,6 +20,6 @@
 * [Step 16 - Einsy RAMBo](assembly_instructions/step16.md)
 * [Step 17 - Einsy RAMBo](assembly_instructions/step17.md)
 * [Step 18 - Electronic assembly](assembly_instructions/step18.md)
-* [Step 19 - Calibration](assembly_instructions/step19.md)
-* [Step 20 - Z axis end caps](assembly_instructions/step20.md)
+* [Step 19 - Z axis end caps](assembly_instructions/step19.md)
+* [Step 20 - Calibration](assembly_instructions/step20.md)
 * [Step 21 - Calibration](assembly_instructions/step21.md)
