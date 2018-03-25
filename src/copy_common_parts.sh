@@ -23,6 +23,7 @@ cable_clip_lcd
 cable_clip_round
 cable_clip_ziptie
 end_caps
+end_cap_z_axis
 foot
 lcd_support_a
 lcd_support_b
@@ -43,6 +44,7 @@ cable_clip_lcd
 cable_clip_round
 cable_clip_ziptie
 end_caps
+end_cap_z_axis
 foot
 lcd_support_a
 lcd_support_b
