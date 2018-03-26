@@ -11,6 +11,8 @@
 
 #### Assembly
 
+:heavy_exclamation_mark: If you know how to tap a hole, use M5x8mm and M5 tap instead of self tapping screw
+
 1. We will pre-tap v-slot with self tapping screw to add Z axis end caps later in the assembly
 1. :warning: When using these self-tapping screws, you will want to back the screw out and drill it in a little deeper each time. This helps to clear the hole of the cuttings and allows the tapping process to work more easily. Use a drill/driver if it is too hard.
 1. (Optional) Add a bit of generic oil on the self tapping screws

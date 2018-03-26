@@ -14,7 +14,7 @@
 | Low profile M5 screw 8mm | 12 | 8x for angle corner,<br>4x RAMBo cover mounts | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Low profile M5 screw 10mm | 63 | 46x for 90° plates,<br> 17x for printed parts<br> | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Low profile M5 screw 12mm | 14 | 2x for y_motor_mount,<br>8x for rod_holders,<br>4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
-| Self Tapping Screw M5 | 4 | 4x for top of Z axis | [openbuilds store](http://openbuildspartstore.com/self-tapping-screw/) |
+| Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x low profile screws M5x8mm and a M5 tap) | [openbuilds store](http://openbuildspartstore.com/self-tapping-screw/) |
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
 | M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts<br>Check your Prusa spare parts bag | |
 | M3x10mm socket head screw (hex) | 1 | 1x for Y motor<br>Check your Prusa spare parts bag | |
