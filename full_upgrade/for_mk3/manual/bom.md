@@ -5,7 +5,7 @@
 ### Hardware
 
 | Part     | Number (pce) | Detail | Link |
-|----------|:------:|--------|------|
+|----------|:------------:|--------|------|
 | Original Prusa i3 MK3 | 1 | | www.prusa3d.com |
 | V-Slot 20x40 1000mm | 3 | To cut :<br> 1x 331mm + 331mm + 290mm,<br> 2x 359mm + 370mm | [openbuilds store](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | Black angle corner | 4 | | [openbuilds store](http://openbuildspartstore.com/black-angle-corner-connector/) |
@@ -16,15 +16,15 @@
 | Low profile M5 screw 12mm | 14 | 2x for y_motor_mount,<br>8x for rod_holders,<br>4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x low profile screws M5x8mm and a M5 tap) | [openbuilds store](http://openbuildspartstore.com/self-tapping-screw/) |
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
-| M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | |
+| M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr store](https://www.mcmaster.com/#standard-socket-head-screws/=1c4whpg) |
+| Zip ties 2.5x100mm | 20 | | |
 
 
 #### List of recommended spares
 * Tee-nuts M5
-* Low profile M5 screw 8mm
-* Low profile M5 screw 10mm
-* Low profile M5 screw 12mm
+* Low profile M5 screw (8mm, 10mm and 12mm)
 * Set screw 4mm (can be easily lost)
+* Zip ties
 * Drop In Tee Nuts (for future accessories like Raspberry Pi case)
 
 

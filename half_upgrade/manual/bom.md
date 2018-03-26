@@ -17,18 +17,18 @@
 | Low profile M5 screw 12mm | 6 | 2x for y_motor_mount, 4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Low profile M5 screw 25mm | 8 | 8x to assemble the frame | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
-| M4x14mm socket head screw (hex) | 2 | 2x for psu_upper_mount | |
-| M4 hex nut | 2 | 2x for psu_upper_mount  | |
+| M4x14mm socket head screw (hex) | 2 | 2x for psu_upper_mount | [McMaster-Carr store](https://www.mcmaster.com/#standard-socket-head-screws/=1c4wig5) |
+| M4 hex nut | 2 | 2x for psu_upper_mount  | [McMaster-Carr store](https://www.mcmaster.com/#nuts/=1c4wjai) |
 | M5 drill tap | 1 | to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total) | [openbuilds store](http://openbuildspartstore.com/m5-drill-tap/) |
 | 5.3mm drill bit | 1 | to drill the frame | |
+| Zip ties 2.5x100mm | 20 | | |
 
 
 #### List of recommended spares
 * Tee-nuts M5
-* Low profile M5 screw 8mm
-* Low profile M5 screw 10mm
-* Low profile M5 screw 12mm
+* Low profile M5 screw (8mm, 10mm and 12mm)
 * Set screw 4mm (can be easily lost)
+* zip ties
 * Drop In Tee Nuts (for future accessories like Raspberry Pi case)
 
 
