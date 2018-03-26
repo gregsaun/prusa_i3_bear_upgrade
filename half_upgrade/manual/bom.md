@@ -7,7 +7,7 @@
 | Part     | Number (pce) | Detail | Link |
 |----------|:------:|--------|------|
 | Original Prusa i3 MK2 or MK2s or MK2.5 | 1 | | www.prusa3d.com |
-| V-Slot 20x40 500mm | 2 | To have 1x 270mm + 1x 195mm with one V-SLot and 1x 230mm + 1x 195 with the other | [openbuilds store](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
+| V-Slot 20x40 500mm | 2 | To cut :<br>1x 270mm + 195mm,<br>1x 230mm + 195mm | [openbuilds store](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | V-Slot 20x40 250mm | 1 | To cut 2x 110mm | [openbuilds store](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | Black angle corner | 4 | | [openbuilds store](http://openbuildspartstore.com/black-angle-corner-connector/) |
 | 90 degree joining plate | 4 | | [openbuilds store](http://openbuildspartstore.com/90-degree-joining-plate/) |
