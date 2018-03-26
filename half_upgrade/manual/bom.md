@@ -19,7 +19,6 @@
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
 | M4x14mm socket head screw (hex) | 2 | 2x for psu_upper_mount | |
 | M4 hex nut | 2 | 2x for psu_upper_mount  | |
-| M3x10mm socket head screw (hex) | 1 | 1x for Y motor <br>Check your Prusa spare parts bag | |
 | M5 drill tap | 1 | to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total) | [openbuilds store](http://openbuildspartstore.com/m5-drill-tap/) |
 | 5.3mm drill bit | 1 | to drill the frame | |
 
