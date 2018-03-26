@@ -9,8 +9,8 @@
 * 1x y_idler
 * 1x psu_lower_mount
 * 1x y_motor_mount
-* 1x Y motor with its original M3x10 screws
-* 1x M3x10 screws (get it from Prusa spare parts bag)
+* 1x Y motor
+* 3x M3x10 screws (2x from original Y motor mount, 1 from original Z motor mount)
 * 3x M5x10mm screws
 * 2x M5x12mm screws
 
