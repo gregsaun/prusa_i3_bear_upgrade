@@ -16,7 +16,7 @@
 | Low profile M5 screw 12mm | 6 | 2x for y_motor_mount,<br> 4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x low profile screws M5x8mm and a M5 tap) | [openbuilds store](http://openbuildspartstore.com/self-tapping-screw/) |
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
-| M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr store](https://www.mcmaster.com/#standard-socket-head-screws/=1c4whpg) |
+| M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr store](https://www.mcmaster.com/#91292a114/=1c4wt18) |
 | Zip ties 2.5x100mm | 20 | | |
 
 
