@@ -26,12 +26,12 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Belgium | https://tronixmaker.com | Y | Y | | |
 | Denmark | https://3dnielsen.dk/ | Y | Y | | |
 | France | http://www.vslot-europe.com | N | Y | | |
-| Germany | http://www.watterott.com | N | Y | | |
+| Germany | http://www.watterott.com | N | Y | Not all Openbuilds parts are available | |
 | Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | ? | | |
 | Italia | http://www.openbuildsitalia.com | Y | Y | | |
 | Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | Y | | |
 | Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | N | | |
-| Portugal | http://www.ratrig.com | Y | Y | | |
+| Portugal | http://www.ratrig.com | Y | Y | | Very good |
 | Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
 | Spain | http://store.thingibox.com/en/ | Y | Y | | |
 | Sweden | [https://www.kjell.com/se/](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/aluminiumprofiler/ratrig-aluminiumprofil-20x40-mm-50-cm-p88153) | ? | Y | | |
