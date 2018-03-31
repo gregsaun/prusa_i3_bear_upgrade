@@ -65,6 +65,16 @@ Several printed parts are shared between all these versions. This makes easier t
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 
+## Where can I purchase the hardware?
+
+
+![ratrig logo](doc/ratrig_logo.jpg)<br>
+[RatRig](http://www.ratrig.com/) is the official distributor for the Prusa Bear Upgrade. In addition to standard Openbuilds components, RatRig offers its own style with all parts in deep black (including joining plates). [Click here for more information](http://www.ratrig.com/3d-printing-cnc/3d-printer-kits/prusa-i3-bear-upgrade-v2-0-frame-kit.html)
+
+**Openbuilds distributors**<br>
+You can also purchase parts separately worldwide. Checkout my list of distributors here : [Openbuilds stores list](doc/openbuilds_stores_list.md)
+
+
 ## Community And Support
 
 * Dedicated Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)

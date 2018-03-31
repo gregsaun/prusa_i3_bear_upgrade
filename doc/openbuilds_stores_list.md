@@ -5,21 +5,29 @@ If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
 
 
-## Asia
+## Official distributor
+
+![ratrig logo](ratrig_logo.jpg)<br>
+[RatRig](http://www.ratrig.com/) is the official kit distributor for the Prusa Bear Upgrade. In addition to standard Openbuilds components, RatRig offers its own style with all parts in deep black (including joining plates). [Click here for more information](http://www.ratrig.com/3d-printing-cnc/3d-printer-kits/prusa-i3-bear-upgrade-v2-0-frame-kit.html)
+
+
+## Openbuilds distributors (Worldwide)
+
+### Asia
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
 | India    | [https://www.3dprintronics.com](https://www.3dprintronics.com/Aluminium-Extrusions-c7124102) | Y | N | | |
 | Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
 
 
-## Australia
+### Australia
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
 | Victoria | http://www.makerstore.com.au | N | Y | | |
 
 
-## Europe
+### Europe
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
@@ -39,21 +47,21 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | UK | http://ooznest.co.uk/ | Y | Y | | Very good |
 
 
-## New Zealand
+### New Zealand
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
 | Auckland | http://www.cnckits.co.nz | N | ? | | |
 
 
-## North Africa
+### North Africa
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
 | Algeria | http://www.dzduino.store | N | N | | |
 
 
-## North America
+### North America
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
@@ -66,7 +74,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | ? | http://makerstore.cc | N | Y | | |
 
 
-## South America
+### South America
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
