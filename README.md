@@ -82,6 +82,11 @@ You can also purchase parts separately worldwide. Checkout my list of distributo
 * You can also open an issue on [GitHub](https://github.com/gregsaun/prusa_i3_bear_upgrade/) if you prefer or add a comment on my [My Thingiverse](https://www.thingiverse.com/thing:2808408)
 
 
+## Optional parts
+
+Do you want to make this printer ever better, checkout the [Optional Parts](optional_parts.md)
+
+
 ## Feedbacks from users
 
 Some feedbacks from users that built the half upgrade v1 :

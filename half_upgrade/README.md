@@ -52,7 +52,7 @@ As you will see in the bill of material, the recommended drill bit is a 5.3mm.
 
 If you break the frame, you can send an email to Prusa support to get a new one. You will find few in the Chinese market as well.
 
-If you have access to a CNC machine, you can use [this DXF here](optional_parts/alu_frame/).
+If you have access to a CNC machine, you can use [this DXF here](doc/alu_frame/).
 
 
 ## Purchase Openbuilds V-Slots
