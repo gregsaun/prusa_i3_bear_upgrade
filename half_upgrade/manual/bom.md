@@ -34,17 +34,17 @@
 
 ### Printed Parts
 
-| Part     | Number | Note |
-|----------|:------:|------|
-| drilling_helpers  | 1 | |
-| rod_holder        | 4 | |
-| y_idler           | 1 | |
-| 1x y_motor_mount  | 1 | |
-| psu_lower_mount   | 1 | |
-| psu_upper_mount   | 2 | |
-| lcd_support_a     | 1 | |
-| lcd_support_b     | 1 | |
-| end_caps          | 2 | |
-| foot              | 4 | |
-| cable_clip_lcd    | 7 | |
-| cable_clip_ziptie | 4 | |
+| Part     | Quantity |
+|----------|:------:|
+| drilling_helpers  | 1 |
+| rod_holder        | 4 |
+| y_idler           | 1 |
+| 1x y_motor_mount  | 1 |
+| psu_lower_mount   | 1 |
+| psu_upper_mount   | 2 |
+| lcd_support_a     | 1 |
+| lcd_support_b     | 1 |
+| end_caps          | 2 |
+| foot              | 4 |
+| cable_clip_lcd    | 7 |
+| cable_clip_ziptie | 4 |

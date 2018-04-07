@@ -30,7 +30,7 @@
 
 ### Printed Parts
 
-| Part     | Number |
+| Part     | Quantity |
 |----------|:------:|
 | build_helper_96mm      | 1 |
 | end_caps               | 2 |
