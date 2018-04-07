@@ -15,7 +15,7 @@
 | Low profile M5 screw 8mm | 8 | 8x for angle corner | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Low profile M5 screw 10mm | 34 | 20x for 90° plates,<br> 14x for printed parts except y_motor_mount | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Low profile M5 screw 12mm | 6 | 2x for y_motor_mount, 4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
-| Low profile M5 screw 25mm | 8 | 8x to assemble the frame | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
+| Low profile M5 screw 15mm | 8 | 8x to assemble the frame | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
 | Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
 | M4x14mm socket head screw (hex) | 2 | 2x for psu_upper_mount | [McMaster-Carr store](https://www.mcmaster.com/#91292a038/=1c4wpy0) |
 | M4 hex nut | 2 | 2x for psu_upper_mount  | [McMaster-Carr store](https://www.mcmaster.com/#91828a231/=1c4wqcj) |

@@ -19,13 +19,14 @@ You can hand cut them accurately using a jig (it just takes more time and effort
 
 ### Tapping
 
-You need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total). Thread needs to be 20mm depth at least.
+You need to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total). Thread needs to be 12mm deep (10mm usable) at least.
+
+![Prusa i3 Bear Half Upgrade V-Slots Length](/half_upgrade/doc/tap_details.png)
 
 1. Apply lubricant on the tap and pour it into the hole
 1. Make sure your tap is straight
 1. Turn clockwise with a bit of pressure until it starts to be a bit harder, then reverse the rotation until you can feel a small detachment
 1. Continue until you have a 20mm thread at least
-
 
 ### Dimensions
 
