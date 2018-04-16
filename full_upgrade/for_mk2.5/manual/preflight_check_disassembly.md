@@ -21,11 +21,11 @@
 1. Unplug everything from the RAMBo board
 1. Disassemble RAMBo cover and lid
 1. Disassemble the Z axis and keep X axis in one piece (be careful with bearings)
-1. Tape your Z smooth rods together and identify them by a mark on the tape
+1. Use a tape and marker to identify your Z rods
 1. Identify your Z motors, one has shorter cables
 1. Disassemble y-belt-idler and remove the belt from the Y motor
 1. Finish to disassemble Y axis but keep Y carriage and heated bed in one piece (be careful with bearings)
-1. Tape your Z smooth rods together and identify them by a mark on the tape
+1. Use a tape and marker to identify your Y rods
 1. Disassemble the PSU
 1. Disassemble the LCD support, keep only the LCD cover and electronics
 
