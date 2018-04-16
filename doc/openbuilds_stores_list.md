@@ -65,12 +65,13 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 | Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
 |:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Canada | https://makerparts.ca/ | Y | Y | | |
+| Canada | https://makerparts.ca/ | Y | Y | cut is not accurate (+/-1mm) | |
 | Canada | [https://www.robotshop.com](https://www.robotshop.com/en/ratrig-black-aluminum-extrusion-20x40mm-1000mm.html) | N | Y | | |
 | Mexico | https://openbuilds.com.mx | N | Y | | |
 | Mexico | http://www.spkautomatizacion.com | N | ? | | |
 | New Jersey | http://openbuildspartstore.com | N/Y | Y | If you ask they will do it for you | Very good |
 | New York | http://www.opensourceluthiersupply.com | N | Y | | |
+| Texas | https://www.smw3d.com | Y | Y | | |
 | ? | http://makerstore.cc | N | Y | | |
 
 
