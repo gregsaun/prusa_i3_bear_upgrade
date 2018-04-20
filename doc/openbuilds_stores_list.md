@@ -34,7 +34,7 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 | Belgium | https://tronixmaker.com | Y | Y | | |
 | Denmark | https://3dnielsen.dk/ | Y | Y | | |
 | France | http://www.vslot-europe.com | N | Y | | |
-| Germany | http://www.watterott.com | N | Y | Not all Openbuilds parts are available | Fast and reliable |
+| Germany | http://www.watterott.com | N | Y | Not all Openbuilds parts are available | Cuts are not accurate (+/- 1mm)<br>Fast shipping |
 | Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | ? | | |
 | Italia | http://www.openbuildsitalia.com | Y | Y | | |
 | Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | Y | | |
