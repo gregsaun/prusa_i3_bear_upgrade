@@ -13,7 +13,7 @@
 
 #### Assembly
 
-1. Follow the chapter ["8. Electronic Assembly" from original Prusa MK2s manual](http://manual.prusa3d.com/Guide/8.+Electronics+assembly/279?lang=en) to finish wiring all cables
+1. Follow the chapter ["6. Electronic Assembly" from original Prusa MK2.5 manual](http://manual.prusa3d.com/Guide/6.+Electronics/573?lang=en) to finish wiring all cables
 1. Guide LCD cables using 6 cable_clip_lcd as seen on figure 18.1
 1. Use other cable clips to guide other cables as highlighted in figure 18.2 to 18.5
 
