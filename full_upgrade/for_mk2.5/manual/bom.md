@@ -4,26 +4,26 @@
 
 ### Hardware
 
-| Part     | Number (pce) | Detail | Link |
+| Part     | Number<br>(pce) | Detail | Link |
 |----------|:------------:|--------|------|
 | Original Prusa i3 MK2.5 | 1 | | www.prusa3d.com |
-| V-Slot 20x40 1000mm | 3 | To cut :<br> 1x 311mm + 311mm + 290mm,<br> 2x 356mm + 370mm | [openbuilds store](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
-| Black angle corner | 4 | | [openbuilds store](http://openbuildspartstore.com/black-angle-corner-connector/) |
-| 90 degree joining plate | 10 | | [openbuilds store](http://openbuildspartstore.com/90-degree-joining-plate/) |
-| Tee-nuts M5 | 89 | 50x for 90° plates,<br> 8x for angle corner,<br> 31x for printed parts | [openbuilds store](http://openbuildspartstore.com/tee-nuts-10-pack/) |
-| Low profile M5 screw 8mm | 12 | 8x for angle corner,<br>4x RAMBo cover mounts | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
-| Low profile M5 screw 10mm | 71 | 46x for 90° plates,<br> 25x for printed parts<br> | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
-| Low profile M5 screw 12mm | 6 | 2x for y_motor_mount,<br> 4x for feet | [openbuilds store](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
-| Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x low profile screws M5x8mm and a M5 tap) | [openbuilds store](http://openbuildspartstore.com/self-tapping-screw/) |
-| Set screw 4mm | 8 | for end_caps | [openbuilds store](http://openbuildspartstore.com/set-screw/) |
-| M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr store](https://www.mcmaster.com/#91292a114/=1c4wt18) |
+| V-Slot 20x40 1000mm | 3 | To cut :<br> 1x 311mm + 311mm + 290mm,<br> 2x 356mm + 370mm | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
+| Black angle corner | 4 | | [Openbuilds](http://openbuildspartstore.com/black-angle-corner-connector/) |
+| 90 degree joining plate | 10 | | [Openbuilds](http://openbuildspartstore.com/90-degree-joining-plate/) |
+| Tee-nuts M5 | 89 | 50x for 90° plates,<br> 8x for angle corner,<br> 31x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
+| M5x8mm low profile screw<br>(or button head ISO 7380) | 12 | 8x for angle corner,<br>4x RAMBo cover mounts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a222/=1clymbr) |
+| M5x10mm low profile screw<br>(or button head ISO 7380) | 71 | 46x for 90° plates,<br> 25x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
+| M5x12mm low profile screw<br>(or button head ISO 7380) | 6 | 2x for y_motor_mount,<br> 4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
+| Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x M5x8mm screws and a M5 tap) | [Openbuilds](http://openbuildspartstore.com/self-tapping-screw/) |
+| Set screw 4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
+| M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/#91292a114/=1c4wt18) |
 | Zip ties 2.5x100mm | 20 | | |
 
 
 #### List of recommended spares
 * Tee-nuts M5
-* Low profile M5 screw (8mm, 10mm and 12mm)
-* Set screw 4mm (can be easily lost)
+* M5 screws (8mm, 10mm and 12mm)
+* Set screws 4mm (can be easily lost)
 * Zip ties
 * Drop In Tee Nuts (for future accessories like Raspberry Pi case)
 

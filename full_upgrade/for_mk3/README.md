@@ -13,7 +13,7 @@ This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame
 * Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware :
-  * Single platform of multitude compatible hardware parts (extrusion, plates, low profile screws...)
+  * Single platform of multitude compatible hardware parts
   * V-Slot offer more possibilities to printed parts and customisation than T-Slot
   * Open source with powerful community
   * Easy to square and build
