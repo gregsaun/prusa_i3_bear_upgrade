@@ -37,11 +37,6 @@ The manual contains build of material, preparing frame and v-slots, print settin
 Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
-## Current status
-
-:grey_exclamation: MK2.5 upgrade kits have not been shipped from Prusa factory yet. The only differences for this upgrade will be the RAMBo cover mounts. All parts, documentation and tests are finished.
-
-
 ## Images
 
 ![Prusa i3 Bear Full Upgrade MK2.5 Left](img/3d_rendering/home_left.jpg)
