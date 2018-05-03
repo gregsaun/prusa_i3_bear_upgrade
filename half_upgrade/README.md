@@ -37,7 +37,7 @@ This is the HALF version of the Prusa i3 Bear upgrade. An affordable upgrade to 
 
 ## Manual
 
-The manual contains build of material, preparing frame and v-slots, print settings and assembly instructions.
+The manual contains bill of material (bom), preparing frame and v-slots, print settings and assembly instructions.
 
 [Read it here](manual/)
 

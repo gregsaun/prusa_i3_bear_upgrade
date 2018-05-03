@@ -27,7 +27,7 @@ This is the FULL version of the Prusa i3 Bear upgrade MK2.5, a much stronger fra
 
 ## Manual
 
-The manual contains build of material, preparing frame and v-slots, print settings and assembly instructions.
+The manual contains bill of material (bom), preparing frame and v-slots, print settings and assembly instructions.
 
 [Read it here](manual/)
 
