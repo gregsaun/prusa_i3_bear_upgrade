@@ -25,10 +25,10 @@
 ![](img/fig14.1.png)\
 *fig 14.1*
 
-![](img/fig14.2.png)\
+![](img/fig14.2.jpg)\
 *fig 14.2*
 
-![](img/fig14.3.jpg)\
+![](img/fig14.3.png)\
 *fig 14.3*
 
 #### [Previous Step](step13.md) &nbsp;&nbsp;&nbsp; [Next Step](step15.md)
