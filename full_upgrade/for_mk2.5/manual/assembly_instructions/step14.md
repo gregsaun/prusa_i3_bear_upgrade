@@ -17,9 +17,9 @@
 
 #### Assembly
 
-1. Mount the 4x end_caps on each corner of the frame and secure them with M5 set screws (figure 14.1)
-1. Assemble the new lcd supports with the screen cover (figure 14.2)
-1. Assemble the lcd to the frame with 2 M5x10 and 2 tee nuts (figure 14.3)
+1. Assemble the new lcd supports with the screen cover (figure 14.1)
+1. Assemble the lcd to the frame with 2 M5x10 and 2 tee nuts (figure 14.2)
+1. Mount the 4x end_caps on each corner of the frame and secure them with M5 set screws (figure 14.3)
 
 
 ![](img/fig14.1.png)\
