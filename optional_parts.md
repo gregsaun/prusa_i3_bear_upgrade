@@ -28,3 +28,4 @@ Designed by the community. Thank you all!
 | Multi Material Adapter for MMU 1.0 | All Full Upgrade | https://www.thingiverse.com/thing:2831583 |
 | Damped feet with Sorbothan | All | https://www.thingiverse.com/thing:2844995 |
 | Raspberry Pi 3B Case | All | https://www.thingiverse.com/thing:2869086 |
+| Y Belt Tensionner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
