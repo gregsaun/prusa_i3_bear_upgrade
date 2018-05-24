@@ -38,11 +38,6 @@ The manual contains bill of material (bom), preparing frame and v-slots, print s
 Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
-## Current status
-
-:question: No build as been tried as I do not own a MK3. However, all parts, documentation and tests are finished. Waiting feedback from first builders (big thank you for the help!).
-
-
 ## Images
 
 ![Prusa i3 Bear Full Upgrade MK3 Left](img/3d_rendering/home_left.jpg)

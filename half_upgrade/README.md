@@ -60,11 +60,6 @@ If you have access to a CNC machine, you can use [this DXF here](doc/alu_frame/)
 Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
 
-## Current status
-
-:heavy_check_mark: Finished
-
-
 ## Images
 
 ![Prusa i3 Bear Half Upgrade Photo](img/photos/5D3_0571.jpg)

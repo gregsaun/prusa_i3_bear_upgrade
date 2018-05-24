@@ -111,17 +111,6 @@ Some feedbacks from users that built the half upgrade v1 :
 Huge THANKS to all of you! :sparkling_heart:
 
 
-## Current status
-
-**Half Upgrade :heavy_check_mark: :** Finished
-
-**Full Upgrade MK2(s) :heavy_check_mark: :** Finished
-
-**Full Upgrade MK2.5 :heavy_check_mark: :** Finished
-
-**Full Upgrade MK3 :question: :** No build as been tried as I do not own a MK3. However, all parts, documentation and tests are finished. Waiting feedback from first builders (big thank you for the help!).
-
-
 ## Links
 
 * Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun). (I have tons of new idea)
