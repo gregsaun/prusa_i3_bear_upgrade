@@ -29,3 +29,4 @@ Designed by the community. Thank you all!
 | Damped feet with Sorbothan | All | https://www.thingiverse.com/thing:2844995 |
 | Raspberry Pi 3B Case | All | https://www.thingiverse.com/thing:2869086 |
 | Y Belt Tensionner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
+| Y motor support | Half + Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
