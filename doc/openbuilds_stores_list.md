@@ -9,12 +9,12 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 Here are the official distributors of the Bear Upgrade kit. All distributors are following tolerances to ensure quality cuts and we are working actively together to make every customers happy.
 
-* ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
+* ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
    [www.makerparts.ca](http://www.makerparts.ca)  
 
 
-* ![ratrig logo](doc/distributors/ratrig_logo.jpg)  
+* ![ratrig logo](distributors/ratrig_logo.jpg)  
    RatRig (EU)  
    [www.ratrig.com](http://www.ratrig.com/)  
 
