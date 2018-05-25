@@ -5,9 +5,9 @@ If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
 
 
-## Official distributor
+## Official distributors
 
-Here are the official distributors of the Bear Upgrade kit. All distributors are following tolerances to ensure quality cuts and we are working actively together to make every customers happy.
+Here are the official distributors of the Bear Upgrade kit. All distributors are following [tolerances](vslot_specs_tolerances_0.2.pdf) to ensure quality cuts and we are working actively together to make every customers happy.
 
 * ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  

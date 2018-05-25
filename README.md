@@ -69,7 +69,7 @@ Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 #### Official distributors
 
-Here are the official distributors of the Bear Upgrade kit. All distributors are following tolerances to ensure quality cuts and we are working actively together to make every customers happy.
+Here are the official distributors of the Bear Upgrade kit. All distributors are following [tolerances](doc/vslot_specs_tolerances_0.2.pdf) to ensure quality cuts and we are working actively together to make every customers happy.
 
 * ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
