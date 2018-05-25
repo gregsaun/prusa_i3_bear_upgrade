@@ -11,7 +11,7 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
 
 * ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
-   [www.makerparts.ca](http://www.makerparts.ca)  
+   [makerparts.ca](http://makerparts.ca)  
 
 
 * ![ratrig logo](distributors/ratrig_logo.jpg)  
