@@ -7,77 +7,85 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 ## Official distributor
 
-![ratrig logo](ratrig_logo.jpg)<br>
-[RatRig](http://www.ratrig.com/) is the official kit distributor for the Prusa Bear Upgrade. In addition to standard Openbuilds components, RatRig offers its own style with all parts in deep black (including joining plates). [Click here for more information](http://www.ratrig.com/3d-printing-cnc/3d-printer-kits/prusa-i3-bear-upgrade-v2-0-frame-kit.html)
+Here are the official distributors of the Bear Upgrade kit. All distributors are following tolerances to ensure quality cuts and we are working actively together to make every customers happy.
+
+* ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
+   Makerparts.ca (CA)  
+   [www.makerparts.ca](http://www.makerparts.ca)  
+
+
+* ![ratrig logo](doc/distributors/ratrig_logo.jpg)  
+   RatRig (EU)  
+   [www.ratrig.com](http://www.ratrig.com/)  
 
 
 ## Openbuilds distributors (Worldwide)
 
 ### Asia
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| India    | [https://www.3dprintronics.com](https://www.3dprintronics.com/Aluminium-Extrusions-c7124102) | Y | N | | |
-| Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| India    | [https://www.3dprintronics.com](https://www.3dprintronics.com/Aluminium-Extrusions-c7124102) | Y | | |
+| Russia | https://soberizavod.ru/ | Y | Extrusion center hole is M6 not M5 | |
 
 
 ### Australia
 
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Victoria | http://www.makerstore.com.au | N | Y | | |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Victoria | http://www.makerstore.com.au | N | | |
 
 
 ### Europe
 
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Belgium | https://tronixmaker.com | Y | Y | | |
-| Denmark | https://3dnielsen.dk/ | Y | Y | | |
-| France | http://www.vslot-europe.com | N | Y | | |
-| Germany | http://www.watterott.com | N | Y | Not all Openbuilds parts are available | Cuts are not accurate (+/- 1mm)<br>Fast shipping |
-| Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | ? | | |
-| Italia | http://www.openbuildsitalia.com | Y | Y | | |
-| Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | Y | | |
-| Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | N | | |
-| Portugal | http://www.ratrig.com | Y | Y | | Very good |
-| Russia | https://soberizavod.ru/ | Y | N | Extrusion center hole is M6 not M5 | |
-| Spain | http://store.thingibox.com/en/ | Y | Y | | |
-| Sweden | [https://www.kjell.com/se/](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/aluminiumprofiler/ratrig-aluminiumprofil-20x40-mm-50-cm-p88153) | ? | Y | | |
-| Switzerland | https://www.3dware.ch/ | N | Y | | Okay, nothing special |
-| UK | http://ooznest.co.uk/ | Y | Y | | Very good |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Belgium | https://tronixmaker.com | Y | | |
+| Denmark | https://3dnielsen.dk/ | Y | | |
+| France | http://www.vslot-europe.com | N | | |
+| Germany | http://www.watterott.com | N | Not all Openbuilds parts are available | Cuts are not accurate (+/- 1mm)<br>Fast shipping |
+| Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | | |
+| Italia | http://www.openbuildsitalia.com | Y | | |
+| Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | | |
+| Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | | |
+| Portugal | http://www.ratrig.com | Y | Official kit distributor | |
+| Russia | https://soberizavod.ru/ | Y | Extrusion center hole is M6 not M5 | |
+| Spain | http://store.thingibox.com/en/ | Y | | |
+| Sweden | [https://www.kjell.com/se/](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/aluminiumprofiler/ratrig-aluminiumprofil-20x40-mm-50-cm-p88153) | ? | | |
+| Switzerland | https://www.3dware.ch/ | N | | Okay, nothing special |
+| UK | http://ooznest.co.uk/ | Y | | Very good |
 
 
 ### New Zealand
 
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Auckland | http://www.cnckits.co.nz | N | ? | | |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Auckland | http://www.cnckits.co.nz | N | | |
 
 
 ### North Africa
 
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Algeria | http://www.dzduino.store | N | N | | |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Algeria | http://www.dzduino.store | N | | |
 
 
 ### North America
 
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Canada | https://makerparts.ca/ | Y | Y | cut is not accurate (+/-1mm) | |
-| Canada | [https://www.robotshop.com](https://www.robotshop.com/en/ratrig-black-aluminum-extrusion-20x40mm-1000mm.html) | N | Y | | |
-| Mexico | https://openbuilds.com.mx | N | Y | | |
-| Mexico | http://www.spkautomatizacion.com | N | ? | | |
-| New Jersey | http://openbuildspartstore.com | N/Y | Y | If you ask they will do it for you | Very good |
-| New York | http://www.opensourceluthiersupply.com | N | Y | | |
-| Texas | https://www.smw3d.com | Y | Y | | |
-| ? | http://makerstore.cc | N | Y | | |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Canada | https://makerparts.ca/ | Y | Official kit distributor | |
+| Canada | [https://www.robotshop.com](https://www.robotshop.com/en/ratrig-black-aluminum-extrusion-20x40mm-1000mm.html) | N | | |
+| Mexico | https://openbuilds.com.mx | N | | |
+| Mexico | http://www.spkautomatizacion.com | N | | |
+| New Jersey | http://openbuildspartstore.com | N | | |
+| New York | http://www.opensourceluthiersupply.com | N | | |
+| Texas | https://www.smw3d.com | Y | | |
+| ? | http://makerstore.cc | N | | |
 
 
 ### South America
 
-| Location | Address | Pre-Cut | Official<br>Distributor | Comment | Review |
-|:--------:|:-------:|:-------:|:-----------------------:|:-------:|:------:|
-| Brazil | https://www.tdtec.com.br/ | N | N | You'll need to contact them to be sure of which other related components they sell, though | |
-| Brazil | [https://www.mercadolivre.com.br](https://eshops.mercadolivre.com.br/tdtec) | N | N | You'll need to contact them to be sure of which other related components they sell, though | |
+| Location | Address | Pre-Cut | Comment | Review |
+|:--------:|:-------:|:-------:|:-------:|:------:|
+| Brazil | https://www.tdtec.com.br/ | N | You'll need to contact them to be sure of which other related components they sell, though | |
+| Brazil | [https://www.mercadolivre.com.br](https://eshops.mercadolivre.com.br/tdtec) | N | You'll need to contact them to be sure of which other related components they sell, though | |
