@@ -30,3 +30,4 @@ Designed by the community. Thank you all!
 | Raspberry Pi 3B Case | All | https://www.thingiverse.com/thing:2869086 |
 | Y Belt Tensionner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
 | Y motor support | Half + Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
+| Bear LCD cover | All | https://www.thingiverse.com/thing:2941711 |
