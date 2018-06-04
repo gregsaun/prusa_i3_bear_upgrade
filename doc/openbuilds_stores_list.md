@@ -9,10 +9,13 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 Here are the official distributors of the Bear Upgrade kit. All distributors are following [tolerances](vslot_specs_tolerances_0.2.pdf) to ensure quality cuts and we are working actively together to make every customers happy.
 
+* ![all3d makers logo](distributors/all3dmakers_logo.png)  
+   All3D Makers (US)  
+   [all3dmakers.com](http://all3dmakers.com/)  
+
 * ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
    [makerparts.ca](http://makerparts.ca)  
-
 
 * ![ratrig logo](distributors/ratrig_logo.jpg)  
    RatRig (EU)  
@@ -75,6 +78,7 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
 |:--------:|:-------:|:-------:|:-------:|:------:|
 | Canada | https://makerparts.ca/ | Y | Official kit distributor | |
 | Canada | [https://www.robotshop.com](https://www.robotshop.com/en/ratrig-black-aluminum-extrusion-20x40mm-1000mm.html) | N | | |
+| Florida | http://all3dmakers.com/ | Y | Official kit distributor | |
 | Mexico | https://openbuilds.com.mx | N | | |
 | Mexico | http://www.spkautomatizacion.com | N | | |
 | New Jersey | http://openbuildspartstore.com | N | | |
