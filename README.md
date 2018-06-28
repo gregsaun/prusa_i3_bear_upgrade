@@ -76,6 +76,11 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
    [all3dmakers.com](http://all3dmakers.com/)  
 
 
+* ![blackfrog logo](doc/distributors/blackfrog_logo.jpg)  
+   Blackfrog (EU)  
+   [blackfrog.pl](https://blackfrog.pl)  
+
+
 * ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
    [makerparts.ca](http://makerparts.ca)  

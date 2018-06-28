@@ -13,6 +13,10 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
    All3D Makers (US)  
    [all3dmakers.com](http://all3dmakers.com/)  
 
+* ![blackfrog logo](distributors/blackfrog_logo.jpg)  
+   Blackfrog (EU)  
+   [blackfrog.pl](https://blackfrog.pl)  
+
 * ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
    [makerparts.ca](http://makerparts.ca)  
@@ -49,7 +53,7 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
 | Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | | |
 | Italia | http://www.openbuildsitalia.com | Y | | |
 | Norway | [https://www.kjell.com/no](https://www.kjell.com/no/produkter/elektro-og-verktoy/elektronikk/aluminiumprofiler/ratrig-aluminiumsprofil-20-x-40-mm-100-cm-p88154) | ? | | |
-| Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | | |
+| Poland | [https://blackfrog.pl](https://blackfrog.pl/set-of-aluminum-profiles-openb-prusa-i3-bear-mod-p-1306.html) | Y | Official kit distributor | |
 | Portugal | http://www.ratrig.com | Y | Official kit distributor | |
 | Russia | https://soberizavod.ru/ | Y | Extrusion center hole is M6 not M5 | |
 | Spain | http://store.thingibox.com/en/ | Y | | |
