@@ -20,7 +20,7 @@ Designed by the author of the Bear upgrade
 
 ## Optional parts made by the community
 
-Designed by the community. Thank you all!
+Designed by the community. Huge thank you all!
 
 | Description | Compatibility | Link |
 |-------------|---------------|------|
@@ -32,4 +32,5 @@ Designed by the community. Thank you all!
 | Y motor support | Half + Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
 | Bear LCD cover | All | https://www.thingiverse.com/thing:2941711 |
 | Ends caps for LEDs or cables | Full Upgrade only | https://www.thingiverse.com/thing:2958238/ |
+| Y tensioner and Y belt holder | All | https://www.thingiverse.com/thing:2995737 |
 | Spool holder (top loader) | All | https://www.thingiverse.com/thing:1832235|
