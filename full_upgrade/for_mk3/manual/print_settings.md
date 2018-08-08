@@ -17,7 +17,7 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 * Brim : No
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
-|:----|:----:|:----:|:----:|:----:|:----:|:----:|
+|:-----|:--------:|:------------:|:------:|:----------:|:-----------------:|
 | build_helper_106mm     | 1 | 0.20mm | 20% | 2 | 5 |
 | end_cap                | 2 | 0.20mm | 20% | 4 | 5 |
 | end_cap_z_axis         | 2 | 0.20mm | 20% | 3 | 5 |
@@ -48,5 +48,5 @@ All prints have been tested with these material
 * slic3r Prusa Edition 1.40.1
 * Prusa MK2s printer
 * Extrudr MF-PETG Neon Orange and Black
-* Heat bed : 75°C
-* Nozzle : 225°C
+* Heat bed : 75-80°C
+* Nozzle : 225-230°C
