@@ -22,6 +22,7 @@
 1. Screw PSU to the back of the frame as seen in picture 15.2 with 2x M5x10mm and 2x tee nuts
 1. Add M3 bolt into the psu_lower_mount (figure 15.3)
 1. Screw the PSU to the psu_lower_mount with the M3 washer and the M3 screw
+1. Screw last M5x10 from psu_lower_mount to the frame. 
 
 
 ![](img/fig15.1.jpg)\
