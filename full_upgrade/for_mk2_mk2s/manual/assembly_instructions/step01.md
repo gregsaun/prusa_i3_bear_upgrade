@@ -19,7 +19,7 @@
 1. Add 1x 370mm v-slot vertically as seen on figure 1.3 (with 4x M5x10 screws and 4x tee nuts). Do not tighten M5 screws yet
 1. Add 3 tee nuts on each side of the 311mm v-slots (12x tee nuts in total) as seen on figure 1.4
 
-:warning: this step is very important, double check you have use 12 Tee nuts (3 on each side of each 311 V-Slots as seen on figure 1.4). If you forget this step, you will have to restart build from scratch !  
+  :warning: this step is very important, double check you have use 12 Tee nuts (3 on each side of each 311 V-Slots as seen on             figure 1.4). If you forget this step, you will have to restart build from scratch !  
 
 
 ![](img/file_90deg_plate.jpg)\
