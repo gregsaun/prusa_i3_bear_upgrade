@@ -11,6 +11,7 @@
 1. Check that all identical length V-Slots (like 2x370mm) have the exact same dimension. Adjust them with a file if you see a difference
 1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration. If it is too tight, use a file to increase hole
 1. Do the same as previous point but with z_motor_mount. In this case I recommend to remove the smooth rod. If it is too tight, use a file to increase hole
+1. Having a good long square is critical to build the Bear perfectly. Checkout this video : https://www.youtube.com/watch?v=FNpAQHrNpNU
 1. Maybe something is interesting for you in the [optional parts](/optional_parts.md)
  
 
