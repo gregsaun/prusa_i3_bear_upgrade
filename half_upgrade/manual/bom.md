@@ -44,7 +44,7 @@
 | psu_upper_mount   | 2 |
 | lcd_support_a     | 1 |
 | lcd_support_b     | 1 |
-| end_caps          | 2 |
+| end_caps          | 2 (total of 4 parts) |
 | foot              | 4 |
 | cable_clip_lcd    | 7 |
 | cable_clip_ziptie | 4 |

@@ -33,7 +33,7 @@
 | Part     | Quantity |
 |----------|:--------:|
 | build_helper_96mm      | 1 |
-| end_caps               | 2 |
+| end_caps               | 2 (total of 4 parts) |
 | end_cap_z_axis         | 2 |
 | foot                   | 4 |
 | lcd_support_a          | 1 |
@@ -48,8 +48,8 @@
 | y_idler                | 1 |
 | y_motor_mount          | 1 |
 | z_motor_mount_front    | 2 |
-| z_motor_mounts         | 1 |
-| z_tops                 | 1 |
+| z_motor_mounts         | 1 (total of 2 parts) |
+| z_tops                 | 1 (total of 2 parts) |
 | cable_clip_lcd         | 6 |
 | cable_clip_round       | 5 |
 | cable_clip_ziptie      | 3 |

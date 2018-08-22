@@ -19,7 +19,7 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:-----|:--------:|:------------:|:------:|:----------:|:-----------------:|
 | build_helper_96mm      | 1 | 0.20mm | 20% | 2 | 5 |
-| end_caps               | 2 | 0.20mm | 20% | 4 | 5 |
+| end_caps               | 2 (total of 4 parts) | 0.20mm | 20% | 4 | 5 |
 | end_cap_z_axis         | 2 | 0.20mm | 20% | 3 | 5 |
 | foot                   | 4 | 0.20mm | 30% | 3 | 5 |
 | lcd_support_a          | 1 | 0.20mm | 20% | 3 | 5 |
@@ -34,8 +34,8 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | y_idler                | 1 | 0.20mm | 30% | 3 | 5 |
 | y_motor_mount          | 1 | 0.20mm | 30% | 3 | 5 |
 | z_motor_mount_front    | 2 | 0.20mm | 30% | 3 | 5 |
-| z_motor_mounts         | 1 | 0.20mm | 30% | 3 | 5 |
-| z_tops                 | 1 | 0.20mm | 30% | 3 | 5 |
+| z_motor_mounts         | 1 (total of 2 parts) | 0.20mm | 30% | 3 | 5 |
+| z_tops                 | 1 (total of 2 parts) | 0.20mm | 30% | 3 | 5 |
 | cable_clip_lcd         | 6 | 0.15mm | 30% | 3 | 5 |
 | cable_clip_round       | 5 | 0.15mm | 30% | 3 | 5 |
 | cable_clip_ziptie      | 3 | 0.15mm | 30% | 3 | 5 |

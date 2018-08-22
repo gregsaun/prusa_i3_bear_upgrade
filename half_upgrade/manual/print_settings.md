@@ -22,7 +22,7 @@ All those parts are optimized for PETG. If you print in ABS you might end up wit
 | y_motor_mount     | 1 | 0.20mm | 30% | 3 | 5 | Recommended |
 | lcd_support_a     | 1 | 0.20mm | 20% | 3 | 5 | No |
 | lcd_support_b     | 1 | 0.20mm | 20% | 3 | 5 | No |
-| end_caps          | 2 | 0.20mm | 20% | 4 | 5 | No |
+| end_caps          | 2 (total of 2 parts) | 0.20mm | 20% | 4 | 5 | No |
 | foot              | 4 | 0.20mm | 30% | 3 | 5 | No |
 | cable_clip_lcd    | 7 | 0.15mm | 30% | 3 | 5 | No |
 | cable_clip_ziptie | 4 | 0.15mm | 30% | 3 | 5 | No |
