@@ -35,3 +35,4 @@ Designed by the community. Huge thank you all!
 | Y motor support | Half + Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
 | Bear LCD cover | All | https://www.thingiverse.com/thing:2941711 |
 | Ends caps for LEDs or cables | Full Upgrade only | https://www.thingiverse.com/thing:2958238 |
+| PSU Replacement Brace | Half Upgrade only | https://www.thingiverse.com/thing:3087074 | 
