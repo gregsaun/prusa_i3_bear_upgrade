@@ -15,6 +15,7 @@ Designed by the author of the Bear upgrade
 | Set of compatible cable clips | All | https://www.thingiverse.com/thing:2676595 |
 | Better Z motor mounts for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2775169 |
 | Better Z tops for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2552246 |
+| MMU2 frame holder | All Full Upgrade | https://www.thingiverse.com/thing:3090300 |
 
 
 
