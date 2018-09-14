@@ -11,29 +11,22 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 
 ### Parameters
 
-All those parts are optimized for PETG. If you print in ABS you might end up with too small all due to shrinkage.
+* Infill type : Gyroid recommended
+* Support : No
+* Brim : No
+* Detect thin walls : No
 
-| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Brim |
-|:----|:----:|:----:|:----:|:----:|:----:|:----:|
-| psu_lower_mount   | 1 | 0.20mm | 30% | 3 | 5 | No |
-| psu_upper_mount   | 2 | 0.20mm | 20% | 3 | 5 | No |
-| rod_holder        | 4 | 0.20mm | 30% | 3 | 5 | No |
-| y_idler           | 1 | 0.20mm | 30% | 3 | 5 | No |
-| y_motor_mount     | 1 | 0.20mm | 30% | 3 | 5 | Recommended |
-| lcd_support_a     | 1 | 0.20mm | 20% | 3 | 5 | No |
-| lcd_support_b     | 1 | 0.20mm | 20% | 3 | 5 | No |
-| end_caps          | 2 (total of 2 parts) | 0.20mm | 20% | 4 | 5 | No |
-| foot              | 4 | 0.20mm | 30% | 3 | 5 | No |
-| cable_clip_lcd    | 7 | 0.15mm | 30% | 3 | 5 | No |
-| cable_clip_ziptie | 4 | 0.15mm | 30% | 3 | 5 | No |
-| drilling_helper   | 1 | 0.20mm | 30% | 2 | 3 | No |
-
-### Material used
-
-All prints have been tested with these material
-
-* slic3r Prusa Edition 1.37.2
-* Prusa MK2s printer
-* Extrudr MF-PETG Neon Orange and Black
-* Heat bed : 75°C
-* Nozzle : 225°C
+| Part | Quantity | Material | Layer<br/>Height | Infill | Perimeters | Top and<br/>Bottom<br/>Layers |
+|:-----|:--------:|:--------:|:----------------:|:------:|:----------:|:-----------------------------:|
+| psu_lower_mount   | 1 | PETG | 0.20mm | 30% | 3 | 5 |
+| psu_upper_mount   | 2 | PETG | 0.20mm | 20% | 3 | 5 |
+| rod_holder        | 4 | PETG | 0.20mm | 30% | 3 | 5 |
+| y_idler           | 1 | PETG | 0.20mm | 30% | 3 | 5 |
+| y_motor_mount     | 1 | PETG | 0.20mm | 30% | 3 | 5 |
+| lcd_support_a     | 1 | PLA or PETG | 0.20mm | 20% | 3 | 5 |
+| lcd_support_b     | 1 | PLA or PETG | 0.20mm | 20% | 3 | 5 |
+| end_caps          | 2<br/>(total of 2 parts) | PLA or PETG | 0.20mm | 20% | 4 | 5 |
+| foot              | 4 | PLA or PETG | 0.20mm | 30% | 3 | 5 |
+| cable_clip_lcd    | 7 | PETG | 0.15mm | 30% | 3 | 5 |
+| cable_clip_ziptie | 4 | PETG | 0.15mm | 30% | 3 | 5 |
+| drilling_helper   | 1 | PLA or PETG | 0.20mm | 30% | 2 | 3 |
