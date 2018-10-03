@@ -17,7 +17,7 @@
 1. Assemble both parts of the frame together as seen on figure 7.1. Do not tighten M5 screws yet, it will be done in the two next steps
 1. Adjust the 106mm distance on the left side using the build_helper_106mm as seen on picture 7.2. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
    :warning: this step is very important, double check everything is perfectly square
-1. Adjust the 96mm distance on the right side using the build_helper_106mm (swap it) as seen on picture 7.3. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
+1. Adjust the 106mm distance on the right side using the build_helper_106mm (swap it) as seen on picture 7.3. Ensure the Z axis is perfectly square. Strongly tight the M5 screws<br>
    :warning: this step is very important, double check everything is perfectly square
 1. :warning: Take the time to double check these points (figure 7.4) :
     * Everything is perfectly aligned and squared
