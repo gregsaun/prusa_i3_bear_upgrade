@@ -20,7 +20,7 @@
 1. Assemble the Y motor on the y_motor_mount with 3x M3x10 screws (figure 9.2). Ensure the correct orientation of motor cables
 1. Screw the y_idler using 2x M5x10 and adjust to the dimensions in figure 9.3.
 1. Ensure the correction orientation of y_idler, the nut should be on the same side as the single Y axis bearing
-1. Screw the psu_lower_mount using 1x M5x10 and adjust to the dimensions in figure 9.4
+1. Screw the psu_lower_mount to the top half of the extrusion using 1x M5x10 and adjust to the dimensions in figure 9.4
 
 
 ![](img/fig9.1.jpg)\
