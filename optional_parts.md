@@ -25,8 +25,9 @@ Designed by the community. Huge thank you all!
 
 | Description | Compatibility | Link |
 |-------------|---------------|------|
-| V-Slot spool holder | All Full Upgrade | https://www.thingiverse.com/thing:2846383 |
-| V-Slot spool holder | All Full Upgrade | https://www.thingiverse.com/thing:3068093 |
+| Spool holder | All Full Upgrade | https://www.thingiverse.com/thing:2846383 |
+| Spool holder | All Full Upgrade | https://www.thingiverse.com/thing:3068093 |
+| Spool holder | All Full Upgrade | https://www.thingiverse.com/thing:3142106 |
 | Multi Material Adapter for MMU 1.0 | All Full Upgrade | https://www.thingiverse.com/thing:2831583 |
 | Damped feet with Sorbothan | All | https://www.thingiverse.com/thing:2844995 |
 | Raspberry Pi 3B case | All | https://www.thingiverse.com/thing:2869086 |
