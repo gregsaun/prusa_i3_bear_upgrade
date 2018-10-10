@@ -2,6 +2,8 @@
 
 ![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing_1024px.jpg)
 
+
+
 ## Introduction
 
 This is an aluminum frame conversion for the Prusa i3 MK2, MK2s, MK2.5 and MK3.
@@ -9,6 +11,7 @@ This is an aluminum frame conversion for the Prusa i3 MK2, MK2s, MK2.5 and MK3.
 Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
 
 One of the down point of the Prusa i3 MK2 and MK3 is the rigidity of the frame. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
+
 
 
 ## Why another conversion build?
@@ -31,6 +34,7 @@ Here are the features that explain why I decided to create another printer upgra
 * Other type of aluminum extrusions can be supported thanks to parametric design (check Fusion 360 files)
 * 3D printed parts designed using advanced techniques like selective infill, clean vertical holes, sharp angle...
 * Open source by providing STL, STEP and Autodesk Fusion 360 files
+
 
 
 ## Full And Half upgrades
@@ -65,11 +69,12 @@ Several printed parts are shared between all these versions. This makes easier t
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 
+
 ## Where can I purchase the hardware?
 
 #### Official distributors
 
-Here are the official distributors of the Bear Upgrade kit. All distributors are following [tolerances](doc/vslot_specs_tolerances_0.2.pdf) to ensure quality cuts and we are working actively together to make every customers happy.
+Here are the official distributors of the kits. All distributors are following [specifications](doc/vslot_specs_tolerances_0.2.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
 
 * ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
    All3D Makers (US)  
@@ -90,64 +95,50 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
    RatRig (EU)  
    [www.ratrig.com](http://www.ratrig.com/)  
 
+By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
+
 
 #### Openbuilds distributors
+
 You can also purchase parts separately worldwide. Checkout my list of distributors here : [Openbuilds stores list](doc/openbuilds_stores_list.md)
 
 
-## Community And Support
 
-* Dedicated Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
-* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/). Be careful when you join OpenBuilds, you will be soon tempted by building a CNC or a Laser machine!
-* You can also open an issue on [GitHub](https://github.com/gregsaun/prusa_i3_bear_upgrade/) if you prefer or add a comment on my [My Thingiverse](https://www.thingiverse.com/thing:2808408)
+## Community
+
+Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
+
+* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
+* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* GitHub : [github.com/gregsaun](https://github.com/gregsaun)
+* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
+* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
+
 
 
 ## Optional parts
 
-Do you want to make this printer ever better, checkout the [Optional Parts](optional_parts.md)
+Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.md)
 
-
-## Feedbacks from users
-
-Some feedbacks from users that built the half upgrade v1 :
-
-> _"I'm really happy. It's really great.It works really fine. It's a professional update. I was searching for a mk3 prusa frame update and I find this"_
-
-> _"Excellent with instructions, this was like buying a Prusa kit all over again, only better"_
-
-> _"Your frame idea made the machine a lot sturdier"_
-
-> _"It seems printing noise has reduced significantly after upgrade"_
-
-> _"Amazing work on the detail and on the machine"_
-
-> _"That frames makes it into totally different beast!"_
-
-> _"It's a professional well made update. And the manual it's really easy to follow"_
-
-> _"Very detailed work, are you sure you dont want to take on the role of the new Josef Prusa ?? I mean the designs are just amazing"_
-
-
-Huge THANKS to all of you! :sparkling_heart:
-
-
-## Links
-
-* Help me continue this work by supporting me via [my Patreon :heart:](https://www.patreon.com/gregsaun). (I have tons of new idea)
-* [Facebook group](https://www.facebook.com/groups/PrusaBearUpgrade)
-* [GitHub Project Page](https://github.com/gregsaun/prusa_i3_bear_upgrade/)
-* [Openbuilds forum page](https://openbuilds.com/threads/prusa-i3-bear-upgrade-v2.11626/)
-* [Openbuilds build page](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
-* [Thingiverse page](https://www.thingiverse.com/thing:2808408)
 
 
 ## Thank you
 
-Thank you for all people helping me on this project.
+Thank you to everybody from Facebook group and The 602 Wasteland community.
 
-Thank you Openbuilds for your hardware and community.
+Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Darren Furniss, Malo87, Mark Leino, Orlando from all3dmakers, Sleene, Steven Daglish, Vishesh from 3Dprintonics.
 
-Special thanks to DoItWithSmile (jay3D), kabar03, xequtor and fishmsk, karlosek for actively helping me and for their feedbacks.
+Thank you to all my tippers on Thingiverse : Lucullus, NatDenkin, FurniBird, kabar03.
+
+Thank you for having purchased a kit from an official distributor.
+
+Thank you Openbuilds for your hardware, community and state of mind.
+
+Thank you to people that have helped me in the early days of the project : DoItWithSmile (jay3D), kabar03, xequtor and fishmsk, karlosek.
+
+Thank you for all your comments and issues on GitHub and Thingiverse.
+
+Thank you to Nathan Denkin for improving my english (I know it is not an easy task!) and for building a better assembly guide.
 
 
 ## Sources
