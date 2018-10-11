@@ -5,9 +5,12 @@ If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 You can contribute to those tables using [this issue](https://github.com/gregsaun/prusa_i3_bear_upgrade/issues/4). Thanks!
 
 
+
 ## Official distributors
 
-Here are the official distributors of the Bear Upgrade kit. All distributors are following [tolerances](vslot_specs_tolerances_0.2.pdf) to ensure quality cuts and we are working actively together to make every customers happy.
+Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
+
+All distributors are following [specifications](doc/vslot_specs_tolerances_0.2.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
 
 * ![all3d makers logo](distributors/all3dmakers_logo.png)  
    All3D Makers (US)  
@@ -25,8 +28,13 @@ Here are the official distributors of the Bear Upgrade kit. All distributors are
    RatRig (EU)  
    [www.ratrig.com](http://www.ratrig.com/)  
 
+By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
+
+
 
 ## Openbuilds distributors (Worldwide)
+
+Here is a list of stores that sell Openbuilds extrusion (V-Slot) and hardware. You will have to purchase all hardware according to the bom (and sometimes you will need to cut to length the extrusion).
 
 ### Asia
 | Location | Address | Pre-Cut | Comment | Review |
