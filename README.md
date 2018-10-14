@@ -76,7 +76,7 @@ Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
 
-All distributors are following [specifications](doc/vslot_specs_tolerances_0.2.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
+All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
 
 * ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
    All3D Makers (US)  
