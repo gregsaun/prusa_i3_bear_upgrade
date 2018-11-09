@@ -128,7 +128,7 @@ Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.
 
 Thank you to everybody from Facebook group and The 602 Wasteland community.
 
-Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Orlando from all3dmakers, Sleene, Steven Daglish, Vishesh from 3Dprintonics.
+Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Orlando from all3dmakers, Sleene, Steven Daglish, Vishesh from 3Dprintonics.
 
 Thank you to all my tippers on Thingiverse : Lucullus, NatDenkin, FurniBird, kabar03.
 
