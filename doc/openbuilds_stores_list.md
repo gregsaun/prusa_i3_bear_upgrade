@@ -1,4 +1,4 @@
-# Openbuilds Stores List
+# Distributors List
 
 If a store in your country does not sell Pre-Cut V-Slots, try to send an email.
 
@@ -32,9 +32,9 @@ By purchasing a kit from official distributors you are supporting the developmen
 
 
 
-## Openbuilds distributors (Worldwide)
+## Openbuilds distributors
 
-Here is a list of stores that sell Openbuilds extrusion (V-Slot) and hardware. You will have to purchase all hardware according to the bom (and sometimes you will need to cut to length the extrusion).
+Here is a list of stores that sell Openbuilds extrusion (V-Slot) and hardware. You will have to purchase all hardware separetely according to the bom (and sometimes you will need to cut to length the extrusion).
 
 ### Asia
 | Location | Address | Pre-Cut | Comment | Review |
