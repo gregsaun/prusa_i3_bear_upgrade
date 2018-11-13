@@ -9,6 +9,7 @@
 1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration. If it is too tight, use a file to increase hole
 1. Verify positions of V-Slots holes on the frame with [this image](/half_upgrade/doc/vslots_length.png)
 1. Verify your V-Slots' threads length with a screw (M5x20mm or longer), they should be 20mm long at least
+1. I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
 1. Maybe something is interesting for you in the [optional parts](/optional_parts.md)
  
 

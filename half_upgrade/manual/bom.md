@@ -23,6 +23,7 @@
 | 5.3mm drill bit | 1 | to drill the frame | |
 | Zip ties 2.5x100mm | 20 | | |
 
+I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
 
 #### List of recommended spares
 * Tee-nuts M5
