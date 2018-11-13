@@ -12,7 +12,7 @@
 1. Disassemble one z-axis-top of your printer and try the bear upgrade version by pushing the smooth rod in the corresponding hole. This helps you verify that your parts have been printed with good calibration. If it is too tight, use a file to increase hole.
 1. Do the same as previous point but with z_motor_mount. In this case I recommend to remove the smooth rod. If it is too tight, use a file to increase hole.
 1. Having a good square is critical to build the Bear perfectly. I recommend a 200mm long machinist precision square with standard DIN 875. In case you do not want to buy a new square, checkout this video : [youtube.com/watch?v=FNpAQHrNpNU](https://www.youtube.com/watch?v=FNpAQHrNpNU).
-1. Use thread locker like Loctite Blue 243 to secure the screw during the assembly.
+1. Use thread locker like Loctite Blue 243 to secure the screw during the assembly (for metal thread to metal thread, not metal thread to plastic).
 1. Maybe something is interesting for you in the [optional parts](/optional_parts.md).
  
 

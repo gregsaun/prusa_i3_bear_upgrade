@@ -19,7 +19,7 @@
 | M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/#91292a114/=1c4wt18) |
 | Zip ties 2.5x100mm | 20 | | |
 
-I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly.
+I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
 
 #### List of recommended spares
 * Tee-nuts M5
