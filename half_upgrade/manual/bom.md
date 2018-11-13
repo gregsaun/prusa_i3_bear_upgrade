@@ -16,7 +16,7 @@
 | M5x10mm low profile screw<br>(or button head ISO 7380) | 34 | 20x for 90° plates,<br> 14x for printed parts except y_motor_mount | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
 | M5x12mm low profile screw<br>(or button head ISO 7380) | 6 | 2x for y_motor_mount, 4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
 | M5x15mm low profile screw<br>(or button head ISO 7380) | 8 | 8x to assemble the frame | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/) |
-| Set screw 4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
+| Set screw M5x4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
 | M4x14mm button head screw (ISO 7380) | 2 | 2x for psu_upper_mount | [McMaster-Carr](https://www.mcmaster.com/#91239a149/=1cm084e) |
 | M4 hex nut | 2 | 2x for psu_upper_mount  | [McMaster-Carr](https://www.mcmaster.com/#91828a231/=1c4wqcj) |
 | M5 drill tap | 1 | to tap one side (two holes) of 195mm and 110mm V-Slots (8 holes in total) | [Openbuilds](http://openbuildspartstore.com/m5-drill-tap/) |
