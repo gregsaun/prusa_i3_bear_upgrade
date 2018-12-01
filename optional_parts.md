@@ -39,3 +39,6 @@ Designed by the community. Huge thank you all!
 | Ends caps for LEDs or cables | Full Upgrade only | https://www.thingiverse.com/thing:2958238 |
 | PSU Replacement Brace | Half Upgrade only | https://www.thingiverse.com/thing:3087074 | 
 | SD-Card Holder V-Slot Extrusion | All | https://www.thingiverse.com/thing:3198211 |
+| Serious business Bear y-axis replacement | All Full Upgrade | https://www.thingiverse.com/thing:3122625 |
+| Y-Rod Alignment Helper | All Full Upgrade | https://www.thingiverse.com/thing:3153637 |
+| Mean Well LRS-350 PSU Case | All Full Upgrade | https://www.thingiverse.com/thing:3180564 |
