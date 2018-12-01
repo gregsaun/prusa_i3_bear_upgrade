@@ -29,7 +29,6 @@ Designed by the community. Huge thank you all!
 | Spool holder | All Full Upgrade | https://www.thingiverse.com/thing:3068093 |
 | Spool holder | All Full Upgrade | https://www.thingiverse.com/thing:3142106 |
 | Multi Material Adapter for MMU 1.0 | All Full Upgrade | https://www.thingiverse.com/thing:2831583 |
-| Damped feet with Sorbothan | All | https://www.thingiverse.com/thing:2844995 |
 | Raspberry Pi 3B case | All | https://www.thingiverse.com/thing:2869086 |
 | Y belt tensionner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
 | Y belt tensionner and belt holder | All | https://www.thingiverse.com/thing:2995737 |
@@ -42,3 +41,4 @@ Designed by the community. Huge thank you all!
 | Serious business Bear y-axis replacement | All Full Upgrade | https://www.thingiverse.com/thing:3122625 |
 | Y-Rod Alignment Helper | All Full Upgrade | https://www.thingiverse.com/thing:3153637 |
 | Mean Well LRS-350 PSU Case | All Full Upgrade | https://www.thingiverse.com/thing:3180564 |
+| Universal Zaribo Einsy Box | All | https://www.thingiverse.com/thing:3239428/ |
