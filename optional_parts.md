@@ -16,7 +16,7 @@ Designed by the author of the Bear upgrade
 | Better Z motor mounts for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2775169 |
 | Better Z tops for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2552246 |
 | MMU2 frame holder | All Full Upgrade | https://www.thingiverse.com/thing:3090300 |
-| Bear extruder | All | https://github.com/gregsaun/bear_extruder_and_x_axis |
+| Bear extruder | All | https://www.thingiverse.com/thing:3226689 |
 
 
 ## Optional parts made by the community 
