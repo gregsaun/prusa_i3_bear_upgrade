@@ -123,6 +123,15 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.md)
 
 
+## Support my work
+
+The Bear project is made possible thanks to supporters. Here are some way to support me:
+  - Become my patron with Patreon: https://www.patreon.com/gregsaun
+  - A tip via Paypal: paypal.me/gregsaun
+  - A tip via Thingiverse: https://www.thingiverse.com/pekcitron/about
+  
+Big thanks in advance :heart:
+
 
 ## Thank you
 
