@@ -137,7 +137,7 @@ Big thanks in advance :heart:
 
 Thank you to everybody from Facebook group and The 602 Wasteland community.
 
-Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Orlando from all3dmakers, Sleene, Steven Daglish, Thomáš Vydra, Vishesh from 3Dprintonics.
+Thank you to all my Patreon : Anders Svendsen, Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Orlando from all3dmakers, ra100, Sleene, Steven Daglish, Thomáš Vydra, Valentin Constantin, Vishesh from 3Dprintonics.
 
 Thank you to all my tippers on Thingiverse : FurniBird, kabar03, Lucullus, NatDenkin, neofitos, Oggs, Ringo1508, TrevJonez.
 
