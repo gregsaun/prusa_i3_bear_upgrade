@@ -123,12 +123,21 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.md)
 
 
+## Support my work
+
+The Bear project is made possible thanks supporters. Here are some way to support me:
+  - Become my patron with Patreon: [patreon.com/gregsaun](https://www.patreon.com/gregsaun)
+  - A tip via Paypal: [paypal.me/gregsaun](https://www.paypal.me/gregsaun)
+  - A tip via Thingiverse: [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron/about)
+  
+Big thank you in advance :heart:
+
 
 ## Thank you
 
 Thank you to everybody from Facebook group and The 602 Wasteland community.
 
-Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Orlando from all3dmakers, Sleene, Steven Daglish, Thomáš Vydra, Vishesh from 3Dprintonics.
+Thank you to all my Patreon : Anders Svendsen, Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Miguel Castillo, Orlando from all3dmakers, ra100, Sleene, Steven Daglish, Thomáš Vydra, Valentin Constantin, Vishesh from 3Dprintonics.
 
 Thank you to all my tippers on Thingiverse : FurniBird, kabar03, Lucullus, NatDenkin, neofitos, Oggs, Ringo1508, TrevJonez.
 
