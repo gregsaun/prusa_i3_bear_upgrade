@@ -42,3 +42,4 @@ Designed by the community. Huge thank you all!
 | Y-Rod Alignment Helper | All Full Upgrade | https://www.thingiverse.com/thing:3153637 |
 | Mean Well LRS-350 PSU Case | All Full Upgrade | https://www.thingiverse.com/thing:3180564 |
 | Universal Zaribo Einsy Box | All | https://www.thingiverse.com/thing:3239428/ |
+| E3D 20T idler mount for Bear Y-Axis | Full Upgrade MK3 | https://www.thingiverse.com/thing:3309424 |
