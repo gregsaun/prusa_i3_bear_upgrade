@@ -10,9 +10,9 @@
 * 2x M4x12 screws (original ones used to assemble the PSU to the frame)
 * 2x M5x10 screws
 * 2x Tee nuts
-* 1x M3 washer (from the original PSU lower mount)
-* 1x M3 screw (from the original PSU lower mount)
-* 1x M3 nut (from the original PSU lower mount)
+* 1x M3 washer
+* 1x M3x18 screw (from the spares bag). Alternatively, if you have it, an M3x14 or M3x16 will work and is a more exact fit.
+* 1x M3 nut
 
 
 #### Assembly
