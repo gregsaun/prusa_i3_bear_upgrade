@@ -30,9 +30,9 @@ Designed by the community. Huge thank you all!
 | Spool holder | All Full Upgrade | https://www.thingiverse.com/thing:3142106 |
 | Multi Material Adapter for MMU 1.0 | All Full Upgrade | https://www.thingiverse.com/thing:2831583 |
 | Raspberry Pi 3B case | All | https://www.thingiverse.com/thing:2869086 |
-| Y belt tensionner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
-| Y belt tensionner and belt holder | All | https://www.thingiverse.com/thing:2995737 |
-| Y belt holder with integrated belt tensionner | All | https://www.thingiverse.com/thing:3069061 |
+| Y belt tensioner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
+| Y belt tensioner and belt holder | All | https://www.thingiverse.com/thing:2995737 |
+| Y belt holder with integrated belt tensioner | All | https://www.thingiverse.com/thing:3069061 |
 | Y motor support | Half + Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
 | Bear LCD cover | All | https://www.thingiverse.com/thing:2941711 |
 | Ends caps for LEDs or cables | Full Upgrade only | https://www.thingiverse.com/thing:2958238 |

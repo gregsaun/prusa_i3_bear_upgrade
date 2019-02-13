@@ -7,22 +7,21 @@
 #### Parts  
 
 * 2x psu_upper_mount
-* 2x M4x12 screws (original ones used to assemble the PSU to the frame)
-* 3x M5x10 screws
+* 2x M4x10 screws (original ones used to assemble the PSU to the frame)
+* 2x M5x10 screws
 * 2x Tee nuts
-* 1x M3 washer (from the original PSU lower mount)
-* 1x M3 screw (from the original PSU lower mount)
-* 1x M3 nut (from the original PSU lower mount)
+* 1x M3 washer
+* 1x M3x18 screw (from the spares bag). Alternatively, if you have it, an M3x14 or M3x16 will work and is a more exact fit.
+* 1x M3 nut
 
 
 #### Assembly
 
-1. Insert 1x M4x12mm screw in each psu_upper_mount as seen in figure 15.1. If you have trouble getting the M4 screw in the hole, insert your finger in the big polygonal vertical hole
+1. Insert 1x M4x10mm screw in each psu_upper_mount as seen in figure 15.1. If you have trouble getting the M4 screw in the hole, insert your finger in the big polygonal vertical hole
 1. Screw each psu_upper_mount to the PSU
 1. Screw PSU to the back of the frame as seen in picture 15.2 with 2x M5x10mm and 2x tee nuts
 1. Add M3 nut into the psu_lower_mount (figure 15.3)
-1. Screw the PSU to the psu_lower_mount with the M3 washer and the M3 screw
-1. Screw last M5x10 from psu_lower_mount to the frame. 
+1. Screw the PSU to the psu_lower_mount with the M3 washer and the M3 screw. Adjust psu_lower_mount position if necessary
 
 
 ![](img/fig15.1.jpg)\
