@@ -12,7 +12,7 @@
 | 90 degree joining plate | 10 | | [Openbuilds](http://openbuildspartstore.com/90-degree-joining-plate/) |
 | Tee-nuts M5 | 89 | 50x for 90° plates,<br> 8x for angle corner,<br> 31x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
 | M5x8mm low profile screw<br>(or button head ISO 7380) | 12 | 8x for angle corner,<br>4x RAMBo cover mounts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a222/=1clymbr)|
-| M5x8mm low profile screw<br>(or button head ISO 7380) | 46 | for 90° plates | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/97763a819) |
+| M5x8mm low profile screw<br>(or button head ISO 7380) | 58 | for 90° plates | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/97763a819) |
 | M5x10mm low profile screw<br>(or button head ISO 7380) | 17 | for printed parts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
 | M5x12mm low profile screw<br>(or button head ISO 7380) | 14 | 2x for y_motor_mount,<br>8x for rod_holders,<br>4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
 | Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x M5x8mm screws and a M5 tap) | [Openbuilds](http://openbuildspartstore.com/self-tapping-screw/) |
