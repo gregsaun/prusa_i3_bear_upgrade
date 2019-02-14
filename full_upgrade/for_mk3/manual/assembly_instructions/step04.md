@@ -16,7 +16,7 @@
 1. Check the frame is not twisted by pressing down each corner (on the v-slots)
 1. If it is twisted, place an object (in red on figure 4.2) under one corner and apply pressure simultaneously to both perpendicular corners (A and B). Repeat this for left and right side until you get a perfectly flat frame<br>
    :warning: this step is very important, double check everything the frame is very flat and everything is still square
-1. Strongly tight frame screws and check others screws as well
+1. Strongly tighten frame screws and check others screws as well
 
 
 

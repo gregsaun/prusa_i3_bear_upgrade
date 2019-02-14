@@ -9,7 +9,7 @@
 * 1x build_helper_106mm
 * 1x Frame bottom
 * 1x Frame Z axis
-* 12x M5x10mm screws
+* 12x M5x8mm screws
 
 #### Assembly
 
