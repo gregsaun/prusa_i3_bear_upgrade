@@ -9,7 +9,7 @@
 * 1x 370mm V-Slots
 * 1x 290mm V-Slots (used for distance reference)
 * 4x M5x10mm screws
-* 4x Tee nuts
+* 8x Tee nuts
 
 #### Assembly
 
