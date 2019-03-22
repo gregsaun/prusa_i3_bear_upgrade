@@ -20,6 +20,10 @@ All distributors are following [specifications](doc/vslot_specs_tolerances_0.2.p
    Blackfrog (EU)  
    [blackfrog.pl](https://blackfrog.pl)  
 
+* ![lecktor logo](distributors/lecktor_logo.png)  
+   Lecktor (EU)  
+   [lecktor.com](http://lecktor.com)  
+
 * ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
    [makerparts.ca](http://makerparts.ca)  
@@ -56,6 +60,7 @@ Here is a list of stores that sell Openbuilds extrusion (V-Slot) and hardware. Y
 |:--------:|:-------:|:-------:|:-------:|:------:|
 | Belgium | https://tronixmaker.com | Y | | |
 | Denmark | https://3dnielsen.dk/ | Y | | |
+| Estonia | http://lecktor.com | Y | Official kit distributor | | 
 | France | http://www.vslot-europe.com | N | | |
 | Germany | http://www.watterott.com | N | Not all Openbuilds parts are available | Cuts are not accurate (+/- 1mm)<br>Fast shipping |
 | Greece | [https://grobotronics.com](https://grobotronics.com/mechanics-and-wheels/openbuilds-v-slot/) | N | | |

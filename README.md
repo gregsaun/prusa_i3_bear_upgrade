@@ -87,6 +87,9 @@ All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) 
    Blackfrog (EU)  
    [blackfrog.pl](https://blackfrog.pl)  
 
+* ![lecktor logo](doc/distributors/lecktor_logo.png)  
+   Lecktor (EU)  
+   [lecktor.com](http://lecktor.com)  
 
 * ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
    Makerparts.ca (CA)  
