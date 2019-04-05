@@ -11,6 +11,8 @@
 
 #### Assembly
 
+:heavy_exclamation_mark: This step is only if you are NOT using a kit from our official distributors. All our kits are pre-tapped which means you can skip this step.
+
 :heavy_exclamation_mark: If you know how to tap a hole, use M5x8mm and M5 tap instead of self tapping screw
 
 1. We will pre-tap v-slot with self tapping screw to add Z axis end caps later in the assembly
