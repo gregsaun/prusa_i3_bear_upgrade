@@ -28,6 +28,12 @@ All distributors are following [specifications](doc/vslot_specs_tolerances_0.2.p
    Makerparts.ca (CA)  
    [makerparts.ca](http://makerparts.ca)  
 
+
+* ![ooznest logo](distributors/ooznest_logo.png)  
+   Ooznest (EU)  
+   [ooznest.co.uk](https://ooznest.co.uk/)  
+
+
 * ![ratrig logo](distributors/ratrig_logo.jpg)  
    RatRig (EU)  
    [www.ratrig.com](http://www.ratrig.com/)  
