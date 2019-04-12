@@ -159,7 +159,7 @@ Thank you Openbuilds for your hardware, community and state of mind.
 
 Thank you for making the community alibe with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Termlimit, Vertigo295 for helping me developing the Bear project.
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 
 ## Sources
