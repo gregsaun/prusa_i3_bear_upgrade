@@ -138,21 +138,23 @@ Big thank you in advance :heart:
 
 ## Thank you
 
+Thank you to all my Patreon : 3DPrintronics, Ahmed, Albe Gouws, Anders Svendsen, Apton Ika, Arnaud CHRISTEL, Bearpaw93, Christopher Lee, Christos Goulas, Corey Dryja, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, Doug Palmer, Erich Jermann, Espen Fjellvær Olsen, Evan, flobler, Grigori Palamartšuk, Hector Gonzalez, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Weinberg, Jonathan Ryer, Josh Carter, Joshua Jones, Jotham B, JTa, Kevin Smith, mark leino, Matthew Humphrey, Miguel Castillo, Mike Phelps, Nathan Trop, Orlando E Moran, Patch Best, Peter Boardman, Pierre Allegraud, QcRetro, ra100, RC-CnC, Richard Bateman, Riot, Ryan Lobbins, SamE0717, Schwiizer, Scott Rini, sleene, Stanislav Kljuhhin, Stephan Kohls, Steven Clark, Steven Daglish, Ted Rathkopf, Tomáš Vydra, Total Dramatist, Tree of Broken Hearts, Tyler Townes
+
+Thank you to all that have send me a tip on Thingiverse and PayPal.
+
 Thank you to everybody from Facebook group and The 602 Wasteland community.
-
-Thank you to all my Patreon : Anders Svendsen, Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Miguel Castillo, Orlando from all3dmakers, ra100, Sleene, Steven Daglish, Thomáš Vydra, Valentin Constantin, Vishesh from 3Dprintonics.
-
-Thank you to all my tippers on Thingiverse : FurniBird, kabar03, Lucullus, NatDenkin, neofitos, Oggs, Ringo1508, TrevJonez.
 
 Thank you for having purchased a kit from an official distributor.
 
+Thank you to all official distributors for taking care of the kits and customers.
+
+Thank you Jason from LDO Motors for the quality manufacturing and relationship.
+
 Thank you Openbuilds for your hardware, community and state of mind.
 
-Thank you to people that have helped me in the early days of the project : DoItWithSmile (jay3D), kabar03, xequtor and fishmsk, karlosek.
+Thank you for making the community alibe with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
-Thank you for all your comments and issues on GitHub and Thingiverse.
-
-Thank you to Nathan Denkin for improving my english (I know it is not an easy task!) and for building a better assembly guide.
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 
 ## Sources
