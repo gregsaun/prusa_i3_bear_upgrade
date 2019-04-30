@@ -106,7 +106,6 @@ Here is a list of stores that sell Openbuilds extrusion (V-Slot) and hardware. Y
 | Mexico | http://www.spkautomatizacion.com | N | | |
 | New Jersey | http://openbuildspartstore.com | N | | |
 | New York | http://www.opensourceluthiersupply.com | N | | |
-| Texas | https://www.smw3d.com | Y | | |
 | ? | http://makerstore.cc | N | | |
 
 
