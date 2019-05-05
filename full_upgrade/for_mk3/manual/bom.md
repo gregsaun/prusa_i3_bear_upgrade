@@ -17,7 +17,7 @@
 | Self Tapping Screw M5 | 4 | 4x for top of Z axis<br>(Alternatively you can get 4x M5x8mm screws and a M5 tap) | [Openbuilds](http://openbuildspartstore.com/self-tapping-screw/) |
 | Set screw M5x4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
 | M3x12mm socket head screw (hex) | 10 | 8x for z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/#91292a114/=1c4wt18) |
-| M3 Steel washer (DIN 125), 0.5mm thick | 8 | 8x for z motors mounts | |
+| M3 Steel washer (DIN 125), 0.5mm thick | 8 | 8x for z motors mounts<br>(From original printer) | |
 | Zip ties 2.5x100mm | 20 | | |
 
 I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
