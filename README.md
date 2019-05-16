@@ -36,6 +36,18 @@ Here are the features that explain why I decided to create another printer upgra
 * Open source by providing STL, STEP and Autodesk Fusion 360 files
 
 
+## WARNING: Full Upgrade MK2S, MK2.5 and MK2.5S ##
+
+We are currently working on reducing the number of versions of the Full Upgrade kit. MK2S, MK2.5, MK2.5S will be merged to MK3 frame. Most of the official distributors are already selling only MK3 frame.
+
+#### How to build MK2S, MK2.5 or MK2.5S on MK3 frame
+
+1. Use this Y belt adapter: https://www.thingiverse.com/thing:3468567
+1. You will need a new Y belt because MK3 frame is slightly longer. Will be a good opportunity to refresh your old belt. Here is the reference to use with the belt:
+GATES LL-2GT RF 6mm Width 2mm Pitch 660mm long. Belt From Prusa store works perfectly as well.
+1. Use all MK2S/MK2.5(S) parts except Y rod holders and build helper.
+1. You need to use the 106mm build helper
+
 
 ## Full And Half upgrades
 
@@ -67,7 +79,6 @@ Half upgrade use the same v-slots and printed part for MK2(s) and MK2.5. However
 Several printed parts are shared between all these versions. This makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
 
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
-
 
 
 ## Where can I purchase the hardware?
