@@ -78,7 +78,7 @@ Here is a list of stores that sell Openbuilds extrusion (V-Slot) and hardware. Y
 | Spain | http://store.thingibox.com/en/ | Y | | |
 | Sweden | [https://www.kjell.com/se/](https://www.kjell.com/se/sortiment/el-verktyg/elektronik/aluminiumprofiler/ratrig-aluminiumprofil-20x40-mm-50-cm-p88153) | ? | | |
 | Switzerland | https://www.3dware.ch/ | N | | Okay, nothing special |
-| UK | http://ooznest.co.uk/ | Y | | Very good |
+| UK | http://ooznest.co.uk/ | Y | Official kit distributo | |
 
 
 ### New Zealand
