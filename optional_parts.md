@@ -45,3 +45,4 @@ Designed by the community. Huge thank you all!
 | Universal Zaribo Einsy Box | All | https://www.thingiverse.com/thing:3239428/ |
 | E3D 20T idler mount for Bear Y-Axis | Full Upgrade MK3 | https://www.thingiverse.com/thing:3309424 |
 | Ocie's Duet Wifi Enclosure Box remix | Full Upgrade MK3 | https://www.thingiverse.com/thing:3642653 |
+| LED Light Mounts | All Full Upgrade | https://www.thingiverse.com/thing:3619763 |
