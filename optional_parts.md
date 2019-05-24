@@ -34,7 +34,7 @@ Designed by the community. Huge thank you all!
 | Y belt tensioner | Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2904281 |
 | Y belt tensioner and belt holder | All | https://www.thingiverse.com/thing:2995737 |
 | Y belt holder with integrated belt tensioner | All | https://www.thingiverse.com/thing:3069061 |
-| Y motor support | Half + Full Upgrade MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
+| Y motor support | Half + Full Upgrade<br/>MK2(s) MK2.5 | https://www.thingiverse.com/thing:2929471 |
 | Bear LCD cover | All | https://www.thingiverse.com/thing:2941711 |
 | Ends caps for LEDs or cables | Full Upgrade only | https://www.thingiverse.com/thing:2958238 |
 | PSU Replacement Brace | Half Upgrade only | https://www.thingiverse.com/thing:3087074 | 
@@ -46,3 +46,4 @@ Designed by the community. Huge thank you all!
 | E3D 20T idler mount for Bear Y-Axis | Full Upgrade MK3 | https://www.thingiverse.com/thing:3309424 |
 | Ocie's Duet Wifi Enclosure Box remix | Full Upgrade MK3 | https://www.thingiverse.com/thing:3642653 |
 | LED Light Mounts | All Full Upgrade | https://www.thingiverse.com/thing:3619763 |
+| X Axis to Y Rod Calibration Tool  | All | https://www.thingiverse.com/thing:3645355 |
