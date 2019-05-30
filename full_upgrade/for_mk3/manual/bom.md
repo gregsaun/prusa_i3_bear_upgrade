@@ -7,7 +7,10 @@
 | Part     | Number<br>(pce) | Detail | Link |
 |----------|:------------:|--------|------|
 | Original Prusa i3 MK3 | 1 | | www.prusa3d.com |
-| V-Slot 20x40 1000mm | 3 | To cut :<br> 1x 331mm + 331mm + 290mm,<br> 2x 359mm + 370mm | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
+| V-Slot 20x40 331mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
+| V-Slot 20x40 359mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
+| V-Slot 20x40 370mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
+| V-Slot 20x40 290mm | 1 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | Black angle corner | 4 | | [Openbuilds](http://openbuildspartstore.com/black-angle-corner-connector/) |
 | 90 degree joining plate | 10 | | [Openbuilds](http://openbuildspartstore.com/90-degree-joining-plate/) |
 | Tee-nuts M5 | 89 | 50x for 90° plates,<br> 8x for angle corner,<br> 31x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
