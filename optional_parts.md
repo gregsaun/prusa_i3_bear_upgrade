@@ -47,3 +47,4 @@ Designed by the community. Thank you makers :heart:!
 | Ocie's Duet Wifi Enclosure Box remix | Full Upgrade MK3 | https://www.thingiverse.com/thing:3642653 |
 | LED Light Mounts | Full Upgrade | https://www.thingiverse.com/thing:3619763 |
 | X Axis to Y Rod Calibration Tool  | All | https://www.thingiverse.com/thing:3645355 |
+| Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3664281 |
