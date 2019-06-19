@@ -48,3 +48,4 @@ Designed by the community. Thank you makers :heart:!
 | LED Light Mounts | Full Upgrade | https://www.thingiverse.com/thing:3619763 |
 | X Axis to Y Rod Calibration Tool  | All | https://www.thingiverse.com/thing:3645355 |
 | Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3664281 |
+| Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3700587 |
