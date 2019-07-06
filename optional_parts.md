@@ -49,3 +49,4 @@ Designed by the community. Thank you makers :heart:!
 | X Axis to Y Rod Calibration Tool  | All | https://www.thingiverse.com/thing:3645355 |
 | Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3664281 |
 | Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3700587 |
+| Y-belt tensioner and Y-belt holder | Full Upgrade MK3(S) | https://www.thingiverse.com/thing:3502543 |
