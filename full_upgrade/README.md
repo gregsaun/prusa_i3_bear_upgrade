@@ -1,6 +1,8 @@
-# Prusa i3 Bear Full Upgrade
+# Prusa i3 Bear Full Upgrade MK3
 
-This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for your MK2, MK2s, MK2.5 or MK3. If you are searching for a cheaper and simpler upgrade check out [half upgrade version](/half_upgrade/) or spot the differences on the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/).
+![Prusa i3 Bear Full Upgrade MK3 Right](img/3d_rendering/home_right.jpg)
+
+This is the FULL version of the Prusa i3 Bear upgrade MK3, a much stronger frame for your Prusa printer. If you are searching for a cheaper and simpler upgrade check out [half upgrade version](/half_upgrade/) or spot the differences on the [home page](https://github.com/gregsaun/prusa_i3_bear_upgrade/).
 
 
 ## Features
@@ -8,7 +10,6 @@ This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for
 * Stronger and quieter
 * Easier to maintain and customise
 * Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
-* Compatible with MK2, MK2s, MK2.5 and MK3
 * Highly detailed manual
 * Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
 * Use Openbuilds hardware :
@@ -22,21 +23,37 @@ This is the FULL version of the Prusa i3 Bear upgrade. A much stronger frame for
 * Open source by providing STL, STEP and Autodesk Fusion 360 files
 * Z motors can be easily removed for maintenance 
 * Fix some dimensional errors of Z axis from Original Prusa i3
+* Y motor is fixed using 3 screws instead 2 in original printer
 
 
-## Description
+## Manual
 
-The full upgrade is split in 3 different versions depending the printer version you would like to upgrade :
-* [For MK2 and MK2s](for_mk2_mk2s)
-* [For MK2.5](for_mk2.5) (RAMBo cover is different than MK2(s))
-* [For MK3](for_mk3) (V-Slots length, RAMBo cover, Y axis, Z tops and PSU lower mount are different)
+The manual contains bill of material (bom), preparing frame and v-slots, print settings and assembly instructions.
 
-Those versions are split in 3 folders and they have their own printed parts, manual, documentation, etc. Just go to full upgrade folder that match your printer and use the STL files and manual from their.
+[Read it here](manual/)
 
-Be sure to get the correct version according to your printer
 
-[![Prusa i3 Bear Full Upgrade MK2s](/img/full_mk2s_title_1024px.jpg)](for_mk2_mk2s)
+## Purchase Openbuilds V-Slots
 
-[![Prusa i3 Bear Full Upgrade MK2.5](/img/full_mk25_title_1024px.jpg)](for_mk2.5)
+Here is a list of [Openbuilds stores](/doc/openbuilds_stores_list.md). Note that few stores are selling a pre-cut V-Slots.
 
-[![Prusa i3 Bear Full Upgrade MK3](/img/full_mk3_title_1024px.jpg)](for_mk3)
+
+## Images
+
+![Prusa i3 Bear Full Upgrade MK3 Left](img/3d_rendering/home_left.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 Right](img/3d_rendering/home_right.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 Right](img/3d_rendering/right.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 Front](img/3d_rendering/front.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 Top](img/3d_rendering/top.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 Bottom](img/3d_rendering/bottom.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 Bottom](img/3d_rendering/z_motor_mount.jpg)
+
+![Prusa i3 Bear Full Upgrade MK3 V-Slots Length](doc/vslots_length.png)
+
+![Prusa i3 Bear Full Upgrade MK3 Parts Positions](doc/parts_positions.png)
