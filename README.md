@@ -1,4 +1,4 @@
-# Prusa i3 Bear Upgrade 2.1
+# Prusa i3 Bear Upgrade 2.1.0-alpha0
 
 
 
@@ -10,7 +10,7 @@ Josef PRŮŠA has created numerous of incredible 3D printers capable of great pr
 
 
 ## New features since Bear Upgrade 2.0
-  * Single frame for all Prusa versions
+  * Single frame for all Prusa versions (based on MK3 frame)
   * New Y axis:
     * Add belt tensioner
     * Stiffer Y motor mount
