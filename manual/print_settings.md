@@ -38,11 +38,14 @@
 | y_belt_holder          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | y_idler_tensioner      | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | y_idler_mount          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| y_rod_holder             | 4 | 0.20mm | 30% | 3 | 5 | PETG |
+| y_rod_holder           | 4 | 0.20mm | 30% | 3 | 5 | PETG |
 | y_motor_mount          | 1 | 0.20mm | 30% | 4 | 5 | PETG |
+| y_motor_endstop_mount<sup>1</sup>  | 1 | 0.20mm | 30% | 4 | 5 | PETG |
 | z_motor_mount_front    | 2 | 0.20mm | 30% | 4 | 5 | PETG |
 | z_motor_mounts         | 1<br/>(total of 2 parts) | 0.20mm | 30% | 4 | 5 | PETG |
 | z_tops                 | 1<br/>(total of 2 parts) | 0.20mm | 30% | 4 | 5 | PETG |
 | cable_clip_lcd         | 6 | 0.15mm | 30% | 3 | 5 | PETG |
 | cable_clip_round       | 5 | 0.15mm | 30% | 3 | 5 | PETG |
 | cable_clip_ziptie      | 3 | 0.15mm | 30% | 3 | 5 | PETG |
+
+> Note<sup>1</sup>: Only for MK2S or MK2.5(S)
