@@ -1,84 +1,37 @@
-# Prusa i3 Bear Upgrade V2.0
-
-![Prusa i3 Bear Full and Half Upgrade Left](img/half_and_full_morphing_1024px.jpg)
+# Prusa i3 Bear Upgrade 2.1
 
 
 
 ## Introduction
 
-This is an aluminum frame conversion for the Prusa i3 MK2, MK2s, MK2.5 and MK3.
+This is a stiffer and more reliable frame for original Prusa i3 MK2S, MK2.5(S) and MK3(S).
 
-Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
-
-One of the down point of the Prusa i3 MK2 and MK3 is the rigidity of the frame. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
+Josef PRŮŠA has created numerous of incredible 3D printers capable of great print quality. A huge thanks to him and all its team!
 
 
-
-## Why another conversion build?
-
-Here are the features that explain why I decided to create another printer upgrade.
-
-* Use as much as possible original parts (no need to print a new RAMBo cover nor change any cable, rods or firmware)
-* Compatible with MK2, MK2s MK2.5 and MK3
-* Let user choose between two versions :
-  * [Half upgrade](half_upgrade/) : similar to MK3 and cheaper
-  * [Full upgrade](full_upgrade/) : stronger but more expensive
-* Highly detailed manual
-* Use more aluminum and less printed parts (3D printed parts can crack and are less reliable)
-* Use Openbuilds hardware :
-  * Single platform of multitude compatible hardware parts
-  * V-Slot offers more possibilities for printed parts and customisation than T-Slot
-  * Open source with powerful community
-  * Easy to square and build
-  * Worldwide shipping plus several other shops selling these parts
-* Other type of aluminum extrusions can be supported thanks to parametric design (check Fusion 360 files)
-* 3D printed parts designed using advanced techniques like selective infill, clean vertical holes, sharp angle...
-* Open source by providing STL, STEP and Autodesk Fusion 360 files
+## New features since Bear Upgrade 2.0
+  * Single frame for all Prusa versions
+  * New Y axis:
+    * Add belt tensioner
+    * Stiffer Y motor mount
+    * Help to reduce Y axis stepper noise
+    * Uniform Y axis construction across all Bear frame
+    * Increase homing accuracy of MK3(S) virtual end stop
 
 
-## WARNING: Full Upgrade MK2S, MK2.5 and MK2.5S ##
 
-We are currently working on reducing the number of versions of the Full Upgrade kit. MK2S, MK2.5, MK2.5S will be merged to MK3 frame. Most of the official distributors are already selling only MK3 frame.
+## Manual
 
-#### How to build MK2S, MK2.5 or MK2.5S on MK3 frame
+The manual contains bill of materials (BOM), print settings and assembly instructions.
 
-1. Use this Y belt adapter: https://www.thingiverse.com/thing:3468567
-1. You will need a new Y belt because MK3 frame is slightly longer. Will be a good opportunity to refresh your old belt. Here is the reference to use with the belt:
-GATES LL-2GT RF 6mm Width 2mm Pitch 660mm long. Belt From Prusa store works perfectly as well.
-1. Use all MK2S/MK2.5(S) parts except Y rod holders and build helper.
-1. You need to use the 106mm build helper
+[Read it here](manual/)
 
 
-## Full And Half upgrades
 
-The Prusa i3 Bear upgrade is proposed in two versions: full or half upgrade.
-* [Half upgrade](half_upgrade/) : upgrade your MK2/MK2s/MK2.5 frame to MK3 type
-* [Full upgrade](full_upgrade/) : has a redesigned and stronger Z axis for all MK2 and MK3 printers but is more expensive
+## Optional parts
 
-[<img src="img/half_title_800px.jpg" width="403"/>](half_upgrade/) &nbsp;&nbsp;&nbsp; [<img src="img/full_main_800px.jpg" width="462"/>](full_upgrade/)
+Official and community optional parts [are listed here](optional_parts).
 
-Here is a comparison table to help you choose :
-
-| | Half Upgrade | Full Upgrade |
-|-|:------------:|:------------:|
-| Compatibility | MK2, MK2s and MK2.5 | MK2, MK2s, MK2.5 and MK3 |
-| Y axis rigidity | :hearts: :hearts: :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: :hearts: |
-| Z axis rigidity | :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: :hearts: |
-| Noise level | :hearts: :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: |
-| Customisation | :hearts: :hearts: :hearts: | :hearts: :hearts: :hearts: :hearts: :hearts: |
-| Material cost | :moneybag: | :moneybag: :moneybag: |
-| Number of V-Slots to cut | 6<br>(4 different lengths) | 7<br>(4 different lengths) |
-| Number of V-Slots to tap | 4 | 0 |
-| Can I place the printer inside an<br>enclosure and PSU outside? | :x:<br>PSU rigidify the Z frame | :heavy_check_mark: |
-| Capability to increase Z axis height?<br>(need customisation) | :x: | :heavy_check_mark: |
-
-Half upgrade use the same v-slots and printed part for MK2(s) and MK2.5. However, the full upgrade has 3 different versions, one for MK2(s), one for MK2.5 and another one for MK3. You can discover the difference in the [full upgrade page](full_upgrade/).
-
-![Prusa i3 Bear Full Upgrade All Versions](img/all_versions_800px.jpg)
-
-Several printed parts are shared between all these versions. This makes easier to move from half to full upgrade, or full upgrade MK2 to full upgrade MK3.
-
-Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 
 ## Where can I purchase the hardware?
@@ -119,11 +72,6 @@ All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) 
 By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
 
 
-#### Openbuilds distributors
-
-You can also purchase parts separately worldwide. Checkout my list of distributors here : [Openbuilds stores list](doc/openbuilds_stores_list.md)
-
-
 
 ## Community
 
@@ -137,24 +85,22 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 
 
-## Optional parts
-
-Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.md)
-
-
 ## Support my work
 
 The Bear project is made possible thanks supporters. Here are some way to support me:
   - Become my patron with Patreon: [patreon.com/gregsaun](https://www.patreon.com/gregsaun)
   - A tip via Paypal: [paypal.me/gregsaun](https://www.paypal.me/gregsaun)
   - A tip via Thingiverse: [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron/about)
-  
+
 Big thank you in advance :heart:
+
 
 
 ## Thank you
 
-Thank you to all my Patreon : 3DPrintronics, Ahmed, Albe Gouws, Anders Svendsen, Apton Ika, Arnaud CHRISTEL, Bearpaw93, Christopher Lee, Christos Goulas, Corey Dryja, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, Doug Palmer, Erich Jermann, Espen Fjellvær Olsen, Evan, flobler, Grigori Palamartšuk, Hector Gonzalez, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Weinberg, Jonathan Ryer, Josh Carter, Joshua Jones, Jotham B, JTa, Kevin Smith, mark leino, Matthew Humphrey, Miguel Castillo, Mike Phelps, Nathan Trop, Orlando E Moran, Patch Best, Peter Boardman, Pierre Allegraud, QcRetro, ra100, RC-CnC, Richard Bateman, Riot, Ryan Lobbins, SamE0717, Schwiizer, Scott Rini, sleene, Stanislav Kljuhhin, Stephan Kohls, Steven Clark, Steven Daglish, Ted Rathkopf, Tomáš Vydra, Total Dramatist, Tree of Broken Hearts, Tyler Townes
+Thank you to all my Patreon : Sleene, Matthew Humphrey, Greg3D, robert veline, Loïc Dumont, Keith Beaul, Stefan Hilbrich, Gareth Brown, Skyler Weinkauf, Grigori Palamartšuk, Stanislav Kljuhhin, Evan, SamE0717, Peter Boardman, Jimmy Lee, Erich Jermann, Miguel Castillo, Scott Rini, Anders Svendsen, Arnaud CHRISTEL, Tom Kogut, Edward Wright, David Tyra, mark smith, Andrew Bingham, Lewis Cheek, Brian Tibbetts, Mike Phelps, Kevin Smith, 3D-Maniac, Ted Rathkopf, JTa, flobler, Jonathan Ryer, Nathan Trop, Ryan Lobbins, Corey Dryja, Bearpaw93, David Pesce, RC-CnC, Joshua Jones, Richard Bateman, Christopher Lee, Josh Carter, Cristian Toma, Orlando E Moran, Evgen, Tomáš Vydra, Hector Gonzalez, Ahmed, Patch Best, Tyler Townes, QcRetro, Joel Weinberg, ra100, Steven Daglish, 3DPrintronics, Darren Furniss, Daniele Malinconi, Nicolas Pottier, Warren Schultz, Joseph Quan, Staffsmith aka Thorben Plath, Stephen Pope, Andre, Austin Vojta, Thom Sturgill, Chris Warkocki, Bojan Kopanja, Garth Clardy, Pierre Allegraud, Joan Torner Corrons, Jason Marcus, Albe Gouws, Stephan Kohls, Doug Palmer, Total Dramatist, Apton Ika, Moody Wood Carving, Espen Fjellvær Olsen, Christos Goulas.
+
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 Thank you to all that have send me a tip on Thingiverse and PayPal.
 
@@ -168,18 +114,17 @@ Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 
 Thank you Openbuilds for your hardware, community and state of mind.
 
-Thank you for making the community alibe with all your comments, issues, pull requests, optional parts, make, pictures, etc.
-
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
+Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
 
-## Sources
 
-Here are a list of sources I used to build this project :
+## Credit, sources and inspiration
+
+Here is list of sources and inspiration :
 
 * Prusa : http://www.prusa3d.com
 * Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
 * Openbuilds : https://www.openbuilds.org
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3/
 
-Huge thanks to these projects, without them this project can not exist!
+Massive thanks to these projects, without them this project can not exist!
