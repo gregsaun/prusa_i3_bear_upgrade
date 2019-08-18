@@ -13,7 +13,7 @@
 | V-Slot 20x40 290mm | 1 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | Black angle corner | 4 | | [Openbuilds](http://openbuildspartstore.com/black-angle-corner-connector/) |
 | 90 degree joining plate | 10 | | [Openbuilds](http://openbuildspartstore.com/90-degree-joining-plate/) |
-| Tee-nuts M5 | 89 | 50x for 90° plates,<br> 8x for angle corner,<br> 31x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
+| Tee-nuts M5 | 90 | 50x for 90° plates,<br> 8x for angle corner,<br> 32x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
 | M5x8mm button head ISO 7380 | 16 | 8x for angle corner,<br>4x printed parts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a222/=1clymbr)|
 | M5x10mm button head ISO 7380 | 64 | 46x for 90° plates,<br> 18x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
 | M5x12mm button head ISO 7380 | 13 | 1x for Y motor mount,<br>8x for Y rod holders,<br>4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
@@ -23,7 +23,8 @@
 | M3x30mm socket head screw (hex) | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a022) |
 | Set screw M5x4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
 | Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15.5mm to 16mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
-| M3 Steel washer (DIN 125), 0.5mm thick | 8 | 8x for z motors mounts | |
+| M3 Steel washer (DIN 125), 0.5mm thick | 9 | 8x for Z motors mounts, 1x for Y idler | |
+| M3 nylock nut | 9 | 2x for Y idler | [McMaster-Carr](https://www.mcmaster.com/93625a100) |
 | Zip ties 2.5x100mm | 20 | | |
 
 I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
