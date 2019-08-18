@@ -4,8 +4,8 @@
 
 ### Hardware
 
-| Part     | Number<br>(pce) | Detail | Link |
-|----------|:------------:|--------|------|
+| Part     | Quantity | Detail | Link |
+|----------|:--------:|--------|------|
 | Original Prusa i3 MK2S or MK2.5(S) or MK3(S) | 1 | | [Prusa](https://www.prusa3d.com) |
 | V-Slot 20x40 331mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | V-Slot 20x40 359mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
@@ -22,7 +22,7 @@
 | M3x25mm socket head screw (hex) | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a020) |
 | M3x30mm socket head screw (hex) | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a022) |
 | Set screw M5x4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
-| Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15mm to 15.8mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
+| Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15.5mm to 16mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
 | M3 Steel washer (DIN 125), 0.5mm thick | 8 | 8x for z motors mounts | |
 | Zip ties 2.5x100mm | 20 | | |
 
