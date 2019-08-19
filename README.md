@@ -1,4 +1,4 @@
-# Prusa i3 Bear Upgrade
+# Prusa i3 Bear Upgrade 2.1
 
 
 
