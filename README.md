@@ -8,6 +8,7 @@ This is a stiffer and more reliable frame for original Prusa i3 MK2S, MK2.5(S) a
 
 Josef PRŮŠA has created numerous of incredible 3D printers capable of great print quality. A huge thanks to him and all its team!
 
+![Bear Upgrade MK3S](doc/rendering/mk3_home_left.jpg)
 
 ## New features since Bear Upgrade 2.0
   * Single frame for all Prusa versions (based on MK3 frame)
