@@ -36,7 +36,7 @@ Bear 2.1 comes with a complete new Y axis with the following features:
 
 The manual contains bill of materials (BOM), print settings and assembly instructions.
 
-[Read the manual here](manual/)
+[Read the manual here :book:](manual/)
 
 
 
@@ -99,18 +99,21 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ## Support my work
 
-The Bear project is made possible thanks supporters. Here are some way to support me:
-  - Become my patron with Patreon: [patreon.com/gregsaun](https://www.patreon.com/gregsaun)
-  - A tip via Paypal: [paypal.me/gregsaun](https://www.paypal.me/gregsaun)
-  - A tip via Thingiverse: [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron/about)
+The Bear project is made possible thanks supporters, you can participate via
+<br/><br/>
+[![become a patron](doc/icons/patreon_50px.png)](https://www.patreon.com/gregsaun)<br/>[patreon.com/gregsaun](https://www.patreon.com/gregsaun)
+<br/><br/>
+[![paypal.me](doc/icons/paypal_50px.png)](https://www.paypal.me/gregsaun)<br/>[paypal.me/gregsaun](https://www.paypal.me/gregsaun)
+<br/><br/>
+ You can also send me a tip via [Thingiverse](https://www.thingiverse.com/pekcitron/about) if you prefer that way.
 
-Big thank you in advance :heart:
+Massive thank you in advance :heart:
 
 
 
 ## Thank you
 
-Thank you to all my Patreon : Sleene, Matthew Humphrey, Greg3D, robert veline, Loïc Dumont, Keith Beaul, Stefan Hilbrich, Gareth Brown, Skyler Weinkauf, Grigori Palamartšuk, Stanislav Kljuhhin, Evan, SamE0717, Peter Boardman, Jimmy Lee, Erich Jermann, Miguel Castillo, Scott Rini, Anders Svendsen, Arnaud CHRISTEL, Tom Kogut, Edward Wright, David Tyra, mark smith, Andrew Bingham, Lewis Cheek, Brian Tibbetts, Mike Phelps, Kevin Smith, 3D-Maniac, Ted Rathkopf, JTa, flobler, Jonathan Ryer, Nathan Trop, Ryan Lobbins, Corey Dryja, Bearpaw93, David Pesce, RC-CnC, Joshua Jones, Richard Bateman, Christopher Lee, Josh Carter, Cristian Toma, Orlando E Moran, Evgen, Tomáš Vydra, Hector Gonzalez, Ahmed, Patch Best, Tyler Townes, QcRetro, Joel Weinberg, ra100, Steven Daglish, 3DPrintronics, Darren Furniss, Daniele Malinconi, Nicolas Pottier, Warren Schultz, Joseph Quan, Staffsmith aka Thorben Plath, Stephen Pope, Andre, Austin Vojta, Thom Sturgill, Chris Warkocki, Bojan Kopanja, Garth Clardy, Pierre Allegraud, Joan Torner Corrons, Jason Marcus, Albe Gouws, Stephan Kohls, Doug Palmer, Total Dramatist, Apton Ika, Moody Wood Carving, Espen Fjellvær Olsen, Christos Goulas.
+Thank you to all my Patreon : 3D-Maniac, Ahmed, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Austin Vojta, Bas Borgignons, Bearpaw93, Bojan Kopanja, Brian Tibbetts, c, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Kevin Smith, Kyle Shaw, Lewis Cheek, Loïc Dumont, mark smith, Matthew Humphrey, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Nathan Trop, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lobbins, SamE0717, Scott Rini, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz
 
 Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
