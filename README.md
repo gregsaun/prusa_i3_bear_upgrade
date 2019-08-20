@@ -10,22 +10,33 @@ Josef PRŮŠA has created numerous of incredible 3D printers capable of great pr
 
 ![Bear Upgrade MK3S](doc/rendering/mk3_home_left.jpg)
 
-## New features since Bear Upgrade 2.0
-  * Single frame for all Prusa versions (based on MK3 frame)
-  * New Y axis:
-    * Add belt tensioner
-    * Stiffer Y motor mount
-    * Help to reduce Y axis stepper noise
-    * Uniform Y axis construction across all Bear frame
-    * Increase homing accuracy of MK3(S) virtual end stop
 
+## New features since Bear Upgrade 2.0
+
+Bear Upgrade 2.1 will have a single frame for all Prusa versions (MK2S, MK2.5(S) and MK3(S)). This single frame is exactly the same frame than Full Bear 2.0 MK3 frame.
+
+Bear 2.1 comes with a complete new Y axis with the following features:
+  * New belt tensioner.
+  * New stiffer Y motor mount.
+  * New belt holder with clamping system.
+  * Easier assembly of Y motor mount.
+  * Creates a similar Y axis construction across all Bear frame.
+  * T-nuts are placed were it is easy to swap them.
+  * Compatible with E3D-Gates idlers.
+  * Helps to reduce Y axis stepper noise for MK3(S).
+  * Increase homing accuracy of MK3(S).
+  * Y bearing holders are now as standard (not an optional part any more).
+
+:bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK2S or MK2.5 frame to use the new Y axis. It is compatible with Full Bear MK2S and MK2.5 frames thanks to a special belt holder available in the [optional parts](optional_parts/y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s).
+
+:bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK3 frame.
 
 
 ## Manual
 
 The manual contains bill of materials (BOM), print settings and assembly instructions.
 
-[Read it here](manual/)
+[Read the manual here](manual/)
 
 
 
