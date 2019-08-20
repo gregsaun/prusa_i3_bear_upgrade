@@ -18,13 +18,14 @@
 | M5x10mm button head ISO 7380 | 64 | 46x for 90° plates,<br> 18x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
 | M5x12mm button head ISO 7380 | 13 | 1x for Y motor mount,<br>8x for Y rod holders,<br>4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
 | M5x16mm button head ISO 7380 | 1 | 1x for Y motor mount | [McMaster-Carr](https://www.mcmaster.com/92095a212) |
-| M3x12mm socket head screw (hex) | 10 | 8x for Z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/#91292a114/=1c4wt18) |
-| M3x25mm socket head screw (hex) | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a020) |
-| M3x30mm socket head screw (hex) | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a022) |
+| M3x12mm socket head screw ISO 4762 | 10 | 8x for Z motors mounts,<br>2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/#91292a114/=1c4wt18) |
+| M3x25mm socket head screw ISO 4762 | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a020) |
+| M3x30mm socket head screw ISO 4762 | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a022) |
 | Set screw M5x4mm | 8 | for end_caps | [Openbuilds](http://openbuildspartstore.com/set-screw/) |
 | Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15.5mm to 16mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
-| M3 Steel washer (DIN 125), 0.5mm thick | 9 | 8x for Z motors mounts, 1x for Y idler | |
-| M3 nylock nut | 9 | 2x for Y idler | [McMaster-Carr](https://www.mcmaster.com/93625a100) |
+| M3 steel washer DIN 125, 0.5mm thick | 9 | 8x for Z motors mounts, 1x for Y idler | |
+| M3 nylock nut DIN 985 | 9 | 2x for Y idler | [McMaster-Carr](https://www.mcmaster.com/93625a100) |
+| M3 square nut DIN 562 | 1 | 1x for belt holder | |
 | Zip ties 2.5x100mm | 20 | | |
 
 I recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
