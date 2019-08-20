@@ -13,8 +13,18 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 
 
 
-
 ### Y Axis
+
+![y axis mk3](img_assembly_guide/y_axis_mk3_01.jpg)
+
+#### Parts that needs to be printed
+
+  1. y_idler_mount
+  1. y_idler_tensioner
+  1. y_belt_holder
+  1. y_motor_mount
+  1. y_motor_endstop_mount (MK2S, MK2.5(S) only)
+
 
 #### Y Belt Holder
 
@@ -45,6 +55,8 @@ Insert the belt and secure it with A02.
 * **E02:** M3x25mm
 * **E03:** M3x30mm
 
+Try to keep the tensioner as closed as possible. Move the belt by 1 or two teeth from the Y belt holder if necessary.
+
 
 # Y Motor Mount MK2S, MK2.5(S)
 
@@ -54,6 +66,8 @@ Insert the belt and secure it with A02.
 * **F03:** M2x12mm
 * **F04:** M3x18mm
 * **F05:** Align the endstop pin with the slit
+
+Press the motor in the direction of the vslot when tightening F02 and F04 screws.
 
 ![y motor mount mk2s G](img_assembly_guide/y_motor_mount_mk2s_02.jpg)
 * **G01:** M3x10mm
@@ -65,6 +79,8 @@ Insert the belt and secure it with A02.
 ![y motor mount mk3 H](img_assembly_guide/y_motor_mount_mk3_01.jpg)
 * **H01:** M5x12mm
 * **H02:** M3x18mm
+
+Press the motor in the direction of the vslot when tightening H02 screws.
 
 ![y motor mount mk3 H](img_assembly_guide/y_motor_mount_mk3_02.jpg)
 * **I01:** M5x16mm
