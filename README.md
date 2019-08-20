@@ -27,9 +27,18 @@ Bear 2.1 comes with a complete new Y axis with the following features:
   * Increase homing accuracy of MK3(S).
   * Y bearing holders are now as standard (not an optional part any more).
 
+:warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade. The Bear Upgrade 2.1 is going to have new features that will require other modifications.
+
+
+
+## Compatibility
+
 :bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK2S or MK2.5 frame to use the new Y axis. It is compatible with Full Bear MK2S and MK2.5 frames thanks to a special belt holder available in the [optional parts](optional_parts/y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s).
 
 :bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK3 frame.
+
+:warning: The new Y axis is not compatible with any of the existing Prusa Y axis, you have to print all parts of this new Bear Y axis.
+
 
 
 ## Manual
