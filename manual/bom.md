@@ -47,7 +47,7 @@ I recommend to use thread locker like Loctite Blue 243 to secure screws during a
 | rambo_base_upper_mount | 1 | |
 | rambo_lid_lower_hinge  | 1 | |
 | rambo_lid_upper_hinge  | 1 | |
-| y_bearing_holder       | 4 | |
+| y_bearing_holder       | 3 | |
 | y_belt_holder          | 1 | |
 | y_idler_tensioner      | 1 | |
 | y_idler_mount          | 1 | |

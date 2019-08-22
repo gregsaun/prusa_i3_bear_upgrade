@@ -34,7 +34,7 @@
 | rambo_base_upper_mount | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 | rambo_lid_lower_hinge  | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 | rambo_lid_upper_hinge  | 1 | 0.20mm | 20% | 3 | 5 | PETG |
-| y_bearing_holder       | 4 | 0.20mm | 20% | 5 | 5 | PETG |
+| y_bearing_holder       | 3 | 0.20mm | 20% | 5 | 5 | PETG |
 | y_belt_holder          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | y_idler_tensioner      | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | y_idler_mount          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
