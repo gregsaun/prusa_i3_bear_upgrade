@@ -29,7 +29,7 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 
 #### Removing unused t-nuts
 
-You will need to remove some t-nuts that are clocked by the black angle corner. Follow these instructions to remove them properly.
+You will need to remove some t-nuts that are blocked by the black angle corner. Follow these instructions to remove them properly.
 
 :bulb: Those are images from MK3 frame but use the same idea for Bear Upgrade MK2S, MK2.5 frame.
 
