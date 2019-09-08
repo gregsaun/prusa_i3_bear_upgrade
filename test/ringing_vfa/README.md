@@ -14,6 +14,7 @@
     * No bottom layers
     * Brim only if bed adhesion is difficult
     * Must not hit cooling threshold (double check speed in gcode file directly)
+    * Max volumetric speed: min 9mm^3/s
   * Printer parameters:
     * Bear MK3(S)
     * Extrusion multiplier calibrated
