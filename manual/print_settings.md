@@ -29,8 +29,8 @@
 | foot                   | 4 | 0.20 | 20 | 3 | 5 | PLA is fine too |
 | lcd_support_a          | 1 | 0.20 | 20 | 3 | 5 | |
 | lcd_support_b          | 1 | 0.20 | 20 | 3 | 5 | |
-| psu_lower_mount        | 1 | 0.20 | 30 | 3 | 5 | same for black and silver versions |
-| psu_upper_mount        | 2 | 0.20 | 30 | 3 | 5 | same for black and silver versions |
+| psu_lower_mount        | 1 | 0.20 | 20 | 3 | 5 | same for black and silver versions |
+| psu_upper_mount        | 2 | 0.20 | 20 | 3 | 5 | same for black and silver versions |
 | rambo_base_lower_mount | 1 | 0.20 | 20 | 3 | 5 | |
 | rambo_base_upper_mount | 1 | 0.20 | 20 | 3 | 5 | |
 | rambo_lid_lower_hinge  | 1 | 0.20 | 20 | 3 | 5 | |
