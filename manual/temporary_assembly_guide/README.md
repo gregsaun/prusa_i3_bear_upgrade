@@ -16,6 +16,6 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 
 ### Table of Content
 
-1. [Y axis](y_axis)
-1. [PSU](psu)
-1. [Rambo Mini/Einsy Base](rambo_base)
+1. [Y axis](y_axis.md)
+1. [PSU](psu.md)
+1. [Rambo Mini/Einsy Base](rambo_base.md)
