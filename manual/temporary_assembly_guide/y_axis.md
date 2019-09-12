@@ -3,8 +3,6 @@
 ## Temporary assembly guide for new parts of Bear Upgrade 2.1
 
 
-
-
 ### Warning :warning:
 
 Please refer to assembly guide for Bear Upgrade 2.0 for the complete assembly.
