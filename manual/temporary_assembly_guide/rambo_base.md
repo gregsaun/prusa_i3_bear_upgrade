@@ -20,4 +20,12 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
   1. rambo_base_lower_mount
 
 
-#### MK3(S) Black PSU Assembly
+#### Assembly
+
+![Rambo bas assembly 01](img_assembly_guide/rambo_base_01.jpg)
+* **A01:** M5x8mm
+* **A02:** M3 hex nut
+* **A03:** M5x8mm
+
+![Rambo bas assembly 02](img_assembly_guide/rambo_base_02.jpg)
+* **B01:** M3x14mm
