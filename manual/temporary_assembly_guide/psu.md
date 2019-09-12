@@ -18,6 +18,6 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 
   1. psu_lower_mount
   1. psu_upper_mount (for MK3(S) choose the silver or black according to your PSU)
+  
 
-
-#### Assembly
+#### MK3(S) Black PSU Assembly
