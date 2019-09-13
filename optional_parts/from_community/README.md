@@ -13,7 +13,6 @@ Designed by the community. Huge thank you all :heart: !
 | Raspberry Pi 3B case | Mat Unter | https://www.thingiverse.com/thing:2869086 |
 | Bear Logo LCD cover | Tom Bergman | https://www.thingiverse.com/thing:2941711 |
 | SD-Card Holder V-Slot Extrusion | D. Meyer | https://www.thingiverse.com/thing:3198211 |
-| Serious business Bear y-axis replacement | Sasha Zbrozek | https://www.thingiverse.com/thing:3122625 |
 | Mean Well LRS-350 PSU Case | Matthew Humphrey | https://www.thingiverse.com/thing:3180564 |
 | Universal Zaribo Einsy Box | Juan Puchol | https://www.thingiverse.com/thing:3239428/ |
 | Ocie's Duet Wifi Enclosure Box remix | George Harrison | https://www.thingiverse.com/thing:3642653 |
