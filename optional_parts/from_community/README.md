@@ -2,24 +2,20 @@
 
 ## Optional parts made by the community
 
-Designed by the community. Huge thank you all, you are making this extruder even better!
+Designed by the community. Huge thank you all :heart: !
 
-| Description | Compatibility | Link |
-|-------------|---------------|------|
-| Spool holder | Full Upgrade | https://www.thingiverse.com/thing:2846383 |
-| Spool holder | Full Upgrade | https://www.thingiverse.com/thing:3068093 |
-| Spool holder | Full Upgrade | https://www.thingiverse.com/thing:3142106 |
-| Multi Material Adapter for MMU 1.0 | Full Upgrade | https://www.thingiverse.com/thing:2831583 |
-| Raspberry Pi 3B case | All | https://www.thingiverse.com/thing:2869086 |
-| Bear Logo LCD cover | All | https://www.thingiverse.com/thing:2941711 |
-| Ends caps for LEDs or cables | Full Upgrade only | https://www.thingiverse.com/thing:2958238 |
-| PSU Replacement Brace | Half Upgrade only | https://www.thingiverse.com/thing:3087074 |
-| SD-Card Holder V-Slot Extrusion | All | https://www.thingiverse.com/thing:3198211 |
-| Serious business Bear y-axis replacement | Full Upgrade | https://www.thingiverse.com/thing:3122625 |
-| Mean Well LRS-350 PSU Case | Full Upgrade | https://www.thingiverse.com/thing:3180564 |
-| Universal Zaribo Einsy Box | All | https://www.thingiverse.com/thing:3239428/ |
-| Ocie's Duet Wifi Enclosure Box remix | Full Upgrade MK3 | https://www.thingiverse.com/thing:3642653 |
-| LED Light Mounts | Full Upgrade | https://www.thingiverse.com/thing:3619763 |
-| X Axis to Y Rod Calibration Tool  | All | https://www.thingiverse.com/thing:3645355 |
-| Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3664281 |
-| Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3700587 |
+| Description | Author | Link |
+|-------------|--------|------|
+| Spool holder | Christopher Burgess | https://www.thingiverse.com/thing:2846383 |
+| Spool holder | Kappa Mi | https://www.thingiverse.com/thing:3068093 |
+| Spool holder | Martin Majewski | https://www.thingiverse.com/thing:3142106 |
+| Multi Material Adapter for MMU 1.0 | Karel Koci | https://www.thingiverse.com/thing:2831583 |
+| Raspberry Pi 3B case | Mat Unter | https://www.thingiverse.com/thing:2869086 |
+| Bear Logo LCD cover | Tom Bergman | https://www.thingiverse.com/thing:2941711 |
+| SD-Card Holder V-Slot Extrusion | D. Meyer | https://www.thingiverse.com/thing:3198211 |
+| Serious business Bear y-axis replacement | Sasha Zbrozek | https://www.thingiverse.com/thing:3122625 |
+| Mean Well LRS-350 PSU Case | Matthew Humphrey | https://www.thingiverse.com/thing:3180564 |
+| Universal Zaribo Einsy Box | Juan Puchol | https://www.thingiverse.com/thing:3239428/ |
+| Ocie's Duet Wifi Enclosure Box remix | George Harrison | https://www.thingiverse.com/thing:3642653 |
+| LED Light Mounts | Joe Mike Terranella | https://www.thingiverse.com/thing:3619763 |
+| X Axis to Y Rod Calibration Tool | Peter Bauer | https://www.thingiverse.com/thing:3645355 |
