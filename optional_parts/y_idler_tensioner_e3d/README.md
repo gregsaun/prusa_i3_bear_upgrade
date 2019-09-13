@@ -10,8 +10,6 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 
 ### Bill of Materials
 
-This is the list of extra material you will need from original Prusa extruder
-
 | Part     | Quantity<br>(pce) | Detail |
 |----------|:---------------:|--------|
 | Bear 2.1 Y idler mount | 1 | |
