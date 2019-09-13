@@ -1,6 +1,8 @@
 # Prusa i3 Bear Upgrade 2.1
 
 
+:warning: **This is a development branch, use it at your own risk.** :warning:
+
 
 ## Introduction
 
@@ -28,7 +30,6 @@ Bear 2.1 comes with a complete new Y axis with the following features:
   * Y bearing holders are now as standard (not an optional part any more).
 
 :warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade. The Bear Upgrade 2.1 is going to have new features that will require other modifications.
-
 
 
 ## Compatibility
