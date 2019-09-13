@@ -12,9 +12,9 @@ The new Bear 2.1 frame is based on the Bear 2.0 MK3 frame and is longer.
 
 ### Which frame do I have?
 
-Measure the full length of your Y axis like on the picture below.
-  * If the length is **351 mm long** (±1mm) then you need the Y belt holder listed in this page.
-  * If the length is **371 mm long** (±1mm) then you can use the standard Bear 2.1 Y axis from [here](../../printed_parts/).
+Measure the length of your Y axis **extrusion** as seen on the picture below.
+  * If the length is **311 mm long** (±1mm) then you need the Y belt holder listed in this page.
+  * If the length is **331 mm long** (±1mm) then you can use the standard Bear 2.1 Y axis from [here](../../printed_parts/).
 
 ![Bear version MK2S MK2.5 MK2.5S](../../doc/bear_versions_frame_sizes_mk2-2s-2.5-2.5s.jpg)
 
