@@ -23,13 +23,13 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 
 ### Print Settings
 
-### :warning: Warning
+##### :warning: Warning
 
 1. The parts have been designed and tested with the parameters bellow and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances.
 1. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
 
 
-### Parameters
+##### Parameters
 
 * Filament type: PETG
 * Slicer: PrusaSlicer
