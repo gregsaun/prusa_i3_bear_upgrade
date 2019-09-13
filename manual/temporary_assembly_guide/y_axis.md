@@ -28,7 +28,7 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 #### Parts positions on the frame
 
   * For Bear Upgrade 2.1 MK3(S) : [doc/bear_upgrade_2.1_parts_positions_mk3-3s.pdf](../../doc/bear_upgrade_2.1_parts_positions_mk3-3s.pdf)
-  * For Bear Upgrade 2.1 MK2S, MK2.5(S) : [doc/bear_upgrade_2.1_parts_positions_mk2s-2.5-2.5s.pdf](../../bear_upgrade_2.1_parts_positions_mk2s-2.5-2.5s.pdf)
+  * For Bear Upgrade 2.1 MK2S, MK2.5(S) : [doc/bear_upgrade_2.1_parts_positions_mk2s-2.5-2.5s.pdf](../../doc/bear_upgrade_2.1_parts_positions_mk2s-2.5-2.5s.pdf)
 
 
 #### Y Belt Holder
