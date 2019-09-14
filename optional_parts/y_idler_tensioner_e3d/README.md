@@ -8,7 +8,7 @@
 
 This is a Y idler tensioner compatible with E3D toothed idler.
 
-![Bear 2.1 Idler Tensioner for E3D Gates pulleys](y_idler_tension_e3d.jpg)
+![Bear 2.1 Idler Tensioner for E3D Gates pulleys](y_idler_tensioner_e3d.jpg)
 
 
 
