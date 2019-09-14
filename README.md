@@ -4,6 +4,20 @@
 :warning: **This is a development branch, use it at your own risk.** :warning:
 
 
+## Table of content
+  1. [Introduction](#introduction)
+  1. [New features since Bear Upgrade 2.0](#new-features-since-bear-upgrade-20)
+  1. [Compatibility](#compatibility)
+  1. [Manual](#manual)
+  1. [Optional parts](#optional-parts)
+  1. [Where can I purchase an official kit?](#where-can-i-purchase-an-official-kit)
+  1. [Community](#community)
+  1. [Support my work](#support-my-work)
+  1. [Thank you](#thank-you)
+  1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
+
+
+
 
 ## Introduction
 
