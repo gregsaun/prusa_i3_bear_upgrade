@@ -29,11 +29,11 @@ This is a Y idler for 9mm width Gates 2GT belt (standard is 6mm). Larger belt wi
 
 | Part     | Qty | Note | Download link |
 |----------|:--------:|------|---------------|
-| y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s | 1 | :warning: For Bear 2.0 MK2(S), MK2.5(S) frame | [y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s.stl) |
-| y_belt_holder_9mm_belt_bear2.1_mk2s-2.5-2.5s | 1 | :warning: For Bear 2.1 MK2(S), MK2.5(S) frame | [y_belt_holder_9mm_belt_bear2.1_mk2s-2.5-2.5s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/y_belt_holder_9mm_belt_bear2.1_mk2s-2.5-2.5s.stl) |
-| y_belt_holder_9mm_belt_bear2.1_mk3-3s        | 1 | :warning: For Bear 2.1 MK3(S) frame | [y_belt_holder_9mm_belt_bear2.1_mk3-3s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/y_belt_holder_9mm_belt_bear2.1_mk3-3s.stl) |
-| y_idler_mount_9mm_belt | 1 | | [y_idler_mount_9mm_belt.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/y_idler_mount_9mm_belt.stl) |
-| y_idler_tensioner_9mm_belt | 1 | | [y_idler_tensioner_9mm_belt.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/y_idler_tensioner_9mm_belt.stl) |
+| y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s | 1 | :warning: For Bear 2.0 MK2(S), MK2.5(S) frame | [y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/printed_parts/y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s.stl) |
+| y_belt_holder_9mm_belt_bear2.1_mk2s-2.5-2.5s | 1 | :warning: For Bear 2.1 MK2(S), MK2.5(S) frame | [y_belt_holder_9mm_belt_bear2.1_mk2s-2.5-2.5s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/printed_parts/y_belt_holder_9mm_belt_bear2.1_mk2s-2.5-2.5s.stl) |
+| y_belt_holder_9mm_belt_bear2.1_mk3-3s        | 1 | :warning: For Bear 2.1 MK3(S) frame | [y_belt_holder_9mm_belt_bear2.1_mk3-3s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/printed_parts/y_belt_holder_9mm_belt_bear2.1_mk3-3s.stl) |
+| y_idler_mount_9mm_belt | 1 | | [y_idler_mount_9mm_belt.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/printed_parts/y_idler_mount_9mm_belt.stl) |
+| y_idler_tensioner_9mm_belt | 1 | | [y_idler_tensioner_9mm_belt.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_9mm_belt/printed_parts/y_idler_tensioner_9mm_belt.stl) |
 
 The Y motor mount from standard Bear 2.1 printed parts is reused.
 

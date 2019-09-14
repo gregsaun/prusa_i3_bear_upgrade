@@ -26,4 +26,4 @@ You have to use the same print settings and assembly guide than the standard Bea
 
 ### Download
 
-Direct link to download the STL: [y_belt_holder_bear2.0_mk2s-2.5-2.5s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s/y_belt_holder_bear2.0_mk2s-2.5-2.5s.stl)
+Direct link to download the STL: [y_belt_holder_bear2.0_mk2s-2.5-2.5s.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s/printed_parts/y_belt_holder_bear2.0_mk2s-2.5-2.5s.stl)
