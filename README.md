@@ -9,7 +9,7 @@
 
 This is a stiffer and more reliable frame for original [Prusa i3 MK2S, MK2.5(S) and MK3(S)](https://www.prusa3d.com/).
 
-![Bear Upgrade MK3S](doc/rendering/mk3_home_left.jpg)
+![Bear Upgrade MK3S](doc/rendering/mk3_home_left_882px.jpg)
 
 
 
