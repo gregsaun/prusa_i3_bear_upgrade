@@ -1,5 +1,17 @@
 # Bear Upgrades 2.1
 
+
+
+## Official Optional Parts
+
+| Description | Link |
+|-------------|------|
+| Y belt holder for Bear 2.0 MK2(S), MK2.5(S) frame | [y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s](./y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s) |
+| Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](y_idler_9mm_belt) |
+| Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](y_idler_tensioner_e3d) |
+
+
+
 ## Optional parts made by the community
 
 Designed by the community. Huge thank you all :heart: !
@@ -18,3 +30,5 @@ Designed by the community. Huge thank you all :heart: !
 | Ocie's Duet Wifi Enclosure Box remix | George Harrison | https://www.thingiverse.com/thing:3642653 |
 | LED Light Mounts | Joe Mike Terranella | https://www.thingiverse.com/thing:3619763 |
 | X Axis to Y Rod Calibration Tool | Peter Bauer | https://www.thingiverse.com/thing:3645355 |
+
+Note: Those parts have not been tested and we can't guarantee they work fine. We invite you to write to the author in case you have problems.
