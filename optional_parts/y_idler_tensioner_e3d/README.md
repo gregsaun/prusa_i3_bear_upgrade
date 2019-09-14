@@ -23,6 +23,7 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 | M3x30mm socket head screw ISO 4762 | 1 | |
 | M3x25mm socket head screw ISO 4762 | 1 | |
 | M3 Hex nylock nuts (DIN 985) | 2 | |
+| M3 steel washer DIN 125, 0.5mm thick | 1 | |
 
 #### Printed Parts
 
