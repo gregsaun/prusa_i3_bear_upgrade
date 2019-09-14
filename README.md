@@ -4,32 +4,28 @@
 :warning: **This is a development branch, use it at your own risk.** :warning:
 
 
+
 ## Introduction
 
-This is a stiffer and more reliable frame for original Prusa i3 MK2S, MK2.5(S) and MK3(S).
-
-Josef PRŮŠA has created numerous of incredible 3D printers capable of great print quality. A huge thanks to him and all its team!
+This is a stiffer and more reliable frame for original [Prusa i3 MK2S, MK2.5(S) and MK3(S)](https://www.prusa3d.com/).
 
 ![Bear Upgrade MK3S](doc/rendering/mk3_home_left.jpg)
 
 
+
 ## New features since Bear Upgrade 2.0
 
-Bear Upgrade 2.1 will have a single frame for all Prusa versions (MK2S, MK2.5(S) and MK3(S)). This single frame is exactly the same frame than Full Bear 2.0 MK3 frame.
-
-Bear 2.1 comes with a complete new Y axis with the following features:
-  * New belt tensioner.
-  * New stiffer Y motor mount.
-  * New belt holder with clamping system.
-  * Easier assembly of Y motor mount.
-  * Creates a similar Y axis construction across all Bear frame.
-  * T-nuts are placed were it is easy to swap them.
-  * Compatible with E3D-Gates idlers.
-  * Helps to reduce Y axis stepper noise for MK3(S).
-  * Increase homing accuracy of MK3(S).
-  * Y bearing holders are now as standard (not an optional part any more).
+  * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
+  * New stiffer Y axis with tensioner.
+  * Reduce Y axis stepper noise for MK3(S).
+  * Increase Y axis homing accuracy of MK3(S).
+  * Easier assembly of printed parts.
+  * Support all Prusa's PSU.
+  * Stiffer mounts for Rambo Mini/Einsy cover.
+  * Compatible with E3D-Gates idlers as well as 9mm belt.
 
 :warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade. The Bear Upgrade 2.1 is going to have new features that will require other modifications.
+
 
 
 ## Compatibility
@@ -38,7 +34,7 @@ Bear 2.1 comes with a complete new Y axis with the following features:
 
 :bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK3 frame.
 
-:warning: The new Y axis is not compatible with any of the existing Prusa Y axis, you have to print all parts of this new Bear Y axis.
+:warning: The new Y axis is not compatible with none of the existing Prusa Y axis or Bear 2.0 Y axis parts. You have to update all Bear 2.1 Y axis parts.
 
 
 
@@ -56,9 +52,7 @@ Official and community optional parts [are listed here](optional_parts).
 
 
 
-## Where can I purchase the hardware?
-
-#### Official distributors
+## Where can I purchase an official kit?
 
 Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
 
@@ -123,7 +117,7 @@ Massive thank you in advance :heart:
 
 ## Thank you
 
-Thank you to all my Patreon : 3D-Maniac, Ahmed, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Austin Vojta, Bas Borgignons, Bearpaw93, Bojan Kopanja, Brian Tibbetts, c, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Kevin Smith, Kyle Shaw, Lewis Cheek, Loïc Dumont, mark smith, Matthew Humphrey, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Nathan Trop, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lobbins, SamE0717, Scott Rini, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz
+Thank you to all my Patreon : 3D-Maniac, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Austin Vojta, Bas Borgignons, Bearpaw93, Bojan Kopanja, Brian Tibbetts, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jack Emilsen, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kyle Rothrock, Kyle Shaw, Lewis Cheek, Loïc Dumont, Luke Turner, Matthew Humphrey, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Bauer (ColdFusion), Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Settle, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz
 
 Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
