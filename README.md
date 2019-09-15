@@ -21,7 +21,7 @@
 
 ## Introduction
 
-This is a stiffer and more reliable frame for original [Prusa i3 MK2S, MK2.5(S) and MK3(S)](https://www.prusa3d.com/).
+The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/) frame with a more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customization. Plus it looks unique with our coloured frames!
 
 ![Bear Upgrade MK3S](doc/rendering/mk3_home_left_882px.jpg)
 
