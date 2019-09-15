@@ -4,7 +4,7 @@
 :warning: **This is a development branch, use it at your own risk.** :warning:
 
 
-## Table of content
+## Table of contents
   1. [Introduction](#introduction)
   1. [New features since Bear Upgrade 2.0](#new-features-since-bear-upgrade-20)
   1. [Compatibility](#compatibility)
@@ -29,14 +29,15 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
 
 ## New features since Bear Upgrade 2.0
 
+New and improved features in Bear Upgrade 2.1:
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner.
   * Reduce Y axis stepper noise for MK3(S).
-  * Increase Y axis homing accuracy of MK3(S).
+  * Improve Y axis homing accuracy for MK3(S).
   * Easier assembly of printed parts.
-  * Support all Prusa's PSU.
+  * Support all Pruss PSU.
   * Stiffer mounts for Rambo Mini/Einsy cover.
-  * Compatible with E3D-Gates idlers as well as 9mm belt.
+  * Compatible with E3D Gates idlers as well as 9mm belt.
 
 :warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade. The Bear Upgrade 2.1 is going to have new features that will require other modifications.
 
@@ -48,7 +49,7 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
 
 :bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK3 frame.
 
-:warning: The new Y axis is not compatible with none of the existing Prusa Y axis or Bear 2.0 Y axis parts. You have to update all Bear 2.1 Y axis parts.
+:warning: The new Y axis is not compatible with any of the existing Prusa Y axis or Bear 2.0 Y axis parts. You have to update all Bear 2.1 Y axis parts.
 
 
 

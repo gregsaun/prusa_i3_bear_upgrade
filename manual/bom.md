@@ -6,7 +6,7 @@
 
 | Part     | Quantity | Detail | Link |
 |----------|:--------:|--------|------|
-| Original Prusa i3 MK2S or MK2.5(S) or MK3(S) | 1 | | [Prusa](https://www.prusa3d.com) |
+| Original Prusa i3 MK2(S) or MK2.5(S) or MK3(S) | 1 | | [Prusa](https://www.prusa3d.com) |
 | V-Slot 20x40 331mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | V-Slot 20x40 359mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
 | V-Slot 20x40 370mm | 2 | | [Openbuilds](http://openbuildspartstore.com/v-slot-20x40-linear-rail/) |
@@ -43,8 +43,8 @@ I recommend to use thread locker like Loctite Blue 243 to secure screws during a
 | foot                   | 4 | |
 | lcd_support_a          | 1 | |
 | lcd_support_b          | 1 | |
-| psu_lower_mount        | 1 | same for black and silver versions |
-| psu_upper_mount        | 2 | same for black and silver versions |
+| psu_lower_mount        | 1 | same for black and silver PSU versions |
+| psu_upper_mount        | 2 | same for black and silver PSU versions |
 | rambo_base_lower_mount | 1 | |
 | rambo_base_upper_mount | 1 | |
 | rambo_lid_lower_hinge  | 1 | |
