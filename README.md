@@ -10,8 +10,9 @@
   1. [Compatibility](#compatibility)
   1. [Manual](#manual)
   1. [Optional parts](#optional-parts)
-  1. [Where can I purchase an official kit?](#where-can-i-purchase-an-official-kit)
   1. [Community](#community)
+  1. [Where can I get an official kit?](#where-can-i-get-an-official-kit)
+  1. [Partners and contributors](#partners-and-contributors)
   1. [Support my work](#support-my-work)
   1. [Thank you](#thank-you)
   1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
@@ -67,43 +68,6 @@ Official and community optional parts [are listed here](optional_parts).
 
 
 
-## Where can I purchase an official kit?
-
-Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
-
-All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
-
-* ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
-   All3D Makers (US)  
-   [all3dmakers.com](http://all3dmakers.com/)  
-
-
-* ![blackfrog logo](doc/distributors/blackfrog_logo.jpg)  
-   Blackfrog (EU)  
-   [blackfrog.pl](https://blackfrog.pl)  
-
-* ![lecktor logo](doc/distributors/lecktor_logo.png)  
-   Lecktor (EU)  
-   [lecktor.com](http://lecktor.com)  
-
-* ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
-   Makerparts.ca (CA)  
-   [makerparts.ca](http://makerparts.ca)  
-
-
-* ![ooznest logo](doc/distributors/ooznest_logo.png)  
-   Ooznest (EU)  
-   [ooznest.co.uk](https://ooznest.co.uk/)  
-
-
-* ![ratrig logo](doc/distributors/ratrig_logo.jpg)  
-   RatRig (EU)  
-   [www.ratrig.com](http://www.ratrig.com/)  
-
-By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
-
-
-
 ## Community
 
 Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
@@ -114,6 +78,59 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 * Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
 * Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
 
+
+
+## Where can I get an official kit?
+
+Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
+
+All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
+
+|  |  |
+|--|--|
+| ![all3d makers logo](doc/distributors/all3dmakers_logo.png)<br/>All3D Makers (US)<br/>[all3dmakers.com](http://all3dmakers.com/)   | |
+
+  * ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
+     All3D Makers (US)  
+     [all3dmakers.com](http://all3dmakers.com/)  
+
+
+  * ![blackfrog logo](doc/distributors/blackfrog_logo.jpg)  
+     Blackfrog (EU)  
+     [blackfrog.pl](https://blackfrog.pl)  
+
+  * ![lecktor logo](doc/distributors/lecktor_logo.png)  
+    Lecktor (EU)  
+    [lecktor.com](http://lecktor.com)  
+
+  * ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
+    Makerparts.ca (CA)  
+    [makerparts.ca](http://makerparts.ca)  
+
+
+  * ![ooznest logo](doc/distributors/ooznest_logo.png)  
+    Ooznest (EU)  
+    [ooznest.co.uk](https://ooznest.co.uk/)  
+
+
+  * ![ratrig logo](doc/distributors/ratrig_logo.jpg)  
+    RatRig (EU)  
+    [www.ratrig.com](http://www.ratrig.com/)  
+
+By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
+
+
+## Partners and contributors
+
+![LDO Motors](doc/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the Original Bear upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
+
+![3DFused](doc/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Upgrade.
+
+Grégoire Saunier is the inventor of the Original Bear Upgrade frame and extruder.
+
+Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
+
+Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with translations.
 
 
 ## Support my work
