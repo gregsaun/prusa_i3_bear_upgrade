@@ -86,10 +86,6 @@ Official distributors are selling a kit with all screws and extrusions ready for
 
 All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
 
-|  |  |
-|--|--|
-| ![all3d makers logo](doc/distributors/all3dmakers_logo.png)<br/>All3D Makers (US)<br/>[all3dmakers.com](http://all3dmakers.com/)   | |
-
   * ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
      All3D Makers (US)  
      [all3dmakers.com](http://all3dmakers.com/)  
