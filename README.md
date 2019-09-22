@@ -133,6 +133,10 @@ All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) 
 
 By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
 
+#### Openbuilds distributors
+
+You can also purchase parts separately worldwide. Checkout my list of distributors here : [Openbuilds stores list](doc/openbuilds_stores_list.md)
+
 
 
 ## Partners and contributors
@@ -146,12 +150,6 @@ Grégoire Saunier is the inventor of the Original Bear Upgrade frame and extrude
 Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
 
 Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with translations.
-
-
-
-#### Openbuilds distributors
-
-You can also purchase parts separately worldwide. Checkout my list of distributors here : [Openbuilds stores list](doc/openbuilds_stores_list.md)
 
 
 
