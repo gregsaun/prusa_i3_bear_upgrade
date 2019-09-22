@@ -116,6 +116,7 @@ All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) 
 By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
 
 
+
 ## Partners and contributors
 
 ![LDO Motors](doc/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the Original Bear upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
@@ -127,6 +128,7 @@ Grégoire Saunier is the inventor of the Original Bear Upgrade frame and extrude
 Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
 
 Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with translations.
+
 
 
 ## Support my work
@@ -145,7 +147,7 @@ Massive thank you in advance :heart:
 
 ## Thank you
 
-Thank you to all my Patreon : 3D-Maniac, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Austin Vojta, Bas Borgignons, Bearpaw93, Bojan Kopanja, Brian Tibbetts, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jack Emilsen, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kyle Rothrock, Kyle Shaw, Lewis Cheek, Loïc Dumont, Luke Turner, Matthew Humphrey, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Bauer (ColdFusion), Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Settle, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz
+Thank you to all my Patreon : 3D-Maniac, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Bas Borgignons, Bearpaw93, Bojan Kopanja, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jack Emilsen, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kyle Rothrock, Kyle Shaw, Loïc Dumont, Luke Turner, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Bauer (ColdFusion), Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Settle, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz.
 
 Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
