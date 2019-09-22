@@ -6,11 +6,7 @@
 
 ## Introduction
 
-This is an aluminum frame conversion for the Prusa i3 MK2, MK2s, MK2.5 and MK3.
-
-Josef PRŮŠA has created numerous of incredible 3D printers and its latest Prusa i3 MK3 is capable of very impressive print quality for a very low price. A huge thanks to him and all its team!
-
-One of the down point of the Prusa i3 MK2 and MK3 is the rigidity of the frame. A very good project has solved those problems by using 3030 extrusion aluminum : Prusa 3030 Haribo Edition. So why another conversion build? Check the next section ;)
+The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/) frame with a more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customization. Plus it looks unique with our coloured frames!
 
 
 
@@ -81,7 +77,26 @@ Several printed parts are shared between all these versions. This makes easier t
 Go to [HALF upgrade page](half_upgrade/) or [FULL upgrade page](full_upgrade/).
 
 
-## Where can I purchase the hardware?
+
+## Optional parts
+
+Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.md)
+
+
+
+## Community
+
+Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
+
+* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
+* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* GitHub : [github.com/gregsaun](https://github.com/gregsaun)
+* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
+* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
+
+
+
+## Where can I get an official kit?
 
 #### Official distributors
 
@@ -119,42 +134,46 @@ All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) 
 By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
 
 
+
+## Partners and contributors
+
+![LDO Motors](doc/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the Original Bear upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
+
+![3DFused](doc/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Upgrade.
+
+Grégoire Saunier is the inventor of the Original Bear Upgrade frame and extruder.
+
+Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
+
+Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with translations.
+
+
+
 #### Openbuilds distributors
 
 You can also purchase parts separately worldwide. Checkout my list of distributors here : [Openbuilds stores list](doc/openbuilds_stores_list.md)
 
 
 
-## Community
-
-Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
-
-* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
-* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
-* GitHub : [github.com/gregsaun](https://github.com/gregsaun)
-* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
-* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
-
-
-
-## Optional parts
-
-Checkout the best optional parts for you Bear : [Optional Parts](optional_parts.md)
-
-
 ## Support my work
 
-The Bear project is made possible thanks supporters. Here are some way to support me:
-  - Become my patron with Patreon: [patreon.com/gregsaun](https://www.patreon.com/gregsaun)
-  - A tip via Paypal: [paypal.me/gregsaun](https://www.paypal.me/gregsaun)
-  - A tip via Thingiverse: [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron/about)
-  
-Big thank you in advance :heart:
+The Bear project is made possible thanks supporters, you can participate via
+<br/><br/>
+[![become a patron](doc/icons/patreon_50px.png)](https://www.patreon.com/gregsaun)<br/>[patreon.com/gregsaun](https://www.patreon.com/gregsaun)
+<br/><br/>
+[![paypal.me](doc/icons/paypal_50px.png)](https://www.paypal.me/gregsaun)<br/>[paypal.me/gregsaun](https://www.paypal.me/gregsaun)
+<br/><br/>
+ You can also send me a tip via [Thingiverse](https://www.thingiverse.com/pekcitron/about) if you prefer that way.
+
+Massive thank you in advance :heart:
+
 
 
 ## Thank you
 
-Thank you to all my Patreon : 3DPrintronics, Ahmed, Albe Gouws, Anders Svendsen, Apton Ika, Arnaud CHRISTEL, Bearpaw93, Christopher Lee, Christos Goulas, Corey Dryja, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, Doug Palmer, Erich Jermann, Espen Fjellvær Olsen, Evan, flobler, Grigori Palamartšuk, Hector Gonzalez, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Weinberg, Jonathan Ryer, Josh Carter, Joshua Jones, Jotham B, JTa, Kevin Smith, mark leino, Matthew Humphrey, Miguel Castillo, Mike Phelps, Nathan Trop, Orlando E Moran, Patch Best, Peter Boardman, Pierre Allegraud, QcRetro, ra100, RC-CnC, Richard Bateman, Riot, Ryan Lobbins, SamE0717, Schwiizer, Scott Rini, sleene, Stanislav Kljuhhin, Stephan Kohls, Steven Clark, Steven Daglish, Ted Rathkopf, Tomáš Vydra, Total Dramatist, Tree of Broken Hearts, Tyler Townes
+Thank you to all my Patreon : 3D-Maniac, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Austin Vojta, Bas Borgignons, Bearpaw93, Bojan Kopanja, Brian Tibbetts, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jack Emilsen, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kyle Rothrock, Kyle Shaw, Lewis Cheek, Loïc Dumont, Luke Turner, Matthew Humphrey, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Bauer (ColdFusion), Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Settle, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz
+
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 Thank you to all that have send me a tip on Thingiverse and PayPal.
 
@@ -168,9 +187,8 @@ Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 
 Thank you Openbuilds for your hardware, community and state of mind.
 
-Thank you for making the community alibe with all your comments, issues, pull requests, optional parts, make, pictures, etc.
+Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 
 ## Sources
