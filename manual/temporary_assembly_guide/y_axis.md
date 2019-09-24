@@ -36,7 +36,9 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 ![y belt holder A](img_assembly_guide/y_belt_holder.jpg)
   * **A01:** M3 square nut
   * **A02:** M3x18mm
-  * **A03:** This face must face the two bearings side of the Y carriage
+  * **A03:**
+    * MK3(S): This face must face the two bearings side of the Y carriage
+    * MK2(S) MK2.5(S): This face must face the single bearing side of the Y carriage
 
 Insert the belt and secure it with A02.
 
