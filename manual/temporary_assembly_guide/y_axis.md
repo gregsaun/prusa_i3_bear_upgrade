@@ -70,7 +70,7 @@ Try to keep the tensioner as closed as possible. Move the belt by 1 or two teeth
 ![y motor mount mk2s F](img_assembly_guide/y_motor_mount_mk2s_01.jpg)
 * **F01:** M5x12mm
 * **F02:** M3x10mm
-* **F03:** M2x12mm
+* **F03:** M2x12mm. Push the endstop in direction of the front of the printer while tightening
 * **F04:** M3x18mm
 * **F05:** Align the endstop pin with the slit
 
