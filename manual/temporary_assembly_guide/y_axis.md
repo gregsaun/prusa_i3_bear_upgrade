@@ -48,7 +48,7 @@ Insert the belt and secure it with A02.
 ![y idler B](img_assembly_guide/y_idler_01.jpg)
 * **B01:** M5x10mm
 * **B02:** M5x10mm
-* **B02:** M3 locknut
+* **B03:** M3 locknut
 
 ![y idler C](img_assembly_guide/y_idler_02.jpg)
 * **C01:** M3 locknut
