@@ -25,9 +25,9 @@ Measure the length of your Y axis **extrusion** as seen on the picture below.
 
 1. You need to download some parts from the Bear Upgrade 2.1 and some from this current page.
     1. Download all Bear 2.1 common parts: [printed_parts/common_to_all_versions/stl/](../../printed_parts/common_to_all_versions/stl/)
-    2. Download all Bear 2.1 mk2s_mk2.5_mk2.5s parts: [printed_parts/mk2s_mk2.5_mk2.5s/stl/](../../printed_parts/mk2s_mk2.5_mk2.5s/stl/)
-    3. Download all Bear 2.0 to 2.1 upgrade parts from the current page: [./printed_parts/](./printed_parts)
-2. Print z_motor_mounts, z_tops and y_belt_holder from the current page (link in 1.3). Don't print those parts from the other folders.
+    1. Download all Bear 2.1 mk2s_mk2.5_mk2.5s parts: [printed_parts/mk2s_mk2.5_mk2.5s/stl/](../../printed_parts/mk2s_mk2.5_mk2.5s/stl/)
+    1. Download all Bear 2.0 to 2.1 upgrade parts from the current page: [./printed_parts/](./printed_parts)
+1. Print z_motor_mounts, z_tops and y_belt_holder from the current page (link in 1.iii). Don't print those parts from the other folders.
 
 
 #### Print settings
