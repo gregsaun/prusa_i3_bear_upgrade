@@ -34,9 +34,9 @@ New and improved features in Bear Upgrade 2.1:
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner.
   * New stiffer Z axis.
-  * Reduce Y axis stepper noise for MK3(S).
-  * Improve Y axis homing accuracy for MK3(S).
+  * Improve X and Y axis homing accuracy.
   * Improve Z axis alignment and assembly.
+  * Reduce Y axis stepper noise for MK3(S).
   * Easier assembly of printed parts.
   * Support all Prusa PSU.
   * Shorter LCD supports.
