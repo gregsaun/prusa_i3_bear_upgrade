@@ -33,10 +33,14 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
 New and improved features in Bear Upgrade 2.1:
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner.
+  * New stiffer Z axis.
   * Reduce Y axis stepper noise for MK3(S).
   * Improve Y axis homing accuracy for MK3(S).
+  * Improve Z axis alignment and assembly.
   * Easier assembly of printed parts.
-  * Support all Pruss PSU.
+  * Support all Prusa PSU.
+  * Shorter LCD supports.
+  * Nicer and stronger end caps.
   * Stiffer mounts for Rambo Mini/Einsy cover.
   * Compatible with E3D Gates idlers as well as 9mm belt.
 
@@ -46,11 +50,11 @@ New and improved features in Bear Upgrade 2.1:
 
 ## Compatibility
 
-:bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK2S or MK2.5 frame to use the new Y axis. It is compatible with Full Bear MK2S and MK2.5 frames thanks to a special belt holder available in the [optional parts](optional_parts/y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s).
+This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
-:bulb: You do not need to upgrade the Bear frame if you come from Full Bear Upgrade 2.0 MK3 frame.
+:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts here: [optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s).
 
-:warning: The new Y axis is not compatible with any of the existing Prusa Y axis or Bear 2.0 Y axis parts. You have to update all Bear 2.1 Y axis parts.
+:warning: The new Y and Z axis are not compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
 
 
 
@@ -147,7 +151,7 @@ Massive thank you in advance :heart:
 
 ## Thank you
 
-Thank you to all my Patreon : 3D-Maniac, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Bas Borgignons, Bearpaw93, Bojan Kopanja, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Imperial Terrain, Jack Emilsen, Jason Bao, Jason Marcus, Jimmy Lee, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kyle Rothrock, Kyle Shaw, Loïc Dumont, Luke Turner, Michal Kapusnik, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Patch Best, Peter Bauer (ColdFusion), Peter Boardman, QcRetro, ra100, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Settle, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steven Daglish, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Tyler Townes, Warren Schultz.
+Thank you to all my Patreon : 3D-Maniac, Ahmed, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Bas Borgignons, Bearpaw93, Bojan Kopanja, Borja Gutierez Yañez, Brad Craig, Brendon Buhler, Chris Jackson, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David F Morrison II, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Emiliano Vignali, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Fredrik Id, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Illia Tsariuk, Imperial Terrain, J.D. sloot, Jack Emilsen, Jacob Leonard, Jan Andersen, Jason Bao, Jason Marcus, Jimmy Lee, JimmySnails, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Jonny Menkakow, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Keith Bennett, Ken Waters, Kevin Smith, Kim Schauss, Kristof Spiszak, Kyle Rothrock, Lionel Saëz, Loïc Dumont, Luke Turner, Magnus Pfeffer, Mark A, Merijn van Mourik, Michael Wang, Michal Kapusnik, Michiel Plaisier, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Oscar Padilla, Patch Best, Phil S., QcRetro, ra100, Rasmus Baes, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Serkan Aksu, Settle, Shawn Chronister, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steve Peterson, Steven Daglish, Stig Jøran Moen, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Trae LaPole, Tyler Townes, Víctor Martínez, Warren Schultz, Wes Warner.
 
 Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
@@ -161,7 +165,7 @@ Thank you to all official distributors for taking care of the kits and customers
 
 Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 
-Thank you Openbuilds for your hardware, community and state of mind.
+Thank you Openbuilds for your open source hardware and community.
 
 Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
@@ -171,9 +175,11 @@ Thank you for making the community alive with all your comments, issues, pull re
 
 Here is list of sources and inspiration :
 
-* Prusa : http://www.prusa3d.com
-* Prusa 3030 Haribo Edition : https://github.com/PrusaMK2Users/3030_Haribo_Edition
-* Openbuilds : https://www.openbuilds.org
-* Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3/
+  * Original Prusa i3 printers : [prusa3d.com](http://www.prusa3d.com).
+  * Prusa 3030 Haribo Edition : [github.com/PrusaMK2Users/3030_Haribo_Edition](https://github.com/PrusaMK2Users/3030_Haribo_Edition).
+  * Openbuilds for the invention of opensource vslot extrusions : [openbuilds.org](https://www.openbuilds.org).
+  * Prusa i3 Solidworks parts from jzkmath : [github.com/jzkmath/Original-Prusa-i3](https://github.com/jzkmath/Original-Prusa-i3/).
+  * Roy Henriksson for the inspiration of its Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
+  * Vecko Kojchevski for its Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
 Massive thanks to these projects, without them this project can not exist!
