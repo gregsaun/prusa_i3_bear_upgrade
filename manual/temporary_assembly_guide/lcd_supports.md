@@ -12,12 +12,10 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 :warning: Those instructions are for advanced users, if you are not sure how to proceed, please wait the final release.
 
 
-### Table of Content
+### LCD Supports
 
-1. [Remove t-nuts](remove_tnuts.md)
-1. [Y axis](y_axis.md)
-1. [Z axis](z_axis.md)
-1. [PSU](psu.md)
-1. [Rambo Mini/Einsy base](rambo_base.md)
-1. [End caps](end_caps.md)
-1. [LCD supports](lcd_support.md)
+![Lcd supports A](img_assembly_guide/lcd_support_01.jpg)
+  * **A01:** M3x10mm.
+
+![z axis B](img_assembly_guide/lcd_support_02.jpg)
+  * **B01:** M5x10mm.
