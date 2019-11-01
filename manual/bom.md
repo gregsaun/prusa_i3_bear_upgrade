@@ -15,10 +15,9 @@
 | 90 degree joining plate | 10 | | [Openbuilds](http://openbuildspartstore.com/90-degree-joining-plate/) |
 | Tee-nuts M5 | 90 | 50x for 90° plates,<br> 8x for angle corner,<br> 32x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
 | M5x8mm button head ISO 7380 | 16 | 8x for angle corner,<br>4x printed parts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a222/=1clymbr)|
-| M5x10mm button head ISO 7380 | 64 | 46x for 90° plates,<br> 18x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
+| M5x10mm button head ISO 7380 | 62 | 46x for 90° plates,<br> 16x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
 | M5x12mm button head ISO 7380 | 13 | 1x for Y motor mount,<br>8x for Y rod holders,<br>4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
 | M5x16mm button head ISO 7380 | 1 | 1x for Y motor mount | [McMaster-Carr](https://www.mcmaster.com/92095a212) |
-| M3x12mm socket head screw ISO 4762 | 8 | 8x for Z motors mounts | [McMaster-Carr](https://www.mcmaster.com/#91292a114/=1c4wt18) |
 | M3x14mm socket head screw ISO 4762 | 2 | 2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/91292a027) |
 | M3x25mm socket head screw ISO 4762 | 7 | 1x for Y idler, 6x for Y bearing holders | [McMaster-Carr](https://www.mcmaster.com/91292a020) |
 | M3x30mm socket head screw ISO 4762 | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a022) |
@@ -38,8 +37,8 @@ I recommend to use thread locker like Loctite Blue 243 to secure screws during a
 | Part     | Quantity | Comment |
 |----------|:--------:|---------|
 | build_helper_106mm     | 1 | |
-| end_caps               | 2 (pairs)  | |
-| end_cap_z_axis         | 2 | |
+| y_end_caps             | 2<br/>(total of 4 parts) | |
+| z_end_caps             | 1<br/>(total of 2 parts) | |
 | foot                   | 4 | |
 | lcd_support_a          | 1 | |
 | lcd_support_b          | 1 | |
@@ -56,9 +55,9 @@ I recommend to use thread locker like Loctite Blue 243 to secure screws during a
 | y_motor_mount          | 1 | |
 | y_motor_endstop_mount  | 1 | :warning: Only for MK2S or MK2.5(S) |
 | y_rod_holder           | 4 | |
-| z_motor_mount_front    | 2 | |
-| z_motor_mounts         | 1 (pair) | |
-| z_tops                 | 1 (pair) | |
+| z_leadscrew_cap        | 2 | 0.20 | 20 | 2 | 5 | |
+| z_motor_mounts         | 1<br/>(total of 2 parts) | |
+| z_tops                 | 1<br/>(total of 2 parts) | |
 | cable_clip_lcd         | 6 | |
 | cable_clip_round       | 5 | |
 | cable_clip_ziptie      | 3 | |
