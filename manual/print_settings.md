@@ -24,8 +24,8 @@
 | Part | Quantity | Layer<br/>Height<br/>[mm] | Infill<br/>[%] | Num.<br/>Perimeters | Num.<br/>Top/Bottom<br/>Layers | Note |
 |:----|:----:|:----:|:----:|:----:|:----:|:----|
 | build_helper_106mm     | 1 | 0.20 | 20 | 2 | 5 | PLA is fine too |
-| end_cap                | 2<br/>(total of 4 parts) | 0.20 | 20 | 4 | 5 | PLA is fine too |
-| end_cap_z_axis         | 2 | 0.20 | 20 | 3 | 5 | PLA is fine too |
+| y_end_caps             | 2<br/>(total of 4 parts) | 0.20 | 20 | 4 | 5 | PLA is fine too |
+| z_end_caps             | 1<br/>(total of 2 parts) | 0.20 | 20 | 3 | 5 | PLA is fine too |
 | foot                   | 4 | 0.20 | 20 | 3 | 5 | PLA is fine too |
 | lcd_support_a          | 1 | 0.20 | 20 | 3 | 5 | |
 | lcd_support_b          | 1 | 0.20 | 20 | 3 | 5 | |
@@ -40,10 +40,9 @@
 | y_idler_tensioner      | 1 | 0.20 | 20 | 4 | 5 | |
 | y_idler_mount          | 1 | 0.20 | 20 | 4 | 5 | |
 | y_rod_holder           | 4 | 0.20 | 20 | 4 | 5 | |
-| z_leadscrew_cap        | 2 | 0.20 | 20 | 2 | 5 | |
 | y_motor_mount          | 1 | 0.20 | 20 | 4 | 5 | |
 | y_motor_endstop_mount  | 1 | 0.20 | 20 | 4 | 5 | Only for MK2S or MK2.5(S) |
-| z_motor_mount_front    | 2 | 0.20 | 30 | 4 | 5 | |
+| z_leadscrew_cap        | 2 | 0.20 | 20 | 2 | 5 | |
 | z_motor_mounts         | 1<br/>(total of 2 parts) | 0.20 | 30 | 4 | 5 | |
 | z_tops                 | 1<br/>(total of 2 parts) | 0.20 | 30 | 4 | 5 | |
 | cable_clip_lcd         | 6 | 0.15 | 30 | 3 | 5 | |
