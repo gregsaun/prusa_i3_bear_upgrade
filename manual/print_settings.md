@@ -43,8 +43,8 @@
 | y_motor_mount          | 1 | 0.20 | 20 | 4 | 5 | |
 | y_motor_endstop_mount  | 1 | 0.20 | 20 | 4 | 5 | Only for MK2S or MK2.5(S) |
 | z_leadscrew_cap        | 2 | 0.20 | 20 | 2 | 5 | |
-| z_motor_mounts         | 1<br/>(total of 2 parts) | 0.20 | 30 | 4 | 5 | |
-| z_tops                 | 1<br/>(total of 2 parts) | 0.20 | 30 | 4 | 5 | |
-| cable_clip_lcd         | 6 | 0.15 | 30 | 3 | 5 | |
-| cable_clip_round       | 5 | 0.15 | 30 | 3 | 5 | |
-| cable_clip_ziptie      | 3 | 0.15 | 30 | 3 | 5 | |
+| z_motor_mounts         | 1<br/>(total of 2 parts) | 0.20 | 20 | 4 | 5 | |
+| z_tops                 | 1<br/>(total of 2 parts) | 0.20 | 20 | 4 | 5 | |
+| cable_clip_horizontal  | 2 | 0.15 | 20 | 4 | 5 | |
+| cable_clip_vertical    | 7 | 0.15 | 20 | 4 | 5 | |
+| cable_clip_lcd         | 5 | 0.15 | 20 | 4 | 5 | |
