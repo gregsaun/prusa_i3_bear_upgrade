@@ -41,6 +41,7 @@ New and improved features in Bear Upgrade 2.1:
   * Support all Prusa PSU.
   * Shorter LCD supports.
   * Nicer and stronger end caps.
+  * Improve wire management with new cable clips.
   * Stiffer mounts for Rambo Mini/Einsy cover.
   * Compatible with E3D Gates idlers as well as 9mm belt.
 
