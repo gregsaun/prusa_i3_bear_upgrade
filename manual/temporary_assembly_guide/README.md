@@ -21,3 +21,4 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 1. [Rambo Mini/Einsy base](rambo_base.md)
 1. [End caps](end_caps.md)
 1. [LCD supports](lcd_supports.md)
+1. [Cable clips](cable_clips)
