@@ -38,7 +38,7 @@ Follow the positions according to the image below:
   * **B01:** 5x cable_clip_vertical.
 
 ![Cable Clip Vertical C](img_assembly_guide/cable_clips_vertical_02.jpg)
-  * **C01:** 1x cable_clip_vertical.
+  * **C01:** 2x cable_clip_vertical.
 
 Follow the positions according to the image below:
 
