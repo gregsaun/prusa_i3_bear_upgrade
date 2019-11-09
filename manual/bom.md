@@ -14,8 +14,8 @@
 | Black angle corner | 4 | | [Openbuilds](http://openbuildspartstore.com/black-angle-corner-connector/) |
 | 90 degree joining plate | 10 | | [Openbuilds](http://openbuildspartstore.com/90-degree-joining-plate/) |
 | Tee-nuts M5 | 88 | 50x for 90° plates,<br> 8x for angle corner,<br> 30x for printed parts | [Openbuilds](http://openbuildspartstore.com/tee-nuts-10-pack/) |
-| M5x8mm button head screw (ISO 7380) | 16 | 8x for angle corner,<br>4x printed parts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a222/=1clymbr)|
-| M5x10mm button head screw (ISO 7380) | 60 | 46x for 90° plates,<br> 14x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
+| M5x8mm button head screw (ISO 7380) | 12 | 8x for angle corner,<br>4x printed parts | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a222/=1clymbr)|
+| M5x10mm button head screw (ISO 7380) | 62 | 46x for 90° plates,<br> 16x for printed parts<br> | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#97763a820/=1cltxg0) |
 | M5x12mm button head screw (ISO 7380) | 13 | 1x for Y motor mount,<br>8x for Y rod holders,<br>4x for feet | [Openbuilds](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)<br>[McMaster-Carr](https://www.mcmaster.com/#91239a228/=1cm065c) |
 | M5x16mm button head screw (ISO 7380) | 1 | 1x for Y motor mount | [McMaster-Carr](https://www.mcmaster.com/92095a212) |
 | M3x14mm socket head screw (ISO 4762) | 2 | 2x RAMBo base mounts | [McMaster-Carr](https://www.mcmaster.com/91292a027) |
@@ -24,7 +24,6 @@
 | M3x30mm socket head screw (ISO 4762) | 1 | 1x for Y idler | [McMaster-Carr](https://www.mcmaster.com/91292a022) |
 | Set screw M4x5mm | 12 | for end_caps | [McMaster-Carr](https://www.mcmaster.com/92015a111) |
 | Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15.8mm to 16mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
-| M3 steel washer DIN 125, 0.5mm thick | 9 | 8x for Z motors mounts, 1x for Y idler | |
 | M3 hex nuts DIN 934 | 2 | 2x for Rambo base mounts | [McMaster-Carr](https://www.mcmaster.com/91828a211) |
 | M3 nylock nut DIN 985 | 2 | 2x for Y idler | [McMaster-Carr](https://www.mcmaster.com/93625a100) |
 | M3 square nut DIN 562 | 2 | 1x for belt holder, 1x for lower PSU mount | |
