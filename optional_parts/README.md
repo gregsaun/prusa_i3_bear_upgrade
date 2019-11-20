@@ -30,5 +30,6 @@ Designed by the community. Huge thank you all :heart: !
 | Ocie's Duet Wifi Enclosure Box remix | George Harrison | https://www.thingiverse.com/thing:3642653 |
 | LED Light Mounts | Joe Mike Terranella | https://www.thingiverse.com/thing:3619763 |
 | X Axis to Y Rod Calibration Tool | Peter Bauer | https://www.thingiverse.com/thing:3645355 |
+| Frame for the Bear Upgrade Thank You Card | Reto M. | https://www.thingiverse.com/thing:3968447 |
 
 Note: Those parts have not been tested and we can't guarantee they work fine. We invite you to write to the author in case you have problems.
