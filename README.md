@@ -37,10 +37,11 @@ New and improved features in Bear Upgrade 2.1:
   * Improve X and Y axis homing accuracy.
   * Improve Z axis alignment and assembly.
   * Reduce Y axis stepper noise for MK3(S).
-  * Easier assembly of printed parts.
+  * New build helpers for Y and Z axis.
   * Support all Prusa PSU.
   * Shorter LCD supports.
   * Nicer and stronger end caps.
+  * Easier assembly of printed parts.
   * Improve wire management with new cable clips.
   * Stiffer mounts for Rambo Mini/Einsy cover.
   * Compatible with E3D Gates idlers as well as 9mm belt.

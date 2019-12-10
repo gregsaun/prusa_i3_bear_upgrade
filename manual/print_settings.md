@@ -23,7 +23,8 @@
 
 | Part | Quantity | Layer<br/>Height<br/>[mm] | Infill<br/>[%] | Num.<br/>Perimeters | Num.<br/>Top/Bottom<br/>Layers | Note |
 |:----|:----:|:----:|:----:|:----:|:----:|:----|
-| build_helper_106mm     | 1 | 0.20 | 20 | 2 | 5 | PLA is fine too |
+| build_helper_z         | 1 | 0.20 | 15 | 3 | 5 | PLA is fine too |
+| build_helper_y         | 1 | 0.20 | 15 | 3 | 5 | PLA is fine too |
 | y_end_caps             | 2<br/>(total of 4 parts) | 0.20 | 20 | 4 | 5 | PLA is fine too |
 | z_end_caps             | 1<br/>(total of 2 parts) | 0.20 | 20 | 3 | 5 | PLA is fine too |
 | foot                   | 4 | 0.20 | 20 | 3 | 5 | PLA is fine too |
