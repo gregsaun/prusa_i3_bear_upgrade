@@ -9,6 +9,7 @@
 | Upgrade parts fo Bear 2.0 MK2(S), MK2.5(S) frame | [bear_2.0_upgrade_mk2-2s-2.5-2.5s](./bear_2.0_upgrade_mk2-2s-2.5-2.5s) |
 | Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](y_idler_9mm_belt) |
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](y_idler_tensioner_e3d) |
+| LCD cover | [lcd_cover](lcd_cover) |
 
 
 
