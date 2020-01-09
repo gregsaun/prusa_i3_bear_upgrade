@@ -27,7 +27,7 @@ This is an alternative LCD cover designed for Bear Upgrade frame.
       * Bear logo and text
       * Bear Paw logo
 
-Note: the Bear Paw logo is a special design for the LGBT community because it is one of their symbol. You can find more details about it here: https://en.wikipedia.org/wiki/Bear_flag_(gay_culture)
+:bulb: The Bear Paw logo is a special design for the LGBT community because it is one of their symbol. You can find more details about it here: https://en.wikipedia.org/wiki/Bear_flag_(gay_culture)
 
 
 ### Pictures
@@ -45,9 +45,9 @@ Note: the Bear Paw logo is a special design for the LGBT community because it is
 
 # Compatibility
 
-The LCD cover is using special supports, you cannot reuse the old one.
+This LCD cover is compatible with all Bear Upgrade frames. It is also compatible with stock Prusa MK3(S) frame using [these special supports](./support_for_prusa_frame/).
 
-This LCD cover is compatible with all Bear Upgrade frames. It is also compatible with stock Prusa MK3(S) frame using [these special supports](/support_for_prusa_frame).
+You cannot reuse old LCD supports (mounts) with this cover, you need to print those provided in the [printed parts](#printed-parts).
 
 
 ### Bill of Materials
@@ -69,6 +69,7 @@ This LCD cover is compatible with all Bear Upgrade frames. It is also compatible
 | lcd_support_a | 1 | | [lcd_support_a.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/lcd_cover/printed_parts/stl/lcd_support_a.stl) |
 | lcd_support_b | 1 | | [lcd_support_b.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/lcd_cover/printed_parts/stl/lcd_support_b.stl) |
 
+:bulb: For stock Prusa MK3(S) you need to use the LCD supports a and b available in [/support_for_prusa_frame](./support_for_prusa_frame/) folder.
 
 ### Print Settings
 
