@@ -17,21 +17,15 @@ This is an alternative LCD cover specially designed for Bear Upgrade frame.
 
 ### Images
 
-#### Simple version
-![LCD Cover](images/lcd_cover.jpg)
+![LCD Cover Animation](images/lcd_cover_animation.gif)
 
-#### Text only version
-![LCD Cover Text](images/lcd_cover_text.jpg)
+![LCD Cover Photo speaker holes](images/lcd_cover_photo_01.jpg)
 
-#### Logo only version
-![LCD Cover Logo](images/lcd_cover_logo.jpg)
+![LCD Cover Photo top view](images/lcd_cover_photo_02.jpg)
 
-#### Text and logo version
-![LCD Cover Logo Text](images/lcd_cover_logo_text.jpg)
+![LCD Cover Photo bevel](images/lcd_cover_photo_03.jpg)
 
-#### LGBT Bear Paw version
-![LCD Cover LGBT Bear Paw](images/lcd_cover_lgbt_bear_paw.jpg)
-
+![LCD Cover Photo screw mount](images/lcd_cover_photo_04.jpg)
 
 ### Bill of Materials
 
