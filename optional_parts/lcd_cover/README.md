@@ -2,9 +2,16 @@
 
 ## LCD Cover
 
+### Table of contents
+  1. [Introduction](#introduction)
+  1. [Pictures](#pictures)
+  1. [Compatibility](#compatibility)
+  1. [Bill of Materials](#bill-of-materials)
+  1. [Print Settings](#print-settings)
+
 ### Introduction
 
-This is an alternative LCD cover specially designed for Bear Upgrade frame.
+This is an alternative LCD cover designed for Bear Upgrade frame.
   * New accurate design from scratch
   * Makes the frame shorter thanks to a bevel in front (4th picture)
   * Eliminate vibrations by using 4 screws to attach the LCD
@@ -12,6 +19,7 @@ This is an alternative LCD cover specially designed for Bear Upgrade frame.
   * Quicker to print and use less filament
   * Sleek design for better look
   * Design improved for best print quality
+  * Optional: LCD supports compatible with stock Prusa MK3(S) frame
   * Available in several look:
       * Simple without text or logo
       * Bear logo
@@ -33,6 +41,14 @@ Note: the Bear Paw logo is a special design for the LGBT community because it is
 ![LCD Cover Photo bevel](images/lcd_cover_photo_03.jpg)
 
 ![LCD Cover Photo screw mount](images/lcd_cover_photo_04.jpg)
+
+
+# Compatibility
+
+The LCD cover is using special supports, you cannot reuse the old one.
+
+This LCD cover is compatible with all Bear Upgrade frames. It is also compatible with stock Prusa MK3(S) frame using [these special supports](/support_for_prusa_frame).
+
 
 ### Bill of Materials
 
