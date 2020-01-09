@@ -6,16 +6,23 @@
 
 This is an alternative LCD cover specially designed for Bear Upgrade frame.
   * New accurate design from scratch
-  * Makes the frame shorter thanks to a bevel in front
-  * Eliminate vibrations by using 4 screws to mount the PCB
+  * Makes the frame shorter thanks to a bevel in front (4th picture)
+  * Eliminate vibrations by using 4 screws to attach the LCD
   * Easier to rotate LCD knob
   * Quicker to print and use less filament
   * Sleek design for better look
   * Design improved for best print quality
-  * Available without ornament, with logo, with text, with logo+text and with Bear Paw logo (requested by LGBT community as it is one of their symbol)
+  * Available in several look:
+      * Simple without text or logo
+      * Bear logo
+      * Bear Upgrade text
+      * Bear logo and text
+      * Bear Paw logo
+
+Note: the Bear Paw logo is a special design for the LGBT community because it is one of their symbol. You can find more details about it here: https://en.wikipedia.org/wiki/Bear_flag_(gay_culture)
 
 
-### Images
+### Pictures
 
 ![LCD Cover Animation](images/lcd_cover_animation.gif)
 
