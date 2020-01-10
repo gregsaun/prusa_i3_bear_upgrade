@@ -27,7 +27,7 @@ Designed by the community. Huge thank you all :heart: !
 | Bear Logo LCD cover | Tom Bergman | https://www.thingiverse.com/thing:2941711 |
 | SD-Card Holder V-Slot Extrusion | D. Meyer | https://www.thingiverse.com/thing:3198211 |
 | Mean Well LRS-350 PSU Case | Matthew Humphrey | https://www.thingiverse.com/thing:3180564 |
-| Universal Zaribo Einsy Box | Juan Puchol | https://www.thingiverse.com/thing:3239428/ |
+| Universal Einsy Box | Juan Puchol | https://www.thingiverse.com/thing:3901001 |
 | Ocie's Duet Wifi Enclosure Box remix | George Harrison | https://www.thingiverse.com/thing:3642653 |
 | LED Light Mounts | Joe Mike Terranella | https://www.thingiverse.com/thing:3619763 |
 | X Axis to Y Rod Calibration Tool | Peter Bauer | https://www.thingiverse.com/thing:3645355 |
