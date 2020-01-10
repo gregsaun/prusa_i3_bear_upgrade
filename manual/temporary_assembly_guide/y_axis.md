@@ -65,7 +65,7 @@ Insert the belt and secure it with A02.
 Try to keep the tensioner as closed as possible. Move the belt by 1 or two teeth from the Y belt holder if necessary.
 
 
-# Y Motor Mount MK2S, MK2.5(S)
+#### Y Motor Mount MK2S, MK2.5(S)
 
 ![y motor mount mk2s F](img_assembly_guide/y_motor_mount_mk2s_01.jpg)
 * **F01:** M5x12mm
@@ -81,7 +81,7 @@ Press the motor in the direction of the vslot when tightening F02 and F04 screws
 * **G02:** M5x16mm
 
 
-# Y Motor Mount MK3(S)
+#### Y Motor Mount MK3(S)
 
 ![y motor mount mk3 H](img_assembly_guide/y_motor_mount_mk3_01.jpg)
 * **H01:** M5x12mm
@@ -91,3 +91,13 @@ Press the motor in the direction of the vslot when tightening H02 screws.
 
 ![y motor mount mk3 H](img_assembly_guide/y_motor_mount_mk3_02.jpg)
 * **I01:** M5x16mm
+
+
+#### Build helper for Y Axis
+
+![y build helper](img_assembly_guide/y_build_helper_01.jpg)
+* **J01:** Align smooth rod with __the same__ build helper on each sides of the left smooth rod.
+
+:warning: Warning:
+  - Print only one Y build helper and use the same to align left smooth rod
+  - Do not use the build helper for Y axis on both smooth rods. This is only designed to align left smooth rod and not to set the distance between the smooth rods!
