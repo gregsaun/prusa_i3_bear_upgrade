@@ -22,7 +22,7 @@
 
 ## Introduction
 
-The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/) frame with a more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customization. Plus it looks unique with our coloured frames!
+The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/) frame with a more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customizations. Plus it looks unique with our coloured frames!
 
 ![Bear Upgrade 2.1 MK3S](doc/rendering/mk3_home_right_882px.jpg)
 
@@ -30,23 +30,23 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
 
 ## New features since Bear Upgrade 2.0
 
-New and improved features in Bear Upgrade 2.1:
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
-  * New stiffer Y axis with tensioner.
-  * New stiffer Z axis.
-  * Improve X and Y axis homing accuracy.
-  * Improve Z axis alignment and assembly.
-  * Reduce Y axis stepper noise for MK3(S).
-  * New build helpers for Y and Z axis.
-  * Support all Prusa PSU.
-  * Shorter LCD supports.
-  * Nicer and stronger end caps.
-  * Easier assembly of printed parts.
-  * Improve wire management with new cable clips.
-  * Stiffer mounts for Rambo Mini/Einsy cover.
-  * Compatible with E3D Gates idlers as well as 9mm belt.
+  * New stiffer Y axis with tensioner
+  * New stiffer Z axis
+  * Improve X and Y axis homing accuracy
+  * Improve Z axis alignment and assembly
+  * Reduce Y axis stepper noise for MK3(S)
+  * New build helpers for Y and Z axis
+  * Support all Prusa PSU
+  * Shorter LCD supports
+  * New custom LCD cover
+  * Nicer and stronger end caps
+  * Easier assembly of printed parts
+  * Improve wire management with new cable clips
+  * Stiffer mounts for Rambo Mini/Einsy cover
+  * Compatible with E3D Gates idlers as well as 9mm belt
 
-:warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade. The Bear Upgrade 2.1 is going to have new features that will require other modifications.
+:warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade.
 
 
 
@@ -56,7 +56,7 @@ This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If
 
 :bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts here: [optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s).
 
-:warning: The new Y and Z axis are not compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
+:warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
 
 
 
@@ -153,7 +153,7 @@ Massive thank you in advance :heart:
 
 ## Thank you
 
-Thank you to all my Patreon : 3D-Maniac, Ahmed, Albe Gouws, Alberto Vargas, Anders Svendsen, Andre, Andrew Bingham, Apton Ika, Arnaud CHRISTEL, Bas Borgignons, Bearpaw93, Bojan Kopanja, Borja Gutierez Yañez, Brad Craig, Brendon Buhler, Chris Jackson, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, Daniele Malinconi, Darren Furniss, David F Morrison II, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Edward Wright, Emiliano Vignali, Erich Jermann, Espen Fjellvær Olsen, Evgen, flobler, Fredrik Id, Gareth Brown, Garrett White, Garth Clardy, Greg3D, Grigori Palamartšuk, Hector Gonzalez, Illia Tsariuk, Imperial Terrain, J.D. sloot, Jack Emilsen, Jacob Leonard, Jan Andersen, Jason Bao, Jason Marcus, Jimmy Lee, JimmySnails, Joan Torner Corrons, Joel Nielsen, Joel Weinberg, Jonathan Ryer, Jonny Menkakow, Joseph Mizrachi, Joseph Quan, Josh Carter, Joshua Jones, JTa, Keith Beaul, Keith Bennett, Ken Waters, Kevin Smith, Kim Schauss, Kristof Spiszak, Kyle Rothrock, Lionel Saëz, Loïc Dumont, Luke Turner, Magnus Pfeffer, Mark A, Merijn van Mourik, Michael Wang, Michal Kapusnik, Michiel Plaisier, Miguel Castillo, Mike Phelps, Moody Wood Carving, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Oscar Padilla, Patch Best, Phil S., QcRetro, ra100, Rasmus Baes, RC-CnC, Richard Bateman, robert veline, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Serkan Aksu, Settle, Shawn Chronister, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stefan Hilbrich, Stephan Kohls, Stephen Pope, Steve Peterson, Steven Daglish, Stig Jøran Moen, Ted Rathkopf, Thom Sturgill, Tom Kogut, Tomáš Vydra, Total Dramatist, Trae LaPole, Tyler Townes, Víctor Martínez, Warren Schultz, Wes Warner.
+Thank you to all my Patreons : 3D-Maniac, 3DPrintronics, Aaron Rieley, Ahmed, Albe Gouws, Alberto Vargas, Alex Vasile, Anders Svendsen, Andrew Bingham, Apton Ika, Bas Borgignons, Ben Langley, Bob Collinsworth, Borja Gutierez Yañez, Brad Craig, Chris Jackson, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, darkly spectre aka that one belgian cunt, Darren Furniss, David F Morrison II, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Elendil the tall, Emiliano Vignali, Erich Jermann, Espen Fjellvær Olsen, Evan, Evgen, Filament Frenzy, flobler, Fredrik Id, Garrett White, Garth Clardy, Gorgonbert, Greg3D, Grigori Palamartšuk, Harrison, Hector Gonzalez, Hugo Henry-garon, Illia Tsariuk, J.D. sloot, Jack Emilsen, Jacob Leonard, Jake Hamlin, Jan Andersen, Jason Bao, Jason Marcus, JD, Jim Jacques, Jimmy Lee, JimmySnails, Joan Torner Corrons, Joel Weinberg, Jonathan Ryer, Jonny Menkakow, Joseph Mizrachi, Joseph Quan, Josh Carter, Josheua R Mascote, Joshua Jones, JTa, Juan Rosario, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kristof Spiszak, Kyle Rothrock, Laurent Zender, Loïc Dumont, Luke Turner, Magnus Pfeffer, Marie Barada Saunier, Martin Majewski, Merijn van Mourik, Michal Kapusnik, Michiel Plaisier, Miguel Castillo, Mike Phelps, Moody Wood Carving, Name, Narasak Mansurang, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Oscar Padilla, Patrick Glyré, Patrick Hung, Phil S., Przemek, QcRetro, ra100, Rasmus Baes, RC-CnC, Richard Bateman, robert veline, Ronny Olsen, Rubens Panfili, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Serkan Aksu, Settle, Shawn Chronister, Shawn England, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stephan Kohls, Stephen Pope, Steve Carter, Steve Peterson, Steven Daglish, Stig Jøran Moen, Stuflo, Ted Rathkopf, Thom Sturgill, Tomáš Vydra, Total Dramatist, Trae LaPole, Trystan Jones, Tyler Townes, Víctor Martínez, Warren Schultz, Wes Warner, Zohaib.
 
 Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
@@ -180,8 +180,7 @@ Here is list of sources and inspiration :
   * Original Prusa i3 printers : [prusa3d.com](http://www.prusa3d.com).
   * Prusa 3030 Haribo Edition : [github.com/PrusaMK2Users/3030_Haribo_Edition](https://github.com/PrusaMK2Users/3030_Haribo_Edition).
   * Openbuilds for the invention of opensource vslot extrusions : [openbuilds.org](https://www.openbuilds.org).
-  * Prusa i3 Solidworks parts from jzkmath : [github.com/jzkmath/Original-Prusa-i3](https://github.com/jzkmath/Original-Prusa-i3/).
-  * Roy Henriksson for the inspiration of its Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
-  * Vecko Kojchevski for its Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
+  * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
+  * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
 Massive thanks to these projects, without them this project can not exist!
