@@ -42,7 +42,7 @@ Designed by the community. Thank you makers :heart:!
 | Serious business Bear y-axis replacement | Full Upgrade | https://www.thingiverse.com/thing:3122625 |
 | Y-Rod Alignment Helper | Full Upgrade | https://www.thingiverse.com/thing:3153637 |
 | Mean Well LRS-350 PSU Case | Full Upgrade | https://www.thingiverse.com/thing:3180564 |
-| Universal Zaribo Einsy Box | All | https://www.thingiverse.com/thing:3239428/ |
+| Universal Einsy Box | All | https://www.thingiverse.com/thing:3901001 |
 | E3D 20T idler mount for Bear Y-Axis | Full Upgrade MK3 | https://www.thingiverse.com/thing:3309424 |
 | Ocie's Duet Wifi Enclosure Box remix | Full Upgrade MK3 | https://www.thingiverse.com/thing:3642653 |
 | LED Light Mounts | Full Upgrade | https://www.thingiverse.com/thing:3619763 |
