@@ -16,7 +16,7 @@ Designed by the author of the Bear upgrade
 | Better Z motor mounts for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2775169 |
 | Better Z tops for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2552246 |
 | MMU2 frame holder | Full Upgrade | https://www.thingiverse.com/thing:3090300 |
-| Bear Extruder and X Axis | All | https://www.thingiverse.com/thing:3226689 |
+| Bear Extruder and X Axis | All | 0.6.0-alpha: https://www.thingiverse.com/thing:3226689  <br/> 0.7.0-beta https://www.thingiverse.com/thing:3716110 |
 | Y belt adapter for MK2s/MK2.5 on Bear MK3 frame | Full Upgrade MK2s/2.5 | https://www.thingiverse.com/thing:3468567 |
 
 
@@ -50,3 +50,4 @@ Designed by the community. Thank you makers :heart:!
 | Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3664281 |
 | Prusa 24v Black PSU Mount | Full Upgrade MK3S | https://www.thingiverse.com/thing:3700587 |
 | Y-belt tensioner and Y-belt holder | Full Upgrade MK3(S) | https://www.thingiverse.com/thing:3502543 |
+| IGUS Y axis linear rail mod | All | https://www.prusaprinters.org/prints/3575-igus-y-axis-linear-rail-mod |
