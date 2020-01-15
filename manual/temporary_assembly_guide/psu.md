@@ -26,7 +26,7 @@ This is only covering temporarily the new features of Bear Upgrade 2.1.
 * **A01:** M5x10mm
 * **A02:** M4x10mm (from original PSU)
 * **A03:** M5x10mm
-* **A03:** Square nut
+* **A04:** M3 square nut
 
 ![Black Psu 02](img_assembly_guide/psu_mk3_black_02.jpg)
 * **B01:** M3x10mm
