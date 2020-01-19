@@ -17,6 +17,7 @@ Designed by the author of the Bear upgrade
 | Better Z tops for Prusa's Z alu plate | Half Upgrade only | https://www.thingiverse.com/thing:2552246 |
 | MMU2 frame holder | Full Upgrade | https://www.thingiverse.com/thing:3090300 |
 | Bear Extruder and X Axis | All | https://www.thingiverse.com/thing:3226689 |
+| Bear Extruder and X Axis | All | MK2.5 and MK3: https://www.thingiverse.com/thing:3226689  <br/> MK2.5S and MK3S:  https://www.thingiverse.com/thing:3716110 |
 | Y belt adapter for MK2s/MK2.5 on Bear MK3 frame | Full Upgrade MK2s/2.5 | https://www.thingiverse.com/thing:3468567 |
 
 
