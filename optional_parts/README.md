@@ -10,6 +10,7 @@
 | Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](y_idler_9mm_belt) |
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](y_idler_tensioner_e3d) |
 | LCD cover | [lcd_cover](lcd_cover) |
+| Bear Extruder and X Axis | [For MK2.5 and MK3 (version 0.6.0-alpha)](https://www.thingiverse.com/thing:3226689)<br/> [For MK2.5S and MK3S (version 0.7.0-beta)](https://www.thingiverse.com/thing:3716110) |
 
 
 
