@@ -36,7 +36,8 @@ We recommend to use thread locker like Loctite Blue 243 to secure screws during 
 
 | Part     | Quantity | Comment |
 |----------|:--------:|---------|
-| build_helper_106mm     | 1 | |
+| build_helper_z         | 1 | |
+| build_helper_y         | 1 | |
 | y_end_caps             | 2<br/>(total of 4 parts) | |
 | z_end_caps             | 1<br/>(total of 2 parts) | |
 | foot                   | 4 | |
