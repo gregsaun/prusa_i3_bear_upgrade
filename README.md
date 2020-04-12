@@ -70,7 +70,17 @@ The manual contains bill of materials (BOM), print settings and assembly instruc
 
 ## Optional parts
 
-Official and community optional parts [are listed here](optional_parts).
+Here is the list of official optional parts for the Bear extruder and X axis.
+
+| Description | Link |
+|-------------|------|
+| Upgrade parts fo Bear 2.0 MK2(S), MK2.5(S) frame | [bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s) |
+| Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt) |
+| Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d) |
+| LCD cover | [lcd_cover](optional_parts/lcd_cover) |
+| Bear Extruder and X Axis | [For MK2.5 and MK3 (version 0.6.0-alpha)](https://www.thingiverse.com/thing:3226689)<br/> [For MK2.5S and MK3S (version 0.7.0-beta)](https://www.thingiverse.com/thing:3716110) |
+
+You can also find optional parts designed by the community at [https://guides.bear-lab.com/Wiki/community_optional_parts](guides.bear-lab.com/Wiki/community_optional_parts).
 
 
 
