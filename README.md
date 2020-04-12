@@ -33,7 +33,7 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner
   * New stiffer Z axis
-  * Improve Y and Z axis homing accuracy
+  * Improve X and Y axis homing accuracy
   * Improve Z axis alignment and assembly
   * Reduce Y axis stepper noise for MK3(S)
   * New build helpers for Y and Z axis
@@ -78,7 +78,7 @@ Here is the list of official optional parts for the Bear extruder and X axis.
 | Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt) |
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d) |
 | LCD cover | [lcd_cover](optional_parts/lcd_cover) |
-| Bear Extruder and X Axis | [For MK2.5 and MK3 (version 0.6.0-alpha)](https://www.thingiverse.com/thing:3226689)<br/> [For MK2.5S and MK3S (version 0.7.0-beta)](https://www.thingiverse.com/thing:3716110) |
+| Bear Extruder and X Axis | [Bear Extruder and X axis for 0.7.0-beta MK2.5S MK3S](https://www.thingiverse.com/thing:3716110) |
 
 You can also find optional parts designed by the community at [https://guides.bear-lab.com/Wiki/community_optional_parts](guides.bear-lab.com/Wiki/community_optional_parts).
 
