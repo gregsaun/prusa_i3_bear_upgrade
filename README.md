@@ -33,7 +33,7 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner
   * New stiffer Z axis
-  * Improve X and Y axis homing accuracy
+  * Improve Y and Z axis homing accuracy
   * Improve Z axis alignment and assembly
   * Reduce Y axis stepper noise for MK3(S)
   * New build helpers for Y and Z axis
