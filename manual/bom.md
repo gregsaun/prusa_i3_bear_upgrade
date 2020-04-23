@@ -31,6 +31,8 @@
 
 We recommend to use thread locker like Loctite Blue 243 to secure screws during assembly (for metal thread to metal thread, not metal thread to plastic).
 
+A full BOM with all parts to build a Bear from scratch has been made by [Chris Riley](https://www.youtube.com/channel/UCqRiv7rQuxge63bqJ2hVNUQ) and [3D_Gussner](https://github.com/3d-gussner), you can find it here: https://docs.google.com/spreadsheets/d/1AKX1dBssPeFiCTYAHjYHZiUIhAR5COqE82Bq8tjKFSE/edit?usp=sharing . Massive thank you to Chris and 3D_Gussner!
+
 
 ### Printed Parts
 
