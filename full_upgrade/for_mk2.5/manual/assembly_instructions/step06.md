@@ -10,7 +10,7 @@
 * 2x 356mm v-slots
 * 6x 90° joining plates
 * 18x M5x10mm screws
-* 18x Tee nuts
+* 23x Tee nuts
 
 #### Assembly
 
@@ -19,6 +19,7 @@
 1. Check all dimensions as seen on figure 6.3<br>
    :warning: this step is very important, double check everything is perfectly square
 1. File **all** sharp edges of 4x latest 90° joining plates (not only diagonals) (figure 6.1). A small chamfer is enough, this just to avoid scratching cables and it will be useful for the next step as well
+1. Insert 3 tee nuts on one side for future assembly of the power supply (Step 15) and 2 tee nuts on the other side of the frame for future assembly of the einsy board (Step 16) 
 1. Assemble the 4x latest 90° joining plates as seen on figure 6.4.
    :warning: Make sure the tapped holes at the end of the 356mm extrusions are on top
 
