@@ -20,7 +20,7 @@ Measure the length of your Y axis **extrusion** as seen on the picture below.
 
 ### Printed parts
 
-All files you need to download and print are available in the [printed_parts/stl/](./printed_parts/stl/) folder of this page.
+Click on this zip file containing all parts you need to print: [bear_2.0_upgrade_mk2-2s-2.5-2.5s.zip](printed_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s.zip?raw=true).
 
 
 ### Print settings
