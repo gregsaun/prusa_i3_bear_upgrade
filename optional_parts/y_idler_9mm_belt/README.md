@@ -23,7 +23,7 @@ This is a Y idler for 9mm width Gates 2GT belt (standard is 6mm). Larger belt wi
 
 ### Printed parts
 
-:pushpin: If you have doubt on which frame you have, please check the [drawing in this page](../y_belt_holder_for_bear2.0_mk2s_mk2.5_mk2.5s).
+:pushpin: If you have doubt on which frame you have, please check the [Bear FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Bear_frame_do_I_have).
 
 | Part     | Qty | Note | Download link |
 |----------|:--------:|------|---------------|
