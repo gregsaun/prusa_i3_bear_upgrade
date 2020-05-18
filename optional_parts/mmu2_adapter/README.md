@@ -6,6 +6,7 @@
   1. [Introduction](#introduction)
   1. [Pictures](#pictures)
   1. [Compatibility](#compatibility)
+  1. [Bill of materials](#bill-of-materials)
   1. [Printed parts](#printed-parts)
   1. [Print Settings](#print-settings)
 
@@ -25,6 +26,14 @@ MMU2 and MMU2S frame holder for my Bear Upgrade.
 ### Compatibility
 
 This MMU2(S) frame holder is compatible with both MMU2 and MMU2S
+
+
+### Bill of materials
+
+| Part     | Quantity | Example |
+|----------|:--------:|--------|
+| M5x10mm button head screw (ISO 7380) | 2 | |
+| Drop-in tee-nuts M5 | 2 | [Openbuilds](https://openbuildspartstore.com/spring-loaded-tee-nuts/) |
 
 
 ### Printed parts
