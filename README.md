@@ -15,6 +15,7 @@
   1. [Partners and contributors](#partners-and-contributors)
   1. [Support my work](#support-my-work)
   1. [Thank you](#thank-you)
+  1. [License](#license)
   1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
 
 
@@ -183,6 +184,24 @@ Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 Thank you Openbuilds for your hardware, community and state of mind.
 
 Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
+
+
+
+## License
+
+This repository and all its files are licensed under the GPLv3 license. Here is a quick summary; for more details please check the LICENSE file.
+
+What you __can__ do:
+  * Modify
+  * Distribute
+  * Private, commercial and patent use
+
+What you __must__ do:
+  * Include copyright notice
+  * Include a copy of the license
+  * Share source files
+  * Use the same license (GPLv3)
+  * Document changes applied
 
 
 
