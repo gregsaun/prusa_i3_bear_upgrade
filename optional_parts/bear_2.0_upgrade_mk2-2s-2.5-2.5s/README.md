@@ -18,27 +18,21 @@ Measure the length of your Y axis **extrusion** as seen on the picture below.
 ![Bear version frame size](img/bear_version_size_faq.jpg)
 
 
-### Printed Parts
-
-
-#### Download STL
+### Printed parts
 
 All files you need to download and print are available in the [printed_parts/stl/](./printed_parts/stl/) folder of this page.
 
-#### :warning: Warning
 
-1. The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances.
-1. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+### Print settings
 
-#### Parameters
+:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
 
-* Filament type: PETG
-* Slicer: PrusaSlicer
-* Infill type : Gyroid recommended
-* Support : No
-* Brim : No
-* Detect thin walls : No
-* Perimeters width (internal and external) : 0.45mm
+  * Slicer : PrusaSlicer recommended
+  * Infill type : Gyroid recommended
+  * Support : No
+  * Brim : No
+  * Detect thin walls : No
+  * Perimeters width (internal and external) : 0.45mm
 
 
 | Part | Quantity | Layer<br/>Height<br/>[mm] | Infill<br/>[%] | Num.<br/>Perimeters | Num.<br/>Top/Bottom<br/>Layers | Note |

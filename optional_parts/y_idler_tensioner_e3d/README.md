@@ -29,8 +29,8 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 
 | Part     | Quantity | Download link |
 |----------|:--------:|--------|
-| y_idler_mount<br/>(from standard Bear 2.1 printed parts) | 1 | [y_idler_mount.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/printed_parts/common_to_all_versions/stl/y_idler_mount.stl) |
-| y_idler_tensioner_e3d<br/>(from this page) | 1 | [y_idler_tensioner_e3d.stl](https://github.com/gregsaun/prusa_i3_bear_upgrade/raw/dev/optional_parts/y_idler_tensioner_e3d/printed_parts/y_idler_tensioner_e3d.stl) |
+| y_idler_mount<br/>(from standard Bear 2.1 printed parts) | 1 | [y_idler_mount.stl](../printed_parts/common_to_all_versions/stl/y_idler_mount.stl?raw=true) |
+| y_idler_tensioner_e3d<br/>(from this page) | 1 | [y_idler_tensioner_e3d.stl](printed_parts/y_idler_tensioner_e3d.stl?raw=true) |
 
 
 
