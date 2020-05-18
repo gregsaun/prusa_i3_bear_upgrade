@@ -54,7 +54,7 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
 
 This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
-:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts here: [optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s).
+:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts here: [optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s/README.md).
 
 :warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
 
@@ -64,7 +64,7 @@ This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If
 
 The manual contains bill of materials (BOM), print settings and assembly instructions.
 
-[Read the manual here :book:](manual/)
+[Read the manual here :book:](manual/README.md)
 
 
 
@@ -74,10 +74,11 @@ Here is the list of official optional parts for the Bear extruder and X axis.
 
 | Description | Link |
 |-------------|------|
-| Upgrade parts fo Bear 2.0 MK2(S), MK2.5(S) frame | [bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s) |
-| Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt) |
-| Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d) |
-| LCD cover | [lcd_cover](optional_parts/lcd_cover) |
+| Upgrade parts fo Bear 2.0 MK2(S), MK2.5(S) frame | [bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s/README.md) |
+| LCD cover | [lcd_cover](optional_parts/lcd_cover/README.md) |
+| MMU2(S) frame holder adapter | [mmu2_adapter](optional_parts/mmu2_adapter/README.md) |
+| Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt/README.md) |
+| Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
 | Bear Extruder and X Axis | [Bear Extruder and X axis for 0.7.0-beta MK2.5S MK3S](https://www.thingiverse.com/thing:3716110) |
 
 You can also find optional parts designed by the community at [https://guides.bear-lab.com/Wiki/community_optional_parts](guides.bear-lab.com/Wiki/community_optional_parts).
@@ -163,11 +164,13 @@ Massive thank you in advance :heart:
 
 ## Thank you
 
-Thank you to all my Patreons : 3D-Maniac, 3DPrintronics, Aaron Rieley, Ahmed, Albe Gouws, Alberto Vargas, Alex Vasile, Anders Svendsen, Andrew Bingham, Apton Ika, Bas Borgignons, Ben Langley, Bob Collinsworth, Borja Gutierez Yañez, Brad Craig, Chris Jackson, Chris Warkocki, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cristian Toma, darkly spectre aka that one belgian cunt, Darren Furniss, David F Morrison II, David Pesce, David Tyra, Dejan Vozlic, Doug Palmer, Elendil the tall, Emiliano Vignali, Erich Jermann, Espen Fjellvær Olsen, Evan, Evgen, Filament Frenzy, flobler, Fredrik Id, Garrett White, Garth Clardy, Gorgonbert, Greg3D, Grigori Palamartšuk, Harrison, Hector Gonzalez, Hugo Henry-garon, Illia Tsariuk, J.D. sloot, Jack Emilsen, Jacob Leonard, Jake Hamlin, Jan Andersen, Jason Bao, Jason Marcus, JD, Jim Jacques, Jimmy Lee, JimmySnails, Joan Torner Corrons, Joel Weinberg, Jonathan Ryer, Jonny Menkakow, Joseph Mizrachi, Joseph Quan, Josh Carter, Josheua R Mascote, Joshua Jones, JTa, Juan Rosario, Keith Beaul, Ken Waters, Kevin Smith, Kim Schauss, Kristof Spiszak, Kyle Rothrock, Laurent Zender, Loïc Dumont, Luke Turner, Magnus Pfeffer, Marie Julien, Martin Majewski, Merijn van Mourik, Michal Kapusnik, Michiel Plaisier, Miguel Castillo, Mike Phelps, Moody Wood Carving, Name, Narasak Mansurang, Neofitos Papadopoulos, Nicolas Pottier, Orlando E Moran, Oscar Padilla, Patrick Glyré, Patrick Hung, Phil S., Przemek, QcRetro, ra100, Rasmus Baes, RC-CnC, Richard Bateman, robert veline, Ronny Olsen, Rubens Panfili, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Serkan Aksu, Settle, Shawn Chronister, Shawn England, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stephan Kohls, Stephen Pope, Steve Carter, Steve Peterson, Steven Daglish, Stig Jøran Moen, Stuflo, Ted Rathkopf, Thom Sturgill, Tomáš Vydra, Total Dramatist, Trae LaPole, Trystan Jones, Tyler Townes, Víctor Martínez, Warren Schultz, Wes Warner, Zohaib.
+First of all, massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
 
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
+Thank you to all [my Patreon's](https://guides.bear-lab.com/Wiki/Bear_Supporters)
 
-Thank you to all that have send me a tip on Thingiverse and PayPal.
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo235 for helping me in developing the Bear project.
+
+Thank you to all that have sent me a tip on Thingiverse and PayPal.
 
 Thank you to everybody from Facebook group and The 602 Wasteland community.
 
@@ -177,7 +180,7 @@ Thank you to all official distributors for taking care of the kits and customers
 
 Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 
-Thank you Openbuilds for your open source hardware and community.
+Thank you Openbuilds for your hardware, community and state of mind.
 
 Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
