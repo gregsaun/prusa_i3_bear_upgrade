@@ -82,7 +82,7 @@ Here is the list of official optional parts for the Bear extruder and X axis.
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
 | Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://www.thingiverse.com/thing:4362586) |
 
-You can also find optional parts designed by the community at [https://guides.bear-lab.com/Wiki/community_optional_parts](guides.bear-lab.com/Wiki/community_optional_parts).
+You can also find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
 
 
 
