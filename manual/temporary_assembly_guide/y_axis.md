@@ -77,7 +77,7 @@ Try to keep the tensioner as closed as possible. Move the belt by 1 or two teeth
 Press the motor in the direction of the vslot when tightening F02 and F04 screws.
 
 ![y motor mount mk2s G](img_assembly_guide/y_motor_mount_mk2s_02.jpg)
-* **G01:** M3x10mm
+* **G01:** M3x18mm
 * **G02:** M5x16mm
 
 
