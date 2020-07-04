@@ -14,6 +14,7 @@
 
 bear20_files="
 build_helper_z.stl
+build_helper_z_96mm.stl
 psu_lower_mount.stl
 psu_upper_mount.stl
 y_belt_holder.stl
