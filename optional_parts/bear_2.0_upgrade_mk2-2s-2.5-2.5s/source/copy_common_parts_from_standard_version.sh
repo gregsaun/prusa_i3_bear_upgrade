@@ -13,6 +13,8 @@
 ################################################################################
 
 bear20_files="
+psu_lower_mount.stl
+psu_upper_mount.stl
 y_belt_holder.stl
 z_motor_mounts.stl
 z_tops.stl
