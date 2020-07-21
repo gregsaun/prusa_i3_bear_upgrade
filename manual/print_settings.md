@@ -47,5 +47,5 @@
 | z_motor_mounts         | 1<br/>(total of 2 parts) | 0.20 | 20 | 4 | 5 | |
 | z_tops                 | 1<br/>(total of 2 parts) | 0.20 | 20 | 4 | 5 | |
 | cable_clip_horizontal  | 2 | 0.15 | 20 | 4 | 5 | |
-| cable_clip_vertical    | 7 | 0.15 | 20 | 4 | 5 | |
+| cable_clip_vertical    | 6 | 0.15 | 20 | 4 | 5 | |
 | cable_clip_lcd         | 5 | 0.15 | 20 | 4 | 5 | |

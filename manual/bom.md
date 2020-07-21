@@ -62,5 +62,5 @@ A full BOM with all parts to build a Bear from scratch has been made by [Chris R
 | z_motor_mounts         | 1<br/>(total of 2 parts) | |
 | z_tops                 | 1<br/>(total of 2 parts) | |
 | cable_clip_horizontal  | 2 | |
-| cable_clip_vertical    | 7 | |
+| cable_clip_vertical    | 6 | |
 | cable_clip_lcd         | 5 | |
