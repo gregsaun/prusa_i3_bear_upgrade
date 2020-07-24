@@ -21,7 +21,7 @@
    :warning: this step is very important, double check everything is perfectly square
 1. :warning: Take the time to double check these points (figure 7.4) :
     * Everything is perfectly aligned and squared
-    * 106mm is perfect on both sides
+    * 106mm is perfect on both sides (it is hard to check it with caliper, but since V-slots has tight tolerances you may check it by measure outside dimensions: 20+106+20=146mm (+/- 0.02mm - caliper accuracy)
     * 290mm v-slot is square and has same height on each side of the Z axis
     * All screws have been strongly tightened
 
