@@ -13,8 +13,8 @@ This is a Y idler for 9mm width Gates 2GT belt (standard is 6mm). Larger belt wi
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
 | E3D Gates 2GT 9mm Belt  | 1 | [E3D store link](https://e3d-online.com/gates-powergripr-gt2-belt-9mm-x-100mm) |
-| E3D Gates 2GT Toothed Idler<br/>9mm Belt, 20 Tooth, 5mm bore | 1 | [E3D store link](https://e3d-online.com/gates-powergripr-toothed-idler-9mm) |
-| 2GT Pulley 16T, 5mm bore | 1 | [Aliexpress Powge store](https://www.aliexpress.com/item/32995138803.html)<br/>Choose _5mm bore_ and _For Belt Width 10mm_ |
+| E3D Gates 2GT Toothed Idler<br/>9mm Belt, 20 Tooth, 5mm bore | 1 | [E3D store link](https://e3d-online.com/products/gates-powergrip%C2%AE-2gt-idlers) |
+| 2GT Pulley 16T, 5mm bore | 1 | [Aliexpress Powge store](https://www.aliexpress.com/item/32995138803.html) |
 | Dowel pin<br/>diameter: 4.90-4.95mm<br/>length: 20mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M5 screw if you can't find one |
 | M3x30mm socket head screw ISO 4762 | 1 | |
 | M3x25mm socket head screw ISO 4762 | 1 | |

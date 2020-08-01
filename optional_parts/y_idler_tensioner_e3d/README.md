@@ -18,7 +18,7 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
-| E3D Gates 2GT Toothed Idler<br/>6mm Belt, 20 Tooth, 5mm ID | 1 | https://e3d-online.com/gates-powergripr-toothed-idler-6mm |
+| E3D Gates 2GT Toothed Idler<br/>6mm Belt, 20 Tooth, 5mm ID | 1 | [E3D store link](https://e3d-online.com/products/gates-powergrip%C2%AE-2gt-idlers) |
 | Dowel pin<br/>diameter: 4.90-4.95mm<br/>length: 15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M5 screw if you can't find one |
 | M3x30mm socket head screw ISO 4762 | 1 | |
 | M3x25mm socket head screw ISO 4762 | 1 | |
