@@ -6,6 +6,7 @@
 
 ## Table of contents
   1. [Introduction](#introduction)
+  1. [Features](#features)
   1. [New features since Bear Upgrade 2.0](#new-features-since-bear-upgrade-20)
   1. [Compatibility](#compatibility)
   1. [Manual](#manual)
@@ -23,7 +24,7 @@
 
 ## Introduction
 
-The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customizations. Plus it looks unique with our coloured frames!
+The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
 
 ![Bear Upgrade 2.1 MK3S](doc/rendering/mk3_home_right_882px.jpg)
 
@@ -32,6 +33,7 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
 ## Features
 
   * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
+  * Reuse as much part as possible from Original Prusa printers
   * Sturdy frame to print faster
   * Improve accuracy
   * Reduce noise level
