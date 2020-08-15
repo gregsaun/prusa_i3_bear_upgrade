@@ -9,8 +9,11 @@
   1. [Features](#features)
   1. [New features since Bear Upgrade 2.0](#new-features-since-bear-upgrade-20)
   1. [Compatibility](#compatibility)
-  1. [Manual](#manual)
+  1. [Printed parts](#printed-parts)
+  1. [Print settings](#print-settings)
+  1. [Assembly guide](#assembly-guide)
   1. [Optional parts](#optional-parts)
+  1. [Bill of materials](#bill-of-materials)
   1. [Community](#community)
   1. [Where can I get an official kit?](#where-can-i-get-an-official-kit)
   1. [Partners and contributors](#partners-and-contributors)
@@ -75,17 +78,39 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
 
 This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
-:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts here: [optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s/README.md).
+:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional_parts) below.
 
 :warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
 
 
 
-## Manual
+## Printed parts
 
-The manual contains bill of materials (BOM), print settings and assembly instructions.
+:bulb: All links here correspond to the latest stable release.
 
-[Read the manual here :book:](manual/README.md)
+**Printed parts:**
+  * Bear 2.1 frame for MK3(S) STL files: [bear21_mk3-3s_stl.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_mk3-3s_stl.zip)
+  * Bear 2.1 frame for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
+  * Bear 2.1 optional parts (check [optional parts section](#optional_parts) below) files: [bear21_optional_parts.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_optional_parts.zip)
+
+**CAD, drawings and source files**:
+  * Bear 2.1 frame for MK3(S) CAD files (Fusion 360 and STEP files): [bear21_cad_files.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_cad_files.zip)
+  * Bear 2.1 frame for MK3(S) mechanical drawings: [bear21_mechanical_drawings.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_mechanical_drawings.zip)
+  * All source files (complete repository): Go the to latest release [here](/gregsaun/prusa_i3_bear_upgrade/releases/latest) and in the bottom of the release note, under the Assets, and click on "Source code" (you can choose between zip and tar.gz files).
+
+
+
+## Print settings
+
+:warning: Warning: It is important to follow the recommended print settings and to calibrate your extrusion multiplier before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+
+[Read the print settings here](manual/print_settings.md).
+
+
+
+## Assembly guide
+
+[Read the assembly guide here](https://guides.bear-lab.com/c/Frame)
 
 
 
@@ -95,7 +120,7 @@ Here is the list of official optional parts for the Bear extruder and X axis.
 
 | Description | Link |
 |-------------|------|
-| Upgrade parts fo Bear 2.0 MK2(S), MK2.5(S) frame | [bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s/README.md) |
+| Upgrade parts for Bear 2.0 MK2(S), MK2.5(S) frame | [bear_2.0_upgrade_mk2-2s-2.5-2.5s](optional_parts/bear_2.0_upgrade_mk2-2s-2.5-2.5s/README.md) |
 | LCD cover | [lcd_cover](optional_parts/lcd_cover/README.md) |
 | MMU2(S) frame holder adapter | [mmu2_adapter](optional_parts/mmu2_adapter/README.md) |
 | Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt/README.md) |
@@ -103,6 +128,12 @@ Here is the list of official optional parts for the Bear extruder and X axis.
 | Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://www.thingiverse.com/thing:4362586) |
 
 You can also find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
+
+
+
+## Bill of materials
+
+[Read the BOM here](manual/bom.md).
 
 
 
