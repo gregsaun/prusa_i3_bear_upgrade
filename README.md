@@ -29,7 +29,24 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
 
 
 
-## New features since Bear Upgrade 2.0
+## Features
+
+  * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
+  * Sturdy frame to print faster
+  * Improve accuracy
+  * Reduce noise level
+  * Easy to use and maintain
+  * Built to last
+  * Precisely engineered printed parts
+  * Thoroughly tested development
+  * Highly customisable
+  * Detailed documentation
+  * Active and open mindset community
+  * Truly open source
+
+
+
+## New features since Bear Frame 2.0
 
   * Improved assembly guide and documentation
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
