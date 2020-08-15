@@ -23,7 +23,7 @@
 
 ## Introduction
 
-The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/) frame with a more rigid and reliable solution. It allows faster prints, increases precision, makes maintenance easier and opens the door to more customizations. Plus it looks unique with our coloured frames!
+The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customizations. Plus it looks unique with our coloured frames!
 
 ![Bear Upgrade 2.1 MK3S](doc/rendering/mk3_home_right_882px.jpg)
 
@@ -31,6 +31,7 @@ The Bear Upgrade replaces the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](ht
 
 ## New features since Bear Upgrade 2.0
 
+  * Improved assembly guide and documentation
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner
   * New stiffer Z axis
@@ -100,9 +101,9 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ## Where can I get an official kit?
 
-Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
+Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print 3D printed parts.
 
-All distributors are following [specifications](doc/vslot_specs_tolerances.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
+All distributors are following our specifications to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines).
 
   * ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
      All3D Makers (US)  
@@ -141,11 +142,11 @@ By purchasing a kit from official distributors you are supporting the developmen
 
 ![3DFused](doc/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Upgrade.
 
-Grégoire Saunier is the inventor of the Original Bear Upgrade frame and extruder.
+Grégoire Saunier is the original designer of the Bear Upgrade frame and extruder.
 
-Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
+Bendix Sørensen, Florian Däubler, Josh Jones, and Stefan Maue are active contributors.
 
-Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with translations.
+Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with documentation.
 
 
 
@@ -165,7 +166,7 @@ Massive thank you in advance :heart:
 
 ## Thank you
 
-First of all, massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
+Massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
 
 Thank you to all [my Patreon's](https://guides.bear-lab.com/Wiki/Bear_Supporters)
 
@@ -189,7 +190,7 @@ Thank you for making the community alive with all your comments, issues, pull re
 
 ## License
 
-This repository and all its files are licensed under the GPLv3 license. Here is a quick summary; for more details please check the LICENSE file.
+The Bear frame is licensed under the GPLv3 license. Here is a quick summary; for more details please check the LICENSE file.
 
 What you __can__ do:
   * Modify
@@ -207,10 +208,9 @@ What you __must__ do:
 
 ## Credit, sources and inspiration
 
-Here is list of sources and inspiration :
-
-  * Original Prusa i3 printers : [prusa3d.com](http://www.prusa3d.com).
-  * Prusa 3030 Haribo Edition : [github.com/PrusaMK2Users/3030_Haribo_Edition](https://github.com/PrusaMK2Users/3030_Haribo_Edition).
+  * [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
+  * Original Prusa i3 printers: [prusa3d.com](http://www.prusa3d.com).
+  * Prusa 3030 Haribo Edition: [github.com/PrusaMK2Users/3030_Haribo_Edition](https://github.com/PrusaMK2Users/3030_Haribo_Edition).
   * Openbuilds for the invention of opensource vslot extrusions : [openbuilds.org](https://www.openbuilds.org).
   * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
   * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
