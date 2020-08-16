@@ -1,0 +1,122 @@
+################################################################################
+#
+# Manual github workflow to create a draft release with assets files (zip files)
+#
+# Author: Gregoire Saunier
+# Website: http://github.com/gregsaun
+#
+# Description:
+# This workflow is triggered manually and need a release version as input. It
+# will then create a tag using this version, create a draft release, compress
+# zip files containing STL, CAD, drawings, optional parts, etc. Those zip files
+# are then uploaded to the draft release.
+#
+################################################################################
+
+# This is a basic workflow that is manually triggered
+
+name: Create Release
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      tag_version:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Tag version to create. e.g.: 2.1.0-rc1'
+        required: true
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+
+      #
+      # Create tag for the release
+      #
+    - name: Create tag and push it
+      run: git tag ${{ github.event.inputs.tag_version }} && git push origin --tags
+
+
+      #
+      # Create assets (zip files)
+      #
+    - name: Create zip file
+      run: chmod +x ./scripts/create_release_assets.sh && ./scripts/create_release_assets.sh
+
+
+      #
+      # Create a draft release
+      #
+    - name: Create a release
+      id: create-release-id
+      uses: actions/create-release@v1
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      with:
+        tag_name: ${{ github.event.inputs.tag_version }}
+        release_name: Bear Upgrade ${{ github.event.inputs.tag_version }}
+        body: |
+          ## Improvements
+          ## Bug fixes
+          ## Compatibility
+          ## How to upgrade
+          ## Manual, BOM, Assembly guide
+          ## Special thank you
+        draft: true
+        prerelease: true
+
+
+    #
+    # Upload assets to the release
+    #
+    - name: Upload Release Asset STL MK3
+      id: asset-bear21-mk3
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create-release-id.outputs.upload_url }}
+        asset_path: ./release_files/bear21_mk3-3s_stl.zip
+        asset_name: bear21_mk3-3s_stl.zip
+        asset_content_type: application/zip
+
+    - name: Upload Release Asset STL MK2
+      id: asset-bear21-mk2-25
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create-release-id.outputs.upload_url }}
+        asset_path: ./release_files/bear21_mk2-2s-25-25s_stl.zip
+        asset_name: bear21_mk2-2s-25-25s_stl.zip
+        asset_content_type: application/zip
+
+    - name: Upload Release Asset CAD And Drawings
+      id: asset-bear21-cad-drawings
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create-release-id.outputs.upload_url }}
+        asset_path: ./release_files/bear21_cad_drawings_files.zip
+        asset_name: bear21_cad_drawings_files.zip
+        asset_content_type: application/zip
+
+    - name: Upload Release Asset Optional Parts
+      id: asset-bear21-optional-parts
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create-release-id.outputs.upload_url }}
+        asset_path: ./release_files/bear21_optional_parts.zip
+        asset_name: bear21_optional_parts.zip
+        asset_content_type: application/zip
