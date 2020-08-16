@@ -1,8 +1,6 @@
 # Prusa i3 Bear Upgrade 2.1
 
 
-:warning: **This is a development branch, use it at your own risk.** :warning:
-
 
 ## Table of contents
   1. [Introduction](#introduction)
@@ -69,8 +67,6 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
   * Improve wire management with new cable clips
   * Stiffer mounts for Rambo Mini/Einsy cover
   * Compatible with E3D Gates idlers as well as 9mm belt
-
-:warning: This a work in progress, the current kits sold by our official distributors are not containing the hardware necessary for this upgrade.
 
 
 
