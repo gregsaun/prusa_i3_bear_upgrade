@@ -89,14 +89,13 @@ This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If
 :bulb: All links here correspond to the latest stable release.
 
 **Printed parts:**
-  * Bear 2.1 frame for MK3(S) STL files: [bear21_mk3-3s_stl.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_mk3-3s_stl.zip)
-  * Bear 2.1 frame for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
-  * Bear 2.1 optional parts (check [optional parts section](#optional_parts) below) files: [bear21_optional_parts.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_optional_parts.zip)
+  * Bear 2.1 frame for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
+  * Bear 2.1 frame for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
+  * Bear 2.1 optional parts (check [optional parts section](#optional_parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
 
 **CAD, drawings and source files**:
-  * Bear 2.1 frame for MK3(S) CAD files (Fusion 360 and STEP files): [bear21_cad_files.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_cad_files.zip)
-  * Bear 2.1 frame for MK3(S) mechanical drawings: [bear21_mechanical_drawings.zip](/gregsaun/prusa_i3_bear_upgrade/releases/latest/download/bear21_mechanical_drawings.zip)
-  * All source files (complete repository): Go the to latest release [here](/gregsaun/prusa_i3_bear_upgrade/releases/latest) and in the bottom of the release note, under the Assets, and click on "Source code" (you can choose between zip and tar.gz files).
+  * Bear 2.1 frame for MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
+  * All source files (this complete repository): Go the to latest release [here](../../releases/latest) and in the bottom of the release note, under the Assets, click on "Source code" (you can choose between zip and tar.gz files).
 
 
 
