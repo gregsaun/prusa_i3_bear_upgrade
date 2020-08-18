@@ -22,7 +22,6 @@
 
 
 
-
 ## Introduction
 
 The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
@@ -36,6 +35,8 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
   * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
   * Reuse as much part as possible from Original Prusa printers
   * Sturdy frame to print faster
+  * High quality colored extrusions
+  * Custom sturdier t-nuts
   * Improve accuracy
   * Reduce noise level
   * Easy to use and maintain
@@ -215,7 +216,7 @@ Massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for havin
 
 Thank you to all [my Patreon's](https://guides.bear-lab.com/Wiki/Bear_Supporters)
 
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo235 for helping me in developing the Bear project.
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Vertigo235 for helping me in developing the Bear project and for their beautiful support to the community.
 
 Thank you to all that have sent me a tip on Thingiverse and PayPal.
 
