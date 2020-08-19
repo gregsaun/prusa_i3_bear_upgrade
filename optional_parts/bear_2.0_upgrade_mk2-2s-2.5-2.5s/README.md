@@ -18,7 +18,7 @@ You need to check the length of the frame to be sure you are getting the correct
 Measure the length of your Y axis __extrusion__ as seen on the picture below.
   * The length is __311 mm long__ (±1mm):
     * This is the old and shorter Bear 2.0 MK2 MK2.5 frame. You need special parts.
-    * [Download this ZIP file](../../releases/latest/download/bear21_optional_parts.zip), STL are in the folder `bear_2.0_upgrade_mk2-2s-2.5-2.5s/printed_parts/stl`.
+    * [Download this ZIP file](../../../../releases/latest/download/bear21_optional_parts.zip), STL are in the folder `bear_2.0_upgrade_mk2-2s-2.5-2.5s/printed_parts/stl`.
   * If the length is __331 mm long__ (±1mm):
     * You have the latest Bear frame, same extrusion as the standard Bear Frame 2.1. Follow the links from the [main page](../../README.md)
 
@@ -28,7 +28,7 @@ Measure the length of your Y axis __extrusion__ as seen on the picture below.
 
 ### Print settings
 
-Use the same print settings as the standard Bear 2.1 kit. You can [read them here](manual/print_settings.md).
+Use the same print settings as the standard Bear 2.1 kit. You can [read them here](../../manual/print_settings.md).
 
 
 ### Manual
