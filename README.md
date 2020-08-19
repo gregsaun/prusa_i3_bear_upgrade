@@ -61,6 +61,7 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
   * Reduce Y axis stepper noise for MK3(S)
   * New build helpers for Y and Z axis
   * Support all Prusa PSU
+  * Custom sturdier t-nuts
   * Shorter LCD supports
   * New custom LCD cover
   * Nicer and stronger end caps
@@ -75,7 +76,7 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
 
 This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
-:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional_parts) below.
+:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
 
 :warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
 
@@ -88,7 +89,7 @@ This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If
 **Printed parts:**
   * Bear 2.1 frame for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
   * Bear 2.1 frame for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
-  * Bear 2.1 optional parts (check [optional parts section](#optional_parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
+  * Bear 2.1 optional parts (check [optional parts section](#optional-parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
 
 **CAD, drawings and source files**:
   * Bear 2.1 frame for MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
