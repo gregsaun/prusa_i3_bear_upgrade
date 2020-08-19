@@ -99,7 +99,7 @@ This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If
 
 ## Print settings
 
-:warning: Warning: It is important to follow the recommended print settings and to calibrate your extrusion multiplier before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 [Read the print settings here](manual/print_settings.md).
 
