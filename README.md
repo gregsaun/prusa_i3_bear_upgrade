@@ -1,11 +1,11 @@
-# Prusa i3 Bear Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 
 
 ## Table of contents
   1. [Introduction](#introduction)
   1. [Features](#features)
-  1. [New features since Bear Upgrade 2.0](#new-features-since-bear-upgrade-20)
+  1. [New features since Bear Frame 2.0](#new-features-since-bear-frame-20)
   1. [Compatibility](#compatibility)
   1. [Printed parts](#printed-parts)
   1. [Print settings](#print-settings)
@@ -24,9 +24,9 @@
 
 ## Introduction
 
-The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
+The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
 
-![Bear Upgrade 2.1 MK3S](doc/rendering/mk3_home_right_882px.jpg)
+![Bear Frame Upgrade 2.1 MK3S](doc/rendering/mk3_home_right_882px.jpg)
 
 
 
@@ -74,9 +74,9 @@ The Bear Upgrade improves stiffness and reliability of the original [Prusa i3 MK
 
 ## Compatibility
 
-This Bear Upgrade 2.1 is compatible with Full Bear Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
+This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
-:bulb: If you have a Full Bear Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
+:bulb: If you have a Full Bear Frame Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
 
 :warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
 
@@ -185,11 +185,11 @@ By purchasing a kit from official distributors you are supporting the developmen
 
 ## Partners and contributors
 
-![LDO Motors](doc/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the Original Bear upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
+![LDO Motors](doc/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
 
-![3DFused](doc/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Upgrade.
+![3DFused](doc/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Frame Upgrade.
 
-Grégoire Saunier is the original designer of the Bear Upgrade frame and extruder.
+Grégoire Saunier is the original designer of the Bear Frame Upgrade and extruder.
 
 Bendix Sørensen, Florian Däubler, Josh Jones, and Stefan Maue are active contributors.
 
