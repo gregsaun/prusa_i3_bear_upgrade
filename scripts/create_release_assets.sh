@@ -46,7 +46,7 @@ exit_with_error () {
 #   $2...$n: file or directory to use for the zip file
 #
 # Example:
-#   create_zip_file stl_files.zip /my/dirA/ /my/dirB/
+#   create_release_asset stl_files.zip /my/dirA/ /my/dirB/
 ################################################################################
 create_release_asset () {
 
