@@ -23,10 +23,16 @@ on:
   workflow_dispatch:
     # Inputs the workflow accepts.
     inputs:
+      # Tag version
       tag_version:
-        # Friendly description to be shown in the UI instead of 'name'
         description: 'Tag version to create. e.g.: 2.1.0-rc1'
         required: true
+      
+      # Branch
+      branch_name:
+        description: 'Branch name used for the release. e.g.: dev'
+        default: 'master'
+        required: false
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -40,7 +46,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        ref: dev  # branch to checkout
+        ref: ${{ github.event.inputs.branch_name }}  # branch to checkout
 
 
       #
