@@ -115,7 +115,7 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 
 ## Optional parts
 
-Here is the list of official optional parts for the Bear extruder and X axis.
+#### Official optional parts
 
 | Description | Link |
 |-------------|------|
@@ -126,7 +126,9 @@ Here is the list of official optional parts for the Bear extruder and X axis.
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
 | Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://www.thingiverse.com/thing:4362586) |
 
-You can also find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
+#### Community's optional parts
+
+Find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
 
 
 
