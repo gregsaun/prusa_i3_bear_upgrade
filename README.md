@@ -89,9 +89,9 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 **Printed parts:**
-  * Bear 2.1 frame for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
-  * Bear 2.1 frame for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
-  * Bear 2.1 optional parts (check [optional parts section](#optional-parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
+  * Bear Frame 2.1 for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
+  * Bear Frame 2.1 for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
+  * Bear Frame 2.1 optional parts (check [optional parts section](#optional-parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
 
 **CAD, drawings and source files**:
   * Bear 2.1 frame for MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
@@ -109,7 +109,7 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 
 ## Assembly guide
 
-[Read the assembly guide here](https://guides.bear-lab.com/c/Frame)
+[Read the assembly guide here](https://guides.bear-lab.com/c/Frame).
 
 
 
@@ -264,4 +264,4 @@ What you __must__ do:
   * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
   * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
-Massive thanks to these projects, without them this project can not exist!
+Massive thanks to these projects, without them the Bear can not exist!
