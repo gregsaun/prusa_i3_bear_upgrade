@@ -14,8 +14,6 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 
 ### Bill of Materials
 
-#### Hardware
-
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
 | E3D Gates 2GT Toothed Idler<br/>6mm Belt, 20 Tooth, 5mm ID | 1 | [E3D store link](https://e3d-online.com/products/gates-powergrip%C2%AE-2gt-idlers) |
@@ -25,7 +23,9 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 | M3 Hex nylock nuts (DIN 985) | 2 | |
 | M3 steel washer DIN 125, 0.5mm thick | 1 | |
 
-#### Printed Parts
+
+
+### Printed Parts
 
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
