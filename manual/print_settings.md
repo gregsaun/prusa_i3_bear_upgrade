@@ -1,16 +1,9 @@
-# Bear Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 
 ## Print Settings
 
-
-### :warning: Warning
-
-1. The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances.
-1. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
-
-
-### Parameters
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 * Filament type: PETG
 * Slicer: PrusaSlicer

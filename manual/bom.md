@@ -1,4 +1,4 @@
-# Bear Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 ## Bill of Materials
 
