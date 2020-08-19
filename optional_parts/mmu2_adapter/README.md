@@ -1,4 +1,4 @@
-# Bear Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 ## MMU2(S) Frame Holder for Bear Frame
 
@@ -38,12 +38,14 @@ This MMU2(S) frame holder is compatible with both MMU2 and MMU2S
 
 ### Printed parts
 
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+
 Use this link to download the STL: [mmu2_frame_holder.stl](printed_parts/mmu2_frame_holder.stl?raw=true)
 
 
 ### Print settings
 
-:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended

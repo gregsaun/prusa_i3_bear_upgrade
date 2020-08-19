@@ -1,4 +1,4 @@
-# Bear Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 ## LCD Cover
 
@@ -12,7 +12,7 @@
 
 ### Introduction
 
-This is an alternative LCD cover designed for Bear Upgrade frame.
+This is an alternative LCD cover designed for Bear Frame Upgrade frame.
   * New accurate design from scratch
   * Makes the frame shorter thanks to a bevel in front (4th picture)
   * Eliminate vibrations by using 4 screws to attach the LCD
@@ -46,7 +46,7 @@ This is an alternative LCD cover designed for Bear Upgrade frame.
 
 # Compatibility
 
-This LCD cover is compatible with all Bear Upgrade frames. It is also compatible with Original Prusa MK3(S) frame (see section [printed parts](#printed-parts)).
+This LCD cover is compatible with all Bear Frame Upgrade frames. It is also compatible with Original Prusa MK3(S) frame (see section [printed parts](#printed-parts)).
 
 
 ### Bill of materials

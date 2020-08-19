@@ -1,4 +1,4 @@
-# Bear Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 ## Y idler for 9mm belts
 
@@ -25,6 +25,8 @@ This is a Y idler for 9mm width Gates 2GT belt (standard is 6mm). Larger belt wi
 
 :pushpin: If you have doubt on which frame you have, please check the [Bear FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Bear_frame_do_I_have).
 
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+
 | Part     | Qty | Note | Download link |
 |----------|:--------:|------|---------------|
 | y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s | 1 | :warning: For Bear 2.0 MK2(S), MK2.5(S) frame | [y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s.stl](printed_parts/y_belt_holder_9mm_belt_bear2.0_mk2s-2.5-2.5s.stl?raw=true) |
@@ -37,7 +39,7 @@ The Y motor mount from standard Bear 2.1 printed parts is reused.
 
 ### Print settings
 
-:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
