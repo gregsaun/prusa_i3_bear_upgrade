@@ -46,7 +46,7 @@ This is an alternative LCD cover designed for Bear Frame Upgrade frame.
 
 # Compatibility
 
-This LCD cover is compatible with all Bear Frame Upgrade frames. It is also compatible with Original Prusa MK3(S) frame (see section [printed parts](#printed-parts)).
+This LCD cover is compatible with all Bear Frame Upgrade frames. It is also compatible with Original Prusa MK3(S) frame (see section [Printed parts](#printed-parts)).
 
 
 ### Bill of materials
@@ -66,8 +66,8 @@ This LCD cover is compatible with all Bear Frame Upgrade frames. It is also comp
 | lcd_knob      | 1 | | [lcd_knob.stl](printed_parts/stl/lcd_knob.stl?raw=true) |
 | lcd_support_a | 1 | For **Bear frame** | [lcd_support_a.stl](printed_parts/stl/lcd_support_a.stl?raw=true) |
 | lcd_support_b | 1 | For **Bear frame** | [lcd_support_b.stl](printed_parts/stl/lcd_support_b.stl?raw=true) |
-| lcd_support_a_prusa | 1 | For **Original Prusa frame** | [lcd_support_a_prusa.stl](support_for_prusa_frame/printed_parts/stl/lcd_support_a_prusa.stl?raw=true) |
-| lcd_support_b_prusa | 1 | For **Original Prusa frame** | [lcd_support_b_prusa.stl](support_for_prusa_frame/printed_parts/stl/lcd_support_b_prusa.stl?raw=true) |
+| lcd_support_a_prusa | 1 | For **Original Prusa frame** | [lcd_support_a_prusa.stl](printed_parts/stl/lcd_support_a_prusa.stl?raw=true) |
+| lcd_support_b_prusa | 1 | For **Original Prusa frame** | [lcd_support_b_prusa.stl](printed_parts/stl/lcd_support_b_prusa.stl?raw=true) |
 
 
 
@@ -87,3 +87,8 @@ This LCD cover is compatible with all Bear Frame Upgrade frames. It is also comp
 | lcd_cover   | 0.20 | 20 | 3 | 5 |
 | lcd_support | 0.20 | 20 | 3 | 5 |
 | lcd_knob    | 0.20 | 20 | 3 | 5 |
+
+
+### Credit
+
+The bear paw logo has been designed by Solipandi Designs: https://www.etsy.com/listing/487103775/bear-paw-svg-cut-files-svg-and-dxf-cut
