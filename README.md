@@ -195,7 +195,7 @@ By purchasing a kit from official distributors you are supporting the developmen
 
 Grégoire Saunier is the original designer of the Bear Frame Upgrade and extruder.
 
-Bendix Sørensen, Florian Däubler, Josh Jones, and Stefan Maue are active contributors.
+Bendix Sørensen, Florian Däubler, Josh Jones and Stefan Maue are active contributors.
 
 Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with documentation.
 
@@ -221,7 +221,7 @@ Massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for havin
 
 Thank you to all [my Patreon's](https://guides.bear-lab.com/Wiki/Bear_Supporters)
 
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Vertigo235 for helping me in developing the Bear project and for their beautiful support to the community.
+Thank you to Bendix Sørensen, David Ogles, Florian Däubler, Jason from LDO Motors, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Josh Jones and Stefan Maue for helping me in developing the Bear project and for their beautiful support to the community.
 
 Thank you to all that have sent me a tip on Thingiverse and PayPal.
 
