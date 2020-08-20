@@ -1,4 +1,4 @@
-# Frame Upgrade 2.1
+# Bear Frame Upgrade 2.1
 
 ## Bear 2.1 upgrade parts for use on an original Full Bear 2.0 MK2(S)/MK2.5(S) frame
 
@@ -39,7 +39,7 @@ Measure the length of your Y axis __extrusion__ as shown in the diagram below.
 
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
-Use the same print settings as those for the Bear 2.1 parts: [link to the print settings](../../manual/print_settings.md).
+Use the same print settings as those for the Bear 2.1 parts: [link to the print settings](../../doc/print_settings.md).
 
 
 
@@ -51,4 +51,4 @@ Use the same assembly guide as for the Bear Frame 2.1, found here: [link to the 
 
 ### Bill of materials
 
-The BOM is the same as for the Bear Frame 2.1: [link to the bom](../../manual/bom.md).
+The BOM is the same as for the Bear Frame 2.1: [link to the bom](../../doc/bom.md).

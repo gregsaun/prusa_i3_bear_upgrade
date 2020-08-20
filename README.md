@@ -26,7 +26,7 @@
 
 The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
 
-![Bear Frame Upgrade 2.1 MK3S](doc/rendering/mk3_home_right_882px.jpg)
+![Bear Frame Upgrade 2.1 MK3S](extra/rendering/mk3_home_right_882px.jpg)
 
 
 
@@ -103,7 +103,7 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
-[Read the print settings here](manual/print_settings.md).
+[Read the print settings here](doc/print_settings.md).
 
 
 
@@ -134,7 +134,7 @@ Find optional parts designed by the community at [guides.bear-lab.com/Wiki/commu
 
 ## Bill of materials
 
-[Read the BOM here](manual/bom.md).
+[Read the BOM here](doc/bom.md).
 
 
 
@@ -156,30 +156,30 @@ Official distributors are selling a kit with all screws and extrusions ready for
 
 All distributors are following our specifications to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines).
 
-  * ![all3d makers logo](doc/distributors/all3dmakers_logo.png)  
+  * ![all3d makers logo](extra/distributors/all3dmakers_logo.png)  
      All3D Makers (US)  
      [all3dmakers.com](http://all3dmakers.com/)  
 
 
-  * ![blackfrog logo](doc/distributors/blackfrog_logo.jpg)  
+  * ![blackfrog logo](extra/distributors/blackfrog_logo.jpg)  
      Blackfrog (EU)  
      [blackfrog.pl](https://blackfrog.pl)  
 
-  * ![lecktor logo](doc/distributors/lecktor_logo.png)  
+  * ![lecktor logo](extra/distributors/lecktor_logo.png)  
     Lecktor (EU)  
     [lecktor.com](http://lecktor.com)  
 
-  * ![makerparts.ca logo](doc/distributors/makerpartsca_logo.jpg)  
+  * ![makerparts.ca logo](extra/distributors/makerpartsca_logo.jpg)  
     Makerparts.ca (CA)  
     [makerparts.ca](http://makerparts.ca)  
 
 
-  * ![ooznest logo](doc/distributors/ooznest_logo.png)  
+  * ![ooznest logo](extra/distributors/ooznest_logo.png)  
     Ooznest (EU)  
     [ooznest.co.uk](https://ooznest.co.uk/)  
 
 
-  * ![ratrig logo](doc/distributors/ratrig_logo.jpg)  
+  * ![ratrig logo](extra/distributors/ratrig_logo.jpg)  
     RatRig (EU)  
     [www.ratrig.com](http://www.ratrig.com/)  
 
@@ -189,9 +189,9 @@ By purchasing a kit from official distributors you are supporting the developmen
 
 ## Partners and contributors
 
-![LDO Motors](doc/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
+![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
 
-![3DFused](doc/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Frame Upgrade.
+![3DFused](extra/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Frame Upgrade.
 
 Grégoire Saunier is the original designer of the Bear Frame Upgrade and extruder.
 
@@ -205,9 +205,9 @@ Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando f
 
 The Bear project is made possible thanks supporters, you can participate via
 <br/><br/>
-[![become a patron](doc/icons/patreon_50px.png)](https://www.patreon.com/gregsaun)<br/>[patreon.com/gregsaun](https://www.patreon.com/gregsaun)
+[![become a patron](extra/icons/patreon_50px.png)](https://www.patreon.com/gregsaun)<br/>[patreon.com/gregsaun](https://www.patreon.com/gregsaun)
 <br/><br/>
-[![paypal.me](doc/icons/paypal_50px.png)](https://www.paypal.me/gregsaun)<br/>[paypal.me/gregsaun](https://www.paypal.me/gregsaun)
+[![paypal.me](extra/icons/paypal_50px.png)](https://www.paypal.me/gregsaun)<br/>[paypal.me/gregsaun](https://www.paypal.me/gregsaun)
 <br/><br/>
  You can also send me a tip via [Thingiverse](https://www.thingiverse.com/pekcitron/about) if you prefer that way.
 
