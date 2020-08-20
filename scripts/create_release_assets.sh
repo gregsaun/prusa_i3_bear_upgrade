@@ -85,10 +85,10 @@ create_release_asset () {
 #
 
 echo "Create release asset for MK3(S)"
-create_release_asset bear21_mk3-3s_stl.zip "${REPODIR}/printed_parts/common_to_all_versions/stl/" "${REPODIR}/printed_parts/mk3_mk3s/stl/"
+create_release_asset bear21_mk3-3s_stl.zip "${REPODIR}/printed_parts/common_to_all_versions/stl/" "${REPODIR}/printed_parts/mk3_mk3s/stl/" "${REPODIR}/doc/print_settings.md"
 
 echo "Create release asset for MK2(S)/MK2.5(S)"
-create_release_asset bear21_mk2-2s-25-25s_stl.zip "${REPODIR}/printed_parts/common_to_all_versions/stl/" "${REPODIR}/printed_parts/mk2s_mk2.5_mk2.5s/stl/"
+create_release_asset bear21_mk2-2s-25-25s_stl.zip "${REPODIR}/printed_parts/common_to_all_versions/stl/" "${REPODIR}/printed_parts/mk2s_mk2.5_mk2.5s/stl/" "${REPODIR}/doc/print_settings.md"
 
 echo "Create release asset for CAD files and mechanical drawings"
 create_release_asset bear21_cad_drawings_files.zip "${REPODIR}/mechanical_drawings" "${REPODIR}/cad_files"
