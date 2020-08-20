@@ -25,7 +25,7 @@ This is a Y idler for 9mm width Gates 2GT belt (standard is 6mm). Larger belt wi
 
 :pushpin: If you have doubt on which frame you have, please check the [Bear FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Bear_frame_do_I_have).
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 | Part     | Qty | Note | Download link |
 |----------|:--------:|------|---------------|
@@ -39,7 +39,7 @@ The Y motor mount from standard Bear 2.1 printed parts is reused.
 
 ### Print settings
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended

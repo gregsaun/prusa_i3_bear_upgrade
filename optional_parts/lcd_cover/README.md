@@ -73,7 +73,7 @@ This LCD cover is compatible with all Bear Frame Upgrade frames. It is also comp
 
 ### Print settings
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). Check our calibration guide here.
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended

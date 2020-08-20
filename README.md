@@ -86,7 +86,7 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 
 :bulb: All links here correspond to the latest stable release.
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 **Printed parts:**
   * Bear Frame 2.1 for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
@@ -101,7 +101,7 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 
 ## Print settings
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool you are going to use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 [Read the print settings here](doc/print_settings.md).
 
