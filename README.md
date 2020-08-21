@@ -26,7 +26,7 @@
 
 The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
 
-![Bear Frame Upgrade 2.1 MK3S](extra/rendering/mk3_home_right_882px.jpg)
+![Bear Frame Upgrade 2.1 MK3S](extra/photos/frame_01_900px.jpg)
 
 
 
@@ -252,7 +252,7 @@ What you __must__ do:
   * Use the same license (GPLv3)
   * Document changes applied
 
-Note: STL and STEP files are generally not source files. The source files are those you use to design your project such as CAD files (Fusion 360), mechanical drawings, code, documentation, etc. However, STL and STEP files are commonly used format with great interoperability. Therefore, we encourage to share the STL and STEP files in addition to the source files.
+Note: STL and STEP files are generally not source files. The source files are those you use to design your project such as CAD files (Fusion 360), mechanical drawings, code, documentation, etc. However, STL and STEP files are a commonly used format with great interoperability. Therefore, we encourage to share the STL and STEP files in addition to the source files.
 
 
 
