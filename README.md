@@ -44,7 +44,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
   * Precisely engineered printed parts
   * Thoroughly tested development
   * Highly customisable
-  * Detailed documentation
+  * Detailed documentation via [guides.bear-lab.com](https://guides.bear-lab.com/)
   * Active and open minded community
   * Truly open source
 
@@ -52,7 +52,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## New features since Bear Frame 2.0
 
-  * Improved assembly guide and documentation
+  * Improved assembly guide and documentation (via [guides.bear-lab.com](https://guides.bear-lab.com/))
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner
   * New stiffer Z axis
@@ -113,6 +113,12 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 
 
 
+## Bill of materials
+
+[Read the BOM here](doc/bom.md).
+
+
+
 ## Optional parts
 
 #### Official optional parts
@@ -129,12 +135,6 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 #### Community's optional parts
 
 Find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
-
-
-
-## Bill of materials
-
-[Read the BOM here](doc/bom.md).
 
 
 
@@ -186,13 +186,13 @@ By purchasing a kit from official distributors you are supporting the developmen
 
 ## Partners and contributors
 
-![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors with the exception of RatRig.
+![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors.
 
 ![3DFused](extra/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Frame Upgrade.
 
 Grégoire Saunier is the original designer of the Bear Frame Upgrade and Extruder.
 
-Bendix Sørensen, Florian Däubler, Josh Jones and Stefan Maue are active contributors.
+Bendix Sørensen, David Ogles, Florian Däubler, Josh Jones and Stefan Maue are active contributors.
 
 Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers and Termlimit are admins of the Bear community and help with documentation.
 
