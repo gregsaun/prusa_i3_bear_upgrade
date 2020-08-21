@@ -13,7 +13,7 @@
 
 ### Introduction
 
-MMU2 and MMU2S frame holder for my Bear Upgrade.
+MMU2 and MMU2S frame holder for the Bear Frame Upgrade.
 
 
 ### Pictures
@@ -25,15 +25,15 @@ MMU2 and MMU2S frame holder for my Bear Upgrade.
 
 ### Compatibility
 
-This MMU2(S) frame holder is compatible with both MMU2 and MMU2S
+This MMU2(S) frame holder is compatible with both MMU2 and MMU2S.
 
 
 ### Bill of materials
 
 | Part     | Quantity | Example |
-|----------|:--------:|--------|
+|----------|:--------:|---------|
 | M5x10mm button head screw (ISO 7380) | 2 | |
-| Drop-in tee-nuts M5 | 2 | [Openbuilds](https://openbuildspartstore.com/spring-loaded-tee-nuts/) |
+| Drop-in tee-nuts M5                  | 2 | [Openbuilds](https://openbuildspartstore.com/spring-loaded-tee-nuts/) |
 
 
 ### Printed parts
@@ -55,5 +55,5 @@ Use this link to download the STL: [mmu2_frame_holder.stl](printed_parts/mmu2_fr
   * Perimeters width (internal and external) : 0.45mm
 
 | Layer Height | Infill | Perimeters | Top/Bottom Layers |
-|:----:|:----:|:----:|:----:|
+|:------------:|:------:|:----------:|:-----------------:|
 | 0.20mm | 20% | 3-4 | 5 |

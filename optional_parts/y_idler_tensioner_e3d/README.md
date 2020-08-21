@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This is a Y idler tensioner compatible with E3D toothed idler.
+This is a Y idler tensioner compatible with the E3D toothed idler
 
 ![Bear 2.1 Idler Tensioner for E3D Gates pulleys](y_idler_tensioner_e3d.jpg)
 
@@ -30,9 +30,9 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 | Part     | Quantity | Download link |
-|----------|:--------:|--------|
+|----------|:--------:|---------------|
 | y_idler_mount<br/>(from standard Bear 2.1 printed parts) | 1 | [y_idler_mount.stl](../../printed_parts/common_to_all_versions/stl/y_idler_mount.stl?raw=true) |
-| y_idler_tensioner_e3d<br/>(from this page) | 1 | [y_idler_tensioner_e3d.stl](printed_parts/y_idler_tensioner_e3d.stl?raw=true) |
+| y_idler_tensioner_e3d<br/>(from this page)               | 1 | [y_idler_tensioner_e3d.stl](printed_parts/y_idler_tensioner_e3d.stl?raw=true) |
 
 
 
@@ -48,8 +48,8 @@ This is a Y idler tensioner compatible with E3D toothed idler.
 * Detect thin walls : No
 * Perimeters width (internal and external) : 0.45mm
 
-| Part | Layer<br/>Height<br/>[mm] | Infill<br/>[%] | Num.<br/>Perimeters | Num.<br/>Top/Bottom<br/>Layers |
-|:----|:----:|:----:|:----:|:----:|
+| Part | Layer<br/>Height<br/>[mm] | Infill [%] | Num.<br/>Perimeters | Num.<br/>Top/Bottom<br/>Layers |
+|:-----|:-------------------------:|:----------:|:-------------------:|:------------------------------:|
 | y_idler_mount       | 0.20 | 20 | 4 | 5 |
 | y_idler_tension_e3d | 0.20 | 20 | 4 | 5 |
 

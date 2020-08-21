@@ -33,19 +33,19 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 ## Features
 
   * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
-  * Reuse as much part as possible from Original Prusa printers
+  * Reuse of as many parts as possible
   * Sturdy frame to print faster
-  * High quality colored extrusions
-  * Custom sturdier t-nuts
-  * Improve accuracy
-  * Reduce noise level
+  * High quality extrusions
+  * Custom, sturdier t-nuts
+  * Improved accuracy
+  * Reduced noise level
   * Easy to use and maintain
   * Built to last
   * Precisely engineered printed parts
   * Thoroughly tested development
   * Highly customisable
   * Detailed documentation
-  * Active and open mindset community
+  * Active and open minded community
   * Truly open source
 
 
@@ -56,17 +56,17 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
   * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
   * New stiffer Y axis with tensioner
   * New stiffer Z axis
-  * Improve X and Y axis homing accuracy
-  * Improve Z axis alignment and assembly
-  * Reduce Y axis stepper noise for MK3(S)
+  * Improved X and Y axis homing accuracy
+  * Improved Z axis alignment and assembly
+  * Reduced Y axis stepper noise for MK3(S)
   * New build helpers for Y and Z axis
-  * Support all Prusa PSU
-  * Custom sturdier t-nuts
+  * Support for all Prusa PSUs
+  * Custom, sturdier t-nuts
   * Shorter LCD supports
   * New custom LCD cover
-  * Nicer and stronger end caps
+  * Nicer and more resistant end caps
   * Easier assembly of printed parts
-  * Improve wire management with new cable clips
+  * Improved wire management with new cable clips
   * Stiffer mounts for Rambo Mini/Einsy cover
   * Compatible with E3D Gates idlers as well as 9mm belt
 
@@ -74,7 +74,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## Compatibility
 
-This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
+This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
 :bulb: If you have a Full Bear Frame Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
 
@@ -124,7 +124,7 @@ This Bear Frame Upgrade 2.1 is compatible with Full Bear Frame Upgrade 2.0 __MK3
 | MMU2(S) frame holder adapter | [mmu2_adapter](optional_parts/mmu2_adapter/README.md) |
 | Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt/README.md) |
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
-| Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://www.thingiverse.com/thing:4362586) |
+| Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://github.com/gregsaun/bear_extruder_and_x_axis) |
 
 #### Community's optional parts
 
@@ -140,21 +140,20 @@ Find optional parts designed by the community at [guides.bear-lab.com/Wiki/commu
 
 ## Community
 
-Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
+Here are the places were The Bear project is the most active on:
 
-* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
 * Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
+* Twitter : [@gregoiresaunier](https://twitter.com/gregoiresaunier)
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
-* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
-* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
+
+Do not hesitate to ask if you have a question.
 
 
 
 ## Where can I get an official kit?
 
-Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print 3D printed parts.
-
-All distributors are following our specifications to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines).
+Official distributors are selling a kit with all screws and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
 
   * ![all3d makers logo](extra/distributors/all3dmakers_logo.png)  
      All3D Makers (US)  
@@ -165,9 +164,11 @@ All distributors are following our specifications to ensure you will have a perf
      Blackfrog (EU)  
      [blackfrog.pl](https://blackfrog.pl)  
 
+
   * ![lecktor logo](extra/distributors/lecktor_logo.png)  
     Lecktor (EU)  
     [lecktor.com](http://lecktor.com)  
+
 
   * ![makerparts.ca logo](extra/distributors/makerpartsca_logo.jpg)  
     Makerparts.ca (CA)  
@@ -179,37 +180,33 @@ All distributors are following our specifications to ensure you will have a perf
     [ooznest.co.uk](https://ooznest.co.uk/)  
 
 
-  * ![ratrig logo](extra/distributors/ratrig_logo.jpg)  
-    RatRig (EU)  
-    [www.ratrig.com](http://www.ratrig.com/)  
-
 By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
 
 
 
 ## Partners and contributors
 
-![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors with the exception of [RatRig](http://www.ratrig.com/).
+![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors with the exception of RatRig.
 
 ![3DFused](extra/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Frame Upgrade.
 
-Grégoire Saunier is the original designer of the Bear Frame Upgrade and extruder.
+Grégoire Saunier is the original designer of the Bear Frame Upgrade and Extruder.
 
 Bendix Sørensen, Florian Däubler, Josh Jones and Stefan Maue are active contributors.
 
-Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers, Termlimit are admins of the Bear community and help with documentation.
+Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers and Termlimit are admins of the Bear community and help with documentation.
 
 
 
 ## Support my work
 
-The Bear project is made possible thanks supporters, you can participate via
+The bear project is made possible thanks to its supporters. You can participate via
 <br/><br/>
 [![become a patron](extra/icons/patreon_50px.png)](https://www.patreon.com/gregsaun)<br/>[patreon.com/gregsaun](https://www.patreon.com/gregsaun)
 <br/><br/>
 [![paypal.me](extra/icons/paypal_50px.png)](https://www.paypal.me/gregsaun)<br/>[paypal.me/gregsaun](https://www.paypal.me/gregsaun)
 <br/><br/>
- You can also send me a tip via [Thingiverse](https://www.thingiverse.com/pekcitron/about) if you prefer that way.
+You can also send me a tip via [Thingiverse](https://www.thingiverse.com/pekcitron/about) if you prefer.
 
 Massive thank you in advance :heart:
 
@@ -225,7 +222,7 @@ Thank you to Bendix Sørensen, David Ogles, Florian Däubler, Jason from LDO Mot
 
 Thank you to all that have sent me a tip on Thingiverse and PayPal.
 
-Thank you to everybody from Facebook group and The 602 Wasteland community.
+Thank you to everybody from our Facebook group and The 602 Wasteland community.
 
 Thank you for having purchased a kit from an official distributor.
 
@@ -266,4 +263,4 @@ What you __must__ do:
   * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
   * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
-Massive thanks to these projects, without them the Bear can not exist!
+Massive thanks to these projects, without them the Bear could not exist!
