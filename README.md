@@ -10,8 +10,8 @@
   1. [Printed parts](#printed-parts)
   1. [Print settings](#print-settings)
   1. [Assembly guide](#assembly-guide)
-  1. [Optional parts](#optional-parts)
   1. [Bill of materials](#bill-of-materials)
+  1. [Optional parts](#optional-parts)
   1. [Community](#community)
   1. [Where can I get an official kit?](#where-can-i-get-an-official-kit)
   1. [Partners and contributors](#partners-and-contributors)
@@ -230,7 +230,7 @@ Thank you to all official distributors for taking care of the kits and customers
 
 Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 
-Thank you Openbuilds for your hardware, community and state of mind.
+Thank you Openbuilds<sup>&reg;</sup> for your hardware, community and state of mind.
 
 Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
@@ -238,7 +238,7 @@ Thank you for making the community alive with all your comments, issues, pull re
 
 ## License
 
-The Bear frame is licensed under the GPLv3 license. Here is a quick summary; for more details please check the LICENSE file.
+All files in this repository are licensed under the GPLv3 license (unless otherwise noted). Here is a quick summary; for more details please check the LICENSE file.
 
 What you __can__ do:
   * Modify
@@ -252,6 +252,8 @@ What you __must__ do:
   * Use the same license (GPLv3)
   * Document changes applied
 
+Note: STL and STEP files are generally not source files. The source files are those you use to design your project such as CAD files (Fusion 360), mechanical drawings, code, documentation, etc. However, STL and STEP files are commonly used format with great interoperability. Therefore, we encourage to share the STL and STEP files in addition to the source files.
+
 
 
 ## Credit, sources and inspiration
@@ -259,7 +261,7 @@ What you __must__ do:
   * [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
   * Original Prusa i3 printers: [prusa3d.com](http://www.prusa3d.com).
   * Prusa 3030 Haribo Edition: [github.com/PrusaMK2Users/3030_Haribo_Edition](https://github.com/PrusaMK2Users/3030_Haribo_Edition).
-  * Openbuilds for the invention of opensource vslot extrusions : [openbuilds.org](https://www.openbuilds.org).
+  * Openbuilds<sup>&reg;</sup> for the invention of open source V-Slot<sup>&reg;</sup> extrusions : [openbuilds.org](https://www.openbuilds.org).
   * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
   * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
