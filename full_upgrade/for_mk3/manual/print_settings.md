@@ -19,7 +19,7 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | Part | Quantity | Material | Layer<br/>Height | Infill | Perimeters | Top and<br/>Bottom<br/>Layers |
 |:-----|:--------:|:--------:|:----------------:|:------:|:----------:|:-----------------------------:|
 | build_helper_106mm     | 1 | PLA or PETG | 0.20mm | 20% | 2 | 5 |
-| end_cap                | 2<br/>(total of 4 parts) | PLA or PETG | 0.20mm | 20% | 4 | 5 |
+| end_caps                | 2<br/>(total of 4 parts) | PLA or PETG | 0.20mm | 20% | 4 | 5 |
 | end_cap_z_axis         | 2 | PLA or PETG | 0.20mm | 20% | 3 | 5 |
 | foot                   | 4 | PLA or PETG | 0.20mm | 30% | 3 | 5 |
 | lcd_support_a          | 1 | PLA or PETG | 0.20mm | 20% | 3 | 5 |
