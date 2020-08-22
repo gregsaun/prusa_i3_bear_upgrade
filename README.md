@@ -34,7 +34,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
   * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
   * Reuse of as many parts as possible
-  * Sturdy frame to print faster
+  * Sturdy frame for faster printing
   * High quality extrusions
   * Custom, sturdier t-nuts
   * Improved accuracy
