@@ -149,8 +149,6 @@ Here are the places were The Bear project is the most active on:
 
 Do not hesitate to ask if you have a question.
 
-Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
-
 
 ## Where can I get an official kit?
 
