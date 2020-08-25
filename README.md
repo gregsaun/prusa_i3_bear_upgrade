@@ -138,7 +138,7 @@ Find optional parts designed by the community at [guides.bear-lab.com/Wiki/commu
 
 
 
-## Partners and contributors
+## Community
 
 Here are the places were The Bear project is the most active on:
 
