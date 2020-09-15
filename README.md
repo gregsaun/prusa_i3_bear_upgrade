@@ -33,6 +33,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 ## Features
 
   * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
+  * Compatible with lots of extruders like Original Prusa, BearExxa, BearMera (E3D Hemera) and Bondtech Prusa Upgrade
   * Reuse of as many parts as possible
   * Sturdy frame for faster printing
   * High quality extrusions
