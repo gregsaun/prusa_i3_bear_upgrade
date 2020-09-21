@@ -139,7 +139,7 @@ Find optional parts designed by the community at [guides.bear-lab.com/Wiki/commu
 
 
 
-## Partners and contributors
+## Community
 
 Here are the places were The Bear project is the most active on:
 
@@ -149,8 +149,6 @@ Here are the places were The Bear project is the most active on:
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
 
 Do not hesitate to ask if you have a question.
-
-Florian Däubler, Josh Jones and Stefan Maue are active developers supporting the work of Grégoire Saunier.
 
 
 ## Where can I get an official kit?

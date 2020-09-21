@@ -27,7 +27,8 @@
 | Dowel pin<br/>dia: 2.90-2.95mm<br/>length: 15.8-16mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
 | M3 hex nuts DIN 934                  | 2  | 2x for Rambo base mounts | [McMaster-Carr](https://www.mcmaster.com/91828a211) |
 | M3 nylock nut DIN 985                | 2  | 2x for Y idler | [McMaster-Carr](https://www.mcmaster.com/93625a100) |
-| M3 square nut DIN 562                | 2  | 1x for belt holder, 1x for lower PSU mount | |
+| M3 square nut DIN 562                | 2  | 1x for Y belt holder, 1x for lower PSU mount | |
+| M3 flat washer (ISO 7089)            | 2  | 1x for Y idler | |
 | Zip ties 2.5x100mm                   | 30 | | |
 
 A full BOM with all parts to build a Bear from scratch has been made by [Chris Riley](https://www.youtube.com/channel/UCqRiv7rQuxge63bqJ2hVNUQ) and [3D_Gussner](https://github.com/3d-gussner), you can find it here: https://docs.google.com/spreadsheets/d/1AKX1dBssPeFiCTYAHjYHZiUIhAR5COqE82Bq8tjKFSE/edit?usp=sharing . Massive thank you to Chris and 3D_Gussner!
