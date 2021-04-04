@@ -24,7 +24,7 @@
 
 ## Introduction
 
-The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
+The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S)(S+) and MK3(S)(S+)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
 
 ![Bear Frame Upgrade 2.1 MK3S](extra/photos/frame_01_900px.jpg)
 
@@ -32,7 +32,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## Features
 
-  * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
+  * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)(S+)
   * Compatible with lots of extruders like Original Prusa, BearExxa, BearMera (E3D Hemera) and Bondtech Prusa Upgrade
   * Reuse of as many parts as possible
   * Sturdy frame for faster printing
@@ -93,12 +93,12 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 **Printed parts:**
-  * Bear Frame 2.1 for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
+  * Bear Frame 2.1 for MK3(S)(S+) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
   * Bear Frame 2.1 for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
   * Bear Frame 2.1 optional parts (check [optional parts section](#optional-parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
 
 **CAD, drawings and source files**:
-  * Bear 2.1 frame for MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
+  * Bear 2.1 frame for MK3(S)(S+) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
   * All source files (this complete repository): Go the to latest release [here](../../releases/latest) and in the bottom of the release note, under the Assets, click on "Source code" (you can choose between zip and tar.gz files).
 
 
