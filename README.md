@@ -13,7 +13,7 @@
   1. [Bill of materials](#bill-of-materials)
   1. [Optional parts](#optional-parts)
   1. [Community](#community)
-  1. [Where can I get an official kit?](#where-can-i-get-an-official-kit)
+  1. [Official distributors](#official-distributors)
   1. [Partners and contributors](#partners-and-contributors)
   1. [Support my work](#support-my-work)
   1. [Thank you](#thank-you)
@@ -46,6 +46,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
   * Thoroughly tested development
   * Highly customisable
   * Detailed documentation via [guides.bear-lab.com](https://guides.bear-lab.com/)
+  * Compatible with stock firmware (only if you use the Original Prusa extruder)
   * Active and open minded community
   * Truly open source
 
@@ -75,11 +76,13 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## Compatibility
 
-This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
+This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have). The 2.1 version needs extra hardware (screws, nuts, washers, dowel pin), check the [bill of materials](doc/bom.md) for more details. You can also order hardware upgrade kit from our [distributor websites](#where-can-i-get-an-official-kit).
 
 :bulb: If you have a Full Bear Frame Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
 
 :warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
+
+:warning: The original Prusa firmware is compatible with the Bear Upgrade 2.1 only if you use the Original Prusa extruder and X axis. If you use the Bear upgrade 2.1 frame with BearExxa, BearMera or Bondtech extruders you will need to use custom firmware.
 
 
 
@@ -133,6 +136,8 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
 | Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://github.com/gregsaun/bear_extruder_and_x_axis) |
 
+
+
 #### Community's optional parts
 
 Find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
@@ -151,9 +156,10 @@ Here are the places were The Bear project is the most active on:
 Do not hesitate to ask if you have a question.
 
 
-## Where can I get an official kit?
 
-Official distributors are selling a kit with all screws and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
+## Official distributors
+
+Official distributors are selling the official bear kit with all screws, our custom t-nuts and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
 
   * ![all3d makers logo](extra/distributors/all3dmakers_logo.png)  
      All3D Makers (US)  
@@ -180,7 +186,12 @@ Official distributors are selling a kit with all screws and extrusions ready for
     [ooznest.co.uk](https://ooznest.co.uk/)  
 
 
-By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
+  * ![printed solid logo](extra/distributors/printedsolid_logo.png)  
+    Printed Solid (US)  
+    [printedsolid.com](https://www.printedsolid.com/)  
+
+
+By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much :heart: !
 
 
 
@@ -265,4 +276,4 @@ Note: STL and STEP files are generally not source files. The source files are th
   * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
   * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
-Massive thanks to these projects, without them the Bear could not exist!
+Massive thanks to these persons and projects, without them the Bear could not exist!
