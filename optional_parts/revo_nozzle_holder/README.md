@@ -32,7 +32,7 @@ It can be installed within a minute, as it only requires you to remove the extru
 
 | Part | Layer<br/>Height<br/>[mm] | Infill [%] | Num.<br/>Perimeters | Num.<br/>Top/Bottom<br/>Layers |
 |:-----|:-------------------------:|:----------:|:-------------------:|:------------------------------:|
-| y_belt_holder_9mm_belt_X   | 0.20 | 15-20 | 2 | 5 |
+| revo_nozzle_holder_v23   | 0.20 | 15-20 | 2 | 5 |
 
 ### Assembly instructions
 
