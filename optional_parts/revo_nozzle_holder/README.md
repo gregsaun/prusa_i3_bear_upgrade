@@ -7,7 +7,7 @@
 This is a simple slide-in holder for your E3D Revo series of nozzles.
 It can be installed within a minute, as it only requires you to remove the extrusion endcap.
 
-![Revo Nozzle Holder for Bear 2.1](revo_nozzle_holder.png)
+![Revo Nozzle Holder for Bear 2.1](revo_nozzle_holder.jpg)
 
 ### Printed parts
 
