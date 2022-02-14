@@ -135,7 +135,7 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 | Y idler for larger 9mm 2GT belt | [y_idler_9mm_belt](optional_parts/y_idler_9mm_belt/README.md) |
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
 | Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://github.com/gregsaun/bear_extruder_and_x_axis) |
-
+| Revo Nozzle Holder | [Revo Nozzle Holder for Bear 2.1](optional_parts/revo_nozzle_holder/README.md) |
 
 
 #### Community's optional parts
