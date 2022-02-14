@@ -17,7 +17,7 @@ It can be installed within a minute, as it only requires you to remove the extru
 
 | Part     | Qty | Note | Download link |
 |----------|:---:|------|---------------|
-| revo_nozzle_holder_bear_v23 | 1 | :warning: For Bear 2.0 MK2(S), MK2.5(S) frame | [revo_nozzle_holder_bear_v23.stl](printed_parts/revo_nozzle_holder_bear_v23.stl?raw=true) |
+| revo_nozzle_holder_bear_v23 | 1 | For Bear 2.1 frame | [revo_nozzle_holder_bear_v23.stl](printed_parts/revo_nozzle_holder_bear_v23.stl?raw=true) |
 
 ### Print settings
 
