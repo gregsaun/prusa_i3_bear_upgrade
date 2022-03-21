@@ -161,15 +161,6 @@ Do not hesitate to ask if you have a question.
 
 Official distributors are selling the official bear kit with all screws, our custom t-nuts and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
 
-  * ![all3d makers logo](extra/distributors/all3dmakers_logo.png)  
-     All3D Makers (US)  
-     [all3dmakers.com](http://all3dmakers.com/)  
-
-
-  * ![blackfrog logo](extra/distributors/blackfrog_logo.jpg)  
-     Blackfrog (EU)  
-     [blackfrog.pl](https://blackfrog.pl)  
-
 
   * ![lecktor logo](extra/distributors/lecktor_logo.png)  
     Lecktor (EU)  
