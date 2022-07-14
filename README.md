@@ -119,7 +119,9 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 
 ## Bill of materials
 
-[Read the BOM here](doc/bom.md).
+If you are building your Bear from scratch then [Read the BOM here](doc/bom.md).
+
+If you are upgrading a 2.0 Bear to a 2.1 Bear via the hardware upgrade kit then [Read the 2.0 - 2.1 upgrade BOM here](doc/2-0-to-2-1-upgrade-kit-bom.md).
 
 
 
