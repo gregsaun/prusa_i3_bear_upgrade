@@ -76,7 +76,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## Compatibility
 
-This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have). The 2.1 version needs extra hardware (screws, nuts, washers, dowel pin), check the [bill of materials](doc/bom.md) for more details. You can also order hardware upgrade kit from our [distributor websites](#where-can-i-get-an-official-kit).
+This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have). The 2.1 version needs extra hardware (screws, nuts, washers, dowel pin), check the [bill of materials](doc/bom.md) for more details. You can also order hardware upgrade kit from our [distributor websites](#official-distributors).
 
 :bulb: If you have a Full Bear Frame Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
 
