@@ -8,37 +8,36 @@ You can contribute to those tables using [this issue](https://github.com/gregsau
 
 ## Official distributors
 
-Official distributors are selling a kit with all screws and extrusions ready for the upgrade, you will only need to print latest 3D printed parts.
+## Official distributors
 
-All distributors are following [specifications](doc/vslot_specs_tolerances_0.2.pdf) to ensure you will have a perfectly squared Bear. All distributors are using professional machines dedicated to cut aluminum extrusion (like CNC machines). In case your extrusion is out of specifications, you can get a replacement for free. We have created a dedicated support channel in case customers have more technical questions or need information for a custom build.
+Official distributors are selling the official bear kit with all screws, our custom t-nuts and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
 
-* ![all3d makers logo](distributors/all3dmakers_logo.png)  
-   All3D Makers (US)  
-   [all3dmakers.com](http://all3dmakers.com/)  
-
-* ![blackfrog logo](distributors/blackfrog_logo.jpg)  
-   Blackfrog (EU)  
-   [blackfrog.pl](https://blackfrog.pl)  
-
-* ![lecktor logo](distributors/lecktor_logo.png)  
-   Lecktor (EU)  
-   [lecktor.com](http://lecktor.com)  
-
-* ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
-   Makerparts.ca (CA)  
-   [makerparts.ca](http://makerparts.ca)  
+  * ![3dboom.es logo](distributors/3dboom_logo.jpg)  
+    3D Boom (EU)  
+    [3dboom.es](http://www.3dboom.es)  
 
 
-* ![ooznest logo](distributors/ooznest_logo.png)  
-   Ooznest (EU)  
-   [ooznest.co.uk](https://ooznest.co.uk/)  
+  * ![lecktor logo](distributors/lecktor_logo.png)  
+    Lecktor (EU)  
+    [lecktor.com](http://lecktor.com)  
 
 
-* ![ratrig logo](distributors/ratrig_logo.jpg)  
-   RatRig (EU)  
-   [www.ratrig.com](http://www.ratrig.com/)  
+  * ![makerparts.ca logo](distributors/makerpartsca_logo.jpg)  
+    Makerparts.ca (CA)  
+    [makerparts.ca](http://makerparts.ca)  
 
-By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
+
+  * ![ooznest logo](distributors/ooznest_logo.png)  
+    Ooznest (UK)  
+    [ooznest.co.uk](https://ooznest.co.uk/)  
+
+
+  * ![printed solid logo](distributors/printedsolid_logo.png)  
+    Printed Solid (US)  
+    [printedsolid.com](https://www.printedsolid.com/)  
+
+
+By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much :heart: !
 
 
 
